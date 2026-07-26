@@ -205,15 +205,35 @@ def parse_products(html: str, source_url: str) -> list[Deal]:
             ".price-panel, .price, .product__list--price, .product-price, [class*='price']"
         )
         price_text = clean(price_node.get_text(" ", strip=True)) if price_node else ""
+        card_text = clean(card.get_text(" ", strip=True))
+
+        # Costco 的響應式商品卡有時把售價和「商品已折價」拆在不同
+        # HTML 區塊。優先從整張卡片讀取相鄰的售價與折價金額，
+        # 避免只抓到原價而漏掉手機版可見的優惠。
+        sale_discount_match = re.search(
+            r"\$\s*([\d,]+)\s*(?:商品已折價|商品折扣)"
+            r"\s*(?:[-−–]\s*)?\$\s*([\d,]+)",
+            card_text,
+        )
         price_match = re.search(r"\$\s*[\d,]+", price_text)
-        price = price_match.group(0).replace(" ", "") if price_match else "請查看官網"
-        discount_match = re.search(r"商品已折價\s*\$\s*([\d,]+)", price_text)
+        if sale_discount_match:
+            price = f"${sale_discount_match.group(1)}"
+        else:
+            price = (
+                price_match.group(0).replace(" ", "")
+                if price_match
+                else "請查看官網"
+            )
+        discount_match = re.search(
+            r"(?:商品已折價|商品折扣)\s*(?:[-−–]\s*)?\$\s*([\d,]+)",
+            card_text,
+        )
         discount_amount = (
             f"${discount_match.group(1)}" if discount_match else ""
         )
         original_price = ""
-        if price_match and discount_match:
-            sale_number = int(re.sub(r"\D", "", price_match.group(0)))
+        if price_number(price) is not None and discount_match:
+            sale_number = price_number(price)
             discount_number = int(discount_match.group(1).replace(",", ""))
             original_price = f"${sale_number + discount_number:,}"
         promotion_node = card.select_one(

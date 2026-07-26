@@ -43,6 +43,17 @@ DISCOUNT_HTML = """
 </div>
 """
 
+RESPONSIVE_DISCOUNT_HTML = """
+<div class="product-item">
+  <a class="name" href="/Furniture-Kitchen/p/111136">
+    3M 新絲舒眠單人涼透被
+  </a>
+  <div class="price">$2,499</div>
+  <div class="mobile-price">$1,999</div>
+  <div class="discount-message">商品已折價 $500</div>
+</div>
+"""
+
 DETAIL_HTML = """
 <main>
   <div class="product-price">$925</div>
@@ -117,6 +128,14 @@ class CostcoDealsTest(unittest.TestCase):
         self.assertEqual(deal.price, "$925")
         self.assertEqual(deal.discount_amount, "$234")
         self.assertEqual(deal.original_price, "$1,159")
+
+    def test_parse_responsive_card_discount_outside_price_panel(self):
+        deal = parse_products(
+            RESPONSIVE_DISCOUNT_HTML, "https://example.test/deals"
+        )[0]
+        self.assertEqual(deal.price, "$1,999")
+        self.assertEqual(deal.discount_amount, "$500")
+        self.assertEqual(deal.original_price, "$2,499")
 
     def test_parse_product_detail_adds_discount_information(self):
         deal = Deal(
