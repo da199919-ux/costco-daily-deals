@@ -314,6 +314,7 @@ def write_outputs(
         json.dumps(
             {
                 "date": date_text,
+                "generated_at": time_text,
                 "has_previous": has_previous,
                 "added": [
                     {

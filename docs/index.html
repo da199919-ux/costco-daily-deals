@@ -18,7 +18,7 @@
     :root{color-scheme:dark;--navy:#07182f;--panel:#0d2748;--panel2:#12345e;--line:#214972;--cyan:#26c6e8;--red:#e31937;--text:#f7fbff;--muted:#a8bdd2}
     *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:radial-gradient(circle at 85% 0,#13355c 0,transparent 32%),var(--navy);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang TC","Noto Sans TC",sans-serif;min-height:100vh}
     button,input{font:inherit}.shell{width:min(1120px,100%);margin:auto;padding:28px 20px 64px}.eyebrow{display:inline-flex;gap:8px;align-items:center;color:var(--cyan);font-weight:750;letter-spacing:.08em;font-size:.8rem}.dot{width:8px;height:8px;border-radius:50%;background:var(--red);box-shadow:0 0 0 5px #e3193722}
-    header{padding:28px 0 22px}h1{font-size:clamp(2.25rem,8vw,5.4rem);line-height:.94;margin:18px 0 16px;letter-spacing:-.055em;max-width:780px}.red{color:var(--red)}.lead{color:var(--muted);font-size:clamp(1rem,2vw,1.22rem);max-width:720px;line-height:1.7}
+    header{padding:28px 0 22px}h1{font-size:clamp(2.25rem,8vw,5.4rem);line-height:.94;margin:18px 0 16px;letter-spacing:-.055em;max-width:780px}.red{color:var(--red)}.lead{color:var(--muted);font-size:clamp(1rem,2vw,1.22rem);max-width:720px;line-height:1.7}.status-banner{display:flex;align-items:center;gap:10px;margin-top:18px;padding:13px 16px;border:1px solid #f3b33d;background:#6b470c66;color:#ffe2a1;border-radius:14px;font-weight:750}.status-banner[hidden]{display:none}
     .stats{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:24px 0}.stat{background:#0d2748cc;border:1px solid var(--line);padding:18px;border-radius:18px}.stat strong{display:block;font-size:1.8rem}.stat span{color:var(--muted);font-size:.86rem}
     .toolbar{position:sticky;top:0;z-index:10;background:#07182fe8;backdrop-filter:blur(16px);padding:12px 0}.search{display:flex;align-items:center;gap:10px;background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:0 16px}.search input{width:100%;height:54px;background:none;border:0;color:var(--text);outline:none;font-size:1rem}.search input::placeholder{color:#7891aa}
     .changes{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:18px 0}.change{border:1px solid var(--line);background:var(--panel);color:var(--text);border-radius:16px;padding:14px;text-align:left;cursor:pointer}.change strong{display:block;font-size:1.55rem}.change span{color:var(--muted);font-size:.82rem}.change.active{border-color:var(--cyan);box-shadow:0 0 0 1px var(--cyan)}.chips{display:flex;gap:8px;overflow:auto;padding:12px 0 4px;scrollbar-width:none}.chips::-webkit-scrollbar{display:none}.chip{white-space:nowrap;border:1px solid var(--line);background:var(--panel);color:var(--muted);border-radius:999px;padding:9px 14px;cursor:pointer}.chip.active{background:var(--cyan);border-color:var(--cyan);color:#032238;font-weight:800}
@@ -34,10 +34,11 @@
       <div class="eyebrow"><span class="dot"></span>台灣官方線上優惠整理</div>
       <h1><span class="red">Costco</span><br>每日優惠</h1>
       <p class="lead">不用翻遍所有頁面。搜尋、分類，再把 Apple、iPhone、MacBook、iPad 與 iPod 優惠放到最前面。</p>
+      <div class="status-banner" id="status-banner" hidden>⚠️ 資料已超過兩天沒有更新，請稍後再查看或檢查 GitHub Actions。</div>
       <div class="stats">
         <div class="stat"><strong id="total">417</strong><span>優惠商品</span></div>
         <div class="stat"><strong id="apple">0</strong><span>Apple 追蹤結果</span></div>
-        <div class="stat"><strong>2026-07-26</strong><span>資料日期</span></div>
+        <div class="stat"><strong>2026-07-26</strong><span>最後成功更新（台灣時間）</span></div>
       </div>
     </header>
     <div class="toolbar">
@@ -86,6 +87,7 @@
     let selected="全部";
     const search=document.querySelector("#search"),sort=document.querySelector("#sort"),priceFilter=document.querySelector("#price-filter"),budget=document.querySelector("#budget"),budgetWrap=document.querySelector("#budget-wrap"),grid=document.querySelector("#grid"),chips=document.querySelector("#chips"),result=document.querySelector("#result"),heading=document.querySelector("#heading"),changeButtons=document.querySelectorAll(".change");
     const addedUrls=new Set(dailyChanges.added.map(d=>d.url));
+    const dataDate=new Date((dailyChanges.date||"2026-07-26")+"T00:00:00+08:00"),daysOld=Math.floor((Date.now()-dataDate.getTime())/86400000);document.querySelector("#status-banner").hidden=daysOld<=2;
     let favorites;try{favorites=new Set(JSON.parse(localStorage.getItem("costcoFavorites")||"[]"))}catch{favorites=new Set()}
     const isWatched=d=>watch.some(k=>d.name.toLowerCase().includes(k));
     document.querySelector("#apple").textContent=deals.filter(isWatched).length;
