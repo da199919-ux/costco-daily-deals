@@ -81,8 +81,90 @@ def categorize(deal: Deal) -> str:
     return "其他"
 
 
+def parse_voucher_products(html: str, source_url: str) -> list[Deal]:
+    """解析優惠券說明頁使用的自訂商品卡片。"""
+    soup = BeautifulSoup(html, "html.parser")
+    deals: list[Deal] = []
+    seen: set[str] = set()
+
+    for link in soup.select("a[href*='/p/']"):
+        url = urljoin(BASE_URL, link.get("href", ""))
+        if not url or url in seen:
+            continue
+
+        name = clean(link.get_text(" ", strip=True))
+        image_in_link = link.select_one("img")
+        if not name and image_in_link:
+            name = clean(image_in_link.get("alt", ""))
+        if not name:
+            name = clean(link.get("aria-label", ""))
+        if not name:
+            continue
+
+        fallback_container = None
+        discount_container = None
+        for parent in list(link.parents)[:10]:
+            text = clean(parent.get_text(" ", strip=True))
+            if "$" not in text:
+                continue
+            fallback_container = fallback_container or parent
+            if re.search(r"(?:商品已折價|商品折扣)", text):
+                discount_container = parent
+                break
+        container = discount_container or fallback_container
+        if container is None:
+            continue
+
+        card_text = clean(container.get_text(" ", strip=True))
+        price_match = re.search(r"\$\s*([\d,]+)", card_text)
+        if not price_match:
+            continue
+        price = f"${price_match.group(1)}"
+        discount_match = re.search(
+            r"(?:商品已折價|商品折扣)\s*(?:[-−–]\s*)?\$\s*([\d,]+)",
+            card_text,
+        )
+        discount_amount = (
+            f"${discount_match.group(1)}" if discount_match else ""
+        )
+        original_price = ""
+        if discount_match:
+            original_price = (
+                f"${price_number(price) + int(discount_match.group(1).replace(',', '')):,}"
+            )
+
+        image = container.select_one("img")
+        image_url = ""
+        if image:
+            for attribute in ("data-src", "data-original", "src"):
+                candidate = clean(image.get(attribute, ""))
+                if candidate and not candidate.startswith("data:"):
+                    image_url = urljoin(BASE_URL, candidate)
+                    break
+
+        deals.append(
+            Deal(
+                name=name,
+                price=price,
+                url=url,
+                source=source_url,
+                image_url=image_url,
+                original_price=original_price,
+                discount_amount=discount_amount,
+                promotion=(
+                    f"商品已折價 {discount_amount}" if discount_amount else ""
+                ),
+            )
+        )
+        seen.add(url)
+
+    return deals
+
+
 def parse_products(html: str, source_url: str) -> list[Deal]:
     """從 Costco 商品列表頁擷取商品；選擇器留有備援以容納小幅改版。"""
+    if "/voucher4" in source_url:
+        return parse_voucher_products(html, source_url)
     soup = BeautifulSoup(html, "html.parser")
     cards = soup.select(".product-item, .product__list--item, li.product-item")
     deals: list[Deal] = []

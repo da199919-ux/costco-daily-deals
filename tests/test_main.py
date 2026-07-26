@@ -18,6 +18,7 @@ from src.main import (
     load_keywords,
     parse_products,
     parse_product_detail,
+    parse_voucher_products,
     write_csv,
     with_page,
 )
@@ -58,6 +59,19 @@ SUBTOTAL_DETAIL_HTML = """
   <div>商品折扣 <span>- $100</span></div>
   <div>小計 <span>$379</span></div>
 </main>
+"""
+
+VOUCHER_HTML = """
+<sip-product-carousel-item>
+  <div class="custom-card">
+    <span>$379</span>
+    <span>商品已折價 $100</span>
+    <a href="/Furniture-Kitchen/p/8524812">
+      三麗鷗 兒童不鏽鋼保冷保溫瓶 700毫升
+    </a>
+    <img src="/medias/sanrio.jpg">
+  </div>
+</sip-product-carousel-item>
 """
 
 
@@ -127,6 +141,15 @@ class CostcoDealsTest(unittest.TestCase):
         self.assertEqual(updated.original_price, "$479")
         self.assertEqual(updated.discount_amount, "$100")
         self.assertEqual(updated.price, "$379")
+
+    def test_parse_voucher_custom_product_card(self):
+        deals = parse_voucher_products(
+            VOUCHER_HTML, "https://www.costco.com.tw/voucher4"
+        )
+        self.assertEqual(len(deals), 1)
+        self.assertEqual(deals[0].price, "$379")
+        self.assertEqual(deals[0].original_price, "$479")
+        self.assertEqual(deals[0].discount_amount, "$100")
 
     def test_multibuy_promotion_calculates_each_price(self):
         deal = Deal(
