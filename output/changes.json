@@ -1,8 +1,42 @@
 {
   "date": "2026-07-26",
-  "generated_at": "2026-07-26 20:05",
+  "generated_at": "2026-07-26 20:12",
   "has_previous": true,
-  "added": [],
+  "added": [
+    {
+      "name": "Hario 日本製冷萃茶壺 1.2公升",
+      "price": "$669",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Hario-Tritan-Cold-Brew-Tea-Pitcher-12-L/p/158984",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h6a/h4c/433626099417118.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Lustroware 冷水壺 2.2公升 X 2件組",
+      "price": "$649",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Lustroware-Pitcher-22-L-X-2-Piece-Set/p/149213",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfa/hcb/311441770086430.jpg",
+      "category": "家具家居"
+    }
+  ],
   "removed": [],
-  "price_changes": []
+  "price_changes": [
+    {
+      "name": "三麗鷗 兒童不鏽鋼保冷保溫瓶 700毫升",
+      "price": "$379",
+      "original_price": "$479",
+      "discount_amount": "$100",
+      "promotion": "商品已折價 $100 含運",
+      "old_price": "$479",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/Sanrio-Kids-Stainless-Steel-Water-Bottle-700-ml/p/8524812",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h86/h63/382254260322334.jpg",
+      "category": "家具家居"
+    }
+  ]
 }
