@@ -26,6 +26,17 @@ SAMPLE_HTML = """
 </div>
 """
 
+DISCOUNT_HTML = """
+<div class="product-item">
+  <a class="name" href="/Food/p/456">折價測試商品</a>
+  <img src="/medias/discount.jpg" alt="折價測試商品">
+  <div class="price-panel">
+    <div class="original-price"><span class="product-price-amount">$925</span></div>
+    <span>商品已折價 $234</span>
+  </div>
+</div>
+"""
+
 
 class CostcoDealsTest(unittest.TestCase):
     def test_parse_product(self):
@@ -42,6 +53,12 @@ class CostcoDealsTest(unittest.TestCase):
     def test_deduplicate_by_url(self):
         deal = parse_products(SAMPLE_HTML, "https://example.test/deals")[0]
         self.assertEqual(len(deduplicate([deal, deal])), 1)
+
+    def test_parse_discount_and_calculate_original_price(self):
+        deal = parse_products(DISCOUNT_HTML, "https://example.test/deals")[0]
+        self.assertEqual(deal.price, "$925")
+        self.assertEqual(deal.discount_amount, "$234")
+        self.assertEqual(deal.original_price, "$1,159")
 
     def test_compare_added_and_removed(self):
         old = Deal("舊商品", "$100", "https://example.test/old", "測試")

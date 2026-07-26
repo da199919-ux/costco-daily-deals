@@ -46,6 +46,9 @@ class Deal:
     url: str
     source: str
     image_url: str = ""
+    original_price: str = ""
+    discount_amount: str = ""
+    promotion: str = ""
 
 
 @dataclass(frozen=True)
@@ -87,11 +90,28 @@ def parse_products(html: str, source_url: str) -> list[Deal]:
             continue
 
         price_node = card.select_one(
-            ".price, .product__list--price, .product-price, [class*='price']"
+            ".price-panel, .price, .product__list--price, .product-price, [class*='price']"
         )
         price_text = clean(price_node.get_text(" ", strip=True)) if price_node else ""
         price_match = re.search(r"\$\s*[\d,]+", price_text)
         price = price_match.group(0).replace(" ", "") if price_match else "請查看官網"
+        discount_match = re.search(r"商品已折價\s*\$\s*([\d,]+)", price_text)
+        discount_amount = (
+            f"${discount_match.group(1)}" if discount_match else ""
+        )
+        original_price = ""
+        if price_match and discount_match:
+            sale_number = int(re.sub(r"\D", "", price_match.group(0)))
+            discount_number = int(discount_match.group(1).replace(",", ""))
+            original_price = f"${sale_number + discount_number:,}"
+        promotion_node = card.select_one(
+            ".promotion-message, .promotion, [class*='promotion']"
+        )
+        promotion = (
+            clean(promotion_node.get_text(" ", strip=True))
+            if promotion_node
+            else ""
+        )
         url = urljoin(BASE_URL, link.get("href", ""))
         image = card.select_one("img")
         image_url = ""
@@ -115,6 +135,9 @@ def parse_products(html: str, source_url: str) -> list[Deal]:
                 url=url,
                 source=source_url,
                 image_url=image_url,
+                original_price=original_price,
+                discount_amount=discount_amount,
+                promotion=promotion,
             )
         )
 
@@ -224,6 +247,9 @@ def load_deals(csv_path: Path) -> list[Deal]:
                 url=row["商品網址"],
                 source=row["資料來源"],
                 image_url=row.get("圖片網址", ""),
+                original_price=row.get("原價", ""),
+                discount_amount=row.get("折價金額", ""),
+                promotion=row.get("優惠說明", ""),
             )
             for row in csv.DictReader(handle)
         ]
@@ -234,7 +260,18 @@ def write_csv(csv_path: Path, deals: Iterable[Deal], date_text: str) -> None:
     with csv_path.open("w", encoding="utf-8-sig", newline="") as handle:
         writer = csv.writer(handle)
         writer.writerow(
-            ["日期", "分類", "商品", "價格", "商品網址", "圖片網址", "資料來源"]
+            [
+                "日期",
+                "分類",
+                "商品",
+                "價格",
+                "原價",
+                "折價金額",
+                "優惠說明",
+                "商品網址",
+                "圖片網址",
+                "資料來源",
+            ]
         )
         for deal in deals:
             writer.writerow(
@@ -243,6 +280,9 @@ def write_csv(csv_path: Path, deals: Iterable[Deal], date_text: str) -> None:
                     categorize(deal),
                     deal.name,
                     deal.price,
+                    deal.original_price,
+                    deal.discount_amount,
+                    deal.promotion,
                     deal.url,
                     deal.image_url,
                     deal.source,
@@ -320,6 +360,9 @@ def write_outputs(
                     {
                         "name": deal.name,
                         "price": deal.price,
+                        "original_price": deal.original_price,
+                        "discount_amount": deal.discount_amount,
+                        "promotion": deal.promotion,
                         "url": deal.url,
                         "image": deal.image_url,
                         "category": categorize(deal),
@@ -330,6 +373,9 @@ def write_outputs(
                     {
                         "name": deal.name,
                         "price": deal.price,
+                        "original_price": deal.original_price,
+                        "discount_amount": deal.discount_amount,
+                        "promotion": deal.promotion,
                         "url": deal.url,
                         "image": deal.image_url,
                         "category": categorize(deal),
@@ -340,6 +386,9 @@ def write_outputs(
                     {
                         "name": change.deal.name,
                         "price": change.deal.price,
+                        "original_price": change.deal.original_price,
+                        "discount_amount": change.deal.discount_amount,
+                        "promotion": change.deal.promotion,
                         "old_price": change.old_price,
                         "direction": change.direction,
                         "url": change.deal.url,
