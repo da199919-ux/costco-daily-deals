@@ -14,10 +14,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 下載專案
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: 設定 Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.11"
           cache: pip
@@ -39,4 +39,3 @@ jobs:
           git add output/latest.md output/latest.csv
           git commit -m "自動更新 Costco 每日優惠"
           git push
-
