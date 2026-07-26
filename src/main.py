@@ -37,13 +37,6 @@ MULTIBUY_PROMOTIONS = {
         3,
         0.8,
     ),
-    "https://www.costco.com.tw/c/Hero_Cool": (
-        "指定夏日涼感商品",
-        2,
-        0.85,
-        3,
-        0.8,
-    ),
     "https://www.costco.com.tw/voucher2": (
         "指定家具",
         1,
@@ -290,6 +283,9 @@ def parse_products(html: str, source_url: str) -> list[Deal]:
 
 
 def add_multibuy_promotion(deal: Deal, source_url: str) -> Deal:
+    # 只對 Costco 的指定活動券清單計算多件折扣。一般主題專區
+    # （例如 Hero_Cool）可能混有推薦或非指定商品，不能僅憑來源頁
+    # 就推定每項商品都符合相同優惠。
     rule = MULTIBUY_PROMOTIONS.get(source_url)
     current = price_number(deal.price)
     if not rule or current is None:

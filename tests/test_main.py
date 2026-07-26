@@ -223,13 +223,26 @@ class CostcoDealsTest(unittest.TestCase):
             "測試",
         )
         updated = add_multibuy_promotion(
-            deal, "https://www.costco.com.tw/c/Hero_Cool"
+            deal, "https://www.costco.com.tw/voucher4"
         )
         self.assertEqual(updated.price, "$2,124")
         self.assertEqual(updated.original_price, "$2,499")
         self.assertEqual(updated.discount_amount, "$375")
         self.assertIn("買2件享8.5折，每件約 $2,124", updated.promotion)
         self.assertIn("買3件享8折，每件約 $1,999", updated.promotion)
+
+    def test_general_cool_page_does_not_assume_multibuy_discount(self):
+        deal = Deal(
+            "非指定商品",
+            "$279",
+            "https://example.test/not-designated",
+            "測試",
+        )
+        updated = add_multibuy_promotion(
+            deal, "https://www.costco.com.tw/c/Hero_Cool"
+        )
+        self.assertEqual(updated, deal)
+        self.assertNotIn("買2件享8.5折", updated.promotion)
 
     def test_multibuy_does_not_replace_fixed_discount(self):
         deal = Deal(
