@@ -5,7 +5,9 @@ import json
 import re
 import sys
 from collections import Counter
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass
+from dataclasses import replace
 from datetime import datetime
 from pathlib import Path
 from typing import Callable, Iterable
@@ -22,6 +24,7 @@ SOURCE_URLS = [
     "https://www.costco.com.tw/Deals/c/Coupon",
 ]
 MAX_PAGES_PER_SOURCE = 20
+DETAIL_WORKERS = 8
 CATEGORY_RULES = [
     ("食品飲料", ("food-dining",)),
     ("家電 3C", ("digital-mobile", "televisions-appliances")),
@@ -142,6 +145,88 @@ def parse_products(html: str, source_url: str) -> list[Deal]:
         )
 
     return deals
+
+
+def parse_product_detail(html: str, deal: Deal) -> Deal:
+    """從商品詳細頁補上列表頁未提供的原價、折價與優惠文字。"""
+    soup = BeautifulSoup(html, "html.parser")
+    detail_text = clean(soup.get_text(" ", strip=True))
+
+    explicit_original = re.search(
+        r"商品原價\s*(?:NT\$|\$)\s*([\d,]+)", detail_text
+    )
+    discount_match = re.search(
+        r"商品已折價\s*(?:NT\$|\$)\s*([\d,]+)", detail_text
+    )
+    current_match = re.search(
+        r"(?:售價|優惠價|網路價|特價)?\s*(?:NT\$|\$)\s*([\d,]+)",
+        detail_text,
+    )
+
+    price = deal.price
+    if price_number(price) is None and current_match:
+        price = f"${current_match.group(1)}"
+
+    discount_amount = deal.discount_amount
+    if not discount_amount and discount_match:
+        discount_amount = f"${discount_match.group(1)}"
+
+    original_price = deal.original_price
+    if not original_price and explicit_original:
+        original_price = f"${explicit_original.group(1)}"
+    if not original_price and discount_match and price_number(price) is not None:
+        original_price = (
+            f"${price_number(price) + int(discount_match.group(1).replace(',', '')):,}"
+        )
+
+    promotion = deal.promotion
+    if not promotion:
+        promotion_node = soup.select_one(
+            ".promotion-message, .promotion, [class*='promotion']"
+        )
+        if promotion_node:
+            promotion = clean(promotion_node.get_text(" ", strip=True))
+        elif discount_match:
+            promotion = f"商品已折價 ${discount_match.group(1)}"
+
+    return replace(
+        deal,
+        price=price,
+        original_price=original_price,
+        discount_amount=discount_amount,
+        promotion=promotion,
+    )
+
+
+def enrich_product_details(
+    deals: Iterable[Deal],
+    fetcher: Callable[[str], str] | None = None,
+    workers: int = DETAIL_WORKERS,
+) -> tuple[list[Deal], int]:
+    """平行讀取商品詳細頁；單一頁面失敗時保留列表頁資料。"""
+    fetcher = fetcher or fetch
+    items = list(deals)
+    enriched = list(items)
+    completed = 0
+
+    def read_one(index: int, deal: Deal) -> tuple[int, Deal]:
+        return index, parse_product_detail(fetcher(deal.url), deal)
+
+    with ThreadPoolExecutor(max_workers=workers) as executor:
+        futures = {
+            executor.submit(read_one, index, deal): index
+            for index, deal in enumerate(items)
+            if deal.url
+        }
+        for future in as_completed(futures):
+            try:
+                index, updated = future.result()
+            except (requests.RequestException, ValueError):
+                continue
+            enriched[index] = updated
+            completed += 1
+
+    return enriched, completed
 
 
 def fetch(url: str) -> str:
@@ -515,6 +600,9 @@ def main() -> int:
         for error in errors:
             print(error, file=sys.stderr)
         return 1
+
+    deals, detail_pages_read = enrich_product_details(deals)
+    pages_read += detail_pages_read
 
     now = datetime.now(ZoneInfo("Asia/Taipei"))
     csv_path = OUTPUT_DIR / "latest.csv"

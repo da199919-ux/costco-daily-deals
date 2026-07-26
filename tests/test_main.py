@@ -2,6 +2,8 @@ import tempfile
 import unittest
 from pathlib import Path
 
+import requests
+
 from src.main import (
     Deal,
     categorize,
@@ -9,10 +11,12 @@ from src.main import (
     compare_deals,
     compare_prices,
     deduplicate,
+    enrich_product_details,
     find_watchlist_matches,
     load_deals,
     load_keywords,
     parse_products,
+    parse_product_detail,
     write_csv,
     with_page,
 )
@@ -37,6 +41,16 @@ DISCOUNT_HTML = """
 </div>
 """
 
+DETAIL_HTML = """
+<main>
+  <div class="product-price">$925</div>
+  <div class="price-panel">
+    <span>商品原價 $1,159</span>
+    <span>商品已折價 $234</span>
+  </div>
+</main>
+"""
+
 
 class CostcoDealsTest(unittest.TestCase):
     def test_parse_product(self):
@@ -59,6 +73,34 @@ class CostcoDealsTest(unittest.TestCase):
         self.assertEqual(deal.price, "$925")
         self.assertEqual(deal.discount_amount, "$234")
         self.assertEqual(deal.original_price, "$1,159")
+
+    def test_parse_product_detail_adds_discount_information(self):
+        deal = Deal(
+            "詳細頁折價商品",
+            "$925",
+            "https://www.costco.com.tw/Food/p/456",
+            "測試",
+        )
+        updated = parse_product_detail(DETAIL_HTML, deal)
+        self.assertEqual(updated.price, "$925")
+        self.assertEqual(updated.original_price, "$1,159")
+        self.assertEqual(updated.discount_amount, "$234")
+
+    def test_enrich_product_details_keeps_failed_product(self):
+        good = Deal("成功商品", "$925", "https://example.test/good", "測試")
+        failed = Deal("失敗商品", "$100", "https://example.test/fail", "測試")
+
+        def fake_fetch(url):
+            if url.endswith("/fail"):
+                raise requests.RequestException("測試失敗")
+            return DETAIL_HTML
+
+        deals, pages_read = enrich_product_details(
+            [good, failed], fetcher=fake_fetch, workers=2
+        )
+        self.assertEqual(pages_read, 1)
+        self.assertEqual(deals[0].original_price, "$1,159")
+        self.assertEqual(deals[1], failed)
 
     def test_compare_added_and_removed(self):
         old = Deal("舊商品", "$100", "https://example.test/old", "測試")
