@@ -1,0 +1,19 @@
+{
+  "name": "Costco 台灣每日優惠",
+  "short_name": "Costco 優惠",
+  "description": "每日整理 Costco 台灣官方線上優惠",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07182f",
+  "theme_color": "#07182f",
+  "lang": "zh-Hant",
+  "icons": [
+    {
+      "src": "./og.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

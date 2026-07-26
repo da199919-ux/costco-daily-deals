@@ -83,6 +83,11 @@ const html = `<!doctype html>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
   <meta name="theme-color" content="#07182f">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Costco 優惠">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="apple-touch-icon" href="./og.png">
   <title>Costco 每日優惠</title>
   <meta name="description" content="搜尋與分類 Costco 台灣官方線上優惠，快速找到 Apple 追蹤商品。">
   <meta property="og:title" content="Costco 每日優惠">
@@ -150,7 +155,7 @@ const html = `<!doctype html>
       </div>
     </div>
     <section class="grid" id="grid"></section>
-    <footer>本網站整理 Costco 台灣官方公開線上優惠。價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。本網站並非 Costco 官方網站。</footer>
+    <footer>本網站整理 Costco 台灣官方公開線上優惠。價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。本網站並非 Costco 官方網站。<br><br>iPhone：請按 Safari 的「分享」按鈕，再選擇「加入主畫面」。</footer>
   </main>
   <script>
     const deals=${embeddedDeals};
@@ -173,6 +178,7 @@ const html = `<!doctype html>
     function render(){const q=search.value.trim().toLowerCase();let source=deals;if(selected==="新增")source=dailyChanges.added;if(selected==="價格變動")source=dailyChanges.price_changes;if(selected==="已結束")source=dailyChanges.removed;const special=["新增","價格變動","已結束"].includes(selected);const filtered=sortDeals(source.filter(d=>(special||selected==="全部"||(selected==="我的收藏"?favorites.has(d.url):selected==="Apple 追蹤"?isWatched(d):d.category===selected))&&(!q||d.name.toLowerCase().includes(q))&&matchesPrice(d)));heading.textContent=special?"今日"+selected:selected;result.textContent='顯示 '+filtered.length+' 項商品';grid.innerHTML=filtered.length?filtered.map(renderCard).join(""):'<div class="empty">'+(selected==="我的收藏"?"尚未收藏商品，請按商品旁的 ♡。":"沒有符合目前條件的商品。")+'</div>';bindFavorites()}
     changeButtons.forEach(b=>b.onclick=()=>{selected=b.dataset.change;changeButtons.forEach(x=>x.classList.toggle("active",x===b));renderChips();render()});
     search.addEventListener("input",render);sort.addEventListener("change",render);priceFilter.addEventListener("change",()=>{budgetWrap.hidden=priceFilter.value!=="custom";render()});budget.addEventListener("input",render);renderChips();render();
+    if("serviceWorker" in navigator)window.addEventListener("load",()=>navigator.serviceWorker.register("./service-worker.js"));
   </script>
 </body>
 </html>`;
@@ -180,4 +186,39 @@ const html = `<!doctype html>
 fs.mkdirSync(pagesDir, { recursive: true });
 fs.writeFileSync(path.join(pagesDir, "index.html"), html);
 fs.writeFileSync(path.join(pagesDir, ".nojekyll"), "");
+fs.writeFileSync(
+  path.join(pagesDir, "manifest.webmanifest"),
+  JSON.stringify(
+    {
+      name: "Costco 台灣每日優惠",
+      short_name: "Costco 優惠",
+      description: "每日整理 Costco 台灣官方線上優惠",
+      start_url: "./",
+      scope: "./",
+      display: "standalone",
+      background_color: "#07182f",
+      theme_color: "#07182f",
+      lang: "zh-Hant",
+      icons: [
+        {
+          src: "./og.png",
+          sizes: "any",
+          type: "image/png",
+          purpose: "any",
+        },
+      ],
+    },
+    null,
+    2,
+  ) + "\n",
+);
+fs.writeFileSync(
+  path.join(pagesDir, "service-worker.js"),
+  `const CACHE="costco-daily-${updatedDate}";
+const CORE=["./","./index.html","./manifest.webmanifest","./og.png"];
+self.addEventListener("install",event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(CORE)).then(()=>self.skipWaiting())));
+self.addEventListener("activate",event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim())));
+self.addEventListener("fetch",event=>{if(event.request.method!=="GET"||new URL(event.request.url).origin!==location.origin)return;event.respondWith(fetch(event.request).then(response=>{const copy=response.clone();caches.open(CACHE).then(cache=>cache.put(event.request,copy));return response}).catch(()=>caches.match(event.request).then(response=>response||caches.match("./index.html"))))});
+`,
+);
 console.log(`Built GitHub Pages with ${deals.length} deals for ${updatedDate}`);
