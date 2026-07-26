@@ -1,8 +1,40 @@
 {
   "date": "2026-07-26",
-  "generated_at": "2026-07-26 21:22",
+  "generated_at": "2026-07-26 21:35",
   "has_previous": true,
   "added": [
+    {
+      "name": "LAV 土耳其製玻璃杯 16件組",
+      "price": "$560",
+      "original_price": "$659",
+      "discount_amount": "$99",
+      "promotion": "指定夏日涼感商品：買2件享8.5折，每件約 $560；買3件享8折，每件約 $527",
+      "url": "https://www.costco.com.tw/p/1933543",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h60/h04/380918085189662.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "經典卡通涼感被附收納袋 150公分 X 180公分 史努比 星際領航員",
+      "price": "$1,096",
+      "original_price": "$1,289",
+      "discount_amount": "$193",
+      "promotion": "指定夏日涼感商品：買2件享8.5折，每件約 $1,096；買3件享8折，每件約 $1,031",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Licensed-Cooling-Quilt-with-Storage-Bag-150-cm-X-180-cm-Snoopy/p/749366",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he5/hc8/466199242965022.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "艾美特 12吋DC電扇 FS30253R",
+      "price": "$1,614",
+      "original_price": "$1,899",
+      "discount_amount": "$285",
+      "promotion": "指定夏日涼感商品：買2件享8.5折，每件約 $1,614；買3件享8折，每件約 $1,519",
+      "url": "https://www.costco.com.tw/Cooling-Heating-Air-Treatment/Heating-Cooling/p/157027",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h6c/h38/450418078515230.jpg",
+      "category": "其他"
+    }
+  ],
+  "removed": [
     {
       "name": "Charmin 超柔捲筒衛生紙 213張 X 30卷",
       "price": "$899",
@@ -24,6 +56,16 @@
       "category": "家電 3C"
     },
     {
+      "name": "Gourmia 數位氣炸鍋 GAF858",
+      "price": "$1,487",
+      "original_price": "$1,749",
+      "discount_amount": "$262",
+      "promotion": "指定夏日涼感商品：買2件享8.5折，每件約 $1,487；買3件享8折，每件約 $1,399",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Cookers-Oven-Microwaves-Food-Waste-Machine/Gourmia-Digital-Air-Fryer-GAF858/p/6232432",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h5c/hf9/308063200837662.jpg",
+      "category": "家電 3C"
+    },
+    {
       "name": "Mon Petit 貓倍麗 小鮮肉泥 綜合口味 10公克 X 80入",
       "price": "$559",
       "original_price": "$709",
@@ -32,6 +74,16 @@
       "url": "https://www.costco.com.tw/Household-Baby-Toys/Pet-Supplies/Pet-Treats-Health/Mon-Petit-PUREE-KISS-Combo-Set-10-g-X-80-Count/p/117068",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h72/h0f/30680895881246.jpg",
       "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "Myprotein 一水肌酸粉 原味 1公斤",
+      "price": "$1,019",
+      "original_price": "$1,199",
+      "discount_amount": "$180",
+      "promotion": "指定夏日涼感商品：買2件享8.5折，每件約 $1,019；買3件享8折，每件約 $959",
+      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Sports-Performance/Myprotein-Impact-Creatine-Unflavoured-1-kg/p/152824",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf6/h96/346355837501470.jpg",
+      "category": "保健美容"
     },
     {
       "name": "Playgo 玩沙樂園 18件組 / 18個月以上",
@@ -54,16 +106,6 @@
       "category": "其他"
     },
     {
-      "name": "五木 經濟包營養麵 1.25公斤 X 4包",
-      "price": "$259",
-      "original_price": "$319",
-      "discount_amount": "$60",
-      "promotion": "商品已折價$60 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Wu-Mu-Enriched-Noodles-125-kg-X-4-Pack/p/56630",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hac/h1b/398742025928734.jpg",
-      "category": "食品飲料"
-    },
-    {
       "name": "亨氏 法式龍蝦濃湯 1公升 X 2入",
       "price": "$239",
       "original_price": "$399",
@@ -72,16 +114,6 @@
       "url": "https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/p/150603",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hfb/hbf/325606304186398.jpg",
       "category": "食品飲料"
-    },
-    {
-      "name": "克補+鐵加強錠200錠",
-      "price": "$829",
-      "original_price": "$1,029",
-      "discount_amount": "$200",
-      "promotion": "商品已折價 $200 含運",
-      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Stresstabs-Plus-Iron-200-Tablet/p/976577",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb3/hf5/397423344517150.jpg",
-      "category": "保健美容"
     },
     {
       "name": "易口舒 無糖勁爽薄荷錠 33公克 X 8入",
@@ -102,28 +134,46 @@
       "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Lotte-Pie-No-Mi-Puff-Pastry-Rich-Chocolate-Flavor-1204-g-X-4-Pack/p/144897",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hdf/hae/223926900686878.jpg",
       "category": "食品飲料"
-    }
-  ],
-  "removed": [
+    },
     {
-      "name": "五木 經濟包營養麵 1.25公斤 X 4包",
-      "price": "$259",
-      "original_price": "$319",
+      "name": "科克蘭 藍莓乾 567公克",
+      "price": "$339",
+      "original_price": "$399",
       "discount_amount": "$60",
-      "promotion": "商品已折價$60 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/p/56630",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hac/h1b/398742025928734.jpg",
+      "promotion": "指定夏日涼感商品：買2件享8.5折，每件約 $339；買3件享8折，每件約 $319",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Kirkland-Signature-Dried-Blueberries-567-g/p/968318",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h76/h93/50940707504158.jpg",
       "category": "食品飲料"
     },
     {
-      "name": "克補+鐵加強錠200錠",
-      "price": "$829",
-      "original_price": "$1,029",
-      "discount_amount": "$200",
-      "promotion": "商品已折價 $200 含運",
-      "url": "https://www.costco.com.tw/p/976577",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb3/hf5/397423344517150.jpg",
+      "name": "米森 有機純黑芝麻粉 500公克 X 2包",
+      "price": "$523",
+      "original_price": "$615",
+      "discount_amount": "$92",
+      "promotion": "指定夏日涼感商品：買2件享8.5折，每件約 $523；買3件享8折，每件約 $492",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Vilson-Organic-Black-Sesame-Seed-Powder-500-g-X-2-Pack/p/112845",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h39/he2/396189505486878.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "經典卡通涼感被附收納袋 150公分 X 180公分 史努比 星際領航員",
+      "price": "$1,096",
+      "original_price": "$1,289",
+      "discount_amount": "$193",
+      "promotion": "指定夏日涼感商品：買2件享8.5折，每件約 $1,096；買3件享8折，每件約 $1,031",
+      "url": "https://www.costco.com.tw/Bedding/p/749366",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he5/hc8/466199242965022.jpg",
       "category": "其他"
+    },
+    {
+      "name": "艾美特 12吋DC電扇 FS30253R",
+      "price": "$1,614",
+      "original_price": "$1,899",
+      "discount_amount": "$285",
+      "promotion": "指定夏日涼感商品：買2件享8.5折，每件約 $1,614；買3件享8折，每件約 $1,519",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Airmate-12-inch-DC-Inverter-Fan-FS30253R/p/157027",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h6c/h38/450418078515230.jpg",
+      "category": "家電 3C"
     }
   ],
   "price_changes": []
