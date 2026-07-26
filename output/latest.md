@@ -2,9 +2,9 @@
 
 ## 今日變化
 
-更新時間：2026-07-26 20:05（台灣時間）
-共整理出 **481** 項官方線上優惠。
-本次共讀取 **493** 個官方商品頁面。
+更新時間：2026-07-26 20:12（台灣時間）
+共整理出 **483** 項官方線上優惠。
+本次共讀取 **496** 個官方商品頁面。
 
 > 價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。
 
@@ -13,7 +13,7 @@
 | 分類 | 商品數量 |
 |---|---:|
 | 其他 | 245 |
-| 家具家居 | 73 |
+| 家具家居 | 75 |
 | 食品飲料 | 52 |
 | 家電 3C | 43 |
 | 服飾配件 | 41 |
@@ -29,17 +29,18 @@
 
 ## 今日變化
 
-- 新增優惠：**0** 項
+- 新增優惠：**2** 項
 - 已結束或不在清單：**0** 項
-- 價格變動：**0** 項
+- 價格變動：**1** 項
 
 ### 價格變動
 
-- 今天沒有偵測到價格變動。
+- **降價**：[三麗鷗 兒童不鏽鋼保冷保溫瓶 700毫升](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/Sanrio-Kids-Stainless-Steel-Water-Bottle-700-ml/p/8524812) $479 → $379
 
 ### 今日新增
 
-- 今天沒有新增優惠。
+- [Hario 日本製冷萃茶壺 1.2公升](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Hario-Tritan-Cold-Brew-Tea-Pitcher-12-L/p/158984)（$669）
+- [Lustroware 冷水壺 2.2公升 X 2件組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Lustroware-Pitcher-22-L-X-2-Piece-Set/p/149213)（$649）
 
 ### 已結束或不在清單
 
@@ -117,6 +118,7 @@
 | 其他 | [Gilman Creek 牛皮電動躺椅 深棕](https://www.costco.com.tw/p/1862181) | $17,999 |
 | 家電 3C | [Gourmia 數位氣炸鍋 GAF858](https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Cookers-Oven-Microwaves-Food-Waste-Machine/Gourmia-Digital-Air-Fryer-GAF858/p/6232432) | $1,749 |
 | 食品飲料 | [Happy Village 綜合果乾 567 公克](https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Happy-Village-Fruit-Medley-567-g/p/2773524) | $419 |
+| 家具家居 | [Hario 日本製冷萃茶壺 1.2公升](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Hario-Tritan-Cold-Brew-Tea-Pitcher-12-L/p/158984) | $669 |
 | 其他 | [Hario 日本製冷萃茶壺 1.2公升](https://www.costco.com.tw/p/158984) | $669 |
 | 家具家居 | [HOUSUXI 舒希 迪士尼 不鏽鋼保冷保溫瓶 1.2公升 X 2件組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/HOUSUXI-Disney-Stainless-Steel-Water-Bottle-12-L-X-2-Piece-Set/p/160483) | $1,229 |
 | 其他 | [Igloo 23.6公升 保冷野餐籃](https://www.costco.com.tw/p/1872096) | $1,169 |
@@ -150,6 +152,7 @@
 | 家具家居 | [Little Giant 多功能四階鋁梯 M17](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Hardware-Ladders/Little-Giant-MegaLite-Ladder-M17/p/1193851) | $5,459 |
 | 家電 3C | [LUMENA FAN STAND4 桌上型擺頭隨行風扇 2件組](https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/LUMENA-FAN-STAND4-Wireless-Tabletop-Fan-2-Pack-Set/p/154234) | $1,759 |
 | 家具家居 | [Lustroware 冷水壺 2.1公升 X 2件組 附濾網](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Lustroware-Pitcher-21-L-X-2-Piece-Set-with-Filter/p/135210) | $679 |
+| 家具家居 | [Lustroware 冷水壺 2.2公升 X 2件組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Lustroware-Pitcher-22-L-X-2-Piece-Set/p/149213) | $649 |
 | 其他 | [Lustroware 冷水壺 2.2公升 X 2件組](https://www.costco.com.tw/p/149213) | $649 |
 | 服飾配件 | [Mack Weldon 男彈性長褲](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/Mack-Weldon-Mens-Stretch-Pant/p/1975219) | $689 |
 | 服飾配件 | [Mack Weldon 男短袖Polo衫](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Mack-Weldon-Mens-Short-Sleeve-Polo-Shirt/p/1956429) | $549 |
@@ -228,7 +231,7 @@
 | 家具家居 | [WMF Profi Pfannen 不鏽鋼平底煎鍋 2件組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Cookware-Cutlery-Cutting-Boards/WMF-Profi-Pfannen-Stainless-Steel-Fry-Pan-2-Piece-Set/p/159642) | $2,499 |
 | 家具家居 | [WOKY 沃廚 ECOZEN 純透渾圓隨行杯 880毫升 X 2件組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/WOKY-ECOZEN-Water-Bottle-880-ml-X-2-Piece-Set/p/150702) | $879 |
 | 家具家居 | [Zoobies 涼感動物造型抱枕](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/Zoobies-Animal-Ice-Cushion/p/8523236) | $429 |
-| 家具家居 | [三麗鷗 兒童不鏽鋼保冷保溫瓶 700毫升](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/Sanrio-Kids-Stainless-Steel-Water-Bottle-700-ml/p/8524812) | $479 |
+| 家具家居 | [三麗鷗 兒童不鏽鋼保冷保溫瓶 700毫升](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/Sanrio-Kids-Stainless-Steel-Water-Bottle-700-ml/p/8524812) | $379 |
 | 其他 | [世界童話有聲書 - 小手按按有聲書 (全套四冊)](https://www.costco.com.tw/Office-School/Books/Kids-Books/The-World-Classic-Fairy-Tales-Sound-Book-4-Books/p/148952) | $775 |
 | 食品飲料 | [五木 細關東麵 416公克 X 9包](https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Wu-Mu-Thin-Kan-To-Noodles-416-g-X-9-Pack/p/56629) | $319 |
 | 食品飲料 | [五木 經濟包營養麵 1.25公斤 X 4包](https://www.costco.com.tw/Food-Dining/Groceries/p/56630) | $319 |
@@ -533,6 +536,7 @@
 
 資料來源：
 
+- https://www.costco.com.tw/voucher4
 - https://www.costco.com.tw/c/hot-buys
 - https://www.costco.com.tw/Deals/c/Coupon
 - https://www.costco.com.tw/c/Hero_Cool
