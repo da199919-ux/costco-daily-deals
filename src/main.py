@@ -177,14 +177,23 @@ def parse_product_detail(html: str, deal: Deal) -> Deal:
         r"商品原價\s*(?:NT\$|\$)\s*([\d,]+)", detail_text
     )
     discount_match = re.search(
-        r"商品已折價\s*(?:NT\$|\$)\s*([\d,]+)", detail_text
+        r"(?:商品已折價|商品折扣)\s*(?:[-−–]\s*)?(?:NT\$|\$)\s*([\d,]+)",
+        detail_text,
+    )
+    subtotal_match = re.search(
+        r"(?:小計|折扣後價格|優惠價)\s*(?:NT\$|\$)\s*([\d,]+)",
+        detail_text,
     )
     current_match = re.search(
         r"(?:售價|優惠價|網路價|特價)?\s*(?:NT\$|\$)\s*([\d,]+)",
         detail_text,
     )
 
-    price = deal.price
+    price = (
+        f"${subtotal_match.group(1)}"
+        if subtotal_match
+        else deal.price
+    )
     if price_number(price) is None and current_match:
         price = f"${current_match.group(1)}"
 

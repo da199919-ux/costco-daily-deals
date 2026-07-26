@@ -52,6 +52,14 @@ DETAIL_HTML = """
 </main>
 """
 
+SUBTOTAL_DETAIL_HTML = """
+<main>
+  <div>商品原價 <span>$479</span></div>
+  <div>商品折扣 <span>- $100</span></div>
+  <div>小計 <span>$379</span></div>
+</main>
+"""
+
 
 class CostcoDealsTest(unittest.TestCase):
     def test_parse_product(self):
@@ -86,6 +94,18 @@ class CostcoDealsTest(unittest.TestCase):
         self.assertEqual(updated.price, "$925")
         self.assertEqual(updated.original_price, "$1,159")
         self.assertEqual(updated.discount_amount, "$234")
+
+    def test_parse_product_detail_uses_discounted_subtotal_as_price(self):
+        deal = Deal(
+            "三麗鷗保溫瓶",
+            "$479",
+            "https://www.costco.com.tw/p/8524812",
+            "測試",
+        )
+        updated = parse_product_detail(SUBTOTAL_DETAIL_HTML, deal)
+        self.assertEqual(updated.original_price, "$479")
+        self.assertEqual(updated.discount_amount, "$100")
+        self.assertEqual(updated.price, "$379")
 
     def test_multibuy_promotion_calculates_each_price(self):
         deal = Deal(
