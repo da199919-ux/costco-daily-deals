@@ -191,7 +191,14 @@ def parse_products(html: str, source_url: str) -> list[Deal]:
     if re.search(r"/voucher\d+(?:$|[/?#])", source_url):
         return parse_voucher_products(html, source_url)
     soup = BeautifulSoup(html, "html.parser")
-    cards = soup.select(".product-item, .product__list--item, li.product-item")
+    # 優惠頁底部也會出現「專屬推薦／您可能會喜歡」商品，它們不屬於
+    # 當前活動。優先只讀主要商品列表，避免把活動折扣錯套到推薦商品。
+    listing = soup.select_one(
+        ".product__listing, .product-listing, "
+        "[data-testid='product-list'], #product-list"
+    )
+    card_selector = ".product-item, .product__list--item, li.product-item"
+    cards = listing.select(card_selector) if listing else soup.select(card_selector)
     deals: list[Deal] = []
 
     for card in cards:

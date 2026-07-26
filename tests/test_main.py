@@ -54,6 +54,23 @@ RESPONSIVE_DISCOUNT_HTML = """
 </div>
 """
 
+LISTING_WITH_RECOMMENDATION_HTML = """
+<main>
+  <div class="product__listing">
+    <div class="product-item">
+      <a class="name" href="/Furniture-Kitchen/p/100">活動涼感商品</a>
+      <span class="price">$1,000</span>
+    </div>
+  </div>
+  <section class="recommendations">
+    <div class="product-item">
+      <a class="name" href="/Health-Beauty/p/200">推薦維生素商品</a>
+      <span class="price">$279</span>
+    </div>
+  </section>
+</main>
+"""
+
 DETAIL_HTML = """
 <main>
   <div class="product-price">$925</div>
@@ -143,6 +160,14 @@ class CostcoDealsTest(unittest.TestCase):
         self.assertEqual(deal.price, "$1,999")
         self.assertEqual(deal.discount_amount, "$500")
         self.assertEqual(deal.original_price, "$2,499")
+
+    def test_parse_products_excludes_recommendation_cards(self):
+        deals = parse_products(
+            LISTING_WITH_RECOMMENDATION_HTML,
+            "https://www.costco.com.tw/c/Hero_Cool",
+        )
+        self.assertEqual(len(deals), 1)
+        self.assertEqual(deals[0].name, "活動涼感商品")
 
     def test_parse_product_detail_adds_discount_information(self):
         deal = Deal(
