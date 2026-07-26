@@ -1,0 +1,40 @@
+name: 發布 Costco 優惠網站
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "docs/**"
+      - ".github/workflows/pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: 下載專案
+        uses: actions/checkout@v6
+
+      - name: 設定 GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: 上傳網站
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: docs
+
+      - name: 發布網站
+        id: deployment
+        uses: actions/deploy-pages@v4
