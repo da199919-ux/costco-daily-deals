@@ -1,41 +1,104 @@
 {
   "date": "2026-07-26",
-  "generated_at": "2026-07-26 20:12",
+  "generated_at": "2026-07-26 20:22",
   "has_previous": true,
-  "added": [
+  "added": [],
+  "removed": [],
+  "price_changes": [
+    {
+      "name": "Blender Bottle 不鏽鋼隨行搖搖杯 740毫升 X 2件組",
+      "price": "$879",
+      "original_price": "$979",
+      "discount_amount": "$100",
+      "promotion": "商品已折價 $100",
+      "old_price": "$999",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/Blender-Bottle-Stainless-Steel-Shaker-740-ml-X-2-Piece-Set/p/2738416",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h50/he5/311830114598942.jpg",
+      "category": "家具家居"
+    },
     {
       "name": "Hario 日本製冷萃茶壺 1.2公升",
-      "price": "$669",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
+      "price": "$879",
+      "original_price": "$979",
+      "discount_amount": "$100",
+      "promotion": "商品已折價 $100",
+      "old_price": "$669",
+      "direction": "漲價",
       "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Hario-Tritan-Cold-Brew-Tea-Pitcher-12-L/p/158984",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h6a/h4c/433626099417118.jpg",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h50/he5/311830114598942.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "LAV 土耳其製玻璃杯 16件組",
+      "price": "$879",
+      "original_price": "$979",
+      "discount_amount": "$100",
+      "promotion": "商品已折價 $100",
+      "old_price": "$659",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/LAV-Glass-Tumbler-16-Piece-Set/p/1933543",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h50/he5/311830114598942.jpg",
       "category": "家具家居"
     },
     {
       "name": "Lustroware 冷水壺 2.2公升 X 2件組",
-      "price": "$649",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Lustroware-Pitcher-22-L-X-2-Piece-Set/p/149213",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hfa/hcb/311441770086430.jpg",
-      "category": "家具家居"
-    }
-  ],
-  "removed": [],
-  "price_changes": [
-    {
-      "name": "三麗鷗 兒童不鏽鋼保冷保溫瓶 700毫升",
-      "price": "$379",
-      "original_price": "$479",
+      "price": "$879",
+      "original_price": "$979",
       "discount_amount": "$100",
-      "promotion": "商品已折價 $100 含運",
-      "old_price": "$479",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/Sanrio-Kids-Stainless-Steel-Water-Bottle-700-ml/p/8524812",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h86/h63/382254260322334.jpg",
+      "promotion": "商品已折價 $100",
+      "old_price": "$649",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Lustroware-Pitcher-22-L-X-2-Piece-Set/p/149213",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h50/he5/311830114598942.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "ThermoFlask 不鏽鋼保冷保溫瓶 1.2公升 X 2件組",
+      "price": "$879",
+      "original_price": "$979",
+      "discount_amount": "$100",
+      "promotion": "商品已折價 $100",
+      "old_price": "$759",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/ThermoFlask-Stainless-Steel-Water-Bottle-12-L-X-2-Piece-Set/p/158977",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h50/he5/311830114598942.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Thermoflask 不鏽鋼保冷保溫瓶 946毫升 X 2件組",
+      "price": "$879",
+      "original_price": "$979",
+      "discount_amount": "$100",
+      "promotion": "商品已折價 $100",
+      "old_price": "$659",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/Thermoflask-Stainless-Steel-Water-Bottle-946-ml-X-2-Piece-Set/p/1901817",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h50/he5/311830114598942.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "樂扣樂扣 Tritan 大容量彈蓋提帶冷水壺 2.2公升",
+      "price": "$879",
+      "original_price": "$979",
+      "discount_amount": "$100",
+      "promotion": "商品已折價 $100",
+      "old_price": "$649",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/LocknLock-Tritan-Large-Capacity-Water-Bottle-22-L/p/159317",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h50/he5/311830114598942.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "樂扣樂扣 Tritan 彈蓋提帶冷水壺 650毫升 + 1000毫升",
+      "price": "$879",
+      "original_price": "$979",
+      "discount_amount": "$100",
+      "promotion": "商品已折價 $100",
+      "old_price": "$849",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/LocknLock-Tritan-Water-Bottle-650-ml-1000-ml/p/155277",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h50/he5/311830114598942.jpg",
       "category": "家具家居"
     }
   ]
