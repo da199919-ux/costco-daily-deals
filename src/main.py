@@ -36,6 +36,13 @@ class Deal:
     source: str
 
 
+@dataclass(frozen=True)
+class PriceChange:
+    deal: Deal
+    old_price: str
+    direction: str
+
+
 def clean(text: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
@@ -140,6 +147,29 @@ def compare_deals(
     return deduplicate(added), deduplicate(removed)
 
 
+def price_number(price: str) -> int | None:
+    match = re.search(r"[\d,]+", price)
+    return int(match.group(0).replace(",", "")) if match else None
+
+
+def compare_prices(
+    current: Iterable[Deal], previous: Iterable[Deal]
+) -> list[PriceChange]:
+    previous_by_key = {deal_key(deal): deal for deal in previous}
+    changes: list[PriceChange] = []
+    for deal in current:
+        old = previous_by_key.get(deal_key(deal))
+        if not old or old.price == deal.price:
+            continue
+        old_number = price_number(old.price)
+        new_number = price_number(deal.price)
+        if old_number is None or new_number is None:
+            continue
+        direction = "降價" if new_number < old_number else "漲價"
+        changes.append(PriceChange(deal, old.price, direction))
+    return sorted(changes, key=lambda change: change.deal.name.casefold())
+
+
 def load_deals(csv_path: Path) -> list[Deal]:
     if not csv_path.exists():
         return []
@@ -168,6 +198,17 @@ def deal_lines(deals: Iterable[Deal]) -> list[str]:
     return [
         f"- [{deal.name.replace('|', '｜')}]({deal.url})（{deal.price}）"
         for deal in deals
+    ]
+
+
+def price_change_lines(changes: Iterable[PriceChange]) -> list[str]:
+    return [
+        (
+            f"- **{change.direction}**："
+            f"[{change.deal.name.replace('|', '｜')}]({change.deal.url}) "
+            f"{change.old_price} → {change.deal.price}"
+        )
+        for change in changes
     ]
 
 
@@ -206,6 +247,7 @@ def write_outputs(
     summary_path = OUTPUT_DIR / "summary.md"
     history_path = OUTPUT_DIR / "history" / f"{date_text}.csv"
     added, removed = compare_deals(deals, previous_deals)
+    price_changes = compare_prices(deals, previous_deals)
     watched = find_watchlist_matches(deals, keywords)
 
     write_csv(csv_path, deals, date_text)
@@ -234,11 +276,16 @@ def write_outputs(
             [
                 f"- 新增優惠：**{len(added)}** 項",
                 f"- 已結束或不在清單：**{len(removed)}** 項",
+                f"- 價格變動：**{len(price_changes)}** 項",
                 "",
-                "### 今日新增",
+                "### 價格變動",
                 "",
             ]
         )
+        summary_lines.extend(
+            price_change_lines(price_changes) or ["- 今天沒有偵測到價格變動。"]
+        )
+        summary_lines.extend(["", "### 今日新增", ""])
         summary_lines.extend(deal_lines(added) or ["- 今天沒有新增優惠。"])
         summary_lines.extend(["", "### 已結束或不在清單", ""])
         summary_lines.extend(deal_lines(removed) or ["- 今天沒有優惠離開清單。"])
@@ -312,8 +359,10 @@ def main() -> int:
     print(f"- 追蹤商品：{len(find_watchlist_matches(deals, keywords))} 項")
     if has_previous:
         added, removed = compare_deals(deals, previous_deals)
+        price_changes = compare_prices(deals, previous_deals)
         print(f"- 今日新增：{len(added)} 項")
         print(f"- 已結束或不在清單：{len(removed)} 項")
+        print(f"- 價格變動：{len(price_changes)} 項")
     print(f"- {md_path}")
     print(f"- {csv_path}")
     print(f"- {history_path}")

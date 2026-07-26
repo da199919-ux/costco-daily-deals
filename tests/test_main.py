@@ -6,6 +6,7 @@ from src.main import (
     Deal,
     collect_source,
     compare_deals,
+    compare_prices,
     deduplicate,
     find_watchlist_matches,
     load_deals,
@@ -82,6 +83,20 @@ class CostcoDealsTest(unittest.TestCase):
         self.assertEqual(len(deals), 1)
         self.assertEqual(pages_read, 1)
         self.assertEqual(len(calls), 2)
+
+    def test_compare_prices_detects_drop_and_increase(self):
+        old_phone = Deal("iPhone", "$30,000", "https://example.test/phone", "測試")
+        new_phone = Deal("iPhone", "$28,000", "https://example.test/phone", "測試")
+        old_mac = Deal("MacBook", "$40,000", "https://example.test/mac", "測試")
+        new_mac = Deal("MacBook", "$42,000", "https://example.test/mac", "測試")
+        changes = compare_prices([new_phone, new_mac], [old_phone, old_mac])
+        self.assertEqual(changes[0].direction, "降價")
+        self.assertEqual(changes[1].direction, "漲價")
+
+    def test_compare_prices_ignores_unknown_price(self):
+        old = Deal("iPad", "請查看官網", "https://example.test/ipad", "測試")
+        new = Deal("iPad", "$20,000", "https://example.test/ipad", "測試")
+        self.assertEqual(compare_prices([new], [old]), [])
 
 
 if __name__ == "__main__":
