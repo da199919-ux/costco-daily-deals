@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import csv
+import json
 import re
 import sys
 from collections import Counter
@@ -308,6 +309,51 @@ def write_outputs(
 
     write_csv(csv_path, deals, date_text)
     write_csv(history_path, deals, date_text)
+    changes_path = OUTPUT_DIR / "changes.json"
+    changes_path.write_text(
+        json.dumps(
+            {
+                "date": date_text,
+                "has_previous": has_previous,
+                "added": [
+                    {
+                        "name": deal.name,
+                        "price": deal.price,
+                        "url": deal.url,
+                        "image": deal.image_url,
+                        "category": categorize(deal),
+                    }
+                    for deal in added
+                ],
+                "removed": [
+                    {
+                        "name": deal.name,
+                        "price": deal.price,
+                        "url": deal.url,
+                        "image": deal.image_url,
+                        "category": categorize(deal),
+                    }
+                    for deal in removed
+                ],
+                "price_changes": [
+                    {
+                        "name": change.deal.name,
+                        "price": change.deal.price,
+                        "old_price": change.old_price,
+                        "direction": change.direction,
+                        "url": change.deal.url,
+                        "image": change.deal.image_url,
+                        "category": categorize(change.deal),
+                    }
+                    for change in price_changes
+                ],
+            },
+            ensure_ascii=False,
+            indent=2,
+        )
+        + "\n",
+        encoding="utf-8",
+    )
 
     summary_lines = [
         f"# Costco 每日優惠摘要（{date_text}）",

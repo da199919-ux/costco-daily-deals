@@ -3,6 +3,7 @@ import path from "node:path";
 
 const projectDir = path.resolve(import.meta.dirname);
 const csvPath = path.resolve(projectDir, "../output/latest.csv");
+const changesPath = path.resolve(projectDir, "../output/changes.json");
 const pagesDir = path.resolve(projectDir, "../docs");
 
 function parseCsv(text) {
@@ -67,6 +68,10 @@ const deals = rows.map((row) => {
 });
 const updatedDate = deals[0]?.date || new Date().toISOString().slice(0, 10);
 const embeddedDeals = JSON.stringify(deals).replaceAll("<", "\\u003c");
+const changes = fs.existsSync(changesPath)
+  ? JSON.parse(fs.readFileSync(changesPath, "utf8"))
+  : { has_previous: false, added: [], removed: [], price_changes: [] };
+const embeddedChanges = JSON.stringify(changes).replaceAll("<", "\\u003c");
 const ogPath = path.join(pagesDir, "og.png");
 const ogBase64 = fs.existsSync(ogPath)
   ? fs.readFileSync(ogPath).toString("base64")
@@ -90,11 +95,11 @@ const html = `<!doctype html>
     header{padding:28px 0 22px}h1{font-size:clamp(2.25rem,8vw,5.4rem);line-height:.94;margin:18px 0 16px;letter-spacing:-.055em;max-width:780px}.red{color:var(--red)}.lead{color:var(--muted);font-size:clamp(1rem,2vw,1.22rem);max-width:720px;line-height:1.7}
     .stats{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:24px 0}.stat{background:#0d2748cc;border:1px solid var(--line);padding:18px;border-radius:18px}.stat strong{display:block;font-size:1.8rem}.stat span{color:var(--muted);font-size:.86rem}
     .toolbar{position:sticky;top:0;z-index:10;background:#07182fe8;backdrop-filter:blur(16px);padding:12px 0}.search{display:flex;align-items:center;gap:10px;background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:0 16px}.search input{width:100%;height:54px;background:none;border:0;color:var(--text);outline:none;font-size:1rem}.search input::placeholder{color:#7891aa}
-    .chips{display:flex;gap:8px;overflow:auto;padding:12px 0 4px;scrollbar-width:none}.chips::-webkit-scrollbar{display:none}.chip{white-space:nowrap;border:1px solid var(--line);background:var(--panel);color:var(--muted);border-radius:999px;padding:9px 14px;cursor:pointer}.chip.active{background:var(--cyan);border-color:var(--cyan);color:#032238;font-weight:800}
+    .changes{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:18px 0}.change{border:1px solid var(--line);background:var(--panel);color:var(--text);border-radius:16px;padding:14px;text-align:left;cursor:pointer}.change strong{display:block;font-size:1.55rem}.change span{color:var(--muted);font-size:.82rem}.change.active{border-color:var(--cyan);box-shadow:0 0 0 1px var(--cyan)}.chips{display:flex;gap:8px;overflow:auto;padding:12px 0 4px;scrollbar-width:none}.chips::-webkit-scrollbar{display:none}.chip{white-space:nowrap;border:1px solid var(--line);background:var(--panel);color:var(--muted);border-radius:999px;padding:9px 14px;cursor:pointer}.chip.active{background:var(--cyan);border-color:var(--cyan);color:#032238;font-weight:800}
     .sectionhead{display:flex;align-items:end;justify-content:space-between;gap:16px;margin:30px 0 14px}.sectionhead h2{margin:0;font-size:1.35rem}.sectionhead p{margin:0;color:var(--muted);font-size:.88rem}
     .grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}.card{display:flex;flex-direction:column;min-height:310px;background:linear-gradient(145deg,var(--panel2),var(--panel));border:1px solid var(--line);border-radius:20px;padding:12px 18px 18px;text-decoration:none;color:var(--text);transition:transform .18s,border-color .18s;overflow:hidden}.card:hover{transform:translateY(-3px);border-color:var(--cyan)}.thumb{aspect-ratio:1/1;width:100%;height:auto;margin:0 0 14px;border-radius:14px;background:#fff;display:flex;align-items:center;justify-content:center;overflow:hidden}.thumb img{display:block;width:auto;height:auto;max-width:100%;max-height:100%;object-fit:contain;object-position:center}.placeholder{font-size:1.05rem;font-weight:900;letter-spacing:-.03em;color:var(--red)}.card .top{display:flex;justify-content:space-between;gap:10px}.badge{font-size:.72rem;color:var(--cyan);background:#26c6e817;padding:5px 8px;border-radius:999px}.watch{color:#ffca45;font-size:.78rem;font-weight:800}.card h3{font-size:1rem;line-height:1.5;margin:16px 0;flex:1}.price{font-size:1.35rem;font-weight:850}.go{color:var(--muted);font-size:.78rem;margin-top:8px}.empty{text-align:center;color:var(--muted);padding:64px 20px;border:1px dashed var(--line);border-radius:20px;grid-column:1/-1}
     footer{color:var(--muted);font-size:.78rem;line-height:1.7;margin-top:42px;border-top:1px solid var(--line);padding-top:20px}
-    @media(max-width:820px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:560px){.shell{padding:18px 14px 44px}.stats{grid-template-columns:1fr 1fr}.stat:last-child{grid-column:1/-1}.grid{grid-template-columns:1fr}.card{min-height:178px}.sectionhead{align-items:start;flex-direction:column;gap:4px}}
+    @media(max-width:820px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:560px){.shell{padding:18px 14px 44px}.stats{grid-template-columns:1fr 1fr}.stat:last-child{grid-column:1/-1}.changes{grid-template-columns:1fr}.grid{grid-template-columns:1fr}.card{min-height:178px}.sectionhead{align-items:start;flex-direction:column;gap:4px}}
   </style>
 </head>
 <body>
@@ -113,21 +118,29 @@ const html = `<!doctype html>
       <label class="search" aria-label="搜尋優惠"><span>⌕</span><input id="search" type="search" placeholder="搜尋商品，例如 iPad、咖啡、衛生紙…"></label>
       <div class="chips" id="chips" aria-label="商品分類"></div>
     </div>
+    <div class="changes" id="changes">
+      <button class="change" data-change="新增"><strong>${changes.added.length}</strong><span>今日新增</span></button>
+      <button class="change" data-change="價格變動"><strong>${changes.price_changes.length}</strong><span>價格變動</span></button>
+      <button class="change" data-change="已結束"><strong>${changes.removed.length}</strong><span>已結束優惠</span></button>
+    </div>
     <div class="sectionhead"><div><h2 id="heading">全部優惠</h2><p id="result">正在整理商品…</p></div><p>點商品前往 Costco 官網</p></div>
     <section class="grid" id="grid"></section>
     <footer>本網站整理 Costco 台灣官方公開線上優惠。價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。本網站並非 Costco 官方網站。</footer>
   </main>
   <script>
     const deals=${embeddedDeals};
+    const dailyChanges=${embeddedChanges};
     const watch=["apple","iphone","macbook","ipad","ipod"];
     const categories=["全部","Apple 追蹤",...new Set(deals.map(d=>d.category))];
     let selected="全部";
-    const search=document.querySelector("#search"),grid=document.querySelector("#grid"),chips=document.querySelector("#chips"),result=document.querySelector("#result"),heading=document.querySelector("#heading");
+    const search=document.querySelector("#search"),grid=document.querySelector("#grid"),chips=document.querySelector("#chips"),result=document.querySelector("#result"),heading=document.querySelector("#heading"),changeButtons=document.querySelectorAll(".change");
     const isWatched=d=>watch.some(k=>d.name.toLowerCase().includes(k));
     document.querySelector("#apple").textContent=deals.filter(isWatched).length;
-    function renderChips(){chips.innerHTML=categories.map(c=>'<button class="chip '+(c===selected?'active':'')+'" data-category="'+c+'">'+c+'</button>').join("");chips.querySelectorAll("button").forEach(b=>b.onclick=()=>{selected=b.dataset.category;renderChips();render()})}
+    function renderChips(){chips.innerHTML=categories.map(c=>'<button class="chip '+(c===selected?'active':'')+'" data-category="'+c+'">'+c+'</button>').join("");chips.querySelectorAll("button").forEach(b=>b.onclick=()=>{selected=b.dataset.category;changeButtons.forEach(x=>x.classList.remove("active"));renderChips();render()})}
     function escapeHtml(v){return v.replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
-    function render(){const q=search.value.trim().toLowerCase();const filtered=deals.filter(d=>(selected==="全部"||(selected==="Apple 追蹤"?isWatched(d):d.category===selected))&&(!q||d.name.toLowerCase().includes(q)));heading.textContent=selected;result.textContent='顯示 '+filtered.length+' 項商品';grid.innerHTML=filtered.length?filtered.map(d=>'<a class="card" href="'+d.url+'" target="_blank" rel="noopener"><div class="thumb">'+(d.image?'<img src="'+escapeHtml(d.image)+'" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.hidden=true;this.nextElementSibling.hidden=false"><span class="placeholder" hidden>Costco 優惠</span>':'<span class="placeholder">Costco 優惠</span>')+'</div><div class="top"><span class="badge">'+escapeHtml(d.category)+'</span>'+(isWatched(d)?'<span class="watch">★ 追蹤</span>':'')+'</div><h3>'+escapeHtml(d.name)+'</h3><div class="price">'+escapeHtml(d.price)+'</div><div class="go">查看官方商品 →</div></a>').join(""):'<div class="empty">沒有找到符合條件的優惠，試試其他關鍵字。</div>'}
+    function renderCard(d){const priceNote=d.old_price?'<div class="go">'+escapeHtml(d.old_price)+' → '+escapeHtml(d.price)+'（'+escapeHtml(d.direction)+'）</div>':'';return '<a class="card" href="'+d.url+'" target="_blank" rel="noopener"><div class="thumb">'+(d.image?'<img src="'+escapeHtml(d.image)+'" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.hidden=true;this.nextElementSibling.hidden=false"><span class="placeholder" hidden>Costco 優惠</span>':'<span class="placeholder">Costco 優惠</span>')+'</div><div class="top"><span class="badge">'+escapeHtml(d.category)+'</span>'+(isWatched(d)?'<span class="watch">★ 追蹤</span>':'')+'</div><h3>'+escapeHtml(d.name)+'</h3><div class="price">'+escapeHtml(d.price)+'</div>'+priceNote+'<div class="go">查看官方商品 →</div></a>'}
+    function render(){const q=search.value.trim().toLowerCase();let source=deals;if(selected==="新增")source=dailyChanges.added;if(selected==="價格變動")source=dailyChanges.price_changes;if(selected==="已結束")source=dailyChanges.removed;const special=["新增","價格變動","已結束"].includes(selected);const filtered=source.filter(d=>(special||selected==="全部"||(selected==="Apple 追蹤"?isWatched(d):d.category===selected))&&(!q||d.name.toLowerCase().includes(q)));heading.textContent=special?"今日"+selected:selected;result.textContent='顯示 '+filtered.length+' 項商品';grid.innerHTML=filtered.length?filtered.map(renderCard).join(""):'<div class="empty">今天沒有這類變動。</div>'}
+    changeButtons.forEach(b=>b.onclick=()=>{selected=b.dataset.change;changeButtons.forEach(x=>x.classList.toggle("active",x===b));renderChips();render()});
     search.addEventListener("input",render);renderChips();render();
   </script>
 </body>
