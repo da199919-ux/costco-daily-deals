@@ -21,6 +21,7 @@ from bs4 import BeautifulSoup
 BASE_URL = "https://www.costco.com.tw"
 SOURCE_URLS = [
     "https://www.costco.com.tw/voucher4",
+    "https://www.costco.com.tw/voucher2",
     "https://www.costco.com.tw/c/hot-buys",
     "https://www.costco.com.tw/Deals/c/Coupon",
     "https://www.costco.com.tw/c/Hero_Cool",
@@ -28,8 +29,26 @@ SOURCE_URLS = [
 MAX_PAGES_PER_SOURCE = 20
 DETAIL_WORKERS = 3
 MULTIBUY_PROMOTIONS = {
+    "https://www.costco.com.tw/voucher4": (
+        "指定夏日涼感商品",
+        2,
+        0.85,
+        3,
+        0.8,
+    ),
     "https://www.costco.com.tw/c/Hero_Cool": (
-        "指定夏日涼感商品：買2件享85折，買3件享8折"
+        "指定夏日涼感商品",
+        2,
+        0.85,
+        3,
+        0.8,
+    ),
+    "https://www.costco.com.tw/voucher2": (
+        "指定家具",
+        1,
+        0.85,
+        2,
+        0.8,
     ),
 }
 CATEGORY_RULES = [
@@ -163,7 +182,7 @@ def parse_voucher_products(html: str, source_url: str) -> list[Deal]:
 
 def parse_products(html: str, source_url: str) -> list[Deal]:
     """從 Costco 商品列表頁擷取商品；選擇器留有備援以容納小幅改版。"""
-    if "/voucher4" in source_url:
+    if re.search(r"/voucher\d+(?:$|[/?#])", source_url):
         return parse_voucher_products(html, source_url)
     soup = BeautifulSoup(html, "html.parser")
     cards = soup.select(".product-item, .product__list--item, li.product-item")
@@ -238,17 +257,37 @@ def parse_products(html: str, source_url: str) -> list[Deal]:
 
 
 def add_multibuy_promotion(deal: Deal, source_url: str) -> Deal:
-    promotion = MULTIBUY_PROMOTIONS.get(source_url, "")
+    rule = MULTIBUY_PROMOTIONS.get(source_url)
     current = price_number(deal.price)
-    if not promotion or current is None:
+    if not rule or current is None:
         return deal
-    two_each = round(current * 0.85)
-    three_each = round(current * 0.8)
-    calculated = (
-        f"{promotion}；"
-        f"2件每件約 ${two_each:,}，3件每件約 ${three_each:,}"
+    label, first_quantity, first_rate, second_quantity, second_rate = rule
+    first_each = round(current * first_rate)
+    second_each = round(current * second_rate)
+    conditions = (
+        f"{label}：買{first_quantity}件享{first_rate * 10:g}折，"
+        f"每件約 ${first_each:,}；買{second_quantity}件享"
+        f"{second_rate * 10:g}折，每件約 ${second_each:,}"
     )
-    return replace(deal, promotion=calculated)
+
+    # 商品本身已有固定折價時，以 Costco 公布的固定特價為主，
+    # 多件優惠只補充顯示，避免覆蓋更精確的折扣後小計。
+    if deal.discount_amount or deal.original_price:
+        promotion = "；".join(
+            part for part in (deal.promotion, conditions) if part
+        )
+        return replace(deal, promotion=promotion)
+
+    # 多件優惠沒有獨立的「小計」欄位，因此將最低購買門檻下的
+    # 每件價格直接放在卡片主價格，並清楚保留購買件數條件。
+    discount = current - first_each
+    return replace(
+        deal,
+        price=f"${first_each:,}",
+        original_price=f"${current:,}",
+        discount_amount=f"${discount:,}",
+        promotion=conditions,
+    )
 
 
 def parse_product_detail(html: str, deal: Deal) -> Deal:
