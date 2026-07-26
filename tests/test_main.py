@@ -1,6 +1,8 @@
+import tempfile
 import unittest
+from pathlib import Path
 
-from src.main import deduplicate, parse_products
+from src.main import Deal, compare_deals, deduplicate, load_deals, parse_products, write_csv
 
 
 SAMPLE_HTML = """
@@ -23,7 +25,20 @@ class CostcoDealsTest(unittest.TestCase):
         deal = parse_products(SAMPLE_HTML, "https://example.test/deals")[0]
         self.assertEqual(len(deduplicate([deal, deal])), 1)
 
+    def test_compare_added_and_removed(self):
+        old = Deal("舊商品", "$100", "https://example.test/old", "測試")
+        new = Deal("新商品", "$90", "https://example.test/new", "測試")
+        added, removed = compare_deals([new], [old])
+        self.assertEqual(added, [new])
+        self.assertEqual(removed, [old])
+
+    def test_csv_history_can_be_loaded(self):
+        deal = Deal("測試商品", "$99", "https://example.test/item", "測試")
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "deals.csv"
+            write_csv(path, [deal], "2026-07-26")
+            self.assertEqual(load_deals(path), [deal])
+
 
 if __name__ == "__main__":
     unittest.main()
-

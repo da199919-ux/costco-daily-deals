@@ -87,18 +87,71 @@ def deduplicate(deals: Iterable[Deal]) -> list[Deal]:
     return sorted(unique.values(), key=lambda item: item.name.casefold())
 
 
-def write_outputs(deals: list[Deal], generated_at: datetime) -> tuple[Path, Path]:
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    date_text = generated_at.strftime("%Y-%m-%d")
-    time_text = generated_at.strftime("%Y-%m-%d %H:%M")
-    csv_path = OUTPUT_DIR / "latest.csv"
-    md_path = OUTPUT_DIR / "latest.md"
+def deal_key(deal: Deal) -> str:
+    return deal.url or deal.name.casefold()
 
+
+def compare_deals(
+    current: Iterable[Deal], previous: Iterable[Deal]
+) -> tuple[list[Deal], list[Deal]]:
+    current_by_key = {deal_key(deal): deal for deal in current}
+    previous_by_key = {deal_key(deal): deal for deal in previous}
+    added = [
+        deal for key, deal in current_by_key.items() if key not in previous_by_key
+    ]
+    removed = [
+        deal for key, deal in previous_by_key.items() if key not in current_by_key
+    ]
+    return deduplicate(added), deduplicate(removed)
+
+
+def load_deals(csv_path: Path) -> list[Deal]:
+    if not csv_path.exists():
+        return []
+    with csv_path.open(encoding="utf-8-sig", newline="") as handle:
+        return [
+            Deal(
+                name=row["商品"],
+                price=row["價格"],
+                url=row["商品網址"],
+                source=row["資料來源"],
+            )
+            for row in csv.DictReader(handle)
+        ]
+
+
+def write_csv(csv_path: Path, deals: Iterable[Deal], date_text: str) -> None:
+    csv_path.parent.mkdir(parents=True, exist_ok=True)
     with csv_path.open("w", encoding="utf-8-sig", newline="") as handle:
         writer = csv.writer(handle)
         writer.writerow(["日期", "商品", "價格", "商品網址", "資料來源"])
         for deal in deals:
             writer.writerow([date_text, deal.name, deal.price, deal.url, deal.source])
+
+
+def deal_lines(deals: Iterable[Deal]) -> list[str]:
+    return [
+        f"- [{deal.name.replace('|', '｜')}]({deal.url})（{deal.price}）"
+        for deal in deals
+    ]
+
+
+def write_outputs(
+    deals: list[Deal],
+    previous_deals: list[Deal],
+    generated_at: datetime,
+    has_previous: bool,
+) -> tuple[Path, Path, Path]:
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    date_text = generated_at.strftime("%Y-%m-%d")
+    time_text = generated_at.strftime("%Y-%m-%d %H:%M")
+    csv_path = OUTPUT_DIR / "latest.csv"
+    md_path = OUTPUT_DIR / "latest.md"
+    history_path = OUTPUT_DIR / "history" / f"{date_text}.csv"
+    added, removed = compare_deals(deals, previous_deals)
+
+    write_csv(csv_path, deals, date_text)
+    write_csv(history_path, deals, date_text)
 
     lines = [
         f"# Costco 台灣每日優惠清單（{date_text}）",
@@ -108,9 +161,33 @@ def write_outputs(deals: list[Deal], generated_at: datetime) -> tuple[Path, Path
         "",
         "> 價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。",
         "",
+        "## 今日變化",
+        "",
+    ]
+    if has_previous:
+        lines.extend(
+            [
+                f"- 新增優惠：**{len(added)}** 項",
+                f"- 已結束或不在清單：**{len(removed)}** 項",
+                "",
+                "### 今日新增",
+                "",
+            ]
+        )
+        lines.extend(deal_lines(added) or ["- 今天沒有新增優惠。"])
+        lines.extend(["", "### 已結束或不在清單", ""])
+        lines.extend(deal_lines(removed) or ["- 今天沒有優惠離開清單。"])
+    else:
+        lines.append("- 這是第一份歷史紀錄，明天起會顯示新增與已結束優惠。")
+    lines.extend(
+        [
+            "",
+            "## 全部優惠",
+            "",
         "| 商品 | 價格 |",
         "|---|---:|",
-    ]
+        ]
+    )
     lines.extend(
         f"| [{deal.name.replace('|', '｜')}]({deal.url}) | {deal.price} |"
         for deal in deals
@@ -118,7 +195,7 @@ def write_outputs(deals: list[Deal], generated_at: datetime) -> tuple[Path, Path
     lines.extend(["", "資料來源：", ""])
     lines.extend(f"- {url}" for url in SOURCE_URLS)
     md_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
-    return md_path, csv_path
+    return md_path, csv_path, history_path
 
 
 def main() -> int:
@@ -138,10 +215,20 @@ def main() -> int:
         return 1
 
     now = datetime.now(ZoneInfo("Asia/Taipei"))
-    md_path, csv_path = write_outputs(deals, now)
+    csv_path = OUTPUT_DIR / "latest.csv"
+    has_previous = csv_path.exists()
+    previous_deals = load_deals(csv_path)
+    md_path, csv_path, history_path = write_outputs(
+        deals, previous_deals, now, has_previous
+    )
     print(f"完成：{len(deals)} 項優惠")
+    if has_previous:
+        added, removed = compare_deals(deals, previous_deals)
+        print(f"- 今日新增：{len(added)} 項")
+        print(f"- 已結束或不在清單：{len(removed)} 項")
     print(f"- {md_path}")
     print(f"- {csv_path}")
+    print(f"- {history_path}")
     if errors:
         print("部分來源讀取失敗：", file=sys.stderr)
         for error in errors:
@@ -151,4 +238,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

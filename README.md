@@ -1,7 +1,7 @@
 # Costco 台灣每日優惠清單
 
-這是第一版自動整理工具。它每天讀取 Costco 台灣官方線上優惠頁，去除重複商品，
-並產生一份容易閱讀的 Markdown 清單與可用試算表開啟的 CSV。
+這是每日自動整理工具。它每天讀取 Costco 台灣官方線上優惠頁，去除重複商品，
+並產生容易閱讀的清單、今日變化摘要與歷史 CSV。
 
 ## 目前範圍
 
@@ -9,6 +9,8 @@
 - 收錄官方線上優惠，不保證包含各實體賣場當天臨時降價。
 - 每天台灣時間早上 7:00 由 GitHub Actions 自動更新。
 - 輸出位置是 `output/latest.md` 與 `output/latest.csv`。
+- 自動列出今日新增，以及已結束或不在清單的優惠。
+- 每日紀錄保存在 `output/history/年-月-日.csv`。
 
 ## 第一次在 Mac 執行
 
@@ -39,4 +41,3 @@ python3 -m unittest discover -s tests
 5. 選擇「每日更新 Costco 優惠」，按 **Run workflow** 測試一次。
 
 GitHub 的排程可能不會準點到秒，通常會在設定時間附近開始執行。
-

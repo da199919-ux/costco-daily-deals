@@ -30,12 +30,12 @@ jobs:
 
       - name: 儲存更新結果
         run: |
-          if git diff --quiet -- output/; then
+          if [ -z "$(git status --porcelain -- output/)" ]; then
             echo "今天的清單沒有變更"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add output/latest.md output/latest.csv
+          git add output/
           git commit -m "自動更新 Costco 每日優惠"
           git push
