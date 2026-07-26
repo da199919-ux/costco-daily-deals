@@ -72,6 +72,13 @@ SUBTOTAL_DETAIL_HTML = """
 </main>
 """
 
+LOWER_PRICE_DETAIL_HTML = """
+<main>
+  <div>商品原價 <span>$399</span></div>
+  <div>該商品前次原價為 $469</div>
+</main>
+"""
+
 VOUCHER_HTML = """
 <sip-product-carousel-item>
   <div class="custom-card">
@@ -160,6 +167,19 @@ class CostcoDealsTest(unittest.TestCase):
         self.assertEqual(updated.original_price, "$479")
         self.assertEqual(updated.discount_amount, "$100")
         self.assertEqual(updated.price, "$379")
+
+    def test_parse_product_detail_uses_previous_price_for_savings(self):
+        deal = Deal(
+            "亨氏濃湯",
+            "$399",
+            "https://www.costco.com.tw/p/150603",
+            "測試",
+        )
+        updated = parse_product_detail(LOWER_PRICE_DETAIL_HTML, deal)
+        self.assertEqual(updated.original_price, "$469")
+        self.assertEqual(updated.discount_amount, "$70")
+        self.assertEqual(updated.price, "$399")
+        self.assertIn("優惠售價", updated.promotion)
 
     def test_parse_voucher_custom_product_card(self):
         deals = parse_voucher_products(

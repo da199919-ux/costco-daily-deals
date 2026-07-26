@@ -324,6 +324,9 @@ def parse_product_detail(html: str, deal: Deal) -> Deal:
     explicit_original = re.search(
         r"商品原價\s*(?:NT\$|\$)\s*([\d,]+)", detail_text
     )
+    previous_original = re.search(
+        r"前次原價(?:為)?\s*(?:NT\$|\$)\s*([\d,]+)", detail_text
+    )
     discount_match = re.search(
         r"(?:商品已折價|商品折扣)\s*(?:[-−–]\s*)?(?:NT\$|\$)\s*([\d,]+)",
         detail_text,
@@ -368,6 +371,17 @@ def parse_product_detail(html: str, deal: Deal) -> Deal:
         original_price = (
             f"${price_number(price) + int(discount_match.group(1).replace(',', '')):,}"
         )
+    if (
+        not original_price
+        and not discount_amount
+        and previous_original
+        and price_number(price) is not None
+    ):
+        previous_number = int(previous_original.group(1).replace(",", ""))
+        current_number = price_number(price)
+        if previous_number > current_number:
+            original_price = f"${previous_number:,}"
+            discount_amount = f"${previous_number - current_number:,}"
 
     promotion = deal.promotion
     if not promotion:
@@ -378,6 +392,8 @@ def parse_product_detail(html: str, deal: Deal) -> Deal:
             promotion = clean(promotion_node.get_text(" ", strip=True))
         elif discount_match:
             promotion = f"商品已折價 ${discount_match.group(1)}"
+        elif original_price and previous_original:
+            promotion = "Costco 公布的目前優惠售價"
 
     return replace(
         deal,
