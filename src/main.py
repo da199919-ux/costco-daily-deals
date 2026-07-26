@@ -115,7 +115,7 @@ def parse_products(html: str, source_url: str) -> list[Deal]:
             discount_number = int(discount_match.group(1).replace(",", ""))
             original_price = f"${sale_number + discount_number:,}"
         promotion_node = card.select_one(
-            ".promotion-message, .promotion, [class*='promotion']"
+            ".promotion-message, .promotion, .discount-info"
         )
         promotion = (
             clean(promotion_node.get_text(" ", strip=True))
@@ -215,7 +215,7 @@ def parse_product_detail(html: str, deal: Deal) -> Deal:
     promotion = deal.promotion
     if not promotion:
         promotion_node = soup.select_one(
-            ".promotion-message, .promotion, [class*='promotion']"
+            ".promotion-message, .discount-info"
         )
         if promotion_node:
             promotion = clean(promotion_node.get_text(" ", strip=True))

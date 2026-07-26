@@ -5,6 +5,14 @@ on:
     # GitHub 排程使用 UTC；23:00 UTC 是台灣隔天 07:00。
     - cron: "0 23 * * *"
   workflow_dispatch:
+  push:
+    branches: ["main"]
+    paths:
+      - "src/**"
+      - "scripts/**"
+      - "requirements.txt"
+      - "watchlist.txt"
+      - ".github/workflows/daily.yml"
 
 permissions:
   contents: write
