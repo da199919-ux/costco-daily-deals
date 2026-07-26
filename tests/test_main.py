@@ -2,7 +2,16 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from src.main import Deal, compare_deals, deduplicate, load_deals, parse_products, write_csv
+from src.main import (
+    Deal,
+    compare_deals,
+    deduplicate,
+    find_watchlist_matches,
+    load_deals,
+    load_keywords,
+    parse_products,
+    write_csv,
+)
 
 
 SAMPLE_HTML = """
@@ -38,6 +47,17 @@ class CostcoDealsTest(unittest.TestCase):
             path = Path(directory) / "deals.csv"
             write_csv(path, [deal], "2026-07-26")
             self.assertEqual(load_deals(path), [deal])
+
+    def test_watchlist_is_case_insensitive(self):
+        iphone = Deal("Apple iPhone 16", "$1", "https://example.test/iphone", "測試")
+        coffee = Deal("咖啡豆", "$2", "https://example.test/coffee", "測試")
+        self.assertEqual(find_watchlist_matches([iphone, coffee], ["iphone"]), [iphone])
+
+    def test_load_keywords_skips_comments(self):
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "watchlist.txt"
+            path.write_text("# 我的清單\nApple\n\niPad\n", encoding="utf-8")
+            self.assertEqual(load_keywords(path), ["Apple", "iPad"])
 
 
 if __name__ == "__main__":

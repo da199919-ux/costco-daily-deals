@@ -12,6 +12,12 @@
 - 自動列出今日新增，以及已結束或不在清單的優惠。
 - 每日紀錄保存在 `output/history/年-月-日.csv`。
 - 精簡摘要保存在 `output/summary.md`，並透過 GitHub Issues 發送 Gmail 通知。
+- `watchlist.txt` 可設定常買商品或品牌，符合的優惠會顯示在摘要最上方。
+
+## 修改追蹤商品
+
+用 VS Code 打開 `watchlist.txt`，每行輸入一個商品或品牌關鍵字。英文大小寫不影響搜尋。
+儲存後再使用 GitHub Desktop Commit 與 Push，下一次每日更新就會採用新清單。
 
 ## 第一次在 Mac 執行
 

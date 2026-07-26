@@ -20,6 +20,7 @@ SOURCE_URLS = [
     "https://www.costco.com.tw/Deals/c/Coupon",
 ]
 OUTPUT_DIR = Path(__file__).resolve().parents[1] / "output"
+WATCHLIST_PATH = Path(__file__).resolve().parents[1] / "watchlist.txt"
 USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
     "AppleWebKit/537.36 CostcoDailyDeals/1.0"
@@ -136,11 +137,31 @@ def deal_lines(deals: Iterable[Deal]) -> list[str]:
     ]
 
 
+def load_keywords(path: Path = WATCHLIST_PATH) -> list[str]:
+    if not path.exists():
+        return []
+    return [
+        line.strip()
+        for line in path.read_text(encoding="utf-8").splitlines()
+        if line.strip() and not line.lstrip().startswith("#")
+    ]
+
+
+def find_watchlist_matches(deals: Iterable[Deal], keywords: Iterable[str]) -> list[Deal]:
+    normalized = [keyword.casefold() for keyword in keywords if keyword.strip()]
+    return [
+        deal
+        for deal in deals
+        if any(keyword in deal.name.casefold() for keyword in normalized)
+    ]
+
+
 def write_outputs(
     deals: list[Deal],
     previous_deals: list[Deal],
     generated_at: datetime,
     has_previous: bool,
+    keywords: list[str],
 ) -> tuple[Path, Path, Path, Path]:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     date_text = generated_at.strftime("%Y-%m-%d")
@@ -150,6 +171,7 @@ def write_outputs(
     summary_path = OUTPUT_DIR / "summary.md"
     history_path = OUTPUT_DIR / "history" / f"{date_text}.csv"
     added, removed = compare_deals(deals, previous_deals)
+    watched = find_watchlist_matches(deals, keywords)
 
     write_csv(csv_path, deals, date_text)
     write_csv(history_path, deals, date_text)
@@ -162,7 +184,15 @@ def write_outputs(
         "",
         "> 價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。",
         "",
+        "## 我的追蹤商品",
+        "",
+        f"追蹤關鍵字：{', '.join(keywords) if keywords else '尚未設定'}",
+        "",
     ]
+    summary_lines.extend(
+        deal_lines(watched) or ["- 今天的優惠清單沒有符合追蹤關鍵字的商品。"]
+    )
+    summary_lines.extend(["", "## 今日變化", ""])
     if has_previous:
         summary_lines.extend(
             [
@@ -234,10 +264,12 @@ def main() -> int:
     csv_path = OUTPUT_DIR / "latest.csv"
     has_previous = csv_path.exists()
     previous_deals = load_deals(csv_path)
+    keywords = load_keywords()
     md_path, csv_path, history_path, summary_path = write_outputs(
-        deals, previous_deals, now, has_previous
+        deals, previous_deals, now, has_previous, keywords
     )
     print(f"完成：{len(deals)} 項優惠")
+    print(f"- 追蹤商品：{len(find_watchlist_matches(deals, keywords))} 項")
     if has_previous:
         added, removed = compare_deals(deals, previous_deals)
         print(f"- 今日新增：{len(added)} 項")

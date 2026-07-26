@@ -1,0 +1,7 @@
+# 每行一個追蹤關鍵字；以 # 開頭的行不會被搜尋。
+apple
+iphone
+macbook
+ipad
+ipod
+
