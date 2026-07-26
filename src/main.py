@@ -141,31 +141,30 @@ def write_outputs(
     previous_deals: list[Deal],
     generated_at: datetime,
     has_previous: bool,
-) -> tuple[Path, Path, Path]:
+) -> tuple[Path, Path, Path, Path]:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     date_text = generated_at.strftime("%Y-%m-%d")
     time_text = generated_at.strftime("%Y-%m-%d %H:%M")
     csv_path = OUTPUT_DIR / "latest.csv"
     md_path = OUTPUT_DIR / "latest.md"
+    summary_path = OUTPUT_DIR / "summary.md"
     history_path = OUTPUT_DIR / "history" / f"{date_text}.csv"
     added, removed = compare_deals(deals, previous_deals)
 
     write_csv(csv_path, deals, date_text)
     write_csv(history_path, deals, date_text)
 
-    lines = [
-        f"# Costco 台灣每日優惠清單（{date_text}）",
+    summary_lines = [
+        f"# Costco 每日優惠摘要（{date_text}）",
         "",
         f"更新時間：{time_text}（台灣時間）",
         f"共整理出 **{len(deals)}** 項官方線上優惠。",
         "",
         "> 價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。",
         "",
-        "## 今日變化",
-        "",
     ]
     if has_previous:
-        lines.extend(
+        summary_lines.extend(
             [
                 f"- 新增優惠：**{len(added)}** 項",
                 f"- 已結束或不在清單：**{len(removed)}** 項",
@@ -174,11 +173,28 @@ def write_outputs(
                 "",
             ]
         )
-        lines.extend(deal_lines(added) or ["- 今天沒有新增優惠。"])
-        lines.extend(["", "### 已結束或不在清單", ""])
-        lines.extend(deal_lines(removed) or ["- 今天沒有優惠離開清單。"])
+        summary_lines.extend(deal_lines(added) or ["- 今天沒有新增優惠。"])
+        summary_lines.extend(["", "### 已結束或不在清單", ""])
+        summary_lines.extend(deal_lines(removed) or ["- 今天沒有優惠離開清單。"])
     else:
-        lines.append("- 這是第一份歷史紀錄，明天起會顯示新增與已結束優惠。")
+        summary_lines.append(
+            "- 這是第一份歷史紀錄，明天起會顯示新增與已結束優惠。"
+        )
+    summary_lines.extend(
+        [
+            "",
+            "完整清單請查看專案中的 `output/latest.md`。",
+        ]
+    )
+    summary_path.write_text("\n".join(summary_lines) + "\n", encoding="utf-8")
+
+    lines = [
+        f"# Costco 台灣每日優惠清單（{date_text}）",
+        "",
+        "## 今日變化",
+        "",
+        *summary_lines[2:-2],
+    ]
     lines.extend(
         [
             "",
@@ -195,7 +211,7 @@ def write_outputs(
     lines.extend(["", "資料來源：", ""])
     lines.extend(f"- {url}" for url in SOURCE_URLS)
     md_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
-    return md_path, csv_path, history_path
+    return md_path, csv_path, history_path, summary_path
 
 
 def main() -> int:
@@ -218,7 +234,7 @@ def main() -> int:
     csv_path = OUTPUT_DIR / "latest.csv"
     has_previous = csv_path.exists()
     previous_deals = load_deals(csv_path)
-    md_path, csv_path, history_path = write_outputs(
+    md_path, csv_path, history_path, summary_path = write_outputs(
         deals, previous_deals, now, has_previous
     )
     print(f"完成：{len(deals)} 項優惠")
@@ -229,6 +245,7 @@ def main() -> int:
     print(f"- {md_path}")
     print(f"- {csv_path}")
     print(f"- {history_path}")
+    print(f"- {summary_path}")
     if errors:
         print("部分來源讀取失敗：", file=sys.stderr)
         for error in errors:

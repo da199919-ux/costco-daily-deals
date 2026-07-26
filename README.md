@@ -11,6 +11,7 @@
 - 輸出位置是 `output/latest.md` 與 `output/latest.csv`。
 - 自動列出今日新增，以及已結束或不在清單的優惠。
 - 每日紀錄保存在 `output/history/年-月-日.csv`。
+- 精簡摘要保存在 `output/summary.md`，並透過 GitHub Issues 發送 Gmail 通知。
 
 ## 第一次在 Mac 執行
 

@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 jobs:
   update:
@@ -39,3 +40,24 @@ jobs:
           git add output/
           git commit -m "自動更新 Costco 每日優惠"
           git push
+
+      - name: 發布 Gmail 摘要通知
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          summary_date=$(TZ=Asia/Taipei date +%F)
+          title="Costco 每日優惠摘要 ${summary_date}"
+          issue_number=$(gh issue list \
+            --state all \
+            --search "${title} in:title" \
+            --json number \
+            --jq '.[0].number // empty')
+
+          if [ -n "${issue_number}" ]; then
+            gh issue comment "${issue_number}" --body-file output/summary.md
+          else
+            gh issue create \
+              --title "${title}" \
+              --body-file output/summary.md \
+              --assignee "${GITHUB_REPOSITORY_OWNER}"
+          fi
