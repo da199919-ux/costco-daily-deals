@@ -13,6 +13,7 @@
 - 每日紀錄保存在 `output/history/年-月-日.csv`。
 - 精簡摘要保存在 `output/summary.md`，並透過 GitHub Issues 發送 Gmail 通知。
 - `watchlist.txt` 可設定常買商品或品牌，符合的優惠會顯示在摘要最上方。
+- 官方優惠有多頁時會自動翻頁收集，並在摘要顯示本次讀取頁數。
 
 ## 修改追蹤商品
 

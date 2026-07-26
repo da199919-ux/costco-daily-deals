@@ -6,8 +6,8 @@ import sys
 from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
-from typing import Iterable
-from urllib.parse import urljoin
+from typing import Callable, Iterable
+from urllib.parse import parse_qsl, urlencode, urljoin, urlsplit, urlunsplit
 from zoneinfo import ZoneInfo
 
 import requests
@@ -19,6 +19,7 @@ SOURCE_URLS = [
     "https://www.costco.com.tw/c/hot-buys",
     "https://www.costco.com.tw/Deals/c/Coupon",
 ]
+MAX_PAGES_PER_SOURCE = 20
 OUTPUT_DIR = Path(__file__).resolve().parents[1] / "output"
 WATCHLIST_PATH = Path(__file__).resolve().parents[1] / "watchlist.txt"
 USER_AGENT = (
@@ -78,6 +79,39 @@ def fetch(url: str) -> str:
     )
     response.raise_for_status()
     return response.text
+
+
+def with_page(url: str, page: int) -> str:
+    if page == 0:
+        return url
+    parts = urlsplit(url)
+    query = dict(parse_qsl(parts.query))
+    query["page"] = str(page)
+    return urlunsplit(
+        (parts.scheme, parts.netloc, parts.path, urlencode(query), parts.fragment)
+    )
+
+
+def collect_source(
+    source_url: str,
+    fetcher: Callable[[str], str] = fetch,
+    max_pages: int = MAX_PAGES_PER_SOURCE,
+) -> tuple[list[Deal], int]:
+    """逐頁收集商品；空白頁或整頁重複時自動停止。"""
+    collected: list[Deal] = []
+    seen: set[str] = set()
+    pages_read = 0
+
+    for page in range(max_pages):
+        deals = parse_products(fetcher(with_page(source_url, page)), source_url)
+        new_deals = [deal for deal in deals if deal_key(deal) not in seen]
+        if not new_deals:
+            break
+        collected.extend(new_deals)
+        seen.update(deal_key(deal) for deal in new_deals)
+        pages_read += 1
+
+    return collected, pages_read
 
 
 def deduplicate(deals: Iterable[Deal]) -> list[Deal]:
@@ -162,6 +196,7 @@ def write_outputs(
     generated_at: datetime,
     has_previous: bool,
     keywords: list[str],
+    pages_read: int,
 ) -> tuple[Path, Path, Path, Path]:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     date_text = generated_at.strftime("%Y-%m-%d")
@@ -181,6 +216,7 @@ def write_outputs(
         "",
         f"更新時間：{time_text}（台灣時間）",
         f"共整理出 **{len(deals)}** 項官方線上優惠。",
+        f"本次共讀取 **{pages_read}** 個官方商品頁面。",
         "",
         "> 價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。",
         "",
@@ -247,9 +283,12 @@ def write_outputs(
 def main() -> int:
     all_deals: list[Deal] = []
     errors: list[str] = []
+    pages_read = 0
     for url in SOURCE_URLS:
         try:
-            all_deals.extend(parse_products(fetch(url), url))
+            source_deals, source_pages = collect_source(url)
+            all_deals.extend(source_deals)
+            pages_read += source_pages
         except requests.RequestException as exc:
             errors.append(f"{url}: {exc}")
 
@@ -266,9 +305,10 @@ def main() -> int:
     previous_deals = load_deals(csv_path)
     keywords = load_keywords()
     md_path, csv_path, history_path, summary_path = write_outputs(
-        deals, previous_deals, now, has_previous, keywords
+        deals, previous_deals, now, has_previous, keywords, pages_read
     )
     print(f"完成：{len(deals)} 項優惠")
+    print(f"- 已讀取頁面：{pages_read} 頁")
     print(f"- 追蹤商品：{len(find_watchlist_matches(deals, keywords))} 項")
     if has_previous:
         added, removed = compare_deals(deals, previous_deals)

@@ -4,6 +4,7 @@ from pathlib import Path
 
 from src.main import (
     Deal,
+    collect_source,
     compare_deals,
     deduplicate,
     find_watchlist_matches,
@@ -11,6 +12,7 @@ from src.main import (
     load_keywords,
     parse_products,
     write_csv,
+    with_page,
 )
 
 
@@ -58,6 +60,28 @@ class CostcoDealsTest(unittest.TestCase):
             path = Path(directory) / "watchlist.txt"
             path.write_text("# 我的清單\nApple\n\niPad\n", encoding="utf-8")
             self.assertEqual(load_keywords(path), ["Apple", "iPad"])
+
+    def test_page_url(self):
+        self.assertEqual(with_page("https://example.test/deals", 0), "https://example.test/deals")
+        self.assertEqual(
+            with_page("https://example.test/deals?sort=name", 2),
+            "https://example.test/deals?sort=name&page=2",
+        )
+
+    def test_collect_source_stops_on_repeated_page(self):
+        first_page = SAMPLE_HTML
+        calls = []
+
+        def fake_fetch(url):
+            calls.append(url)
+            return first_page
+
+        deals, pages_read = collect_source(
+            "https://example.test/deals", fetcher=fake_fetch, max_pages=5
+        )
+        self.assertEqual(len(deals), 1)
+        self.assertEqual(pages_read, 1)
+        self.assertEqual(len(calls), 2)
 
 
 if __name__ == "__main__":
