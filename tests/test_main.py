@@ -4,6 +4,7 @@ from pathlib import Path
 
 from src.main import (
     Deal,
+    categorize,
     collect_source,
     compare_deals,
     compare_prices,
@@ -97,6 +98,26 @@ class CostcoDealsTest(unittest.TestCase):
         old = Deal("iPad", "請查看官網", "https://example.test/ipad", "測試")
         new = Deal("iPad", "$20,000", "https://example.test/ipad", "測試")
         self.assertEqual(compare_prices([new], [old]), [])
+
+    def test_categorize_from_product_url(self):
+        food = Deal(
+            "咖啡",
+            "$1",
+            "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/p/1",
+            "測試",
+        )
+        laptop = Deal(
+            "MacBook",
+            "$2",
+            "https://www.costco.com.tw/Digital-Mobile/Computers/p/2",
+            "測試",
+        )
+        self.assertEqual(categorize(food), "食品飲料")
+        self.assertEqual(categorize(laptop), "家電 3C")
+
+    def test_categorize_unknown_as_other(self):
+        deal = Deal("活動商品", "$1", "https://www.costco.com.tw/c/item/p/3", "測試")
+        self.assertEqual(categorize(deal), "其他")
 
 
 if __name__ == "__main__":

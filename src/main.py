@@ -3,6 +3,7 @@ from __future__ import annotations
 import csv
 import re
 import sys
+from collections import Counter
 from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
@@ -20,6 +21,15 @@ SOURCE_URLS = [
     "https://www.costco.com.tw/Deals/c/Coupon",
 ]
 MAX_PAGES_PER_SOURCE = 20
+CATEGORY_RULES = [
+    ("食品飲料", ("food-dining",)),
+    ("家電 3C", ("digital-mobile", "televisions-appliances")),
+    ("日用品／母嬰／玩具", ("household-baby-toys",)),
+    ("家具家居", ("furniture-kitchen",)),
+    ("保健美容", ("health-beauty",)),
+    ("服飾配件", ("clothing-accessories",)),
+    ("運動休閒", ("online-exclusive-exercise",)),
+]
 OUTPUT_DIR = Path(__file__).resolve().parents[1] / "output"
 WATCHLIST_PATH = Path(__file__).resolve().parents[1] / "watchlist.txt"
 USER_AGENT = (
@@ -45,6 +55,14 @@ class PriceChange:
 
 def clean(text: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
+
+
+def categorize(deal: Deal) -> str:
+    path = urlsplit(deal.url).path.casefold()
+    for category, markers in CATEGORY_RULES:
+        if any(marker in path for marker in markers):
+            return category
+    return "其他"
 
 
 def parse_products(html: str, source_url: str) -> list[Deal]:
@@ -189,9 +207,18 @@ def write_csv(csv_path: Path, deals: Iterable[Deal], date_text: str) -> None:
     csv_path.parent.mkdir(parents=True, exist_ok=True)
     with csv_path.open("w", encoding="utf-8-sig", newline="") as handle:
         writer = csv.writer(handle)
-        writer.writerow(["日期", "商品", "價格", "商品網址", "資料來源"])
+        writer.writerow(["日期", "分類", "商品", "價格", "商品網址", "資料來源"])
         for deal in deals:
-            writer.writerow([date_text, deal.name, deal.price, deal.url, deal.source])
+            writer.writerow(
+                [
+                    date_text,
+                    categorize(deal),
+                    deal.name,
+                    deal.price,
+                    deal.url,
+                    deal.source,
+                ]
+            )
 
 
 def deal_lines(deals: Iterable[Deal]) -> list[str]:
@@ -249,6 +276,7 @@ def write_outputs(
     added, removed = compare_deals(deals, previous_deals)
     price_changes = compare_prices(deals, previous_deals)
     watched = find_watchlist_matches(deals, keywords)
+    category_counts = Counter(categorize(deal) for deal in deals)
 
     write_csv(csv_path, deals, date_text)
     write_csv(history_path, deals, date_text)
@@ -262,11 +290,26 @@ def write_outputs(
         "",
         "> 價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。",
         "",
+        "## 分類統計",
+        "",
+        "| 分類 | 商品數量 |",
+        "|---|---:|",
+    ]
+    summary_lines.extend(
+        f"| {category} | {count} |"
+        for category, count in sorted(
+            category_counts.items(), key=lambda item: (-item[1], item[0])
+        )
+    )
+    summary_lines.extend(
+        [
+        "",
         "## 我的追蹤商品",
         "",
         f"追蹤關鍵字：{', '.join(keywords) if keywords else '尚未設定'}",
         "",
-    ]
+        ]
+    )
     summary_lines.extend(
         deal_lines(watched) or ["- 今天的優惠清單沒有符合追蹤關鍵字的商品。"]
     )
@@ -313,12 +356,15 @@ def write_outputs(
             "",
             "## 全部優惠",
             "",
-        "| 商品 | 價格 |",
-        "|---|---:|",
+        "| 分類 | 商品 | 價格 |",
+        "|---|---|---:|",
         ]
     )
     lines.extend(
-        f"| [{deal.name.replace('|', '｜')}]({deal.url}) | {deal.price} |"
+        (
+            f"| {categorize(deal)} | "
+            f"[{deal.name.replace('|', '｜')}]({deal.url}) | {deal.price} |"
+        )
         for deal in deals
     )
     lines.extend(["", "資料來源：", ""])
