@@ -44,6 +44,7 @@ class Deal:
     price: str
     url: str
     source: str
+    image_url: str = ""
 
 
 @dataclass(frozen=True)
@@ -91,7 +92,30 @@ def parse_products(html: str, source_url: str) -> list[Deal]:
         price_match = re.search(r"\$\s*[\d,]+", price_text)
         price = price_match.group(0).replace(" ", "") if price_match else "請查看官網"
         url = urljoin(BASE_URL, link.get("href", ""))
-        deals.append(Deal(name=name, price=price, url=url, source=source_url))
+        image = card.select_one("img")
+        image_url = ""
+        if image:
+            for attribute in ("data-src", "data-original", "src"):
+                candidate = clean(image.get(attribute, ""))
+                if candidate and not candidate.startswith("data:"):
+                    image_url = urljoin(BASE_URL, candidate)
+                    break
+            if not image_url:
+                srcset = clean(image.get("srcset", ""))
+                if srcset:
+                    candidate = srcset.split(",")[0].strip().split(" ")[0]
+                    if candidate and not candidate.startswith("data:"):
+                        image_url = urljoin(BASE_URL, candidate)
+
+        deals.append(
+            Deal(
+                name=name,
+                price=price,
+                url=url,
+                source=source_url,
+                image_url=image_url,
+            )
+        )
 
     return deals
 
@@ -198,6 +222,7 @@ def load_deals(csv_path: Path) -> list[Deal]:
                 price=row["價格"],
                 url=row["商品網址"],
                 source=row["資料來源"],
+                image_url=row.get("圖片網址", ""),
             )
             for row in csv.DictReader(handle)
         ]
@@ -207,7 +232,9 @@ def write_csv(csv_path: Path, deals: Iterable[Deal], date_text: str) -> None:
     csv_path.parent.mkdir(parents=True, exist_ok=True)
     with csv_path.open("w", encoding="utf-8-sig", newline="") as handle:
         writer = csv.writer(handle)
-        writer.writerow(["日期", "分類", "商品", "價格", "商品網址", "資料來源"])
+        writer.writerow(
+            ["日期", "分類", "商品", "價格", "商品網址", "圖片網址", "資料來源"]
+        )
         for deal in deals:
             writer.writerow(
                 [
@@ -216,6 +243,7 @@ def write_csv(csv_path: Path, deals: Iterable[Deal], date_text: str) -> None:
                     deal.name,
                     deal.price,
                     deal.url,
+                    deal.image_url,
                     deal.source,
                 ]
             )

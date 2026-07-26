@@ -21,6 +21,7 @@ from src.main import (
 SAMPLE_HTML = """
 <div class="product-item">
   <a class="name" href="/Food/p/123">科克蘭測試商品</a>
+  <img data-src="/medias/test-product.jpg" alt="科克蘭測試商品">
   <span class="price">$1,299</span>
 </div>
 """
@@ -33,6 +34,10 @@ class CostcoDealsTest(unittest.TestCase):
         self.assertEqual(deals[0].name, "科克蘭測試商品")
         self.assertEqual(deals[0].price, "$1,299")
         self.assertEqual(deals[0].url, "https://www.costco.com.tw/Food/p/123")
+        self.assertEqual(
+            deals[0].image_url,
+            "https://www.costco.com.tw/medias/test-product.jpg",
+        )
 
     def test_deduplicate_by_url(self):
         deal = parse_products(SAMPLE_HTML, "https://example.test/deals")[0]
