@@ -20,6 +20,7 @@ from bs4 import BeautifulSoup
 
 BASE_URL = "https://www.costco.com.tw"
 SOURCE_URLS = [
+    "https://www.costco.com.tw/voucher4",
     "https://www.costco.com.tw/c/hot-buys",
     "https://www.costco.com.tw/Deals/c/Coupon",
     "https://www.costco.com.tw/c/Hero_Cool",
@@ -323,12 +324,19 @@ def deduplicate(deals: Iterable[Deal]) -> list[Deal]:
         if existing is None:
             unique[key] = deal
             continue
+        prefer_discounted = bool(deal.discount_amount) and not bool(
+            existing.discount_amount
+        )
         unique[key] = replace(
             existing,
+            price=deal.price if prefer_discounted else existing.price,
+            source=deal.source if prefer_discounted else existing.source,
             image_url=existing.image_url or deal.image_url,
             original_price=existing.original_price or deal.original_price,
             discount_amount=existing.discount_amount or deal.discount_amount,
-            promotion=existing.promotion or deal.promotion,
+            promotion=deal.promotion if prefer_discounted else (
+                existing.promotion or deal.promotion
+            ),
         )
     return sorted(unique.values(), key=lambda item: item.name.casefold())
 
