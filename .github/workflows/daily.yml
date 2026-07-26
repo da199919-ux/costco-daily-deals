@@ -34,6 +34,9 @@ jobs:
       - name: 安裝套件
         run: pip install -r requirements.txt
 
+      - name: 安裝網頁瀏覽器
+        run: playwright install --with-deps chromium
+
       - name: 產生今日清單
         run: python -m src.main
 

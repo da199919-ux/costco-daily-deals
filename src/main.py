@@ -6,6 +6,7 @@ import re
 import sys
 from collections import Counter
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from contextlib import contextmanager
 from dataclasses import dataclass
 from dataclasses import replace
 from datetime import datetime
@@ -66,6 +67,11 @@ USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
     "AppleWebKit/537.36 (KHTML, like Gecko) "
     "Chrome/126.0.0.0 Safari/537.36"
+)
+MOBILE_USER_AGENT = (
+    "Mozilla/5.0 (iPad; CPU OS 18_5 like Mac OS X) "
+    "AppleWebKit/605.1.15 (KHTML, like Gecko) "
+    "Version/18.5 Mobile/15E148 Safari/604.1"
 )
 
 
@@ -421,6 +427,46 @@ def fetch(url: str) -> str:
     )
     response.raise_for_status()
     return response.text
+
+
+@contextmanager
+def browser_source_fetcher():
+    """以真正的瀏覽器讀取優惠清單，取得 JavaScript 載入的折價資料。"""
+    from playwright.sync_api import sync_playwright
+
+    with sync_playwright() as playwright:
+        browser = playwright.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent=MOBILE_USER_AGENT,
+            viewport={"width": 1024, "height": 1366},
+            locale="zh-TW",
+            timezone_id="Asia/Taipei",
+            is_mobile=True,
+            has_touch=True,
+        )
+        page = context.new_page()
+
+        def rendered_fetch(url: str) -> str:
+            try:
+                page.goto(url, wait_until="domcontentloaded", timeout=60_000)
+                page.wait_for_timeout(2_500)
+                # 部分商品卡會在捲動後才載入折價文字。
+                for _ in range(4):
+                    page.evaluate("window.scrollBy(0, document.body.scrollHeight / 4)")
+                    page.wait_for_timeout(500)
+                return page.content()
+            except Exception as exc:
+                print(
+                    f"瀏覽器讀取失敗，改用一般方式：{url}（{exc}）",
+                    file=sys.stderr,
+                )
+                return fetch(url)
+
+        try:
+            yield rendered_fetch
+        finally:
+            context.close()
+            browser.close()
 
 
 def with_page(url: str, page: int) -> str:
@@ -788,13 +834,29 @@ def main() -> int:
     all_deals: list[Deal] = []
     errors: list[str] = []
     pages_read = 0
-    for url in SOURCE_URLS:
-        try:
-            source_deals, source_pages = collect_source(url)
-            all_deals.extend(source_deals)
-            pages_read += source_pages
-        except requests.RequestException as exc:
-            errors.append(f"{url}: {exc}")
+    try:
+        with browser_source_fetcher() as source_fetcher:
+            for url in SOURCE_URLS:
+                try:
+                    source_deals, source_pages = collect_source(
+                        url, fetcher=source_fetcher
+                    )
+                    all_deals.extend(source_deals)
+                    pages_read += source_pages
+                except requests.RequestException as exc:
+                    errors.append(f"{url}: {exc}")
+    except Exception as exc:
+        print(
+            f"無法啟動瀏覽器，改用一般讀取方式（{exc}）",
+            file=sys.stderr,
+        )
+        for url in SOURCE_URLS:
+            try:
+                source_deals, source_pages = collect_source(url)
+                all_deals.extend(source_deals)
+                pages_read += source_pages
+            except requests.RequestException as request_exc:
+                errors.append(f"{url}: {request_exc}")
 
     deals = deduplicate(all_deals)
     if not deals:
