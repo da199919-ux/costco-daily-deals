@@ -6,6 +6,7 @@ import requests
 
 from src.main import (
     Deal,
+    add_multibuy_promotion,
     categorize,
     collect_source,
     compare_deals,
@@ -85,6 +86,20 @@ class CostcoDealsTest(unittest.TestCase):
         self.assertEqual(updated.price, "$925")
         self.assertEqual(updated.original_price, "$1,159")
         self.assertEqual(updated.discount_amount, "$234")
+
+    def test_multibuy_promotion_calculates_each_price(self):
+        deal = Deal(
+            "涼感商品",
+            "$2,499",
+            "https://example.test/cool",
+            "測試",
+        )
+        updated = add_multibuy_promotion(
+            deal, "https://www.costco.com.tw/c/Hero_Cool"
+        )
+        self.assertIn("買2件享85折", updated.promotion)
+        self.assertIn("2件每件約 $2,124", updated.promotion)
+        self.assertIn("3件每件約 $1,999", updated.promotion)
 
     def test_enrich_product_details_keeps_failed_product(self):
         good = Deal("成功商品", "$925", "https://example.test/good", "測試")

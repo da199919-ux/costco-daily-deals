@@ -22,9 +22,15 @@ BASE_URL = "https://www.costco.com.tw"
 SOURCE_URLS = [
     "https://www.costco.com.tw/c/hot-buys",
     "https://www.costco.com.tw/Deals/c/Coupon",
+    "https://www.costco.com.tw/c/Hero_Cool",
 ]
 MAX_PAGES_PER_SOURCE = 20
-DETAIL_WORKERS = 8
+DETAIL_WORKERS = 3
+MULTIBUY_PROMOTIONS = {
+    "https://www.costco.com.tw/c/Hero_Cool": (
+        "指定夏日涼感商品：買2件享85折，買3件享8折"
+    ),
+}
 CATEGORY_RULES = [
     ("食品飲料", ("food-dining",)),
     ("家電 3C", ("digital-mobile", "televisions-appliances")),
@@ -38,7 +44,8 @@ OUTPUT_DIR = Path(__file__).resolve().parents[1] / "output"
 WATCHLIST_PATH = Path(__file__).resolve().parents[1] / "watchlist.txt"
 USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-    "AppleWebKit/537.36 CostcoDailyDeals/1.0"
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/126.0.0.0 Safari/537.36"
 )
 
 
@@ -147,6 +154,20 @@ def parse_products(html: str, source_url: str) -> list[Deal]:
     return deals
 
 
+def add_multibuy_promotion(deal: Deal, source_url: str) -> Deal:
+    promotion = MULTIBUY_PROMOTIONS.get(source_url, "")
+    current = price_number(deal.price)
+    if not promotion or current is None:
+        return deal
+    two_each = round(current * 0.85)
+    three_each = round(current * 0.8)
+    calculated = (
+        f"{promotion}；"
+        f"2件每件約 ${two_each:,}，3件每件約 ${three_each:,}"
+    )
+    return replace(deal, promotion=calculated)
+
+
 def parse_product_detail(html: str, deal: Deal) -> Deal:
     """從商品詳細頁補上列表頁未提供的原價、折價與優惠文字。"""
     soup = BeautifulSoup(html, "html.parser")
@@ -172,7 +193,19 @@ def parse_product_detail(html: str, deal: Deal) -> Deal:
         discount_amount = f"${discount_match.group(1)}"
 
     original_price = deal.original_price
-    if not original_price and explicit_original:
+    explicit_original_number = (
+        int(explicit_original.group(1).replace(",", ""))
+        if explicit_original
+        else None
+    )
+    if (
+        not original_price
+        and explicit_original
+        and (
+            discount_match
+            or explicit_original_number != price_number(price)
+        )
+    ):
         original_price = f"${explicit_original.group(1)}"
     if not original_price and discount_match and price_number(price) is not None:
         original_price = (
@@ -262,6 +295,7 @@ def collect_source(
 
     for page in range(max_pages):
         deals = parse_products(fetcher(with_page(source_url, page)), source_url)
+        deals = [add_multibuy_promotion(deal, source_url) for deal in deals]
         new_deals = [deal for deal in deals if deal_key(deal) not in seen]
         if not new_deals:
             break
@@ -276,7 +310,17 @@ def deduplicate(deals: Iterable[Deal]) -> list[Deal]:
     unique: dict[str, Deal] = {}
     for deal in deals:
         key = deal.url or deal.name.casefold()
-        unique.setdefault(key, deal)
+        existing = unique.get(key)
+        if existing is None:
+            unique[key] = deal
+            continue
+        unique[key] = replace(
+            existing,
+            image_url=existing.image_url or deal.image_url,
+            original_price=existing.original_price or deal.original_price,
+            discount_amount=existing.discount_amount or deal.discount_amount,
+            promotion=existing.promotion or deal.promotion,
+        )
     return sorted(unique.values(), key=lambda item: item.name.casefold())
 
 
