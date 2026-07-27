@@ -263,7 +263,7 @@ class CostcoDealsTest(unittest.TestCase):
         self.assertIn("商品已折價 $100", updated.promotion)
         self.assertIn("買2件享8.5折", updated.promotion)
 
-    def test_furniture_promotion_displays_one_item_discount(self):
+    def test_furniture_promotion_keeps_displayed_price(self):
         deal = Deal(
             "家具商品",
             "$10,000",
@@ -273,10 +273,11 @@ class CostcoDealsTest(unittest.TestCase):
         updated = add_multibuy_promotion(
             deal, "https://www.costco.com.tw/voucher2"
         )
-        self.assertEqual(updated.price, "$8,500")
-        self.assertEqual(updated.original_price, "$10,000")
-        self.assertEqual(updated.discount_amount, "$1,500")
-        self.assertIn("買1件享8.5折", updated.promotion)
+        self.assertEqual(updated.price, "$10,000")
+        self.assertEqual(updated.original_price, "")
+        self.assertEqual(updated.discount_amount, "")
+        self.assertIn("2026/07/20-08/02", updated.promotion)
+        self.assertIn("買1件享85折，買2件享8折", updated.promotion)
 
     def test_enrich_product_details_keeps_failed_product(self):
         good = Deal("成功商品", "$925", "https://example.test/good", "測試")

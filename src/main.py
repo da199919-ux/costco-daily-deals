@@ -291,6 +291,19 @@ def add_multibuy_promotion(deal: Deal, source_url: str) -> Deal:
     if not rule or current is None:
         return deal
     label, first_quantity, first_rate, second_quantity, second_rate = rule
+
+    # 家具活動是在符合條件後於結帳時折扣，商品頁顯示的仍是目前售價。
+    # 不把推算後的 85 折價格冒充為單品特價，只顯示活動條件。
+    if source_url == "https://www.costco.com.tw/voucher2":
+        conditions = (
+            "2026/07/20-08/02期間購買指定家具，"
+            "買1件享85折，買2件享8折優惠。"
+        )
+        promotion = "；".join(
+            part for part in (deal.promotion, conditions) if part
+        )
+        return replace(deal, promotion=promotion)
+
     first_each = round(current * first_rate)
     second_each = round(current * second_rate)
     conditions = (
