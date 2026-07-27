@@ -2,9 +2,9 @@
 
 ## 今日變化
 
-更新時間：2026-07-28 02:55（台灣時間）
+更新時間：2026-07-28 06:49（台灣時間）
 共整理出 **446** 項官方線上優惠。
-本次共讀取 **459** 個官方商品頁面。
+本次共讀取 **466** 個官方商品頁面。
 
 > 價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。
 
@@ -29,12 +29,12 @@
 ## 今日變化
 
 - 新增優惠：**0** 項
-- 已結束或不在清單：**7** 項
-- 價格變動：**1** 項
+- 已結束或不在清單：**0** 項
+- 價格變動：**0** 項
 
 ### 價格變動
 
-- **漲價**：[Charmin 超柔捲筒衛生紙 213張 X 30卷](https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Charmin-Ultra-Soft-Bath-Tissue-213-Sheet-X-30-Roll/p/2773119) $899 → $999
+- 今天沒有偵測到價格變動。
 
 ### 今日新增
 
@@ -42,13 +42,7 @@
 
 ### 已結束或不在清單
 
-- [樂事 FIFA 世足聯名歡聚箱 70公克 X 9包 (阿根廷青醬牛排 X 3 + 法式蒜香奶油 X 3 + 英式炸魚薯條 X 3)](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Lays-FIFA-Multi-Pack-70-g-X-9-Pack-Chimichurri-Steak-X-3-Garlic-Butter-X-3-Fish-Chips-X-3/p/188000)（$289）
-- [La Española 西班牙特級初榨橄欖油 5公升](https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/La-Espanola-Evoo-Oil-5-L/p/153839)（$929）
-- [United Colors of Benetton 女短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/United-Colors-of-Benetton-Ladies-Short-Sleeve-Tee/p/1853638)（$197）
-- [Samsung 65吋 QLED 4K AI 量子智慧顯示器 QA65QEF1AXXZW](https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/60-69-TVs/Samsung-65-inch-QLED-4K-AI-Smart-Monitor-QA65QEF1AXXZW/p/153528)（$24,999）
-- [JIMMY CHOO 太陽眼鏡 ALIANA/S RHLIR 金色](https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/JIMMY-CHOO-Sunglasses-ALIANAS-RHLIR-Gold/p/250672)（$1,897）
-- [Adidas 男運動休閒鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Adidas-Mens-Runvista-Shoe/p/154456)（$957）
-- [GIVENCHY 太陽眼鏡 GV40083F 52J 玳瑁色](https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/GIVENCHY-Sunglasses-GV40083F-52J-Havana/p/250738)（$1,159）
+- 今天沒有優惠離開清單。
 
 ## 全部優惠
 
@@ -426,6 +420,11 @@
 | 家電 3C | [飛利浦 75吋 4K QLED Google TV 顯示器 75PQT8530/96](https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/70-79-TVs/Philips-75-inch-4K-QLED-Google-TV-Monitor-75PQT853096/p/153525) | $34,999 |
 | 日用品／母嬰／玩具 | [Step2 汽車造型戲水桌 / 3歲以上](https://www.costco.com.tw/Household-Baby-Toys/Toys/Outdoor-Play/Step2-Car-Wash-Splash-Center-Ages-3-and-Up/p/152880) | $3,997 |
 | 其他 | [2.02克拉18K白K金 圓形鑽石項鍊 VVS1/D](https://www.costco.com.tw/Jewelry-Gold/Diamond/Diamond-Necklaces/202-ctw-18kt-White-Gold-Round-Diamond-Pendant-VVS1D/p/1024902) | $1,599,997 |
+| 其他 | [Kirkland Signature Vitamin D3 350 iu 600-Tablet](https://www.costco.com.tw/Vitamins-Herbals-Dietary-Supplements/Kirkland-Signature-Vitamin-D3-350-iu-600-Tablet/p/325143) | $279 |
+| 保健美容 | [Weider Vitamin K2 + D3 120-Capsule](https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Weider-Vitamin-K2-D3-120-Capsule/p/144635) | $559 |
+| 保健美容 | [Kirkland Signature Calcium 600 mg with Vitamin D3 500 Tablets](https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Kirkland-Signature-Calcium-600-mg-with-Vitamin-D3-500-Tablets/p/389195) | $479 |
+| 保健美容 | [Webber Naturals 甘胺酸鎂膠囊 300粒](https://www.costco.com.tw/Health-Beauty/Supplements/Bone-Joint-Support/Webber-Naturals-Magnesium-bisglycinate-300-Capsule/p/150568) | $899 |
+| 保健美容 | [小善存 綜合維他命+鈣 100錠](https://www.costco.com.tw/Health-Beauty/Supplements/Kids-Health/Centrum-Junior-Extra-Ca-Multi-vitamin-100-Tablet/p/118326) | $825 |
 | 家具家居 | [WOKY 沃廚 ECOZEN 純透渾圓隨行杯 880毫升 X 2件組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/WOKY-ECOZEN-Water-Bottle-880-ml-X-2-Piece-Set/p/150702) | $879 |
 | 家具家居 | [樂扣樂扣 Tritan 彈蓋提帶冷水壺 650毫升 + 1000毫升](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/LocknLock-Tritan-Water-Bottle-650-ml-1000-ml/p/155277) | $849 |
 | 家具家居 | [Lustroware 冷水壺 2.2公升 X 2件組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Lustroware-Pitcher-22-L-X-2-Piece-Set/p/149213) | $649 |
@@ -495,11 +494,6 @@
 | 家具家居 | [Studio TU 玻璃飲料桶 8.3公升 含木製桶架 & 上蓋](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Studio-TU-Gallon-Glass-Drink-Dispenser-83-L-with-Acacia-Wood-Stand-Lid/p/1796162) | $715 |
 | 家具家居 | [Berkshire 涼感被 152公分 X 177公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Berkshire-Reversible-Cooling-Throw-152-cm-X-177-cm/p/690459) | $539 |
 | 家具家居 | [日本製雙層冷水壺 1.7公升 X 6件組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Double-Layer-Water-Pitcher-17-L-X-6-Piece-Set/p/143524) | $6,199 |
-| 其他 | [科克蘭 維生素 D3 350 IU 600錠](https://www.costco.com.tw/Vitamins-Herbals-Dietary-Supplements/Kirkland-Signature-Vitamin-D3-350-iu-600-Tablet/p/325143) | $279 |
-| 保健美容 | [威德 維生素 K2+D3 膠囊 120粒](https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Weider-Vitamin-K2-D3-120-Capsule/p/144635) | $559 |
-| 保健美容 | [科克蘭 鈣加維生素D3二合一錠 500錠](https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Kirkland-Signature-Calcium-600-mg-with-Vitamin-D3-500-Tablets/p/389195) | $479 |
-| 保健美容 | [Webber Naturals 甘胺酸鎂膠囊 300粒](https://www.costco.com.tw/Health-Beauty/Supplements/Bone-Joint-Support/Webber-Naturals-Magnesium-bisglycinate-300-Capsule/p/150568) | $899 |
-| 保健美容 | [小善存 綜合維他命+鈣 100錠](https://www.costco.com.tw/Health-Beauty/Supplements/Kids-Health/Centrum-Junior-Extra-Ca-Multi-vitamin-100-Tablet/p/118326) | $825 |
 
 資料來源：
 
