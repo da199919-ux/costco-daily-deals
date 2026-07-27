@@ -304,32 +304,18 @@ def add_multibuy_promotion(deal: Deal, source_url: str) -> Deal:
         )
         return replace(deal, promotion=promotion)
 
-    first_each = round(current * first_rate)
-    second_each = round(current * second_rate)
     conditions = (
         f"{label}：買{first_quantity}件享{first_rate * 10:g}折，"
-        f"每件約 ${first_each:,}；買{second_quantity}件享"
-        f"{second_rate * 10:g}折，每件約 ${second_each:,}"
+        f"買{second_quantity}件享{second_rate * 10:g}折"
+        "（結帳時依活動條件計算）"
     )
 
-    # 商品本身已有固定折價時，以 Costco 公布的固定特價為主，
-    # 多件優惠只補充顯示，避免覆蓋更精確的折扣後小計。
-    if deal.discount_amount or deal.original_price:
-        promotion = "；".join(
-            part for part in (deal.promotion, conditions) if part
-        )
-        return replace(deal, promotion=promotion)
-
-    # 多件優惠沒有獨立的「小計」欄位，因此將最低購買門檻下的
-    # 每件價格直接放在卡片主價格，並清楚保留購買件數條件。
-    discount = current - first_each
-    return replace(
-        deal,
-        price=f"${first_each:,}",
-        original_price=f"${current:,}",
-        discount_amount=f"${discount:,}",
-        promotion=conditions,
+    # 多件優惠是結帳條件，不是商品頁的即時售價。主價格保留 Costco
+    # 官網顯示值，只補充活動說明，不再自行推算每件折後價格。
+    promotion = "；".join(
+        part for part in (deal.promotion, conditions) if part
     )
+    return replace(deal, promotion=promotion)
 
 
 def parse_product_detail(html: str, deal: Deal) -> Deal:
