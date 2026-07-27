@@ -21,9 +21,10 @@ from bs4 import BeautifulSoup
 
 BASE_URL = "https://www.costco.com.tw"
 SOURCE_URLS = [
+    # 先讀 Costco「相關商品」排序，後續來源只補充折扣資料與遺漏品項。
+    "https://www.costco.com.tw/c/hot-buys?q=:relevance",
     "https://www.costco.com.tw/voucher4",
     "https://www.costco.com.tw/voucher2",
-    "https://www.costco.com.tw/c/hot-buys",
     "https://www.costco.com.tw/Deals/c/Coupon",
     "https://www.costco.com.tw/c/Hero_Cool",
 ]
@@ -532,6 +533,12 @@ def deduplicate(deals: Iterable[Deal]) -> list[Deal]:
         prefer_discounted = bool(deal.discount_amount) and not bool(
             existing.discount_amount
         )
+        promotions = [
+            value
+            for value in (existing.promotion, deal.promotion)
+            if value
+        ]
+        combined_promotion = "；".join(dict.fromkeys(promotions))
         unique[key] = replace(
             existing,
             price=deal.price if prefer_discounted else existing.price,
@@ -539,11 +546,11 @@ def deduplicate(deals: Iterable[Deal]) -> list[Deal]:
             image_url=existing.image_url or deal.image_url,
             original_price=existing.original_price or deal.original_price,
             discount_amount=existing.discount_amount or deal.discount_amount,
-            promotion=deal.promotion if prefer_discounted else (
-                existing.promotion or deal.promotion
-            ),
+            promotion=combined_promotion,
         )
-    return sorted(unique.values(), key=lambda item: item.name.casefold())
+    # dict 保留第一次出現的順序；hot-buys 是第一個來源，因此此處
+    # 保留 Costco 官網「相關商品」排序，不再改成商品名稱排序。
+    return list(unique.values())
 
 
 def deal_key(deal: Deal) -> str:

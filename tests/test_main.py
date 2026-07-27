@@ -126,6 +126,11 @@ class CostcoDealsTest(unittest.TestCase):
         deal = parse_products(SAMPLE_HTML, "https://example.test/deals")[0]
         self.assertEqual(len(deduplicate([deal, deal])), 1)
 
+    def test_deduplicate_preserves_official_source_order(self):
+        first = Deal("第二個名稱", "$200", "https://example.test/p/2", "官網")
+        second = Deal("第一個名稱", "$100", "https://example.test/p/1", "官網")
+        self.assertEqual(deduplicate([first, second]), [first, second])
+
     def test_deduplicate_prefers_discounted_price(self):
         regular = Deal(
             "三麗鷗保溫瓶",
