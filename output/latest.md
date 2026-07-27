@@ -2,7 +2,7 @@
 
 ## 今日變化
 
-更新時間：2026-07-27 21:25（台灣時間）
+更新時間：2026-07-27 22:30（台灣時間）
 共整理出 **453** 項官方線上優惠。
 本次共讀取 **473** 個官方商品頁面。
 
@@ -28,23 +28,37 @@
 
 ## 今日變化
 
-- 新增優惠：**2** 項
-- 已結束或不在清單：**2** 項
-- 價格變動：**0** 項
+- 新增優惠：**0** 項
+- 已結束或不在清單：**0** 項
+- 價格變動：**17** 項
 
 ### 價格變動
 
-- 今天沒有偵測到價格變動。
+- **漲價**：[Beats Studio Pro 無線頭戴式耳機](https://www.costco.com.tw/Digital-Mobile/Wearables-Audio/Headphones-Audio-Devices/Beats-Studio-Pro-Wireless-Headphones/p/141447-B) $7,989 → $9,399
+- **漲價**：[Bentley Designs Kristen 窄收納櫃 103公分](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Bentley-Designs-Kristen-Oak-Light-Weathered-Oak-Narrow-Sideboard-103-cm/p/157437) $14,364 → $16,899
+- **漲價**：[Bentley Designs Sienna Fumed 橡木 & 胡椒色 單層抽屜床頭櫃 46公分](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Bentley-Designs-Sienna-Fumed-Oak-Peppercorn-1-Drawer-Nightstand-46-cm/p/152783) $4,589 → $5,399
+- **漲價**：[Bentley Designs Sienna Fumed 橡木 雙層抽屜床頭櫃 46公分](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Bentley-Designs-Sienna-Fumed-Oak-Peppercorn-2-Drawer-Nightstand-46-cm/p/152784) $5,354 → $6,299
+- **漲價**：[Bentley Designs Vega Scandi 橡木 & 胡椒色 電視櫃 148公分](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Bentley-Designs-Vega-Scandi-Oak-Peppercorn-Entertainment-Unit-148-cm/p/152766) $11,049 → $12,999
+- **漲價**：[Ergoking 網布人體工學椅 171 S Plus系列](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Ergoking-Mesh-Chair-171-S-Plus/p/132324) $7,564 → $8,899
+- **漲價**：[Finlandia Estante 六格抽屜櫃 橡木色](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Estante-6-Drawer-Wide-Chest-Oak/p/159529) $16,999 → $19,999
+- **漲價**：[Finlandia Estante 六格抽屜櫃 胡桃色](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Estante-6-Drawer-Wide-Chest-Walnut/p/159528) $16,999 → $19,999
+- **漲價**：[Finlandia Estante 電視櫃 橡木色](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Estante-TV-Console-Oak/p/159527) $16,999 → $19,999
+- **漲價**：[Finlandia Estante 電視櫃 胡桃色](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Estante-TV-Console-Walnut/p/159526) $16,999 → $19,999
+- **漲價**：[Finlandia Lubis 儲物櫃 181公分](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Lubis-Cabinet-181-cm/p/648137) $15,299 → $17,999
+- **漲價**：[Finlandia 儲物櫃 白色 200公分](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Dresser-White-200-cm/p/145650) $15,299 → $17,999
+- **漲價**：[台達電子 多功能循環涼暖風機 標準型300系列 遙控型](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/KitchenBathroom-Hardware/Delta-Fan-Heater-Classic-300-Series-Remote-Control/p/135409-B) $4,249 → $4,999
+- **漲價**：[席伊麗 美姿系列 Colorado雙人加大床墊 183公分 X 190公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Sealy-Colorado-Posturepedic-Mattress-183-X-190-cm/p/133225) $42,754 → $50,299
+- **漲價**：[席伊麗 護背系列 Sunshine 標準雙人床墊 152公分 X 190公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Sealy-Sunshine-Backsaver-Mattress-152-cm-X-190-cm/p/133226) $20,229 → $23,799
+- **漲價**：[幻知曲 R450 標準雙人睡眠系統 贈保潔墊 150公分 X 200公分](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Bedroom-Furniture-Sets/Reverie-R450-Sleep-System-with-Protector-150-cm-X-200-cm/p/141096) $80,749 → $94,999
+- **漲價**：[老協珍 冷凍熬雞精 68毫升 X 30入](https://www.costco.com.tw/Health-Beauty/Elderly-Care/Supplements/Lao-Xie-Zhen-Frozen-Chicken-Essence-68-ml-X-30-Pack/p/118552) $3,399 → $3,999
 
 ### 今日新增
 
-- [日本獅王 趣淨抗菌洗手慕斯花香組 500毫升 1入 + 2公升補充瓶 1入](https://www.costco.com.tw/Health-Beauty/Personal-Care/Facial-Cleansers-Hand-Washes/LION-KireiKirei-Medicated-Foaming-Hand-Soap-Set-Floral-500-ml-X-1-Pack-2-L-refill-X-1-Pack/p/151738)（$549）
-- [艾美特 DC 遙控大廈扇 FT89R](https://www.costco.com.tw/Cooling-Heating-Air-Treatment/Heating-Cooling/p/150625)（$2,999）
+- 今天沒有新增優惠。
 
 ### 已結束或不在清單
 
-- [日本獅王 趣淨抗菌洗手慕斯花香組 500毫升 1入 + 2公升補充瓶 1入](https://www.costco.com.tw/p/151738)（$549）
-- [艾美特 DC 遙控大廈扇 FT89R](https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Airmate-DC-Remote-Control-Tower-Fan-FT89R/p/150625)（$2,999）
+- 今天沒有優惠離開清單。
 
 ## 全部優惠
 
@@ -93,11 +107,11 @@
 | 服飾配件 | [Banana Republic 男經典斜紋五口袋長褲](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/Banana-Republic-Mens-Classic-Twill-5-Pocket-Pants/p/1967449) | $1,159 |
 | 日用品／母嬰／玩具 | [Barrington 10人撲克桌 含LED燈](https://www.costco.com.tw/Household-Baby-Toys/Toys/Board-Games-Puzzles/Barrington-10-Player-Poker-Table-with-LED-Lights/p/1740653) | $4,699 |
 | 日用品／母嬰／玩具 | [Bburago 1:43 賽車維修中心 / 3歲以上](https://www.costco.com.tw/Household-Baby-Toys/Toys/Outdoor-Play/Bburago-143-Paddock-Set-Ages-3-and-Up/p/1851433) | $697 |
-| 家電 3C | [Beats Studio Pro 無線頭戴式耳機](https://www.costco.com.tw/Digital-Mobile/Wearables-Audio/Headphones-Audio-Devices/Beats-Studio-Pro-Wireless-Headphones/p/141447-B) | $7,989 |
-| 家具家居 | [Bentley Designs Kristen 窄收納櫃 103公分](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Bentley-Designs-Kristen-Oak-Light-Weathered-Oak-Narrow-Sideboard-103-cm/p/157437) | $14,364 |
-| 家具家居 | [Bentley Designs Sienna Fumed 橡木 & 胡椒色 單層抽屜床頭櫃 46公分](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Bentley-Designs-Sienna-Fumed-Oak-Peppercorn-1-Drawer-Nightstand-46-cm/p/152783) | $4,589 |
-| 家具家居 | [Bentley Designs Sienna Fumed 橡木 雙層抽屜床頭櫃 46公分](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Bentley-Designs-Sienna-Fumed-Oak-Peppercorn-2-Drawer-Nightstand-46-cm/p/152784) | $5,354 |
-| 家具家居 | [Bentley Designs Vega Scandi 橡木 & 胡椒色 電視櫃 148公分](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Bentley-Designs-Vega-Scandi-Oak-Peppercorn-Entertainment-Unit-148-cm/p/152766) | $11,049 |
+| 家電 3C | [Beats Studio Pro 無線頭戴式耳機](https://www.costco.com.tw/Digital-Mobile/Wearables-Audio/Headphones-Audio-Devices/Beats-Studio-Pro-Wireless-Headphones/p/141447-B) | $9,399 |
+| 家具家居 | [Bentley Designs Kristen 窄收納櫃 103公分](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Bentley-Designs-Kristen-Oak-Light-Weathered-Oak-Narrow-Sideboard-103-cm/p/157437) | $16,899 |
+| 家具家居 | [Bentley Designs Sienna Fumed 橡木 & 胡椒色 單層抽屜床頭櫃 46公分](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Bentley-Designs-Sienna-Fumed-Oak-Peppercorn-1-Drawer-Nightstand-46-cm/p/152783) | $5,399 |
+| 家具家居 | [Bentley Designs Sienna Fumed 橡木 雙層抽屜床頭櫃 46公分](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Bentley-Designs-Sienna-Fumed-Oak-Peppercorn-2-Drawer-Nightstand-46-cm/p/152784) | $6,299 |
+| 家具家居 | [Bentley Designs Vega Scandi 橡木 & 胡椒色 電視櫃 148公分](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Bentley-Designs-Vega-Scandi-Oak-Peppercorn-Entertainment-Unit-148-cm/p/152766) | $12,999 |
 | 服飾配件 | [Berkemann Allexis 女休閒運動鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Berkemann-Allexis-Ladies-Sneaker-White/p/1846415) | $4,059 |
 | 家具家居 | [Berkshire 印花薄被毛毯 152公分 X 177公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Berkshire-Quilted-Throw-152-cm-X-177-cm/p/153707) | $297 |
 | 家具家居 | [Berkshire 涼感被 152公分 X 177公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Berkshire-Reversible-Cooling-Throw-152-cm-X-177-cm/p/690459) | $539 |
@@ -165,17 +179,17 @@
 | 家具家居 | [Don Home 萊賽爾雙人加大兩用被套六件組 182公分 X 190公分 賽洛](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Don-Home-300-Thread-Count-Lyocell-Quilted-Duvet-6-Piece-Set-182-cm-X-190-cm-Lou/p/144734) | $2,399 |
 | 家具家居 | [Downlite 涼感舒眠枕 2入 51公分 X 71公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Downlite-Ultimate-Freeze-Sleep-Pillow-2-Pack-51-cm-X-71-cm/p/688672) | $529 |
 | 家具家居 | [DUROFIX 4V 鋰電池充電式起子機](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/DUROFIX-4V-Rechargeable-Screwdriver/p/155234) | $669 |
-| 家具家居 | [Ergoking 網布人體工學椅 171 S Plus系列](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Ergoking-Mesh-Chair-171-S-Plus/p/132324) | $7,564 |
+| 家具家居 | [Ergoking 網布人體工學椅 171 S Plus系列](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Ergoking-Mesh-Chair-171-S-Plus/p/132324) | $8,899 |
 | 日用品／母嬰／玩具 | [FIFA 世界盃 8吋 絨毛玩偶](https://www.costco.com.tw/Household-Baby-Toys/Toys/Dolls-Pretend-Play/FIFA-World-Cup-8-inch-Plush/p/1851571) | $357 |
 | 服飾配件 | [FIFA 世界盃足球賽短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/FIFA-World-Cup-Short-Sleeve-Jersey/p/1968492) | $547 |
 | 服飾配件 | [Fila 兒童圓領刷毛長袖上衣](https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Tops/Fila-Kids-Crew-Neck-Fleece-Long-Sleeve-Sweatshirt/p/140162) | $147 |
 | 服飾配件 | [Fila 兒童毛圈布長褲](https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Bottoms-Dresses/Fila-Kids-French-Terry-Jogger/p/152413) | $247 |
-| 家具家居 | [Finlandia Estante 六格抽屜櫃 橡木色](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Estante-6-Drawer-Wide-Chest-Oak/p/159529) | $16,999 |
-| 家具家居 | [Finlandia Estante 六格抽屜櫃 胡桃色](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Estante-6-Drawer-Wide-Chest-Walnut/p/159528) | $16,999 |
-| 家具家居 | [Finlandia Estante 電視櫃 橡木色](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Estante-TV-Console-Oak/p/159527) | $16,999 |
-| 家具家居 | [Finlandia Estante 電視櫃 胡桃色](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Estante-TV-Console-Walnut/p/159526) | $16,999 |
-| 家具家居 | [Finlandia Lubis 儲物櫃 181公分](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Lubis-Cabinet-181-cm/p/648137) | $15,299 |
-| 家具家居 | [Finlandia 儲物櫃 白色 200公分](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Dresser-White-200-cm/p/145650) | $15,299 |
+| 家具家居 | [Finlandia Estante 六格抽屜櫃 橡木色](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Estante-6-Drawer-Wide-Chest-Oak/p/159529) | $19,999 |
+| 家具家居 | [Finlandia Estante 六格抽屜櫃 胡桃色](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Estante-6-Drawer-Wide-Chest-Walnut/p/159528) | $19,999 |
+| 家具家居 | [Finlandia Estante 電視櫃 橡木色](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Estante-TV-Console-Oak/p/159527) | $19,999 |
+| 家具家居 | [Finlandia Estante 電視櫃 胡桃色](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Estante-TV-Console-Walnut/p/159526) | $19,999 |
+| 家具家居 | [Finlandia Lubis 儲物櫃 181公分](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Lubis-Cabinet-181-cm/p/648137) | $17,999 |
+| 家具家居 | [Finlandia 儲物櫃 白色 200公分](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Dresser-White-200-cm/p/145650) | $17,999 |
 | 服飾配件 | [FitFlop Lulu 牛皮女拖鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/FitFlop-Lulu-Leather-Ladies-Slippers/p/157365) | $1,659 |
 | 其他 | [FOOD超人 魔法趣味麥克風 (歡唱童謠繪本)](https://www.costco.com.tw/Office-School/Books/Kids-Books/Kids-Karaoke-Microphone-Magic-Singing-Sounds-Book/p/152304) | $449 |
 | 其他 | [Freetown 成人自行車安全頭盔](https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Bikes/Freetown-Mips-Bike-Helmet/p/152289) | $899 |
@@ -358,7 +372,7 @@
 | 其他 | [動物樂隊拍拍鼓 + 汽車遊戲方向盤 (紅色) (2冊)](https://www.costco.com.tw/Office-School/Books/Kids-Books/Baby-Touch-Music-Drum-Animal-Driving-Toy-Wheel-for-Kids-Red-2-Books/p/150510) | $669 |
 | 食品飲料 | [匠拌麵 鵝油金蔥拌麵 125公克 X 10包](https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Kung-Fu-Noodles-Premium-Goose-Oil-with-Crispy-Shallot-Flakes-125-g-X-10-Pack/p/136652) | $339 |
 | 食品飲料 | [卡夫 100%帕馬森起司粉 227公克](https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/Kraft-100-Parmesan-Grated-Cheese-227-g/p/244895) | $167 |
-| 家具家居 | [台達電子 多功能循環涼暖風機 標準型300系列 遙控型](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/KitchenBathroom-Hardware/Delta-Fan-Heater-Classic-300-Series-Remote-Control/p/135409-B) | $4,249 |
+| 家具家居 | [台達電子 多功能循環涼暖風機 標準型300系列 遙控型](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/KitchenBathroom-Hardware/Delta-Fan-Heater-Classic-300-Series-Remote-Control/p/135409-B) | $4,999 |
 | 保健美容 | [吉列 鋒隱手動刮鬍刀組 刀架 X 1 + 刀頭 X 12](https://www.costco.com.tw/Health-Beauty/Personal-Care/Mens-Grooming/Gillette-Fusion-Razor-Set-Razor-X-1-Cartridge-X-12/p/239390) | $769 |
 | 食品飲料 | [名廚美饌 24臻穀 36公克 X 50入](https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/PGi-Cuisine-De-Chef-24-Grain-Powder-36-g-X-50-Count/p/102714) | $399 |
 | 家電 3C | [向物 高速手持風扇 引擎PRO DSHJ-S-2324](https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/SOTHING-Handheld-Fan-Engine-Pro-DSHJ-S-2324/p/152999) | $969 |
@@ -385,9 +399,9 @@
 | 保健美容 | [威德 維生素 K2+D3 膠囊 120粒](https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Weider-Vitamin-K2-D3-120-Capsule/p/144635) | $559 |
 | 其他 | [寶寶歡唱繪本 律動兒歌(全套4冊)](https://www.costco.com.tw/Office-School/Books/Kids-Books/Baby-Singing-Picture-Book-4-Books/p/160272) | $679 |
 | 保健美容 | [小善存 綜合維他命+鈣 100錠](https://www.costco.com.tw/Health-Beauty/Supplements/Kids-Health/Centrum-Junior-Extra-Ca-Multi-vitamin-100-Tablet/p/118326) | $825 |
-| 家具家居 | [席伊麗 美姿系列 Colorado雙人加大床墊 183公分 X 190公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Sealy-Colorado-Posturepedic-Mattress-183-X-190-cm/p/133225) | $42,754 |
-| 家具家居 | [席伊麗 護背系列 Sunshine 標準雙人床墊 152公分 X 190公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Sealy-Sunshine-Backsaver-Mattress-152-cm-X-190-cm/p/133226) | $20,229 |
-| 家具家居 | [幻知曲 R450 標準雙人睡眠系統 贈保潔墊 150公分 X 200公分](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Bedroom-Furniture-Sets/Reverie-R450-Sleep-System-with-Protector-150-cm-X-200-cm/p/141096) | $80,749 |
+| 家具家居 | [席伊麗 美姿系列 Colorado雙人加大床墊 183公分 X 190公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Sealy-Colorado-Posturepedic-Mattress-183-X-190-cm/p/133225) | $50,299 |
+| 家具家居 | [席伊麗 護背系列 Sunshine 標準雙人床墊 152公分 X 190公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Sealy-Sunshine-Backsaver-Mattress-152-cm-X-190-cm/p/133226) | $23,799 |
+| 家具家居 | [幻知曲 R450 標準雙人睡眠系統 贈保潔墊 150公分 X 200公分](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Bedroom-Furniture-Sets/Reverie-R450-Sleep-System-with-Protector-150-cm-X-200-cm/p/141096) | $94,999 |
 | 家具家居 | [幻知曲 單人天然舒柔防水保潔墊 2件組 107公分 X 190公分 X 38公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Reverie-Modal-Mattress-Protector-2-Piece-Set-107-cm-X-190-cm-X-38-cm/p/114499) | $615 |
 | 家具家居 | [幻知曲 涼感舒眠枕 66公分 X 38公分 X 11公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Reverie-Cooling-Pillow-66-cm-X-38-cm-X-11-cm/p/156890) | $985 |
 | 家具家居 | [幻知曲 舒柔曲線乳膠枕 58公分 X 38公分 X 10公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Reverie-Comfort-Latex-Pillow-58-cm-X-38-cm-X-10-cm/p/121631) | $719 |
@@ -461,7 +475,7 @@
 | 食品飲料 | [義美 皇家夾心酥 33公克 X 46包](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/I-MEI-Cream-Wafer-Cookies-33-g-X-46-Pack/p/143277) | $289 |
 | 食品飲料 | [翠果子 杏仁海苔天婦羅點心包 500公克](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/TRYGOODZ-ALMOND-SEAWEED-CRACKER-MIX-500G/p/888688) | $299 |
 | 食品飲料 | [翠果子 綜合米果 20公克 X 30入](https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Trygoodz-Rice-Crackers-with-Almonds-20-g-X-30-Pack/p/111681) | $255 |
-| 保健美容 | [老協珍 冷凍熬雞精 68毫升 X 30入](https://www.costco.com.tw/Health-Beauty/Elderly-Care/Supplements/Lao-Xie-Zhen-Frozen-Chicken-Essence-68-ml-X-30-Pack/p/118552) | $3,399 |
+| 保健美容 | [老協珍 冷凍熬雞精 68毫升 X 30入](https://www.costco.com.tw/Health-Beauty/Elderly-Care/Supplements/Lao-Xie-Zhen-Frozen-Chicken-Essence-68-ml-X-30-Pack/p/118552) | $3,999 |
 | 家電 3C | [聲寶 16吋 機械式立扇 SK-GF16X](https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/SAMPO-16-inch-Mechanical-Fan-SK-GF16X/p/158738) | $1,359 |
 | 日用品／母嬰／玩具 | [舒潔 三層抽取式衛生紙 100抽 X 64入](https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Kleenex-Baby-Soft-3-Ply-Interfold-Bath-Tissue-100-Sheet-X-64-Count/p/212200) | $925 |
 | 日用品／母嬰／玩具 | [舒潔 濕式衛生紙 46張 X 32入](https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Kleenex-Flushable-Wipes-46-Sheet-X-32-Count/p/123333) | $1,143 |
