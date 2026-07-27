@@ -2,9 +2,9 @@ name: 每日更新 Costco 優惠
 
 on:
   schedule:
-    # GitHub 排程使用 UTC；避開整點尖峰，每 4 小時的第 17 分鐘執行。
-    # 對應台灣時間約為 00:17、04:17、08:17、12:17、16:17、20:17。
-    - cron: "17 0,4,8,12,16,20 * * *"
+    # 每小時避開整點喚醒一次，再由下方檢查是否已超過 4 小時。
+    # 若未滿 4 小時會立即結束，不會重複抓取 Costco。
+    - cron: "23 * * * *"
   workflow_dispatch:
   push:
     branches: ["main"]
@@ -25,26 +25,57 @@ jobs:
     steps:
       - name: 下載專案
         uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: 檢查是否需要更新
+        id: frequency
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+            echo "手動執行或程式更新，立即產生清單"
+            exit 0
+          fi
+
+          last_update=$(git log -1 \
+            --format=%ct \
+            --grep='^自動更新 Costco 每日優惠$' || true)
+          now=$(date +%s)
+
+          if [ -z "$last_update" ] || [ $((now - last_update)) -ge 13500 ]; then
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+            echo "距離上次更新已達約 4 小時，開始更新"
+          else
+            echo "should_run=false" >> "$GITHUB_OUTPUT"
+            echo "距離上次更新未滿約 4 小時，本次略過"
+          fi
 
       - name: 設定 Python
+        if: steps.frequency.outputs.should_run == 'true'
         uses: actions/setup-python@v6
         with:
           python-version: "3.11"
           cache: pip
 
       - name: 安裝套件
+        if: steps.frequency.outputs.should_run == 'true'
         run: pip install -r requirements.txt
 
       - name: 安裝網頁瀏覽器
+        if: steps.frequency.outputs.should_run == 'true'
         run: playwright install --with-deps chromium
 
       - name: 產生今日清單
+        if: steps.frequency.outputs.should_run == 'true'
         run: python -m src.main
 
       - name: 更新公開網頁
+        if: steps.frequency.outputs.should_run == 'true'
         run: node scripts/build_pages.mjs
 
       - name: 儲存更新結果
+        if: steps.frequency.outputs.should_run == 'true'
         run: |
           if [ -z "$(git status --porcelain -- output/ docs/)" ]; then
             echo "今天的清單沒有變更"
@@ -57,6 +88,7 @@ jobs:
           git push
 
       - name: 發布 Gmail 摘要通知
+        if: steps.frequency.outputs.should_run == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
