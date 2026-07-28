@@ -9,7 +9,7 @@
 - 收錄官方線上優惠，不保證包含各實體賣場當天臨時降價。
 - 每天台灣時間早上 7:00 由 GitHub Actions 自動更新。
 - 輸出位置是 `output/latest.md` 與 `output/latest.csv`。
-- 自動列出今日新增，以及已結束或不在清單的優惠。
+- 自動列出今日新增，以及本次未收錄的商品（不代表優惠已結束）。
 - 每日紀錄保存在 `output/history/年-月-日.csv`。
 - 精簡摘要保存在 `output/summary.md`，並透過 GitHub Issues 發送 Gmail 通知。
 - `watchlist.txt` 可設定常買商品或品牌，符合的優惠會顯示在摘要最上方。

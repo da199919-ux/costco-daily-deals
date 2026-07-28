@@ -800,7 +800,7 @@ def write_outputs(
         summary_lines.extend(
             [
                 f"- 新增優惠：**{len(added)}** 項",
-                f"- 已結束或不在清單：**{len(removed)}** 項",
+                f"- 本次未收錄：**{len(removed)}** 項（不代表優惠已結束）",
                 f"- 價格變動：**{len(price_changes)}** 項",
                 "",
                 "### 價格變動",
@@ -812,11 +812,11 @@ def write_outputs(
         )
         summary_lines.extend(["", "### 今日新增", ""])
         summary_lines.extend(deal_lines(added) or ["- 今天沒有新增優惠。"])
-        summary_lines.extend(["", "### 已結束或不在清單", ""])
-        summary_lines.extend(deal_lines(removed) or ["- 今天沒有優惠離開清單。"])
+        summary_lines.extend(["", "### 本次未收錄（不代表優惠已結束）", ""])
+        summary_lines.extend(deal_lines(removed) or ["- 本次沒有商品離開抓取清單。"])
     else:
         summary_lines.append(
-            "- 這是第一份歷史紀錄，明天起會顯示新增與已結束優惠。"
+            "- 這是第一份歷史紀錄，之後會顯示新增與本次未收錄商品。"
         )
     summary_lines.extend(
         [
@@ -908,7 +908,7 @@ def main() -> int:
         added, removed = compare_deals(deals, previous_deals)
         price_changes = compare_prices(deals, previous_deals)
         print(f"- 今日新增：{len(added)} 項")
-        print(f"- 已結束或不在清單：{len(removed)} 項")
+        print(f"- 本次未收錄：{len(removed)} 項")
         print(f"- 價格變動：{len(price_changes)} 項")
     print(f"- {md_path}")
     print(f"- {csv_path}")
