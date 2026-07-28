@@ -1,8 +1,417 @@
 {
   "date": "2026-07-28",
-  "generated_at": "2026-07-28 06:49",
+  "generated_at": "2026-07-28 16:22",
   "has_previous": true,
-  "added": [],
-  "removed": [],
-  "price_changes": []
+  "added": [
+    {
+      "name": "吉列 鋒隱手動刮鬍刀組 刀架 X 1 + 刀頭 X 12",
+      "price": "$769",
+      "original_price": "$969",
+      "discount_amount": "$200",
+      "promotion": "商品已折價 $200 含運",
+      "url": "https://www.costco.com.tw/Costco/Health-Beauty/Personal-Care/Mens-Grooming/Gillette-Fusion-Razor-Set-Razor-X-1-Cartridge-X-12/p/239390",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h64/h76/325606380797982.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "開利 6-8坪 4.1kW 智冷系列3D環繞變頻冷暖一對一分離式冷氣 含運費及基本安裝",
+      "price": "$27,599",
+      "original_price": "$32,499",
+      "discount_amount": "$4,900",
+      "promotion": "商品已折價$4,900 含運",
+      "url": "https://www.costco.com.tw/Costco/Televisions-Appliances/Large-Appliances/Air-Conditioners/Carrier-41kW-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/157775",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h9e/h62/327562463608862.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "開利 10-12坪 7.4kW 智冷系列3D環繞變頻冷暖一對一分離式冷氣 含運費及基本安裝",
+      "price": "$46,899",
+      "original_price": "$55,299",
+      "discount_amount": "$8,400",
+      "promotion": "商品已折價$8,400 含運",
+      "url": "https://www.costco.com.tw/Costco/Televisions-Appliances/Large-Appliances/Air-Conditioners/Carrier-74kW-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/157778",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc7/hd4/327562464296990.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "Scotch-Brite 百利 替換式除菌馬桶刷補充包 30入",
+      "price": "$309",
+      "original_price": "$389",
+      "discount_amount": "$80",
+      "promotion": "商品已折價$80 含運",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Cleaning-Tools/Scotch-Brite-Disposable-Toilet-Scrubber-Refill-Set-30-Count/p/1132115",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h7b/h8c/223144089124894.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "La Española 西班牙特級初榨橄欖油 5公升",
+      "price": "$929",
+      "original_price": "$1,029",
+      "discount_amount": "$100",
+      "promotion": "商品已折價$100 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/La-Espanola-Evoo-Oil-5-L/p/153839",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc9/hca/399196799369246.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "飛利浦 攜帶式電鬍刀 RQ901/06",
+      "price": "$4,599",
+      "original_price": "$5,799",
+      "discount_amount": "$1,200",
+      "promotion": "商品已折價$1,200 含運",
+      "url": "https://www.costco.com.tw/Hair-Skin-Care-Tools/p/153334",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h46/h99/368495210561566.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "飛利浦 品玥 Luna LED檯燈",
+      "price": "$1,239",
+      "original_price": "$1,549",
+      "discount_amount": "$310",
+      "promotion": "商品已折價$310 含運",
+      "url": "https://www.costco.com.tw/p/155117",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h84/hf8/396189712252958.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Gilman Creek 牛皮電動躺椅",
+      "price": "$9,999",
+      "original_price": "$12,999",
+      "discount_amount": "$3,000",
+      "promotion": "商品已折價$3,000 含運",
+      "url": "https://www.costco.com.tw/p/1987610",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc3/hc3/468568742199326.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "惠而浦 60公分獨立式洗碗機 WDFS2R4PWETW",
+      "price": "$23,439",
+      "original_price": "$29,299",
+      "discount_amount": "$5,860",
+      "promotion": "商品已折價$5,860 含運",
+      "url": "https://www.costco.com.tw/Costco/Televisions-Appliances/Kitchen-Appliances/Dishwashers-Dish-Dryers/Whirlpool-60-cm-Dishwasher-WDFS2R4PWETW/p/159390",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfe/h3a/432046533083166.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "DUROFIX 4V 鋰電池充電式起子機",
+      "price": "$669",
+      "original_price": "$839",
+      "discount_amount": "$170",
+      "promotion": "商品已折價$170 含運",
+      "url": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/DUROFIX-4V-Rechargeable-Screwdriver/p/155234",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h28/h4e/414650598424606.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Ariel 極致雙效洗衣精補充包 1100公克 X 6 入",
+      "price": "$899",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Laundry-Care/Ariel-Laundry-Detergent-Liquid-Refill-1100-g-X-6-Count/p/417455",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h1a/hc8/438035520225310.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "惠而浦 16公斤變頻蒸氣溫水洗衣機 VWHD1611BG",
+      "price": "$18,199",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Costco/Televisions-Appliances/Large-Appliances/Washers-Dryers/Whirlpool-16-kg-Inverter-Top-Load-Washer-VWHD1611BG/p/145751",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h80/h27/239550149591070.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "Aiden & Ivy 布面單人椅",
+      "price": "$7,499",
+      "original_price": "$7,999",
+      "discount_amount": "$500",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Aiden-Ivy-Fabric-Accent-Chair/p/1862170",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha7/h8b/449275418738718.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "TP-Link Tapo C425 電池式戶外安全攝影機",
+      "price": "$2,289",
+      "original_price": "$2,899",
+      "discount_amount": "$610",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/TP-Link-Tapo-C425-Smart-Wire-Free-Security-Camera/p/158488",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf5/h95/448868354785310.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "Gallery Reliant 亞麻布扶手椅",
+      "price": "$8,999",
+      "original_price": "$9,499",
+      "discount_amount": "$500",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Gallery-Reliant-Natural-Linen-Chair/p/535616",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h81/h22/346356079656990.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Bestway 充氣飛鏢盤",
+      "price": "$497",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/p/8523339",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc2/h7d/420739777822750.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Bentley Designs Arlo 皮面餐椅 2入組 米色",
+      "price": "$3,199",
+      "original_price": "$3,399",
+      "discount_amount": "$200",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Dining-Sets/Bentley-Designs-Arlo-Faux-Leather-Dining-Chair-2-Pack-Set-Vintage-Stone/p/159591",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h08/haf/466558576525342.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Gallery Neyland Green 牛皮扶手椅",
+      "price": "$8,999",
+      "original_price": "$9,599",
+      "discount_amount": "$600",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Gallery-Neyland-Green-Leather-Armchair/p/473489",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h91/he0/366002090901534.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Bentley Designs Arlo 皮面餐椅 2入組 橄欖綠",
+      "price": "$3,199",
+      "original_price": "$3,399",
+      "discount_amount": "$200",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Dining-Sets/Bentley-Designs-Arlo-Faux-Leather-Dining-Chair-2-Pack-Set-Olive/p/159590",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hbe/hbb/466558571610142.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Bentley Designs 置物架",
+      "price": "$7,899",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Bentley-Designs-Open-Entertainment-Unit/p/152323",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf1/hc6/363073757642782.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "TP-Link Tapo C510W 戶外旋轉式防護 WiFi 攝影機",
+      "price": "$1,039",
+      "original_price": "$1,299",
+      "discount_amount": "$260",
+      "promotion": "商品已折價$260 含運",
+      "url": "https://www.costco.com.tw/Digital-Mobile/Cameras/p/158487",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h72/h49/448868354719774.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "Brave Home 多功能可折疊籃子組 3入組",
+      "price": "$639",
+      "original_price": "$799",
+      "discount_amount": "$160",
+      "promotion": "商品已折價$160 含運",
+      "url": "https://www.costco.com.tw/p/159479",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc4/h4e/453636529127454.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "艾美特 DC 遙控大廈扇 FT89R",
+      "price": "$2,999",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Airmate-DC-Remote-Control-Tower-Fan-FT89R/p/150625",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h07/hdc/361109992177694.jpg",
+      "category": "家電 3C"
+    }
+  ],
+  "removed": [
+    {
+      "name": "吉列 鋒隱手動刮鬍刀組 刀架 X 1 + 刀頭 X 12",
+      "price": "$769",
+      "original_price": "$969",
+      "discount_amount": "$200",
+      "promotion": "商品已折價 $200 含運",
+      "url": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Mens-Grooming/Gillette-Fusion-Razor-Set-Razor-X-1-Cartridge-X-12/p/239390",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h64/h76/325606380797982.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "開利 6-8坪 4.1kW 智冷系列3D環繞變頻冷暖一對一分離式冷氣 含運費及基本安裝",
+      "price": "$27,599",
+      "original_price": "$32,499",
+      "discount_amount": "$4,900",
+      "promotion": "商品已折價$4,900 含運",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Air-Conditioners/Carrier-41kW-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/157775",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h9e/h62/327562463608862.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "開利 10-12坪 7.4kW 智冷系列3D環繞變頻冷暖一對一分離式冷氣 含運費及基本安裝",
+      "price": "$46,899",
+      "original_price": "$55,299",
+      "discount_amount": "$8,400",
+      "promotion": "商品已折價$8,400 含運",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Air-Conditioners/Carrier-74kW-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/157778",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc7/hd4/327562464296990.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "飛利浦 攜帶式電鬍刀 RQ901/06",
+      "price": "$4,599",
+      "original_price": "$5,799",
+      "discount_amount": "$1,200",
+      "promotion": "商品已折價$1,200 含運",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Hair-Skin-Care-Tools/Philips-Portable-Electric-Shaver-RQ90106/p/153334",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h46/h99/368495210561566.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "Gilman Creek 牛皮電動躺椅",
+      "price": "$9,999",
+      "original_price": "$12,999",
+      "discount_amount": "$3,000",
+      "promotion": "商品已折價$3,000 含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Gilman-Creek-Leather-Power-Recliner/p/1987610",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc3/hc3/468568742199326.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "飛利浦 品玥 Luna LED檯燈",
+      "price": "$1,239",
+      "original_price": "$1,549",
+      "discount_amount": "$310",
+      "promotion": "商品已折價$310 含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/Philips-Luna-Black-Desk-Light/p/155117",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h84/hf8/396189712252958.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "UCLA 男LOGO短袖上衣",
+      "price": "$347",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/UCLA-Mens-Wordmark-Logo-Short-Sleeve-Tee/p/675346",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h2a/ha6/437687786143774.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Acer 24.5吋 電競螢幕 KG251Q P3",
+      "price": "$2,799",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Digital-Mobile/Laptops-Computers/Monitors/Acer-245-inch-Gaming-Monitor-KG251Q-P3/p/147633",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h29/h88/274784121683998.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "Samsung 75吋 4K 晶彩智慧顯示器 UA75U8500FXXZW",
+      "price": "$33,999",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/70-79-TVs/Samsung-75-inch-4K-Smart-Monitor-UA75U8500FXXZW/p/153527",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha2/hab/438072172806174.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "Quiksilver 男防曬 UPF 50+ 運動衣",
+      "price": "$447",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Quiksilver-Mens-Sunscreen-UPF-50-Active-Tee/p/156986",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc4/hd4/451293268705310.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "惠而浦 16公斤變頻蒸氣溫水洗衣機 VWHD1611BG",
+      "price": "$18,199",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Washers-Dryers/Whirlpool-16-kg-Inverter-Top-Load-Washer-VWHD1611BG/p/145751",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h80/h27/239550149591070.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "Bestway 充氣飛鏢盤",
+      "price": "$497",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Team-Sports/Bestway-Soccer-Yard-Game/p/8523339",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc2/h7d/420739777822750.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Finlandia Lubis 儲物櫃 181公分",
+      "price": "$17,999",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Lubis-Cabinet-181-cm/p/648137",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha5/h67/361110573613086.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "艾美特 DC 遙控大廈扇 FT89R",
+      "price": "$2,999",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Cooling-Heating-Air-Treatment/Heating-Cooling/p/150625",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h07/hdc/361109992177694.jpg",
+      "category": "其他"
+    }
+  ],
+  "price_changes": [
+    {
+      "name": "Adidas 男踝襪六入組 #HT3468/IC1282",
+      "price": "$211",
+      "original_price": "$297",
+      "discount_amount": "$86",
+      "promotion": "商品已折價$86 含運",
+      "old_price": "$299",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Adidas-Mens-Ankle-Socks-6-Pack-Set-HT3468IC1282/p/117975",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h7c/h44/417161900621854.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Bburago 1:43 賽車維修中心 / 3歲以上",
+      "price": "$597",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "old_price": "$697",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Outdoor-Play/Bburago-143-Paddock-Set-Ages-3-and-Up/p/1851433",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h28/hff/421141123104798.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "FIFA 世界盃足球賽短袖上衣",
+      "price": "$247",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "old_price": "$547",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/FIFA-World-Cup-Short-Sleeve-Jersey/p/1968492",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h36/h0f/468935684915230.jpg",
+      "category": "服飾配件"
+    }
+  ]
 }
