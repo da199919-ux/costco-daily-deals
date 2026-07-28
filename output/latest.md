@@ -2,9 +2,9 @@
 
 ## 今日變化
 
-更新時間：2026-07-29 01:55（台灣時間）
-共整理出 **471** 項官方線上優惠。
-本次共讀取 **492** 個官方商品頁面。
+更新時間：2026-07-29 07:32（台灣時間）
+共整理出 **468** 項官方線上優惠。
+本次共讀取 **489** 個官方商品頁面。
 
 > 價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。
 
@@ -12,13 +12,13 @@
 
 | 分類 | 商品數量 |
 |---|---:|
-| 家具家居 | 161 |
-| 家電 3C | 70 |
+| 家具家居 | 159 |
+| 家電 3C | 69 |
 | 其他 | 66 |
 | 服飾配件 | 66 |
 | 食品飲料 | 60 |
-| 保健美容 | 26 |
-| 日用品／母嬰／玩具 | 22 |
+| 保健美容 | 27 |
+| 日用品／母嬰／玩具 | 21 |
 
 ## 我的追蹤商品
 
@@ -28,225 +28,192 @@
 
 ## 今日變化
 
-- 新增優惠：**108** 項
-- 本次未收錄：**98** 項（不代表優惠已結束）
-- 價格變動：**0** 項
+- 新增優惠：**85** 項
+- 本次未收錄：**88** 項（不代表優惠已結束）
+- 價格變動：**1** 項
 
 ### 價格變動
 
-- 今天沒有偵測到價格變動。
+- **降價**：[GAP 女九分褲](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/GAP-Ladies-Ankle-Trouser/p/1971848) $2,999 → $999
 
 ### 今日新增
 
-- [飛利浦 75吋 4K MiniLED 144Hz Google TV 顯示器 75MLED800/96](https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/70-79-TVs/Philips-75-inch-4K-MiniLED-144Hz-Google-TV-Monitor-75MLED80096/p/153514)（$35,799）
-- [Nature's Lab 薑黃萃取及胡椒鹼膠囊 120粒](https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Natures-Lab-Turmeric-Extract-120-Capsules/p/116398)（$1,029）
-- [樂益活 菌護樂齡益生菌 (乳酸菌粉狀食品) 2公克 X 60包](https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Supplements-Digestive-Support/MeridLife-Essential-Probiotic-Prebiotic-Senior-Formula-2-g-X-60-Packet/p/397716)（$679）
-- [品客 洋芋片 MINIS 經典原味 19公克 X 30包](https://www.costco.com.tw/Costco/Food-Dining/Snacks/Cookies-Chips/Pringles-MINIS-Original-Flavour-Potato-Chips-19-g-X-30-Pack/p/136011)（$315）
-- [Tree Top 蘋果汁 2公升 X 4入](https://www.costco.com.tw/Costco/Food-Dining/Drinks/Beverages-Juice/Tree-Top-Apple-Juice-2-L-X-4-Pack/p/30991)（$379）
-- [五木 細關東麵 416公克 X 9包](https://www.costco.com.tw/Costco/Food-Dining/Groceries/Rice-Noodles/Wu-Mu-Thin-Kan-To-Noodles-416-g-X-9-Pack/p/56629)（$259）
-- [日本獅王 趣淨抗菌洗手慕斯花香組 500毫升 1入 + 2公升補充瓶 1入](https://www.costco.com.tw/Costco/Health-Beauty/Personal-Care/Facial-Cleansers-Hand-Washes/LION-KireiKirei-Medicated-Foaming-Hand-Soap-Set-Floral-500-ml-X-1-Pack-2-L-refill-X-1-Pack/p/151738)（$549）
-- [金頂 超能量電池三號 20入](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/Duracell-Ultra-AA-Batteries-20-Pack/p/1022328)（$269）
-- [金博家 貓山王海鹽榴槤冰淇淋 473毫升 X 2入](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Desserts-Ice-Cream/Jinbo-Musang-King-Sea-Salt-Durian-Ice-Cream-473-ml-X-2-Count/p/144661)（$589）
-- [幻知曲 雙人天然舒柔防水保潔墊 152公分 X 190公分 X 38公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Reverie-Modal-Mattress-Protector-152-cm-X-190-cm-X-38-cm/p/110979)（$815）
-- [Samsung 55吋 QLED 4K AI 量子智慧顯示器 QA55QEF1AXXZW](https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/50-59-TVs/Samsung-55-inch-QLED-4K-AI-Smart-Monitor-QA55QEF1AXXZW/p/153529)（$13,998）
-- [幻知曲 雙人加大天然舒柔防水保潔墊 183公分 X 190公分 X 38公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Reverie-Modal-Mattress-Protector-183-cm-X-190-cm-X-38-cm/p/110980)（$915）
-- [Anda Seat 皮革電競椅 黑](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Anda-Seat-Leather-Gaming-Chair-Black/p/151431)（$5,199）
-- [開利 6-8坪 4.1kW 智冷系列3D環繞變頻冷暖一對一分離式冷氣 含運費及基本安裝](https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Air-Conditioners/Carrier-41kW-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/157775)（$27,599）
-- [開利 7-9坪 5.1kW 智冷系列3D環繞變頻冷暖一對一分離式冷氣 含運費及基本安裝](https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Air-Conditioners/Carrier-51kW-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/157776)（$33,499）
-- [Anda Seat 布面電競椅 黑](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Anda-Seat-Fabric-Gaming-Chair-Black/p/151432)（$5,199）
-- [開利 10-12坪 7.4kW 智冷系列3D環繞變頻冷暖一對一分離式冷氣 含運費及基本安裝](https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Air-Conditioners/Carrier-74kW-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/157778)（$46,899）
-- [西雅圖 雙焙濃拿鐵二合一 21公克 X 80入](https://www.costco.com.tw/Costco/Food-Dining/Drinks/Coffee/Barista-Premium-Double-Rich-Latte-2-in-1-21-g-X-80-Pack/p/146965)（$485）
-- [易口舒 無糖勁爽薄荷錠 33公克 X 8入](https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Eclipse-Peppermint-33-g-X-8-Count/p/95816)（$369）
-- [雀巢 可可早餐脆片 500公克 X 2入](https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Nestle-KoKo-Krunch-Cereal-500-g-X-2-Pack/p/125049)（$269）
-- [La Española 西班牙特級初榨橄欖油 5公升](https://www.costco.com.tw/Costco/Food-Dining/Groceries/Cooking-Oil-Sauces/La-Espanola-Evoo-Oil-5-L/p/153839)（$929）
-- [飛利浦 攜帶式電鬍刀 RQ901/06](https://www.costco.com.tw/Costco/Televisions-Appliances/Small-Appliances/Hair-Skin-Care-Tools/Philips-Portable-Electric-Shaver-RQ90106/p/153334)（$4,599）
-- [Brita X 三麗鷗 大耳狗喜拿 Style 純淨濾水壺 3.6公升 附3入 Maxtra Pro 濾芯](https://www.costco.com.tw/Costco/Furniture-Kitchen/Kitchen-Dining/Water-Filtration/Brita-X-SANRIO-Cinnamoroll-Style-Water-Filter-Jug-36-L-with-Maxtra-Pro-Filters-X-3-Count/p/158746)（$1,479）
-- [Circulon A1 極致抗刮不沾單柄深煎鍋 含玻璃上蓋 26公分](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Cookware-Cutlery-Cutting-Boards/Circulon-A1-Non-Stick-Saute-Pan-With-Glass-Lid-26-cm/p/151585)（$2,159）
-- [人造草皮 中 114公分 X 351公分 X 4公分](https://www.costco.com.tw/Sports-Lifestyle/Garden-Lifestyle/Lawn-Garden/Artificial-Grass-Lissome-Medium-114-cm-X-351-cm-X-4-cm/p/1713603)（$1,199）
-- [Ted Baker 經典款女用香水 200毫升 X 2入](https://www.costco.com.tw/p/591977)（$769）
-- [TP-Link Tapo C510W 戶外旋轉式防護 WiFi 攝影機](https://www.costco.com.tw/Digital-Mobile/Cameras/p/158487)（$1,039）
-- [得意的一天 芋頭燕麥椰奶露 750公克 X 3包](https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Great-Day-Taro-Coconut-Soup-with-Oats-750-g-X-3-Pack/p/149344)（$319）
-- [INTEX Jump-O-Lene 城堡彈跳池](https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/INTEX-Jump-O-Lene-Castle-Bouncer/p/158245)（$1,389）
-- [名廚美饌 24臻穀 36公克 X 50入](https://www.costco.com.tw/Costco/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/PGi-Cuisine-De-Chef-24-Grain-Powder-36-g-X-50-Count/p/102714)（$399）
-- [百家珍蘋果醋 520毫升 X 12入](https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/PCC-Apple-Vinegar-520-ml-X-12-Pack/p/184266)（$299）
-- [幻知曲 單人天然舒柔防水保潔墊 2件組 107公分 X 190公分 X 38公分](https://www.costco.com.tw/Bedding/p/114499)（$615）
-- [米森 乳酸菌咬咬草莓優格 10公克 X 12包](https://www.costco.com.tw/Food-Dining/Snacks/p/860660)（$335）
-- [SolRBrite 太陽能螢火蟲造型燈](https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/SolRBrite-Solar-Firefly-Lights/p/1938098)（$409）
-- [飛利浦 品玥 Luna LED檯燈](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/Philips-Luna-Black-Desk-Light/p/155117)（$1,239）
-- [Neatfreak 雙層鞋架長凳](https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Neatfreak-Wood-Shoe-Storage-Bench/p/1937900)（$939）
-- [睡綿綿 單人舒眠記憶釋壓床墊 91公分 X 190公分 X 5公分 灰](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Deep-Sleep-Memory-Foam-Pressure-Relieving-Pad-Single-Size-91-cm-X-190-cm-X-5-cm-Gray/p/436939)（$1,915）
-- [Gilman Creek 牛皮電動躺椅 深棕](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Gilman-Creek-Leather-Power-Recliner-with-Power-Headrest-Power-Lumbar-Dark-Brown/p/1862181)（$14,399）
-- [大成益活雞 台灣冷凍雞肉綜合15入](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Dachan-Holy-Chicken-Taiwan-Frozen-Chicken-Variety-Pack-15-Count/p/142156)（$1,699）
-- [Aiden & Ivy 手動牛皮躺椅 咖啡色](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Aiden-Ivy-Manual-Leather-Recliner-Brown/p/1987819)（$9,999）
-- [Sunvilla 仿木餐椅](https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Sunvilla-Stacking-Chair/p/152081)（$1,199）
-- [La Belle 素色涼感被 150公分 X 200公分 水藍](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/La-Belle-ICE-Cool-Quilt-150-cm-X-200-cm-Blue/p/258611)（$999）
-- [Backbone Hippo 兒童成長椅](https://www.costco.com.tw/p/152649)（$2,699）
-- [CASA 經典優質三角靠墊 60公分 X 50公分 X 30公分 米](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/CASA-Wedge-Cushion-60-cm-X-50-cm-X-30-cm-Beige/p/156362)（$499）
-- [Tommy Bahama 7.5呎 海灘遮陽傘](https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Water-Sports/Tommy-Bahama-75-ft-Beach-Umbrella/p/1819570)（$1,039）
-- [ANOLON ANOLON X SearTech 導磁不沾單柄湯鍋 含玻璃上蓋 20公分](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Cookware-Cutlery-Cutting-Boards/ANOLON-ANOLON-X-SearTech-Non-Stick-Saucepan-With-Glass-Lid-20-cm/p/134577)（$1,569）
-- [大猩猩強力雙面膠帶 重量型 4入](https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Hardware-Ladders/Gorilla-Mounting-Tape-Heavy-Duty-4-Count/p/160585)（$699）
-- [Hotel Grand 羽毛枕 2入組 45公分 X 66公分 X 5公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Hotel-Grand-White-Goose-Feather-and-Down-Pillow-2-Pack-45-cm-X-66-cm-X-5-cm/p/130667)（$835）
-- [太星電工 1開3插2孔動力軟線 15A 15公尺](https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/MAXSTAR-1-Switch-3-Outlet-2-Pin-Power-Cord-15A-15-m/p/157863)（$499）
-- [Soft99 龍捲風鍍膜劑組合 300毫升 + 補充罐 380毫升](https://www.costco.com.tw/Sports-Lifestyle/Automotive/Exterior-Car-Care/Soft99-Tornado-Vortex-Rain-Drop-Coating-300-ml-Refill-380-ml/p/144900)（$675）
-- [幻知曲 舒柔曲線乳膠枕 58公分 X 38公分 X 10公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Reverie-Comfort-Latex-Pillow-58-cm-X-38-cm-X-10-cm/p/121631)（$719）
-- [Sklz 迷你電子籃球框](https://www.costco.com.tw/Costco/Sports-Lifestyle/Sports-Fitness/Team-Sports/Sklz-Pro-Mini-Hoop/p/1144710)（$949）
-- [大猩猩透明膠 1.75盎司 X 3入](https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Hardware-Ladders/Gorilla-Glue-Clear-175-oz-X-3-Count/p/160583)（$549）
-- [Caliphil 單人四季被附枕套 150公分 X 180公分 北歐森林](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Caliphil-Comforter-with-Pillowcase-150-cm-X-180-cm-Forest/p/159411)（$1,039）
-- [歐司朗 60W LED 簡約吸頂燈](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-60W-LED-Ceiling-Light/p/155231)（$3,359）
-- [創維 100吋 4K QLED 聯網顯示器 100Q780SG](https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/80-Above-TVs/Skyworth-100-inch-4K-QLED-Smart-Monitor-100Q780SG/p/153199)（$79,999）
-- [Sunvilla 10呎 LED 戶外遮陽傘 灰色](https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Sunvilla-10-ft-LED-Market-Umbrella-Myra-Graphite/p/1768222)（$4,799）
-- [大猩猩固力雙面膠帶 萬用型 4入](https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Hardware-Ladders/Gorilla-Mounting-Tape-Tough-and-Clear-4-Count/p/160584)（$599）
-- [Kohler 電腦馬桶蓋軟水過濾器](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/KitchenBathroom-Hardware/Kohler-Bidet-Filter-Set/p/160170)（$1,439）
-- [Caliphil 美國棉單人床包枕套三件組 107公分 X 190公分 奶茶](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Caliphil-Sheet-3-Piece-Set-107-cm-X-190-cm-Milk-tea/p/159384)（$799）
-- [ATLeisure 10 呎戶外方形遮陽傘 附傘座 藍色](https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/ATLeisure-10-ft-Square-Umbrella-with-Roller-Base-Indigo/p/1807248)（$18,399）
-- [莫凡彼 單球冰淇淋或飲品兌換券 X 12張](https://www.costco.com.tw/p/158343)（$799）
-- [Swann 2K 無線電池攝影機](https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/Swann-2K-Wi-Fi-Battery-Camera/p/157815)（$1,999）
-- [KOVEA 彈開式帳篷](https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Tents-Camping-Gear/KOVEA-Pop-Up-Tent/p/148523)（$1,759）
-- [科克蘭 冷壓初榨椰子油 2.48公升](https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Kirkland-Signature-Virgin-Coconut-Oil-248-L/p/1076366)（$529）
-- [MY MOTTO 提拉米蘇風味威化餅 30公克 X 20包](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/MY-MOTTO-Tiramisu-Flavor-30-g-X-20-Pack/p/163941)（$247）
-- [Ariel 極致雙效洗衣精補充包 1100公克 X 6 入](https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Laundry-Care/Ariel-Laundry-Detergent-Liquid-Refill-1100-g-X-6-Count/p/417455)（$899）
-- [千年屋 年輪蛋糕 16入](https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/Sennenya-Baumkuchen-16-Piece/p/236540)（$399）
-- [百奇 巧克力棒 40公克 X 12入](https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Pocky-Chocolate-Biscuit-Sticks-40-g-X-12-Pack/p/103454)（$197）
-- [冷凍龍虎石斑魚片 1公斤](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Frozen-Tiger-Grouper-Fillet-1-kg/p/186793)（$929）
-- [Buffalo 女短丹寧洋裝](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Buffalo-Ladies-Soft-Denim-Dress/p/2046573)（$647）
-- [Nepa 男休閒多口袋短褲](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/Nepa-Mens-Cargo-Shorts/p/658226)（$647）
-- [飛利浦 抗敏除甲醛空氣清淨機 AC0917](https://www.costco.com.tw/Costco/Televisions-Appliances/Cooling-Heating-Air-Treatment/Air-Purifiers-Filters-Accessories/Philips-Air-Purifier-AC0917/p/148769)（$7,999）
-- [Aeropostale 女短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Aeropostale-Ladies-Short-Sleeve-Tee/p/520715)（$247）
-- [TP-Link Tapo D210 智慧門鈴](https://www.costco.com.tw/Digital-Mobile/Cameras/p/158484)（$1,599）
-- [California Board Company 41吋 沙板](https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Water-Sports/California-Board-Company-41-inch-Skimboard/p/1872087)（$597）
-- [Cascade Mountain Tech 水上浮力板](https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Water-Sports/Cascade-Mountain-Tech-Water-Sports-Plank/p/1740616)（$697）
-- [Titan 保冰袋摺疊推車](https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Coolers/Titan-60-Can-Rolling-Cooler/p/2622035)（$1,549）
-- [JIMMY CHOO 太陽眼鏡 BIRDIE/S BKUHA 金色](https://www.costco.com.tw/Costco/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/JIMMY-CHOO-Sunglasses-BIRDIES-BKUHA-Gold/p/250673)（$1,897）
-- [GAP 女九分褲](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/GAP-Ladies-Ankle-Trouser/p/1971848)（$2,999）
-- [夏普 55吋 4K QLED 144HZ 顯示器 4T-C55HN70CST](https://www.costco.com.tw/Televisions-TV-Accessories/p/153545)（$21,299）
-- [Gallery Reliant 亞麻布扶手椅](https://www.costco.com.tw/p/535616)（$8,999）
-- [Scotch & Soda 女無袖連身洋裝](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Scotch-Soda-Ladies-Sleeveless-Dress/p/1956396)（$697）
-- [Gallery Wigmore 布面沙發](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Gallery-Wigmore-Fabric-Sofa/p/157496)（$15,997）
-- [三麗鷗 抱抱球 / 3歲以上](https://www.costco.com.tw/Household-Baby-Toys/Toys/Dolls-Pretend-Play/Sanrio-Biggies-Ages-3-and-Up/p/151564)（$687）
-- [24吋 彩虹熊絨毛玩偶 多種顏色選擇 / 4歲以上](https://www.costco.com.tw/Household-Baby-Toys/Toys/Dolls-Pretend-Play/24-inch-Care-Bears-Plush-Various-Colors-Available-Ages-4-and-Up/p/450607)（$497）
-- [WOKY 沃廚 ECOZEN 純透渾圓隨行杯 880毫升 X 2件組](https://www.costco.com.tw/Costco/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/WOKY-ECOZEN-Water-Bottle-880-ml-X-2-Piece-Set/p/150702)（$879）
-- [樂扣樂扣 Tritan 彈蓋提帶冷水壺 650毫升 + 1000毫升](https://www.costco.com.tw/Costco/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/LocknLock-Tritan-Water-Bottle-650-ml-1000-ml/p/155277)（$849）
-- [Thermoflask 不鏽鋼保冷保溫瓶 946毫升 X 2件組](https://www.costco.com.tw/Costco/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/Thermoflask-Stainless-Steel-Water-Bottle-946-ml-X-2-Piece-Set/p/1901817)（$659）
-- [ThermoFlask 不鏽鋼保冷保溫瓶 1.2公升 X 2件組](https://www.costco.com.tw/Costco/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/ThermoFlask-Stainless-Steel-Water-Bottle-12-L-X-2-Piece-Set/p/158977)（$759）
-- [Blender Bottle 不鏽鋼隨行搖搖杯 740毫升 X 2件組](https://www.costco.com.tw/Costco/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/Blender-Bottle-Stainless-Steel-Shaker-740-ml-X-2-Piece-Set/p/2738416)（$999）
-- [樂扣樂扣 Tritan 大容量彈蓋提帶冷水壺 2.2公升](https://www.costco.com.tw/Costco/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/LocknLock-Tritan-Large-Capacity-Water-Bottle-22-L/p/159317)（$649）
-- [三麗鷗 兒童不鏽鋼保冷保溫瓶 700毫升](https://www.costco.com.tw/Costco/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/Sanrio-Kids-Stainless-Steel-Water-Bottle-700-ml/p/8524812)（$479）
-- [Beats Studio Pro 無線頭戴式耳機](https://www.costco.com.tw/Costco/Digital-Mobile/Wearables-Audio/Headphones-Audio-Devices/Beats-Studio-Pro-Wireless-Headphones/p/141447-B)（$9,399）
-- [席伊麗 護背系列 Sunshine 標準雙人床墊 152公分 X 190公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Mattress-Toppers/Sealy-Sunshine-Backsaver-Mattress-152-cm-X-190-cm/p/133226)（$23,799）
-- [莫凡彼 單球冰淇淋或飲品兌換券 X 12張](https://www.costco.com.tw/Sports-Lifestyle/Garden-Lifestyle/Tickets-Voucher/Movenpick-Voucher-Ice-Cream-Or-Cafe-X-12-Ticket/p/158343)（$799）
-- [Mon Petit 貓倍麗 小鮮肉泥 綜合口味 10公克 X 80入](https://www.costco.com.tw/Costco/Household-Baby-Toys/Pet-Supplies/Pet-Treats-Health/Mon-Petit-PUREE-KISS-Combo-Set-10-g-X-80-Count/p/117068)（$559）
-- [LUMENA FAN STAND4 桌上型擺頭隨行風扇 2件組](https://www.costco.com.tw/Costco/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/LUMENA-FAN-STAND4-Wireless-Tabletop-Fan-2-Pack-Set/p/154234)（$1,759）
-- [幻知曲 涼感舒眠枕 66公分 X 38公分 X 11公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Reverie-Cooling-Pillow-66-cm-X-38-cm-X-11-cm/p/156890)（$985）
-- [Lustroware 冷水壺 2.1公升 X 2件組 附濾網](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Lustroware-Pitcher-21-L-X-2-Piece-Set-with-Filter/p/135210)（$679）
-- [妙管家 全自動極速製冰機 HKCV-22C](https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Water-Dispensers-Water-Purification/House-Keeper-Ice-Makers-HKCV-22C/p/151052)（$2,199）
-- [Lustroware 冷水壺 2.2公升 X 2件組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Lustroware-Pitcher-22-L-X-2-Piece-Set/p/149213)（$649）
-- [經典卡通涼感被附收納袋 150公分 X 180公分 史努比 星際領航員](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Licensed-Cooling-Quilt-with-Storage-Bag-150-cm-X-180-cm-Snoopy/p/749366)（$1,289）
-- [LAV 土耳其製玻璃杯 16件組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/LAV-Glass-Tumbler-16-Piece-Set/p/1933543)（$659）
-- [正負零 3D DC直流循環風扇 XQS-G630](https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/0-3D-DC-Inverter-Air-Circulator-XQS-G630/p/138455)（$4,599）
-- [正負零 9吋 桌面 3D 循環風扇 CQS-K110](https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/0-9-inch-Desktop-3D-Circulator-Fan-CQS-K110/p/157021)（$2,399）
-- [Studio TU 玻璃飲料桶 8.3公升 含木製桶架 & 上蓋](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Studio-TU-Gallon-Glass-Drink-Dispenser-83-L-with-Acacia-Wood-Stand-Lid/p/1796162)（$715）
-- [Siroca DC 直流大風量循環塔扇 SF-T1710](https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Siroca-DC-Inverter-Tower-Fan-SF-T1710/p/157020)（$2,999）
+- [舒潔 三層抽取式衛生紙 100抽 X 64入](https://www.costco.com.tw/Costco/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Kleenex-Baby-Soft-3-Ply-Interfold-Bath-Tissue-100-Sheet-X-64-Count/p/212200)（$925）
+- [桂格 黃金麩片燕麥片 1.7公斤](https://www.costco.com.tw/Costco/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Quaker-Golden-Flake-Instant-Whole-Oats-17-kg/p/108128)（$205）
+- [雀巢 金牌微研磨咖啡隨行包 深焙風味 2公克 X 100包](https://www.costco.com.tw/Costco/Food-Dining/Drinks/Coffee/Nescafe-Gold-Blend-Dark-Roast-Instant-Coffee-Sticks-2-g-X-100-Count/p/136308)（$435）
+- [風倍清 浴廁防霉防臭劑 清新柑橘 + 柔和花香 7毫升 X 6入](https://www.costco.com.tw/Costco/Household-Baby-Toys/Household-Essentials/Pest-Control-Air-Care/Febreze-Toilet-Bathroom-Anti-Mold-Deodorizer-Citrus-Floral-7-ml-X-6-Count/p/144061)（$495）
+- [翠果子 綜合米果 20公克 X 30入](https://www.costco.com.tw/Costco/Food-Dining/Snacks/Nuts-Jerky/Trygoodz-Rice-Crackers-with-Almonds-20-g-X-30-Pack/p/111681)（$255）
+- [紅龍 冷凍牛肉捲 220 公克 X 6 入](https://www.costco.com.tw/Costco/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Red-Dragon-Frozen-Beef-Bakes-220-g-X-6-Count/p/64012)（$359）
+- [善存 3效順暢益生菌粉末顆粒 90包](https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Supplements-Digestive-Support/Centrum-Probiotics-Powder-Regular-90-Pack/p/145212)（$1,069）
+- [克補+鋅加強錠 200錠](https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Multi-Letter-Vitamins/Stresstabs-Plus-Zinc-200-Tablet/p/976575)（$829）
+- [樂事 粉紅派對歡聚箱 15包 / 501公克](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Lays-Pink-Party-Box-15-Pack-501-g/p/558588)（$255）
+- [Nature's Lab 薑黃萃取及胡椒鹼膠囊 120粒](https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Supplements-Digestive-Support/Natures-Lab-Turmeric-Extract-120-Capsules/p/116398)（$1,029）
+- [克寧 銀養高鈣全效奶粉 呵護配方 1.9公斤](https://www.costco.com.tw/Costco/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/KLIM-Senior-Milk-Powder-Multicare-19-kg/p/224757)（$655）
+- [威德 海洋膠原粉 + 鐵 60 包](https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Supplements-Digestive-Support/WEIDER-Marine-Collagen-Iron-60-Sachet/p/102999)（$829）
+- [韓味不二 海苔酥 80公克 X 4袋](https://www.costco.com.tw/Costco/Food-Dining/Snacks/Cookies-Chips/Hanwha-Roasted-Seaweed-Flakes-80-g-X-4-Pack/p/213492)（$339）
+- [品客 洋芋片 MINIS 經典原味 19公克 X 30包](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Pringles-MINIS-Original-Flavour-Potato-Chips-19-g-X-30-Pack/p/136011)（$315）
+- [Tree Top 蘋果汁 2公升 X 4入](https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Tree-Top-Apple-Juice-2-L-X-4-Pack/p/30991)（$379）
+- [匠拌麵 鵝油金蔥拌麵 125公克 X 10包](https://www.costco.com.tw/Costco/Food-Dining/Groceries/Rice-Noodles/Kung-Fu-Noodles-Premium-Goose-Oil-with-Crispy-Shallot-Flakes-125-g-X-10-Pack/p/136652)（$339）
+- [珍珍 燻烤魷魚絲 360公克](https://www.costco.com.tw/Costco/Food-Dining/Snacks/Nuts-Jerky/Jane-Jane-Smoked-Squid-360-g/p/79731)（$299）
+- [雀巢 金牌冰萃濾袋雙口味組 10公克 X 40入](https://www.costco.com.tw/Costco/Food-Dining/Drinks/Coffee/Nescafe-Gold-Cold-Brew-Mix-Pack-10-g-X-40-Pack/p/332545)（$359）
+- [吉列 鋒隱手動刮鬍刀組 刀架 X 1 + 刀頭 X 12](https://www.costco.com.tw/Costco/Health-Beauty/Personal-Care/Mens-Grooming/Gillette-Fusion-Razor-Set-Razor-X-1-Cartridge-X-12/p/239390)（$769）
+- [提提研 黑面膜組 25入](https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Skin-Care/TTM-Black-Charcoal-Mask-X-25-Piece/p/241298)（$619）
+- [克補+鐵加強錠200錠](https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Multi-Letter-Vitamins/Stresstabs-Plus-Iron-200-Tablet/p/976577)（$829）
+- [歐樂B 膨脹深潔牙線 50公尺 X 7入](https://www.costco.com.tw/Costco/Health-Beauty/Personal-Care/Oral-Care/Oral-B-Expanding-Floss-50-m-X-7-Pack/p/157164)（$479）
+- [CJ 冷凍韓式雜菜拌粉絲 295公克 X 4入](https://www.costco.com.tw/Costco/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/CJ-Bibigo-Frozen-Japchae-with-Mushroom-295-g-X-4-Pack/p/132478)（$359）
+- [金頂 超能量電池三號 20入](https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/Duracell-Ultra-AA-Batteries-20-Pack/p/1022328)（$269）
+- [金頂 超能量電池四號 20入](https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/Duracell-Ultra-AAA-Batteries-20-Pack/p/1022330)（$269）
+- [幻知曲 雙人天然舒柔防水保潔墊 152公分 X 190公分 X 38公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Mattress-Toppers/Reverie-Modal-Mattress-Protector-152-cm-X-190-cm-X-38-cm/p/110979)（$815）
+- [Anda Seat 皮革電競椅 黑](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Anda-Seat-Leather-Gaming-Chair-Black/p/151431)（$5,199）
+- [義美 皇家夾心酥 33公克 X 46包](https://www.costco.com.tw/Costco/Food-Dining/Snacks/Cookies-Chips/I-MEI-Cream-Wafer-Cookies-33-g-X-46-Pack/p/143277)（$289）
+- [西雅圖 雙焙濃拿鐵二合一 21公克 X 80入](https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Barista-Premium-Double-Rich-Latte-2-in-1-21-g-X-80-Pack/p/146965)（$485）
+- [Binggrae 草莓牛奶 保久調味乳 200毫升 X 24入](https://www.costco.com.tw/Costco/Food-Dining/Drinks/Beverages-Juice/Binggrae-Strawberry-Flavored-Milk-Drink-200-ml-X-24-Pack/p/298720)（$539）
+- [Crown 多穀牛奶夾心餅乾 24公克 X 32入](https://www.costco.com.tw/Costco/Food-Dining/Snacks/Cookies-Chips/Crown-Multigrain-Milk-Sandwich-Crackers-24-g-X-32-Pack/p/126883)（$269）
+- [王麵河粉 杯裝河粉 分享組 61公克 X 12入](https://www.costco.com.tw/Costco/Food-Dining/Groceries/Rice-Noodles/KING-PHO-Instant-Pho-Cup-Type-Share-Group-61-g-X-12-Cup/p/152041)（$235）
+- [Webber Naturals 葡萄籽精華膠囊 180顆](https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Supplements-Digestive-Support/Webber-Naturals-Grape-Seed-Extract-Capsule-180-Capsule/p/877125)（$379）
+- [味滋康 果香柚子醋醬汁 1公升](https://www.costco.com.tw/Costco/Food-Dining/Groceries/Cooking-Oil-Sauces/Mizkan-Yuzu-Ponzu-Citrus-Seasoned-Soy-Sauce-1-L/p/132570)（$289）
+- [易口舒 無糖勁爽薄荷錠 33公克 X 8入](https://www.costco.com.tw/Costco/Food-Dining/Snacks/Candies-Chocolates/Eclipse-Peppermint-33-g-X-8-Count/p/95816)（$369）
+- [亨氏 法式龍蝦濃湯 1公升 X 2入](https://www.costco.com.tw/Costco/Food-Dining/Groceries/Canned-Prepared-Food/Heinz-Lobster-Bisque-1-L-X-2-Pack/p/150603)（$239）
+- [雀巢 可可早餐脆片 500公克 X 2入](https://www.costco.com.tw/Costco/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Nestle-KoKo-Krunch-Cereal-500-g-X-2-Pack/p/125049)（$269）
+- [Kokiri 哇象海苔捲原味 5公克 X 22袋](https://www.costco.com.tw/Costco/Food-Dining/Snacks/Cookies-Chips/Kokiri-Seaweed-Snack-Original-Flavor-5-g-X-22-Pack/p/1212069)（$309）
+- [Scott 萬用強吸力紙抹布 55張 X 10捲](https://www.costco.com.tw/Costco/Sports-Lifestyle/Automotive/Exterior-Car-Care/Scott-Shop-Multi-Purpose-Towels-55-Sheet-X-10-Roll/p/1509965)（$689）
+- [威德 白藜蘆醇 青春膠囊 90粒](https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Bone-Joint-Support/Weider-Resveratrol-90-Capsules/p/305931)（$804）
+- [WD-40 多功能除銹潤滑劑 零壓噴罐 440毫升 X 2入](https://www.costco.com.tw/Costco/Sports-Lifestyle/Automotive/Automotive/WD-40-Trigger-Pro-Non-Aerosol-440-ml-X-2-Pack/p/154266)（$469）
+- [TP-Link Tapo C510W 戶外旋轉式防護 WiFi 攝影機](https://www.costco.com.tw/Costco/Digital-Mobile/Cameras/Security-Cameras-Drones/TP-Link-Tapo-C510W-Pan-Tilt-Security-Wi-Fi-Camera/p/158487)（$1,039）
+- [Circulon A1 極致抗刮不沾單柄深煎鍋 含玻璃上蓋 26公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Kitchen-Dining/Cookware-Cutlery-Cutting-Boards/Circulon-A1-Non-Stick-Saute-Pan-With-Glass-Lid-26-cm/p/151585)（$2,159）
+- [Skittles 彩虹糖綜合歡樂箱 38公克 X 20包](https://www.costco.com.tw/Costco/Food-Dining/Snacks/Candies-Chocolates/Skittles-Mixed-Party-Box-38-g-X-20-Pack/p/915777)（$339）
+- [INFINITY X1 7000流明 手電筒](https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/INFINITY-X1-7000-Lumens-Dual-Power-Flashlight/p/1806405)（$839）
+- [Ted Baker 經典款女用香水 200毫升 X 2入](https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Makeup-Beauty-Accessories/Ted-Baker-Woman-Original-200-ml-X-2-Pack/p/591977)（$769）
+- [得意的一天 芋頭燕麥椰奶露 750公克 X 3包](https://www.costco.com.tw/Costco/Food-Dining/Drinks/Beverages-Juice/Great-Day-Taro-Coconut-Soup-with-Oats-750-g-X-3-Pack/p/149344)（$319）
+- [Le Coq Sportif 男短袖純棉上衣](https://www.costco.com.tw/Clothing-Accessories/p/240942)（$5,799）
+- [名廚美饌 24臻穀 36公克 X 50入](https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/PGi-Cuisine-De-Chef-24-Grain-Powder-36-g-X-50-Count/p/102714)（$399）
+- [米森 乳酸菌咬咬草莓優格 10公克 X 12包](https://www.costco.com.tw/Costco/Food-Dining/Snacks/Cookies-Chips/Vilson-Freeze-Dried-Strawberry-Yogurt-10-g-X-12-Pack/p/860660)（$335）
+- [米森 有機藜麥八寶米 3 公斤](https://www.costco.com.tw/Costco/Food-Dining/Groceries/Rice-Noodles/Vilson-Organic-Multi-Grains-with-Quinoa-3-kg/p/188634)（$439）
+- [鮮煮藝 冷凍清燉羊肉鍋 1.2 公斤 X 2 包](https://www.costco.com.tw/Costco/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Delicious-Idea-Frozen-Stewed-Sheep-Pot-12-kg-X-2-Pack/p/161487)（$649）
+- [睡綿綿 單人舒眠記憶釋壓床墊 91公分 X 190公分 X 5公分 灰](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Mattress-Toppers/Deep-Sleep-Memory-Foam-Pressure-Relieving-Pad-Single-Size-91-cm-X-190-cm-X-5-cm-Gray/p/436939)（$1,915）
+- [Gilman Creek 牛皮電動躺椅 深棕](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Sofas-Sectionals/Gilman-Creek-Leather-Power-Recliner-with-Power-Headrest-Power-Lumbar-Dark-Brown/p/1862181)（$14,399）
+- [睡綿綿 單人舒眠記憶釋壓床墊 91公分 X 190公分 X 5公分 藍](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Mattress-Toppers/Deep-Sleep-Memory-Foam-Pressure-Relieving-Pad-Single-Size-91-cm-X-190-cm-X-5-cm-Blue/p/336939)（$1,915）
+- [Sunvilla 10呎 太陽能 LED 戶外遮陽傘](https://www.costco.com.tw/Costco/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Sunvilla-10-ft-Solar-Energy-LED-Market-Umbrella/p/1713474)（$4,799）
+- [Tommy Bahama 7.5呎 海灘遮陽傘](https://www.costco.com.tw/Costco/Sports-Lifestyle/Sports-Fitness/Water-Sports/Tommy-Bahama-75-ft-Beach-Umbrella/p/1819570)（$1,039）
+- [Hotel Grand 羽毛枕 2入組 45公分 X 66公分 X 5公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Hotel-Grand-White-Goose-Feather-and-Down-Pillow-2-Pack-45-cm-X-66-cm-X-5-cm/p/130667)（$835）
+- [大猩猩強效膠帶 10碼 黑色 4入](https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Hardware-Ladders/Gorilla-Tape-10-yard-Black-4-Count/p/160551)（$639）
+- [手指點讀有聲書 4冊](https://www.costco.com.tw/Costco/Office-School/Books/Kids-Books/Kids-Finger-Pointing-Sound-Book-4-Books-/p/157563)（$899）
+- [Alpine Mountain Gear 不鏽鋼咖啡杯壺組](https://www.costco.com.tw/Costco/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Alpine-Mountain-Gear-Coffee-Set/p/1906999)（$1,069）
+- [太星電工 25W PD+QC 2開2插壁插轉接器 兩入組](https://www.costco.com.tw/p/143941)（$639）
+- [FOOD超人 魔法趣味麥克風 (歡唱童謠繪本)](https://www.costco.com.tw/Costco/Office-School/Books/Kids-Books/Kids-Karaoke-Microphone-Magic-Singing-Sounds-Book/p/152304)（$449）
+- [Caliphil 美國棉單人床包枕套三件組 107公分 X 190公分 森綠](https://www.costco.com.tw/Bedding/p/159382)（$799）
+- [莫凡彼 單球冰淇淋或飲品兌換券 X 12張](https://www.costco.com.tw/Costco/Sports-Lifestyle/Garden-Lifestyle/Tickets-Voucher/Movenpick-Voucher-Ice-Cream-Or-Cafe-X-12-Ticket/p/158343)（$799）
+- [科克蘭 冷凍養殖超特大生蝦仁 1.5磅 / 680公克, 每磅11-15隻](https://www.costco.com.tw/Costco/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Kirkland-Signature-Frozen-Raw-Tail-On-Shrimp-15-LBs-680-g-11-15-Count-LB/p/2255533)（$609）
+- [科克蘭 冷壓初榨椰子油 2.48公升](https://www.costco.com.tw/Costco/Food-Dining/Groceries/Cooking-Oil-Sauces/Kirkland-Signature-Virgin-Coconut-Oil-248-L/p/1076366)（$529）
+- [Charmin 超柔捲筒衛生紙 213張 X 30卷](https://www.costco.com.tw/Costco/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Charmin-Ultra-Soft-Bath-Tissue-213-Sheet-X-30-Roll/p/2773119)（$999）
+- [MY MOTTO 提拉米蘇風味威化餅 30公克 X 20包](https://www.costco.com.tw/Costco/Food-Dining/Snacks/Cookies-Chips/MY-MOTTO-Tiramisu-Flavor-30-g-X-20-Pack/p/163941)（$247）
+- [Ariel 極致雙效洗衣精補充包 1100公克 X 6 入](https://www.costco.com.tw/Costco/Household-Baby-Toys/Household-Essentials/Laundry-Care/Ariel-Laundry-Detergent-Liquid-Refill-1100-g-X-6-Count/p/417455)（$899）
+- [千年屋 年輪蛋糕 16入](https://www.costco.com.tw/Costco/Food-Dining/Groceries/Baking-Dried-Goods/Sennenya-Baumkuchen-16-Piece/p/236540)（$399）
+- [愛喜 維生素C + 鈣口嚼錠 220錠 (60錠 X 3瓶 + 20錠 X 2條)](https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Multi-Letter-Vitamins/HICEE-Vitamin-C-With-Calcium-220-Tablets-60-Tablet-X-3-Bottle-20-Tablet-X-2-Tube/p/997788)（$777）
+- [JIMMY CHOO 太陽眼鏡 BIRDIE/S BKUHA 金色](https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/JIMMY-CHOO-Sunglasses-BIRDIES-BKUHA-Gold/p/250673)（$1,897）
+- [TP-Link Tapo C425 電池式戶外安全攝影機](https://www.costco.com.tw/Digital-Mobile/Cameras/p/158488)（$2,289）
+- [Bestway 充氣飛鏢盤](https://www.costco.com.tw/Costco/Sports-Lifestyle/Sports-Fitness/Team-Sports/Bestway-Soccer-Yard-Game/p/8523339)（$497）
+- [科克蘭 鈣加維生素D3二合一錠 500錠](https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Supplements-Digestive-Support/Kirkland-Signature-Calcium-600-mg-with-Vitamin-D3-500-Tablets/p/389195)（$479）
+- [Webber Naturals 甘胺酸鎂膠囊 300粒](https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Bone-Joint-Support/Webber-Naturals-Magnesium-bisglycinate-300-Capsule/p/150568)（$899）
+- [小善存 綜合維他命+鈣 100錠](https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Kids-Health/Centrum-Junior-Extra-Ca-Multi-vitamin-100-Tablet/p/118326)（$825）
+- [Bentley Designs 置物架](https://www.costco.com.tw/Costco/Furniture-Kitchen/Storage-Organization/Shelving/Bentley-Designs-Open-Entertainment-Unit/p/152323)（$7,899）
+- [Finlandia 儲物櫃 白色 200公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Dresser-White-200-cm/p/145650)（$17,999）
+- [Finlandia Estante 電視櫃 胡桃色](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Estante-TV-Console-Walnut/p/159526)（$19,999）
+- [老協珍 冷凍熬雞精 68毫升 X 30入](https://www.costco.com.tw/Costco/Health-Beauty/Elderly-Care/Supplements/Lao-Xie-Zhen-Frozen-Chicken-Essence-68-ml-X-30-Pack/p/118552)（$3,999）
+- [IRIS Woozoo 空氣循環扇 PCF-SC15T-CT](https://www.costco.com.tw/Costco/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/IRIS-Woozoo-Circulator-Fan-PCF-SC15T-CT/p/2354207)（$1,269）
+- [艾美特 9吋DC直流馬達空氣循環扇 FB2393DR](https://www.costco.com.tw/Costco/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Airmate-9-inch-DC-Inverter-Air-Circulator-FB2393DR/p/149328)（$3,799）
+- [Lustroware 冷水壺 2.1公升 X 2件組 附濾網](https://www.costco.com.tw/Costco/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Lustroware-Pitcher-21-L-X-2-Piece-Set-with-Filter/p/135210)（$679）
 
 ### 本次未收錄（不代表優惠已結束）
 
-- [飛利浦 75吋 4K MiniLED 144Hz Google TV 顯示器 75MLED800/96](https://www.costco.com.tw/Costco/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/70-79-TVs/Philips-75-inch-4K-MiniLED-144Hz-Google-TV-Monitor-75MLED80096/p/153514)（$35,799）
-- [Nature's Lab 薑黃萃取及胡椒鹼膠囊 120粒](https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Supplements-Digestive-Support/Natures-Lab-Turmeric-Extract-120-Capsules/p/116398)（$1,029）
-- [樂益活 菌護樂齡益生菌 (乳酸菌粉狀食品) 2公克 X 60包](https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/MeridLife-Essential-Probiotic-Prebiotic-Senior-Formula-2-g-X-60-Packet/p/397716)（$679）
-- [品客 洋芋片 MINIS 經典原味 19公克 X 30包](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Pringles-MINIS-Original-Flavour-Potato-Chips-19-g-X-30-Pack/p/136011)（$315）
-- [Tree Top 蘋果汁 2公升 X 4入](https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Tree-Top-Apple-Juice-2-L-X-4-Pack/p/30991)（$379）
-- [五木 細關東麵 416公克 X 9包](https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Wu-Mu-Thin-Kan-To-Noodles-416-g-X-9-Pack/p/56629)（$259）
-- [日本獅王 趣淨抗菌洗手慕斯花香組 500毫升 1入 + 2公升補充瓶 1入](https://www.costco.com.tw/Health-Beauty/Personal-Care/Facial-Cleansers-Hand-Washes/LION-KireiKirei-Medicated-Foaming-Hand-Soap-Set-Floral-500-ml-X-1-Pack-2-L-refill-X-1-Pack/p/151738)（$549）
-- [金頂 超能量電池三號 20入](https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/Duracell-Ultra-AA-Batteries-20-Pack/p/1022328)（$269）
-- [金博家 貓山王海鹽榴槤冰淇淋 473毫升 X 2入](https://www.costco.com.tw/Costco/Food-Dining/Frozen-Fresh-Food/Frozen-Desserts-Ice-Cream/Jinbo-Musang-King-Sea-Salt-Durian-Ice-Cream-473-ml-X-2-Count/p/144661)（$589）
-- [幻知曲 雙人天然舒柔防水保潔墊 152公分 X 190公分 X 38公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Mattress-Toppers/Reverie-Modal-Mattress-Protector-152-cm-X-190-cm-X-38-cm/p/110979)（$815）
-- [Samsung 55吋 QLED 4K AI 量子智慧顯示器 QA55QEF1AXXZW](https://www.costco.com.tw/Costco/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/50-59-TVs/Samsung-55-inch-QLED-4K-AI-Smart-Monitor-QA55QEF1AXXZW/p/153529)（$13,998）
-- [幻知曲 雙人加大天然舒柔防水保潔墊 183公分 X 190公分 X 38公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Mattress-Toppers/Reverie-Modal-Mattress-Protector-183-cm-X-190-cm-X-38-cm/p/110980)（$915）
-- [Anda Seat 皮革電競椅 黑](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Anda-Seat-Leather-Gaming-Chair-Black/p/151431)（$5,199）
-- [開利 6-8坪 4.1kW 智冷系列3D環繞變頻冷暖一對一分離式冷氣 含運費及基本安裝](https://www.costco.com.tw/Costco/Televisions-Appliances/Large-Appliances/Air-Conditioners/Carrier-41kW-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/157775)（$27,599）
-- [開利 7-9坪 5.1kW 智冷系列3D環繞變頻冷暖一對一分離式冷氣 含運費及基本安裝](https://www.costco.com.tw/Costco/Televisions-Appliances/Large-Appliances/Air-Conditioners/Carrier-51kW-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/157776)（$33,499）
-- [Anda Seat 布面電競椅 黑](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Anda-Seat-Fabric-Gaming-Chair-Black/p/151432)（$5,199）
-- [開利 10-12坪 7.4kW 智冷系列3D環繞變頻冷暖一對一分離式冷氣 含運費及基本安裝](https://www.costco.com.tw/Costco/Televisions-Appliances/Large-Appliances/Air-Conditioners/Carrier-74kW-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/157778)（$46,899）
-- [西雅圖 雙焙濃拿鐵二合一 21公克 X 80入](https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Barista-Premium-Double-Rich-Latte-2-in-1-21-g-X-80-Pack/p/146965)（$485）
-- [La Tourangelle Walnut Oil 核桃油750毫升](https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/La-Tourangelle-Walnut-Oil-750ML/p/151691)（$189）
-- [靠得住 草本抑菌日用衛生棉 23公分 17片 X 12包](https://www.costco.com.tw/Costco/Health-Beauty/Personal-Care/Feminine-Care/Kotex-Herbal-Regular-Day-Pad-23-cm-17-Piece-X-12-Pack/p/148193)（$509）
-- [易口舒 無糖勁爽薄荷錠 33公克 X 8入](https://www.costco.com.tw/Costco/Food-Dining/Snacks/Candies-Chocolates/Eclipse-Peppermint-33-g-X-8-Count/p/95816)（$369）
-- [雀巢 可可早餐脆片 500公克 X 2入](https://www.costco.com.tw/Costco/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Nestle-KoKo-Krunch-Cereal-500-g-X-2-Pack/p/125049)（$269）
-- [La Española 西班牙特級初榨橄欖油 5公升](https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/La-Espanola-Evoo-Oil-5-L/p/153839)（$929）
-- [Brita X 三麗鷗 大耳狗喜拿 Style 純淨濾水壺 3.6公升 附3入 Maxtra Pro 濾芯](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Filtration/Brita-X-SANRIO-Cinnamoroll-Style-Water-Filter-Jug-36-L-with-Maxtra-Pro-Filters-X-3-Count/p/158746)（$1,479）
-- [Circulon A1 極致抗刮不沾單柄深煎鍋 含玻璃上蓋 26公分](https://www.costco.com.tw/p/151585)（$2,159）
-- [人造草皮 中 114公分 X 351公分 X 4公分](https://www.costco.com.tw/Costco/Sports-Lifestyle/Garden-Lifestyle/Lawn-Garden/Artificial-Grass-Lissome-Medium-114-cm-X-351-cm-X-4-cm/p/1713603)（$1,199）
-- [Ted Baker 經典款女用香水 200毫升 X 2入](https://www.costco.com.tw/Costco/Health-Beauty/Beauty-Skin-Care/Makeup-Beauty-Accessories/Ted-Baker-Woman-Original-200-ml-X-2-Pack/p/591977)（$769）
-- [TP-Link Tapo C510W 戶外旋轉式防護 WiFi 攝影機](https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/TP-Link-Tapo-C510W-Pan-Tilt-Security-Wi-Fi-Camera/p/158487)（$1,039）
-- [得意的一天 芋頭燕麥椰奶露 750公克 X 3包](https://www.costco.com.tw/Costco/Food-Dining/Drinks/Beverages-Juice/Great-Day-Taro-Coconut-Soup-with-Oats-750-g-X-3-Pack/p/149344)（$319）
-- [INTEX Jump-O-Lene 城堡彈跳池](https://www.costco.com.tw/Costco/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/INTEX-Jump-O-Lene-Castle-Bouncer/p/158245)（$1,389）
-- [久世福 長崎蛋糕原味 314公克](https://www.costco.com.tw/Food-Dining/Snacks/Snack-Cakes/Kuze-Fuku-Nagasaki-Castella-Cake-314-g/p/138425)（$255）
-- [名廚美饌 24臻穀 36公克 X 50入](https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/PGi-Cuisine-De-Chef-24-Grain-Powder-36-g-X-50-Count/p/102714)（$399）
-- [百家珍蘋果醋 520毫升 X 12入](https://www.costco.com.tw/Costco/Food-Dining/Drinks/Beverages-Juice/PCC-Apple-Vinegar-520-ml-X-12-Pack/p/184266)（$299）
-- [幻知曲 單人天然舒柔防水保潔墊 2件組 107公分 X 190公分 X 38公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Reverie-Modal-Mattress-Protector-2-Piece-Set-107-cm-X-190-cm-X-38-cm/p/114499)（$615）
-- [米森 乳酸菌咬咬草莓優格 10公克 X 12包](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Vilson-Freeze-Dried-Strawberry-Yogurt-10-g-X-12-Pack/p/860660)（$335）
-- [SolRBrite 太陽能螢火蟲造型燈](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/SolRBrite-Solar-Firefly-Lights/p/1938098)（$409）
-- [飛利浦 品玥 Luna LED檯燈](https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/Philips-Luna-Black-Desk-Light/p/155117)（$1,239）
-- [Neatfreak 雙層鞋架長凳](https://www.costco.com.tw/Costco/Furniture-Kitchen/Storage-Organization/Shelving/Neatfreak-Wood-Shoe-Storage-Bench/p/1937900)（$939）
-- [睡綿綿 單人舒眠記憶釋壓床墊 91公分 X 190公分 X 5公分 灰](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Mattress-Toppers/Deep-Sleep-Memory-Foam-Pressure-Relieving-Pad-Single-Size-91-cm-X-190-cm-X-5-cm-Gray/p/436939)（$1,915）
-- [Gilman Creek 牛皮電動躺椅 深棕](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Sofas-Sectionals/Gilman-Creek-Leather-Power-Recliner-with-Power-Headrest-Power-Lumbar-Dark-Brown/p/1862181)（$14,399）
-- [大成益活雞 台灣冷凍雞肉綜合15入](https://www.costco.com.tw/Costco/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Dachan-Holy-Chicken-Taiwan-Frozen-Chicken-Variety-Pack-15-Count/p/142156)（$1,699）
-- [Aiden & Ivy 手動牛皮躺椅 咖啡色](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Sofas-Sectionals/Aiden-Ivy-Manual-Leather-Recliner-Brown/p/1987819)（$9,999）
-- [Sunvilla 仿木餐椅](https://www.costco.com.tw/Costco/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Sunvilla-Stacking-Chair/p/152081)（$1,199）
-- [La Belle 素色涼感被 150公分 X 200公分 水藍](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/La-Belle-ICE-Cool-Quilt-150-cm-X-200-cm-Blue/p/258611)（$999）
-- [Backbone Hippo 兒童成長椅](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Backbone-Hippo-Kids-Chair/p/152649)（$2,699）
-- [CASA 經典優質三角靠墊 60公分 X 50公分 X 30公分 米](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/CASA-Wedge-Cushion-60-cm-X-50-cm-X-30-cm-Beige/p/156362)（$499）
-- [Tommy Bahama 7.5呎 海灘遮陽傘](https://www.costco.com.tw/Costco/Sports-Lifestyle/Sports-Fitness/Water-Sports/Tommy-Bahama-75-ft-Beach-Umbrella/p/1819570)（$1,039）
-- [ANOLON ANOLON X SearTech 導磁不沾單柄湯鍋 含玻璃上蓋 20公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Kitchen-Dining/Cookware-Cutlery-Cutting-Boards/ANOLON-ANOLON-X-SearTech-Non-Stick-Saucepan-With-Glass-Lid-20-cm/p/134577)（$1,569）
-- [大猩猩強力雙面膠帶 重量型 4入](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Hardware-Ladders/Gorilla-Mounting-Tape-Heavy-Duty-4-Count/p/160585)（$699）
-- [CASA 經典優質三角靠墊 60公分 X 50公分 X 30公分 青](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/CASA-Wedge-Cushion-60-cm-X-50-cm-X-30-cm-Blue/p/156363)（$499）
-- [Hotel Grand 羽毛枕 2入組 45公分 X 66公分 X 5公分](https://www.costco.com.tw/Bedding/p/130667)（$835）
-- [太星電工 1開3插2孔動力軟線 15A 15公尺](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/MAXSTAR-1-Switch-3-Outlet-2-Pin-Power-Cord-15A-15-m/p/157863)（$499）
-- [Soft99 龍捲風鍍膜劑組合 300毫升 + 補充罐 380毫升](https://www.costco.com.tw/Costco/Sports-Lifestyle/Automotive/Exterior-Car-Care/Soft99-Tornado-Vortex-Rain-Drop-Coating-300-ml-Refill-380-ml/p/144900)（$675）
-- [幻知曲 舒柔曲線乳膠枕 58公分 X 38公分 X 10公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Reverie-Comfort-Latex-Pillow-58-cm-X-38-cm-X-10-cm/p/121631)（$719）
-- [Sklz 迷你電子籃球框](https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Team-Sports/Sklz-Pro-Mini-Hoop/p/1144710)（$949）
-- [大猩猩透明膠 1.75盎司 X 3入](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Hardware-Ladders/Gorilla-Glue-Clear-175-oz-X-3-Count/p/160583)（$549）
-- [Caliphil 單人四季被附枕套 150公分 X 180公分 北歐森林](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Caliphil-Comforter-with-Pillowcase-150-cm-X-180-cm-Forest/p/159411)（$1,039）
-- [歐司朗 60W LED 簡約吸頂燈](https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-60W-LED-Ceiling-Light/p/155231)（$3,359）
-- [創維 100吋 4K QLED 聯網顯示器 100Q780SG](https://www.costco.com.tw/Costco/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/80-Above-TVs/Skyworth-100-inch-4K-QLED-Smart-Monitor-100Q780SG/p/153199)（$79,999）
-- [國際牌 光電式煙霧偵測警報器兩入組](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Home-Safety/Panasonic-Smoke-Alarm-X-2-Pack/p/132217)（$1,249）
-- [Sunvilla 10呎 LED 戶外遮陽傘 灰色](https://www.costco.com.tw/Costco/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Sunvilla-10-ft-LED-Market-Umbrella-Myra-Graphite/p/1768222)（$4,799）
-- [大猩猩固力雙面膠帶 萬用型 4入](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Hardware-Ladders/Gorilla-Mounting-Tape-Tough-and-Clear-4-Count/p/160584)（$599）
-- [Kohler 電腦馬桶蓋軟水過濾器](https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/KitchenBathroom-Hardware/Kohler-Bidet-Filter-Set/p/160170)（$1,439）
-- [Caliphil 美國棉單人床包枕套三件組 107公分 X 190公分 奶茶](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Caliphil-Sheet-3-Piece-Set-107-cm-X-190-cm-Milk-tea/p/159384)（$799）
-- [ATLeisure 10 呎戶外方形遮陽傘 附傘座 藍色](https://www.costco.com.tw/Costco/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/ATLeisure-10-ft-Square-Umbrella-with-Roller-Base-Indigo/p/1807248)（$18,399）
-- [莫凡彼 單球冰淇淋或飲品兌換券 X 12張](https://www.costco.com.tw/Costco/Sports-Lifestyle/Garden-Lifestyle/Tickets-Voucher/Movenpick-Voucher-Ice-Cream-Or-Cafe-X-12-Ticket/p/158343)（$799）
-- [Swann 2K 無線電池攝影機](https://www.costco.com.tw/Costco/Digital-Mobile/Cameras/Security-Cameras-Drones/Swann-2K-Wi-Fi-Battery-Camera/p/157815)（$1,999）
-- [KOVEA 彈開式帳篷](https://www.costco.com.tw/Costco/Sports-Lifestyle/Camping-Outdoors/Tents-Camping-Gear/KOVEA-Pop-Up-Tent/p/148523)（$1,759）
-- [科克蘭 冷壓初榨椰子油 2.48公升](https://www.costco.com.tw/Costco/Food-Dining/Groceries/Cooking-Oil-Sauces/Kirkland-Signature-Virgin-Coconut-Oil-248-L/p/1076366)（$529）
-- [MY MOTTO 提拉米蘇風味威化餅 30公克 X 20包](https://www.costco.com.tw/Costco/Food-Dining/Snacks/Cookies-Chips/MY-MOTTO-Tiramisu-Flavor-30-g-X-20-Pack/p/163941)（$247）
-- [Ariel 極致雙效洗衣精補充包 1100公克 X 6 入](https://www.costco.com.tw/Costco/Household-Baby-Toys/Household-Essentials/Laundry-Care/Ariel-Laundry-Detergent-Liquid-Refill-1100-g-X-6-Count/p/417455)（$899）
-- [Chiikawa 不鏽鋼保冷保溫杯 450毫升](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/Chiikawa-Stainless-Steel-Water-Bottle-450-ml/p/158970)（$357）
-- [冷凍龍虎石斑魚片 1公斤](https://www.costco.com.tw/Costco/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Frozen-Tiger-Grouper-Fillet-1-kg/p/186793)（$929）
-- [飛利浦 抗敏除甲醛空氣清淨機 AC0917](https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Air-Purifiers-Filters-Accessories/Philips-Air-Purifier-AC0917/p/148769)（$7,999）
-- [TP-Link Tapo D210 智慧門鈴](https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/TP-Link-Tapo-D210-Video-Doorbell-Camera/p/158484)（$1,599）
-- [California Board Company 41吋 沙板](https://www.costco.com.tw/p/1872087)（$597）
-- [Cascade Mountain Tech 水上浮力板](https://www.costco.com.tw/Costco/Sports-Lifestyle/Sports-Fitness/Water-Sports/Cascade-Mountain-Tech-Water-Sports-Plank/p/1740616)（$697）
-- [夏普 55吋 4K QLED 144HZ 顯示器 4T-C55HN70CST](https://www.costco.com.tw/Costco/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/50-59-TVs/SHARP-55-inch-4K-QLED-144HZ-Monitor-4T-C55HN70CST/p/153545)（$21,299）
-- [Gallery Reliant 亞麻布扶手椅](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Gallery-Reliant-Natural-Linen-Chair/p/535616)（$8,999）
-- [Gallery Wigmore 布面沙發](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Sofas-Sectionals/Gallery-Wigmore-Fabric-Sofa/p/157496)（$15,997）
-- [Beats Studio Pro 無線頭戴式耳機](https://www.costco.com.tw/Digital-Mobile/Wearables-Audio/Headphones-Audio-Devices/Beats-Studio-Pro-Wireless-Headphones/p/141447-B)（$9,399）
-- [席伊麗 護背系列 Sunshine 標準雙人床墊 152公分 X 190公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Sealy-Sunshine-Backsaver-Mattress-152-cm-X-190-cm/p/133226)（$23,799）
-- [La Tourangelle Walnut Oil 核桃油750毫升](https://www.costco.com.tw/Costco/Food-Dining/Groceries/Cooking-Oil-Sauces/La-Tourangelle-Walnut-Oil-750ML/p/151691)（$189）
-- [王麵河粉 杯裝河粉 分享組 61公克 X 12入](https://www.costco.com.tw/Food-Dining/Groceries/p/152041)（$235）
-- [Webber Naturals 葡萄籽精華膠囊 180顆](https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Supplements-Digestive-Support/Webber-Naturals-Grape-Seed-Extract-Capsule-180-Capsule/p/877125)（$379）
-- [亨氏 法式龍蝦濃湯 1公升 X 2入](https://www.costco.com.tw/Costco/Food-Dining/Groceries/Canned-Prepared-Food/Heinz-Lobster-Bisque-1-L-X-2-Pack/p/150603)（$239）
-- [美威 冷凍鮭魚干貝海鮮丸 1050公克 X 2入](https://www.costco.com.tw/Costco/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Supreme-Salmon-Frozen-Salmon-And-Scallop-Balls-1050-g-X-2-Count/p/153874)（$799）
-- [Skittles 彩虹糖綜合歡樂箱 38公克 X 20包](https://www.costco.com.tw/Costco/Food-Dining/Snacks/Candies-Chocolates/Skittles-Mixed-Party-Box-38-g-X-20-Pack/p/915777)（$339）
-- [LUMENA FAN STAND4 桌上型擺頭隨行風扇 2件組](https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/LUMENA-FAN-STAND4-Wireless-Tabletop-Fan-2-Pack-Set/p/154234)（$1,759）
-- [幻知曲 涼感舒眠枕 66公分 X 38公分 X 11公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Reverie-Cooling-Pillow-66-cm-X-38-cm-X-11-cm/p/156890)（$985）
-- [Lustroware 冷水壺 2.1公升 X 2件組 附濾網](https://www.costco.com.tw/Costco/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Lustroware-Pitcher-21-L-X-2-Piece-Set-with-Filter/p/135210)（$679）
-- [妙管家 全自動極速製冰機 HKCV-22C](https://www.costco.com.tw/Costco/Televisions-Appliances/Kitchen-Appliances/Water-Dispensers-Water-Purification/House-Keeper-Ice-Makers-HKCV-22C/p/151052)（$2,199）
-- [Lustroware 冷水壺 2.2公升 X 2件組](https://www.costco.com.tw/p/149213)（$649）
-- [經典卡通涼感被附收納袋 150公分 X 180公分 史努比 星際領航員](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Licensed-Cooling-Quilt-with-Storage-Bag-150-cm-X-180-cm-Snoopy/p/749366)（$1,289）
-- [正負零 3D DC直流循環風扇 XQS-G630](https://www.costco.com.tw/Costco/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/0-3D-DC-Inverter-Air-Circulator-XQS-G630/p/138455)（$4,599）
-- [正負零 9吋 桌面 3D 循環風扇 CQS-K110](https://www.costco.com.tw/Costco/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/0-9-inch-Desktop-3D-Circulator-Fan-CQS-K110/p/157021)（$2,399）
-- [Studio TU 玻璃飲料桶 8.3公升 含木製桶架 & 上蓋](https://www.costco.com.tw/Costco/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Studio-TU-Gallon-Glass-Drink-Dispenser-83-L-with-Acacia-Wood-Stand-Lid/p/1796162)（$715）
-- [Siroca DC 直流大風量循環塔扇 SF-T1710](https://www.costco.com.tw/Costco/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Siroca-DC-Inverter-Tower-Fan-SF-T1710/p/157020)（$2,999）
+- [舒潔 三層抽取式衛生紙 100抽 X 64入](https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Kleenex-Baby-Soft-3-Ply-Interfold-Bath-Tissue-100-Sheet-X-64-Count/p/212200)（$925）
+- [桂格 黃金麩片燕麥片 1.7公斤](https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Quaker-Golden-Flake-Instant-Whole-Oats-17-kg/p/108128)（$205）
+- [雀巢 金牌微研磨咖啡隨行包 深焙風味 2公克 X 100包](https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Nescafe-Gold-Blend-Dark-Roast-Instant-Coffee-Sticks-2-g-X-100-Count/p/136308)（$435）
+- [翠果子 綜合米果 20公克 X 30入](https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Trygoodz-Rice-Crackers-with-Almonds-20-g-X-30-Pack/p/111681)（$255）
+- [風倍清 浴廁防霉防臭劑 清新柑橘 + 柔和花香 7毫升 X 6入](https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Pest-Control-Air-Care/Febreze-Toilet-Bathroom-Anti-Mold-Deodorizer-Citrus-Floral-7-ml-X-6-Count/p/144061)（$495）
+- [紅龍 冷凍牛肉捲 220 公克 X 6 入](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Red-Dragon-Frozen-Beef-Bakes-220-g-X-6-Count/p/64012)（$359）
+- [善存 3效順暢益生菌粉末顆粒 90包](https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Centrum-Probiotics-Powder-Regular-90-Pack/p/145212)（$1,069）
+- [克補+鋅加強錠 200錠](https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Stresstabs-Plus-Zinc-200-Tablet/p/976575)（$829）
+- [Nature's Lab 薑黃萃取及胡椒鹼膠囊 120粒](https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Natures-Lab-Turmeric-Extract-120-Capsules/p/116398)（$1,029）
+- [樂事 粉紅派對歡聚箱 15包 / 501公克](https://www.costco.com.tw/Costco/Food-Dining/Snacks/Cookies-Chips/Lays-Pink-Party-Box-15-Pack-501-g/p/558588)（$255）
+- [克寧 銀養高鈣全效奶粉 呵護配方 1.9公斤](https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/KLIM-Senior-Milk-Powder-Multicare-19-kg/p/224757)（$655）
+- [韓味不二 海苔酥 80公克 X 4袋](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Hanwha-Roasted-Seaweed-Flakes-80-g-X-4-Pack/p/213492)（$339）
+- [威德 海洋膠原粉 + 鐵 60 包](https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/WEIDER-Marine-Collagen-Iron-60-Sachet/p/102999)（$829）
+- [品客 洋芋片 MINIS 經典原味 19公克 X 30包](https://www.costco.com.tw/Costco/Food-Dining/Snacks/Cookies-Chips/Pringles-MINIS-Original-Flavour-Potato-Chips-19-g-X-30-Pack/p/136011)（$315）
+- [Tree Top 蘋果汁 2公升 X 4入](https://www.costco.com.tw/Costco/Food-Dining/Drinks/Beverages-Juice/Tree-Top-Apple-Juice-2-L-X-4-Pack/p/30991)（$379）
+- [匠拌麵 鵝油金蔥拌麵 125公克 X 10包](https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Kung-Fu-Noodles-Premium-Goose-Oil-with-Crispy-Shallot-Flakes-125-g-X-10-Pack/p/136652)（$339）
+- [珍珍 燻烤魷魚絲 360公克](https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Jane-Jane-Smoked-Squid-360-g/p/79731)（$299）
+- [雀巢 金牌冰萃濾袋雙口味組 10公克 X 40入](https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Nescafe-Gold-Cold-Brew-Mix-Pack-10-g-X-40-Pack/p/332545)（$359）
+- [吉列 鋒隱手動刮鬍刀組 刀架 X 1 + 刀頭 X 12](https://www.costco.com.tw/Health-Beauty/Personal-Care/Mens-Grooming/Gillette-Fusion-Razor-Set-Razor-X-1-Cartridge-X-12/p/239390)（$769）
+- [提提研 黑面膜組 25入](https://www.costco.com.tw/Costco/Health-Beauty/Beauty-Skin-Care/Skin-Care/TTM-Black-Charcoal-Mask-X-25-Piece/p/241298)（$619）
+- [克補+鐵加強錠200錠](https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Stresstabs-Plus-Iron-200-Tablet/p/976577)（$829）
+- [歐樂B 膨脹深潔牙線 50公尺 X 7入](https://www.costco.com.tw/Health-Beauty/Personal-Care/Oral-Care/Oral-B-Expanding-Floss-50-m-X-7-Pack/p/157164)（$479）
+- [CJ 冷凍韓式雜菜拌粉絲 295公克 X 4入](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/CJ-Bibigo-Frozen-Japchae-with-Mushroom-295-g-X-4-Pack/p/132478)（$359）
+- [金頂 超能量電池三號 20入](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/Duracell-Ultra-AA-Batteries-20-Pack/p/1022328)（$269）
+- [金頂 超能量電池四號 20入](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/Duracell-Ultra-AAA-Batteries-20-Pack/p/1022330)（$269）
+- [幻知曲 雙人天然舒柔防水保潔墊 152公分 X 190公分 X 38公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Reverie-Modal-Mattress-Protector-152-cm-X-190-cm-X-38-cm/p/110979)（$815）
+- [Anda Seat 皮革電競椅 黑](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Anda-Seat-Leather-Gaming-Chair-Black/p/151431)（$5,199）
+- [義美 皇家夾心酥 33公克 X 46包](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/I-MEI-Cream-Wafer-Cookies-33-g-X-46-Pack/p/143277)（$289）
+- [西雅圖 雙焙濃拿鐵二合一 21公克 X 80入](https://www.costco.com.tw/Costco/Food-Dining/Drinks/Coffee/Barista-Premium-Double-Rich-Latte-2-in-1-21-g-X-80-Pack/p/146965)（$485）
+- [Mon Petit 貓倍麗 小鮮肉泥 綜合口味 10公克 X 80入](https://www.costco.com.tw/Household-Baby-Toys/Pet-Supplies/Pet-Treats-Health/Mon-Petit-PUREE-KISS-Combo-Set-10-g-X-80-Count/p/117068)（$559）
+- [Binggrae 草莓牛奶 保久調味乳 200毫升 X 24入](https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Binggrae-Strawberry-Flavored-Milk-Drink-200-ml-X-24-Pack/p/298720)（$539）
+- [Crown 多穀牛奶夾心餅乾 24公克 X 32入](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Crown-Multigrain-Milk-Sandwich-Crackers-24-g-X-32-Pack/p/126883)（$269）
+- [王麵河粉 杯裝河粉 分享組 61公克 X 12入](https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/KING-PHO-Instant-Pho-Cup-Type-Share-Group-61-g-X-12-Cup/p/152041)（$235）
+- [Webber Naturals 葡萄籽精華膠囊 180顆](https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Webber-Naturals-Grape-Seed-Extract-Capsule-180-Capsule/p/877125)（$379）
+- [味滋康 果香柚子醋醬汁 1公升](https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Mizkan-Yuzu-Ponzu-Citrus-Seasoned-Soy-Sauce-1-L/p/132570)（$289）
+- [易口舒 無糖勁爽薄荷錠 33公克 X 8入](https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Eclipse-Peppermint-33-g-X-8-Count/p/95816)（$369）
+- [亨氏 法式龍蝦濃湯 1公升 X 2入](https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/Heinz-Lobster-Bisque-1-L-X-2-Pack/p/150603)（$239）
+- [雀巢 可可早餐脆片 500公克 X 2入](https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Nestle-KoKo-Krunch-Cereal-500-g-X-2-Pack/p/125049)（$269）
+- [Kokiri 哇象海苔捲原味 5公克 X 22袋](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Kokiri-Seaweed-Snack-Original-Flavor-5-g-X-22-Pack/p/1212069)（$309）
+- [Scott 萬用強吸力紙抹布 55張 X 10捲](https://www.costco.com.tw/Sports-Lifestyle/Automotive/Exterior-Car-Care/Scott-Shop-Multi-Purpose-Towels-55-Sheet-X-10-Roll/p/1509965)（$689）
+- [威德 白藜蘆醇 青春膠囊 90粒](https://www.costco.com.tw/Health-Beauty/Supplements/Bone-Joint-Support/Weider-Resveratrol-90-Capsules/p/305931)（$804）
+- [WD-40 多功能除銹潤滑劑 零壓噴罐 440毫升 X 2入](https://www.costco.com.tw/Sports-Lifestyle/Automotive/Automotive/WD-40-Trigger-Pro-Non-Aerosol-440-ml-X-2-Pack/p/154266)（$469）
+- [Circulon A1 極致抗刮不沾單柄深煎鍋 含玻璃上蓋 26公分](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Cookware-Cutlery-Cutting-Boards/Circulon-A1-Non-Stick-Saute-Pan-With-Glass-Lid-26-cm/p/151585)（$2,159）
+- [Skittles 彩虹糖綜合歡樂箱 38公克 X 20包](https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Skittles-Mixed-Party-Box-38-g-X-20-Pack/p/915777)（$339）
+- [INFINITY X1 7000流明 手電筒](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/INFINITY-X1-7000-Lumens-Dual-Power-Flashlight/p/1806405)（$839）
+- [Ted Baker 經典款女用香水 200毫升 X 2入](https://www.costco.com.tw/p/591977)（$769）
+- [TP-Link Tapo C510W 戶外旋轉式防護 WiFi 攝影機](https://www.costco.com.tw/Digital-Mobile/Cameras/p/158487)（$1,039）
+- [得意的一天 芋頭燕麥椰奶露 750公克 X 3包](https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Great-Day-Taro-Coconut-Soup-with-Oats-750-g-X-3-Pack/p/149344)（$319）
+- [Le Coq Sportif 男短袖純棉上衣](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Le-Coq-Sportif-Mens-Short-Sleeve-Cotton-Tee/p/240942)（$5,799）
+- [名廚美饌 24臻穀 36公克 X 50入](https://www.costco.com.tw/Costco/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/PGi-Cuisine-De-Chef-24-Grain-Powder-36-g-X-50-Count/p/102714)（$399）
+- [米森 乳酸菌咬咬草莓優格 10公克 X 12包](https://www.costco.com.tw/Food-Dining/Snacks/p/860660)（$335）
+- [米森 有機藜麥八寶米 3 公斤](https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Vilson-Organic-Multi-Grains-with-Quinoa-3-kg/p/188634)（$439）
+- [鮮煮藝 冷凍清燉羊肉鍋 1.2 公斤 X 2 包](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Delicious-Idea-Frozen-Stewed-Sheep-Pot-12-kg-X-2-Pack/p/161487)（$649）
+- [睡綿綿 單人舒眠記憶釋壓床墊 91公分 X 190公分 X 5公分 灰](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Deep-Sleep-Memory-Foam-Pressure-Relieving-Pad-Single-Size-91-cm-X-190-cm-X-5-cm-Gray/p/436939)（$1,915）
+- [Gilman Creek 牛皮電動躺椅 深棕](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Gilman-Creek-Leather-Power-Recliner-with-Power-Headrest-Power-Lumbar-Dark-Brown/p/1862181)（$14,399）
+- [睡綿綿 單人舒眠記憶釋壓床墊 91公分 X 190公分 X 5公分 藍](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Deep-Sleep-Memory-Foam-Pressure-Relieving-Pad-Single-Size-91-cm-X-190-cm-X-5-cm-Blue/p/336939)（$1,915）
+- [Sunvilla 10呎 太陽能 LED 戶外遮陽傘](https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Sunvilla-10-ft-Solar-Energy-LED-Market-Umbrella/p/1713474)（$4,799）
+- [Tommy Bahama 7.5呎 海灘遮陽傘](https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Water-Sports/Tommy-Bahama-75-ft-Beach-Umbrella/p/1819570)（$1,039）
+- [大猩猩強效膠帶 10碼 黑色 4入](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Hardware-Ladders/Gorilla-Tape-10-yard-Black-4-Count/p/160551)（$639）
+- [Hotel Grand 羽毛枕 2入組 45公分 X 66公分 X 5公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Hotel-Grand-White-Goose-Feather-and-Down-Pillow-2-Pack-45-cm-X-66-cm-X-5-cm/p/130667)（$835）
+- [Alpine Mountain Gear 不鏽鋼咖啡杯壺組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Alpine-Mountain-Gear-Coffee-Set/p/1906999)（$1,069）
+- [太星電工 25W PD+QC 2開2插壁插轉接器 兩入組](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/MAX-STAR-25W-PDQC-2-Switch-2-Outlet-Wall-Mount-Plug-2-Pack/p/143941)（$639）
+- [手指點讀有聲書 4冊](https://www.costco.com.tw/Office-School/Books/Kids-Books/Kids-Finger-Pointing-Sound-Book-4-Books-/p/157563)（$899）
+- [Caliphil 美國棉單人床包枕套三件組 107公分 X 190公分 森綠](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Caliphil-Sheet-3-Piece-Set-107-cm-X-190-cm-Green/p/159382)（$799）
+- [莫凡彼 單球冰淇淋或飲品兌換券 X 12張](https://www.costco.com.tw/p/158343)（$799）
+- [FOOD超人 魔法趣味麥克風 (歡唱童謠繪本)](https://www.costco.com.tw/Office-School/Books/Kids-Books/Kids-Karaoke-Microphone-Magic-Singing-Sounds-Book/p/152304)（$449）
+- [科克蘭 冷凍養殖超特大生蝦仁 1.5磅 / 680公克, 每磅11-15隻](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Kirkland-Signature-Frozen-Raw-Tail-On-Shrimp-15-LBs-680-g-11-15-Count-LB/p/2255533)（$609）
+- [科克蘭 冷壓初榨椰子油 2.48公升](https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Kirkland-Signature-Virgin-Coconut-Oil-248-L/p/1076366)（$529）
+- [Charmin 超柔捲筒衛生紙 213張 X 30卷](https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Charmin-Ultra-Soft-Bath-Tissue-213-Sheet-X-30-Roll/p/2773119)（$999）
+- [MY MOTTO 提拉米蘇風味威化餅 30公克 X 20包](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/MY-MOTTO-Tiramisu-Flavor-30-g-X-20-Pack/p/163941)（$247）
+- [Ariel 極致雙效洗衣精補充包 1100公克 X 6 入](https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Laundry-Care/Ariel-Laundry-Detergent-Liquid-Refill-1100-g-X-6-Count/p/417455)（$899）
+- [千年屋 年輪蛋糕 16入](https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/Sennenya-Baumkuchen-16-Piece/p/236540)（$399）
+- [愛喜 維生素C + 鈣口嚼錠 220錠 (60錠 X 3瓶 + 20錠 X 2條)](https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/HICEE-Vitamin-C-With-Calcium-220-Tablets-60-Tablet-X-3-Bottle-20-Tablet-X-2-Tube/p/997788)（$777）
+- [JIMMY CHOO 太陽眼鏡 BIRDIE/S BKUHA 金色](https://www.costco.com.tw/Costco/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/JIMMY-CHOO-Sunglasses-BIRDIES-BKUHA-Gold/p/250673)（$1,897）
+- [TP-Link Tapo C425 電池式戶外安全攝影機](https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/TP-Link-Tapo-C425-Smart-Wire-Free-Security-Camera/p/158488)（$2,289）
+- [Bestway 充氣飛鏢盤](https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Team-Sports/Bestway-Soccer-Yard-Game/p/8523339)（$497）
+- [科克蘭 鈣加維生素D3二合一錠 500錠](https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Kirkland-Signature-Calcium-600-mg-with-Vitamin-D3-500-Tablets/p/389195)（$479）
+- [Webber Naturals 甘胺酸鎂膠囊 300粒](https://www.costco.com.tw/Health-Beauty/Supplements/Bone-Joint-Support/Webber-Naturals-Magnesium-bisglycinate-300-Capsule/p/150568)（$899）
+- [小善存 綜合維他命+鈣 100錠](https://www.costco.com.tw/Health-Beauty/Supplements/Kids-Health/Centrum-Junior-Extra-Ca-Multi-vitamin-100-Tablet/p/118326)（$825）
+- [Bentley Designs 置物架](https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Bentley-Designs-Open-Entertainment-Unit/p/152323)（$7,899）
+- [Finlandia 儲物櫃 白色 200公分](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Dresser-White-200-cm/p/145650)（$17,999）
+- [Finlandia Estante 電視櫃 胡桃色](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Estante-TV-Console-Walnut/p/159526)（$19,999）
+- [老協珍 冷凍熬雞精 68毫升 X 30入](https://www.costco.com.tw/Health-Beauty/Elderly-Care/Supplements/Lao-Xie-Zhen-Frozen-Chicken-Essence-68-ml-X-30-Pack/p/118552)（$3,999）
+- [莫凡彼 單球冰淇淋或飲品兌換券 X 12張](https://www.costco.com.tw/Sports-Lifestyle/Garden-Lifestyle/Tickets-Voucher/Movenpick-Voucher-Ice-Cream-Or-Cafe-X-12-Ticket/p/158343)（$799）
+- [飛利浦 攜帶式電鬍刀 RQ901/06](https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Hair-Skin-Care-Tools/Philips-Portable-Electric-Shaver-RQ90106/p/153334)（$4,599）
+- [IRIS Woozoo 空氣循環扇 PCF-SC15T-CT](https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/IRIS-Woozoo-Circulator-Fan-PCF-SC15T-CT/p/2354207)（$1,269）
+- [艾美特 9吋DC直流馬達空氣循環扇 FB2393DR](https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Airmate-9-inch-DC-Inverter-Air-Circulator-FB2393DR/p/149328)（$3,799）
+- [Lustroware 冷水壺 2.1公升 X 2件組 附濾網](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Lustroware-Pitcher-21-L-X-2-Piece-Set-with-Filter/p/135210)（$679）
 
 ## 全部優惠
 
@@ -254,52 +221,52 @@
 |---|---|---:|
 | 其他 | [馬牌輪胎 / 限時優惠折扣中](https://www.costco.com.tw/Continental/Continental-Tire-Exclusive-Limited-Time-Offer/p/111844) | $900 |
 | 家電 3C | [飛利浦 65吋 4K QLED Google TV 顯示器 65PQT8530/96](https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/60-69-TVs/Philips-65-inch-4K-QLED-Google-TV-Monitor-65PQT853096/p/153516) | $16,999 |
-| 日用品／母嬰／玩具 | [舒潔 三層抽取式衛生紙 100抽 X 64入](https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Kleenex-Baby-Soft-3-Ply-Interfold-Bath-Tissue-100-Sheet-X-64-Count/p/212200) | $925 |
+| 日用品／母嬰／玩具 | [舒潔 三層抽取式衛生紙 100抽 X 64入](https://www.costco.com.tw/Costco/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Kleenex-Baby-Soft-3-Ply-Interfold-Bath-Tissue-100-Sheet-X-64-Count/p/212200) | $925 |
 | 家電 3C | [惠而浦 310公升 變頻上下門冰箱](https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Fridges-Freezers/Overall-Capacity-200-350-L/Whirlpool-310L-2-Door-Fridge/p/157117) | $13,899 |
 | 家電 3C | [飛利浦 75吋 4K MiniLED 144Hz Google TV 顯示器 75MLED800/96](https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/70-79-TVs/Philips-75-inch-4K-MiniLED-144Hz-Google-TV-Monitor-75MLED80096/p/153514) | $35,799 |
 | 其他 | [ARM & HAMMER 加強除臭貓砂 18.14公斤](https://www.costco.com.tw/c/ARM-HAMMER-Double-Duty-Clumping-Cat-Litter-1814-kg/p/1790216) | $459 |
-| 食品飲料 | [桂格 黃金麩片燕麥片 1.7公斤](https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Quaker-Golden-Flake-Instant-Whole-Oats-17-kg/p/108128) | $205 |
+| 食品飲料 | [桂格 黃金麩片燕麥片 1.7公斤](https://www.costco.com.tw/Costco/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Quaker-Golden-Flake-Instant-Whole-Oats-17-kg/p/108128) | $205 |
 | 食品飲料 | [健司 極上酵母餅乾 20公克 X 60包](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Kenji-Saltine-Crackers-20-g-X-60-Piece/p/209293) | $279 |
-| 食品飲料 | [雀巢 金牌微研磨咖啡隨行包 深焙風味 2公克 X 100包](https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Nescafe-Gold-Blend-Dark-Roast-Instant-Coffee-Sticks-2-g-X-100-Count/p/136308) | $435 |
-| 食品飲料 | [翠果子 綜合米果 20公克 X 30入](https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Trygoodz-Rice-Crackers-with-Almonds-20-g-X-30-Pack/p/111681) | $255 |
-| 日用品／母嬰／玩具 | [風倍清 浴廁防霉防臭劑 清新柑橘 + 柔和花香 7毫升 X 6入](https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Pest-Control-Air-Care/Febreze-Toilet-Bathroom-Anti-Mold-Deodorizer-Citrus-Floral-7-ml-X-6-Count/p/144061) | $495 |
-| 食品飲料 | [紅龍 冷凍牛肉捲 220 公克 X 6 入](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Red-Dragon-Frozen-Beef-Bakes-220-g-X-6-Count/p/64012) | $359 |
-| 保健美容 | [善存 3效順暢益生菌粉末顆粒 90包](https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Centrum-Probiotics-Powder-Regular-90-Pack/p/145212) | $1,069 |
-| 保健美容 | [克補+鋅加強錠 200錠](https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Stresstabs-Plus-Zinc-200-Tablet/p/976575) | $829 |
-| 保健美容 | [Nature's Lab 薑黃萃取及胡椒鹼膠囊 120粒](https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Natures-Lab-Turmeric-Extract-120-Capsules/p/116398) | $1,029 |
-| 食品飲料 | [樂事 粉紅派對歡聚箱 15包 / 501公克](https://www.costco.com.tw/Costco/Food-Dining/Snacks/Cookies-Chips/Lays-Pink-Party-Box-15-Pack-501-g/p/558588) | $255 |
+| 食品飲料 | [雀巢 金牌微研磨咖啡隨行包 深焙風味 2公克 X 100包](https://www.costco.com.tw/Costco/Food-Dining/Drinks/Coffee/Nescafe-Gold-Blend-Dark-Roast-Instant-Coffee-Sticks-2-g-X-100-Count/p/136308) | $435 |
+| 日用品／母嬰／玩具 | [風倍清 浴廁防霉防臭劑 清新柑橘 + 柔和花香 7毫升 X 6入](https://www.costco.com.tw/Costco/Household-Baby-Toys/Household-Essentials/Pest-Control-Air-Care/Febreze-Toilet-Bathroom-Anti-Mold-Deodorizer-Citrus-Floral-7-ml-X-6-Count/p/144061) | $495 |
+| 食品飲料 | [翠果子 綜合米果 20公克 X 30入](https://www.costco.com.tw/Costco/Food-Dining/Snacks/Nuts-Jerky/Trygoodz-Rice-Crackers-with-Almonds-20-g-X-30-Pack/p/111681) | $255 |
+| 食品飲料 | [紅龍 冷凍牛肉捲 220 公克 X 6 入](https://www.costco.com.tw/Costco/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Red-Dragon-Frozen-Beef-Bakes-220-g-X-6-Count/p/64012) | $359 |
+| 保健美容 | [善存 3效順暢益生菌粉末顆粒 90包](https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Supplements-Digestive-Support/Centrum-Probiotics-Powder-Regular-90-Pack/p/145212) | $1,069 |
+| 保健美容 | [克補+鋅加強錠 200錠](https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Multi-Letter-Vitamins/Stresstabs-Plus-Zinc-200-Tablet/p/976575) | $829 |
+| 食品飲料 | [樂事 粉紅派對歡聚箱 15包 / 501公克](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Lays-Pink-Party-Box-15-Pack-501-g/p/558588) | $255 |
+| 保健美容 | [Nature's Lab 薑黃萃取及胡椒鹼膠囊 120粒](https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Supplements-Digestive-Support/Natures-Lab-Turmeric-Extract-120-Capsules/p/116398) | $1,029 |
 | 日用品／母嬰／玩具 | [白蘭 精油芳香豆洗衣球 粉漾花園 55入 X 2包](https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Laundry-Care/Bailan-Essential-Oil-Bead-Capsule-Pink-Garden-55-Count-X-2-Pack/p/148015) | $479 |
 | 食品飲料 | [桂格 有機燕麥飲 300毫升 X 12入](https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Quaker-Organic-Oat-Drink-300-ml-X-12-Count/p/121461) | $289 |
-| 食品飲料 | [克寧 銀養高鈣全效奶粉 呵護配方 1.9公斤](https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/KLIM-Senior-Milk-Powder-Multicare-19-kg/p/224757) | $655 |
+| 食品飲料 | [克寧 銀養高鈣全效奶粉 呵護配方 1.9公斤](https://www.costco.com.tw/Costco/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/KLIM-Senior-Milk-Powder-Multicare-19-kg/p/224757) | $655 |
 | 保健美容 | [樂益活 菌護樂齡益生菌 (乳酸菌粉狀食品) 2公克 X 60包](https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Supplements-Digestive-Support/MeridLife-Essential-Probiotic-Prebiotic-Senior-Formula-2-g-X-60-Packet/p/397716) | $679 |
-| 食品飲料 | [韓味不二 海苔酥 80公克 X 4袋](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Hanwha-Roasted-Seaweed-Flakes-80-g-X-4-Pack/p/213492) | $339 |
-| 保健美容 | [威德 海洋膠原粉 + 鐵 60 包](https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/WEIDER-Marine-Collagen-Iron-60-Sachet/p/102999) | $829 |
-| 食品飲料 | [品客 洋芋片 MINIS 經典原味 19公克 X 30包](https://www.costco.com.tw/Costco/Food-Dining/Snacks/Cookies-Chips/Pringles-MINIS-Original-Flavour-Potato-Chips-19-g-X-30-Pack/p/136011) | $315 |
-| 食品飲料 | [Tree Top 蘋果汁 2公升 X 4入](https://www.costco.com.tw/Costco/Food-Dining/Drinks/Beverages-Juice/Tree-Top-Apple-Juice-2-L-X-4-Pack/p/30991) | $379 |
-| 食品飲料 | [匠拌麵 鵝油金蔥拌麵 125公克 X 10包](https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Kung-Fu-Noodles-Premium-Goose-Oil-with-Crispy-Shallot-Flakes-125-g-X-10-Pack/p/136652) | $339 |
+| 保健美容 | [威德 海洋膠原粉 + 鐵 60 包](https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Supplements-Digestive-Support/WEIDER-Marine-Collagen-Iron-60-Sachet/p/102999) | $829 |
+| 食品飲料 | [韓味不二 海苔酥 80公克 X 4袋](https://www.costco.com.tw/Costco/Food-Dining/Snacks/Cookies-Chips/Hanwha-Roasted-Seaweed-Flakes-80-g-X-4-Pack/p/213492) | $339 |
+| 食品飲料 | [品客 洋芋片 MINIS 經典原味 19公克 X 30包](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Pringles-MINIS-Original-Flavour-Potato-Chips-19-g-X-30-Pack/p/136011) | $315 |
+| 食品飲料 | [Tree Top 蘋果汁 2公升 X 4入](https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Tree-Top-Apple-Juice-2-L-X-4-Pack/p/30991) | $379 |
+| 食品飲料 | [匠拌麵 鵝油金蔥拌麵 125公克 X 10包](https://www.costco.com.tw/Costco/Food-Dining/Groceries/Rice-Noodles/Kung-Fu-Noodles-Premium-Goose-Oil-with-Crispy-Shallot-Flakes-125-g-X-10-Pack/p/136652) | $339 |
 | 食品飲料 | [五木 細關東麵 416公克 X 9包](https://www.costco.com.tw/Costco/Food-Dining/Groceries/Rice-Noodles/Wu-Mu-Thin-Kan-To-Noodles-416-g-X-9-Pack/p/56629) | $259 |
-| 食品飲料 | [珍珍 燻烤魷魚絲 360公克](https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Jane-Jane-Smoked-Squid-360-g/p/79731) | $299 |
-| 食品飲料 | [雀巢 金牌冰萃濾袋雙口味組 10公克 X 40入](https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Nescafe-Gold-Cold-Brew-Mix-Pack-10-g-X-40-Pack/p/332545) | $359 |
+| 食品飲料 | [珍珍 燻烤魷魚絲 360公克](https://www.costco.com.tw/Costco/Food-Dining/Snacks/Nuts-Jerky/Jane-Jane-Smoked-Squid-360-g/p/79731) | $299 |
+| 食品飲料 | [雀巢 金牌冰萃濾袋雙口味組 10公克 X 40入](https://www.costco.com.tw/Costco/Food-Dining/Drinks/Coffee/Nescafe-Gold-Cold-Brew-Mix-Pack-10-g-X-40-Pack/p/332545) | $359 |
 | 食品飲料 | [冷凍比目魚切片 1.15公斤](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Frozen-Halibut-Steak-115-kg/p/138763) | $639 |
 | 食品飲料 | [五木 經濟包營養麵 1.25公斤 X 4包](https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Wu-Mu-Enriched-Noodles-125-kg-X-4-Pack/p/56630) | $259 |
 | 保健美容 | [日本獅王 趣淨抗菌洗手慕斯花香組 500毫升 1入 + 2公升補充瓶 1入](https://www.costco.com.tw/Costco/Health-Beauty/Personal-Care/Facial-Cleansers-Hand-Washes/LION-KireiKirei-Medicated-Foaming-Hand-Soap-Set-Floral-500-ml-X-1-Pack-2-L-refill-X-1-Pack/p/151738) | $549 |
-| 保健美容 | [吉列 鋒隱手動刮鬍刀組 刀架 X 1 + 刀頭 X 12](https://www.costco.com.tw/Health-Beauty/Personal-Care/Mens-Grooming/Gillette-Fusion-Razor-Set-Razor-X-1-Cartridge-X-12/p/239390) | $769 |
-| 保健美容 | [提提研 黑面膜組 25入](https://www.costco.com.tw/Costco/Health-Beauty/Beauty-Skin-Care/Skin-Care/TTM-Black-Charcoal-Mask-X-25-Piece/p/241298) | $619 |
+| 保健美容 | [吉列 鋒隱手動刮鬍刀組 刀架 X 1 + 刀頭 X 12](https://www.costco.com.tw/Costco/Health-Beauty/Personal-Care/Mens-Grooming/Gillette-Fusion-Razor-Set-Razor-X-1-Cartridge-X-12/p/239390) | $769 |
 | 家具家居 | [Kohler Exhale 沐浴軟水過濾器](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/KitchenBathroom-Hardware/Kohler-Exhale-Shower-Filter/p/117946) | $1,429 |
-| 保健美容 | [克補+鐵加強錠200錠](https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Stresstabs-Plus-Iron-200-Tablet/p/976577) | $829 |
-| 保健美容 | [歐樂B 膨脹深潔牙線 50公尺 X 7入](https://www.costco.com.tw/Health-Beauty/Personal-Care/Oral-Care/Oral-B-Expanding-Floss-50-m-X-7-Pack/p/157164) | $479 |
-| 食品飲料 | [CJ 冷凍韓式雜菜拌粉絲 295公克 X 4入](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/CJ-Bibigo-Frozen-Japchae-with-Mushroom-295-g-X-4-Pack/p/132478) | $359 |
-| 家具家居 | [金頂 超能量電池三號 20入](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/Duracell-Ultra-AA-Batteries-20-Pack/p/1022328) | $269 |
-| 家具家居 | [金頂 超能量電池四號 20入](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/Duracell-Ultra-AAA-Batteries-20-Pack/p/1022330) | $269 |
+| 保健美容 | [提提研 黑面膜組 25入](https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Skin-Care/TTM-Black-Charcoal-Mask-X-25-Piece/p/241298) | $619 |
+| 保健美容 | [克補+鐵加強錠200錠](https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Multi-Letter-Vitamins/Stresstabs-Plus-Iron-200-Tablet/p/976577) | $829 |
+| 保健美容 | [歐樂B 膨脹深潔牙線 50公尺 X 7入](https://www.costco.com.tw/Costco/Health-Beauty/Personal-Care/Oral-Care/Oral-B-Expanding-Floss-50-m-X-7-Pack/p/157164) | $479 |
+| 食品飲料 | [CJ 冷凍韓式雜菜拌粉絲 295公克 X 4入](https://www.costco.com.tw/Costco/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/CJ-Bibigo-Frozen-Japchae-with-Mushroom-295-g-X-4-Pack/p/132478) | $359 |
+| 家具家居 | [金頂 超能量電池三號 20入](https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/Duracell-Ultra-AA-Batteries-20-Pack/p/1022328) | $269 |
+| 家具家居 | [金頂 超能量電池四號 20入](https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/Duracell-Ultra-AAA-Batteries-20-Pack/p/1022330) | $269 |
 | 食品飲料 | [金博家 貓山王海鹽榴槤冰淇淋 473毫升 X 2入](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Desserts-Ice-Cream/Jinbo-Musang-King-Sea-Salt-Durian-Ice-Cream-473-ml-X-2-Count/p/144661) | $589 |
 | 家電 3C | [Vornado 渦流空氣循環扇 STRATA 8 OMNI-TW](https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Vornado-Compact-Tower-Fan-STRATA-8-OMNI-TW/p/157119) | $2,199 |
-| 家具家居 | [幻知曲 雙人天然舒柔防水保潔墊 152公分 X 190公分 X 38公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Reverie-Modal-Mattress-Protector-152-cm-X-190-cm-X-38-cm/p/110979) | $815 |
+| 家具家居 | [幻知曲 雙人天然舒柔防水保潔墊 152公分 X 190公分 X 38公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Mattress-Toppers/Reverie-Modal-Mattress-Protector-152-cm-X-190-cm-X-38-cm/p/110979) | $815 |
 | 家電 3C | [Samsung 55吋 QLED 4K AI 量子智慧顯示器 QA55QEF1AXXZW](https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/50-59-TVs/Samsung-55-inch-QLED-4K-AI-Smart-Monitor-QA55QEF1AXXZW/p/153529) | $13,998 |
 | 家具家居 | [幻知曲 雙人加大天然舒柔防水保潔墊 183公分 X 190公分 X 38公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Reverie-Modal-Mattress-Protector-183-cm-X-190-cm-X-38-cm/p/110980) | $915 |
 | 家具家居 | [3M 新絲舒眠單人涼透被 150公分 X 180公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/3M-Thinsulate-Comforter-150-cm-X-180-cm/p/111136) | $1,999 |
 | 服飾配件 | [GAP 女鬆緊腰短褲](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/GAP-Elastic-Waist-Short/p/1959301) | $1,159 |
 | 服飾配件 | [Banana Republic 男經典斜紋五口袋長褲](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/Banana-Republic-Mens-Classic-Twill-5-Pocket-Pants/p/1967449) | $1,159 |
-| 家具家居 | [Anda Seat 皮革電競椅 黑](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Anda-Seat-Leather-Gaming-Chair-Black/p/151431) | $5,199 |
+| 家具家居 | [Anda Seat 皮革電競椅 黑](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Anda-Seat-Leather-Gaming-Chair-Black/p/151431) | $5,199 |
 | 家電 3C | [開利 6-8坪 4.1kW 智冷系列3D環繞變頻冷暖一對一分離式冷氣 含運費及基本安裝](https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Air-Conditioners/Carrier-41kW-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/157775) | $27,599 |
 | 家電 3C | [開利 4-6坪 2.8kW 智冷系列3D環繞變頻冷暖一對一分離式冷氣 含運費及基本安裝](https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Air-Conditioners/Carrier-28kW-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/157774) | $21,998 |
 | 家電 3C | [開利 7-9坪 5.1kW 智冷系列3D環繞變頻冷暖一對一分離式冷氣 含運費及基本安裝](https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Air-Conditioners/Carrier-51kW-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/157776) | $33,499 |
@@ -308,81 +275,81 @@
 | 家電 3C | [開利 10-12坪 7.4kW 智冷系列3D環繞變頻冷暖一對一分離式冷氣 含運費及基本安裝](https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Air-Conditioners/Carrier-74kW-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/157778) | $46,899 |
 | 家具家居 | [WMF Profi Pfannen 不鏽鋼平底煎鍋 2件組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Cookware-Cutlery-Cutting-Boards/WMF-Profi-Pfannen-Stainless-Steel-Fry-Pan-2-Piece-Set/p/159642) | $1,999 |
 | 日用品／母嬰／玩具 | [Scotch-Brite 百利 替換式除菌馬桶刷補充包 30入](https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Cleaning-Tools/Scotch-Brite-Disposable-Toilet-Scrubber-Refill-Set-30-Count/p/1132115) | $309 |
-| 食品飲料 | [義美 皇家夾心酥 33公克 X 46包](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/I-MEI-Cream-Wafer-Cookies-33-g-X-46-Pack/p/143277) | $289 |
-| 食品飲料 | [西雅圖 雙焙濃拿鐵二合一 21公克 X 80入](https://www.costco.com.tw/Costco/Food-Dining/Drinks/Coffee/Barista-Premium-Double-Rich-Latte-2-in-1-21-g-X-80-Pack/p/146965) | $485 |
-| 日用品／母嬰／玩具 | [Mon Petit 貓倍麗 小鮮肉泥 綜合口味 10公克 X 80入](https://www.costco.com.tw/Household-Baby-Toys/Pet-Supplies/Pet-Treats-Health/Mon-Petit-PUREE-KISS-Combo-Set-10-g-X-80-Count/p/117068) | $559 |
-| 食品飲料 | [Binggrae 草莓牛奶 保久調味乳 200毫升 X 24入](https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Binggrae-Strawberry-Flavored-Milk-Drink-200-ml-X-24-Pack/p/298720) | $539 |
+| 食品飲料 | [義美 皇家夾心酥 33公克 X 46包](https://www.costco.com.tw/Costco/Food-Dining/Snacks/Cookies-Chips/I-MEI-Cream-Wafer-Cookies-33-g-X-46-Pack/p/143277) | $289 |
+| 食品飲料 | [西雅圖 雙焙濃拿鐵二合一 21公克 X 80入](https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Barista-Premium-Double-Rich-Latte-2-in-1-21-g-X-80-Pack/p/146965) | $485 |
+| 日用品／母嬰／玩具 | [Mon Petit 貓倍麗 小鮮肉泥 綜合口味 10公克 X 80入](https://www.costco.com.tw/Costco/Household-Baby-Toys/Pet-Supplies/Pet-Treats-Health/Mon-Petit-PUREE-KISS-Combo-Set-10-g-X-80-Count/p/117068) | $559 |
+| 食品飲料 | [Binggrae 草莓牛奶 保久調味乳 200毫升 X 24入](https://www.costco.com.tw/Costco/Food-Dining/Drinks/Beverages-Juice/Binggrae-Strawberry-Flavored-Milk-Drink-200-ml-X-24-Pack/p/298720) | $539 |
+| 食品飲料 | [Crown 多穀牛奶夾心餅乾 24公克 X 32入](https://www.costco.com.tw/Costco/Food-Dining/Snacks/Cookies-Chips/Crown-Multigrain-Milk-Sandwich-Crackers-24-g-X-32-Pack/p/126883) | $269 |
 | 日用品／母嬰／玩具 | [舒潔 濕式衛生紙 46張 X 32入](https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Kleenex-Flushable-Wipes-46-Sheet-X-32-Count/p/123333) | $1,143 |
-| 食品飲料 | [Crown 多穀牛奶夾心餅乾 24公克 X 32入](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Crown-Multigrain-Milk-Sandwich-Crackers-24-g-X-32-Pack/p/126883) | $269 |
 | 食品飲料 | [翠果子 杏仁海苔天婦羅點心包 500公克](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/TRYGOODZ-ALMOND-SEAWEED-CRACKER-MIX-500G/p/888688) | $299 |
 | 保健美容 | [大成 冷凍醇粹雞精 100毫升 X 30入](https://www.costco.com.tw/Health-Beauty/Elderly-Care/Supplements/Dachan-Frozen-Pure-Chicken-Essence-100-ml-X-30-Count/p/127511) | $2,349 |
 | 保健美容 | [靠得住 草本抑菌日用衛生棉 23公分 17片 X 12包](https://www.costco.com.tw/Health-Beauty/Personal-Care/Feminine-Care/Kotex-Herbal-Regular-Day-Pad-23-cm-17-Piece-X-12-Pack/p/148193) | $509 |
-| 食品飲料 | [王麵河粉 杯裝河粉 分享組 61公克 X 12入](https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/KING-PHO-Instant-Pho-Cup-Type-Share-Group-61-g-X-12-Cup/p/152041) | $235 |
-| 保健美容 | [Webber Naturals 葡萄籽精華膠囊 180顆](https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Webber-Naturals-Grape-Seed-Extract-Capsule-180-Capsule/p/877125) | $379 |
-| 食品飲料 | [味滋康 果香柚子醋醬汁 1公升](https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Mizkan-Yuzu-Ponzu-Citrus-Seasoned-Soy-Sauce-1-L/p/132570) | $289 |
-| 食品飲料 | [易口舒 無糖勁爽薄荷錠 33公克 X 8入](https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Eclipse-Peppermint-33-g-X-8-Count/p/95816) | $369 |
-| 服飾配件 | [Lacoste 男純棉圓領短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Lacoste-Mens-Cotton-Crew-Neck-Short-Sleeve-Tee/p/3333325) | $1,159 |
-| 食品飲料 | [亨氏 法式龍蝦濃湯 1公升 X 2入](https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/Heinz-Lobster-Bisque-1-L-X-2-Pack/p/150603) | $239 |
-| 食品飲料 | [雀巢 可可早餐脆片 500公克 X 2入](https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Nestle-KoKo-Krunch-Cereal-500-g-X-2-Pack/p/125049) | $269 |
-| 食品飲料 | [Kokiri 哇象海苔捲原味 5公克 X 22袋](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Kokiri-Seaweed-Snack-Original-Flavor-5-g-X-22-Pack/p/1212069) | $309 |
-| 家具家居 | [Don Home 涼感素色雙人加大床包枕套 3件組 182公分 X 190公分 錫黃](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Don-Home-Cooling-Touch-Sheet-3-Piece-Set-King-Size-182-cm-X-190-cm-Khaki/p/258966) | $869 |
+| 食品飲料 | [王麵河粉 杯裝河粉 分享組 61公克 X 12入](https://www.costco.com.tw/Costco/Food-Dining/Groceries/Rice-Noodles/KING-PHO-Instant-Pho-Cup-Type-Share-Group-61-g-X-12-Cup/p/152041) | $235 |
+| 保健美容 | [Webber Naturals 葡萄籽精華膠囊 180顆](https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Supplements-Digestive-Support/Webber-Naturals-Grape-Seed-Extract-Capsule-180-Capsule/p/877125) | $379 |
 | 食品飲料 | [La Española 西班牙特級初榨橄欖油 5公升](https://www.costco.com.tw/Costco/Food-Dining/Groceries/Cooking-Oil-Sauces/La-Espanola-Evoo-Oil-5-L/p/153839) | $929 |
+| 食品飲料 | [味滋康 果香柚子醋醬汁 1公升](https://www.costco.com.tw/Costco/Food-Dining/Groceries/Cooking-Oil-Sauces/Mizkan-Yuzu-Ponzu-Citrus-Seasoned-Soy-Sauce-1-L/p/132570) | $289 |
+| 食品飲料 | [易口舒 無糖勁爽薄荷錠 33公克 X 8入](https://www.costco.com.tw/Costco/Food-Dining/Snacks/Candies-Chocolates/Eclipse-Peppermint-33-g-X-8-Count/p/95816) | $369 |
+| 服飾配件 | [Lacoste 男純棉圓領短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Lacoste-Mens-Cotton-Crew-Neck-Short-Sleeve-Tee/p/3333325) | $1,159 |
+| 食品飲料 | [亨氏 法式龍蝦濃湯 1公升 X 2入](https://www.costco.com.tw/Costco/Food-Dining/Groceries/Canned-Prepared-Food/Heinz-Lobster-Bisque-1-L-X-2-Pack/p/150603) | $239 |
+| 食品飲料 | [雀巢 可可早餐脆片 500公克 X 2入](https://www.costco.com.tw/Costco/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Nestle-KoKo-Krunch-Cereal-500-g-X-2-Pack/p/125049) | $269 |
+| 食品飲料 | [Kokiri 哇象海苔捲原味 5公克 X 22袋](https://www.costco.com.tw/Costco/Food-Dining/Snacks/Cookies-Chips/Kokiri-Seaweed-Snack-Original-Flavor-5-g-X-22-Pack/p/1212069) | $309 |
+| 家具家居 | [Don Home 涼感素色雙人加大床包枕套 3件組 182公分 X 190公分 錫黃](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Don-Home-Cooling-Touch-Sheet-3-Piece-Set-King-Size-182-cm-X-190-cm-Khaki/p/258966) | $869 |
 | 食品飲料 | [美威 冷凍鮭魚干貝海鮮丸 1050公克 X 2入](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Supreme-Salmon-Frozen-Salmon-And-Scallop-Balls-1050-g-X-2-Count/p/153874) | $799 |
 | 食品飲料 | [Happy Village 綜合果乾 567 公克](https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Happy-Village-Fruit-Medley-567-g/p/2773524) | $339 |
-| 其他 | [Scott 萬用強吸力紙抹布 55張 X 10捲](https://www.costco.com.tw/Sports-Lifestyle/Automotive/Exterior-Car-Care/Scott-Shop-Multi-Purpose-Towels-55-Sheet-X-10-Roll/p/1509965) | $689 |
+| 其他 | [Scott 萬用強吸力紙抹布 55張 X 10捲](https://www.costco.com.tw/Costco/Sports-Lifestyle/Automotive/Exterior-Car-Care/Scott-Shop-Multi-Purpose-Towels-55-Sheet-X-10-Roll/p/1509965) | $689 |
 | 其他 | [Seeds 惜時 雞肉里肌長片 1公斤](https://www.costco.com.tw/c/Seeds-Chicken-Jerky-Dog-Treats-1-kg/p/60574) | $759 |
 | 服飾配件 | [Nautica 男寬肩背心三入組](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Nautica-Mens-Tank-Top-3-Pack-Set/p/8526955) | $739 |
 | 服飾配件 | [Adidas 男內褲三入組](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Adidas-Mens-Active-Boxer-3-Pack-Set/p/158877) | $549 |
-| 保健美容 | [威德 白藜蘆醇 青春膠囊 90粒](https://www.costco.com.tw/Health-Beauty/Supplements/Bone-Joint-Support/Weider-Resveratrol-90-Capsules/p/305931) | $804 |
+| 保健美容 | [威德 白藜蘆醇 青春膠囊 90粒](https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Bone-Joint-Support/Weider-Resveratrol-90-Capsules/p/305931) | $804 |
 | 家具家居 | [Downlite 涼感舒眠枕 2入 51公分 X 71公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Downlite-Ultimate-Freeze-Sleep-Pillow-2-Pack-51-cm-X-71-cm/p/688672) | $529 |
 | 服飾配件 | [Samsonite Colten 多功能後背包](https://www.costco.com.tw/Clothing-Accessories/Luggage-Backpacks/Totes-Backpacks/Samsonite-Colten-Backpack/p/154883) | $1,649 |
 | 家具家居 | [Don Home 萊賽爾素色雙人涼被 180公分 X 210公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Don-Home-300-Thread-Count-Lyocell-Quilt-180-cm-X-210-cm/p/136138) | $1,169 |
-| 其他 | [WD-40 多功能除銹潤滑劑 零壓噴罐 440毫升 X 2入](https://www.costco.com.tw/Sports-Lifestyle/Automotive/Automotive/WD-40-Trigger-Pro-Non-Aerosol-440-ml-X-2-Pack/p/154266) | $469 |
+| 其他 | [WD-40 多功能除銹潤滑劑 零壓噴罐 440毫升 X 2入](https://www.costco.com.tw/Costco/Sports-Lifestyle/Automotive/Automotive/WD-40-Trigger-Pro-Non-Aerosol-440-ml-X-2-Pack/p/154266) | $469 |
 | 家電 3C | [飛利浦 攜帶式電鬍刀 RQ901/06](https://www.costco.com.tw/Costco/Televisions-Appliances/Small-Appliances/Hair-Skin-Care-Tools/Philips-Portable-Electric-Shaver-RQ90106/p/153334) | $4,599 |
 | 服飾配件 | [New Balance 410 v5 男慢跑鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/New-Balance-410-v5-Mens-Running-Shoes/p/160815) | $1,299 |
+| 家電 3C | [TP-Link Tapo C510W 戶外旋轉式防護 WiFi 攝影機](https://www.costco.com.tw/Costco/Digital-Mobile/Cameras/Security-Cameras-Drones/TP-Link-Tapo-C510W-Pan-Tilt-Security-Wi-Fi-Camera/p/158487) | $1,039 |
 | 服飾配件 | [Mack Weldon 男短袖Polo衫](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Mack-Weldon-Mens-Short-Sleeve-Polo-Shirt/p/1956429) | $439 |
 | 家具家居 | [Don Home 萊賽爾印花單人涼被3件組 150公分 X 210公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Don-Home-Lyocell-Quilt-Set-3-Piece-150-cm-X-210-cm/p/114933) | $1,099 |
 | 家電 3C | [TP-Link 旋轉式 WI-FI 攝影機 C212 2入組](https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/TP-Link-Wi-Fi-Camera-C212-2-Pack-Set/p/156177) | $1,279 |
 | 家具家居 | [Brita X 三麗鷗 大耳狗喜拿 Style 純淨濾水壺 3.6公升 附3入 Maxtra Pro 濾芯](https://www.costco.com.tw/Costco/Furniture-Kitchen/Kitchen-Dining/Water-Filtration/Brita-X-SANRIO-Cinnamoroll-Style-Water-Filter-Jug-36-L-with-Maxtra-Pro-Filters-X-3-Count/p/158746) | $1,479 |
 | 服飾配件 | [FitFlop Lulu 牛皮女拖鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/FitFlop-Lulu-Leather-Ladies-Slippers/p/157365) | $1,659 |
-| 家具家居 | [Circulon A1 極致抗刮不沾單柄深煎鍋 含玻璃上蓋 26公分](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Cookware-Cutlery-Cutting-Boards/Circulon-A1-Non-Stick-Saute-Pan-With-Glass-Lid-26-cm/p/151585) | $2,159 |
-| 食品飲料 | [Skittles 彩虹糖綜合歡樂箱 38公克 X 20包](https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Skittles-Mixed-Party-Box-38-g-X-20-Pack/p/915777) | $339 |
+| 家具家居 | [Circulon A1 極致抗刮不沾單柄深煎鍋 含玻璃上蓋 26公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Kitchen-Dining/Cookware-Cutlery-Cutting-Boards/Circulon-A1-Non-Stick-Saute-Pan-With-Glass-Lid-26-cm/p/151585) | $2,159 |
+| 食品飲料 | [Skittles 彩虹糖綜合歡樂箱 38公克 X 20包](https://www.costco.com.tw/Costco/Food-Dining/Snacks/Candies-Chocolates/Skittles-Mixed-Party-Box-38-g-X-20-Pack/p/915777) | $339 |
 | 服飾配件 | [Mack Weldon 男彈性長褲](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/Mack-Weldon-Mens-Stretch-Pant/p/1975219) | $549 |
-| 家具家居 | [INFINITY X1 7000流明 手電筒](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/INFINITY-X1-7000-Lumens-Dual-Power-Flashlight/p/1806405) | $839 |
+| 家具家居 | [INFINITY X1 7000流明 手電筒](https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/INFINITY-X1-7000-Lumens-Dual-Power-Flashlight/p/1806405) | $839 |
 | 其他 | [人造草皮 中 114公分 X 351公分 X 4公分](https://www.costco.com.tw/Sports-Lifestyle/Garden-Lifestyle/Lawn-Garden/Artificial-Grass-Lissome-Medium-114-cm-X-351-cm-X-4-cm/p/1713603) | $1,199 |
 | 服飾配件 | [RVCA 男Logo短袖運動上衣](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/RVCA-Mens-Active-Short-Sleeve-Logo-Tee/p/1989741) | $349 |
 | 服飾配件 | [Lacoste 男休閒鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Lacoste-Mens-Shoe/p/154492) | $1,399 |
+| 食品飲料 | [百家珍蘋果醋 520毫升 X 12入](https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/PCC-Apple-Vinegar-520-ml-X-12-Pack/p/184266) | $299 |
 | 服飾配件 | [New Balance DynaSoft Flash 男復古慢跑鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/New-Balance-DynaSoft-Flash-Mens-Retro-Running-Shoe/p/160813) | $1,299 |
-| 其他 | [Ted Baker 經典款女用香水 200毫升 X 2入](https://www.costco.com.tw/p/591977) | $769 |
+| 保健美容 | [Ted Baker 經典款女用香水 200毫升 X 2入](https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Makeup-Beauty-Accessories/Ted-Baker-Woman-Original-200-ml-X-2-Pack/p/591977) | $769 |
 | 家具家居 | [Don Home 涼感素色雙人特大床包枕套 3件組 182公分 X 212公分 錫黃](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Don-Home-Cooling-Touch-3-Piece-Set-182-cm-X-212-cm-Khaki/p/159079) | $1,039 |
 | 食品飲料 | [Long Kow 龍口有機冬粉 420 公克 X 2 入](https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Long-Kow-Organic-Bean-Vermicelli-420-g-X-2-Count/p/86456) | $259 |
-| 家電 3C | [TP-Link Tapo C510W 戶外旋轉式防護 WiFi 攝影機](https://www.costco.com.tw/Digital-Mobile/Cameras/p/158487) | $1,039 |
 | 服飾配件 | [Oh Sunny 女戶外休閒雙面遮陽帽](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Accessories/Oh-Sunny-Ladies-Reversible-Sunscreen-Hat/p/8522876) | $499 |
 | 家具家居 | [Brita 瞬熱滅菌智能溫控開飲機 4公升 Model One-B](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Filtration/Brita-UVC-Water-Dispenser-4-L-Model-One-B/p/154237) | $6,999 |
 | 服飾配件 | [New Balance 515 男復古慢跑鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/New-Balance-Mens-Running-Shoe/p/160814) | $1,419 |
-| 食品飲料 | [得意的一天 芋頭燕麥椰奶露 750公克 X 3包](https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Great-Day-Taro-Coconut-Soup-with-Oats-750-g-X-3-Pack/p/149344) | $319 |
+| 食品飲料 | [得意的一天 芋頭燕麥椰奶露 750公克 X 3包](https://www.costco.com.tw/Costco/Food-Dining/Drinks/Beverages-Juice/Great-Day-Taro-Coconut-Soup-with-Oats-750-g-X-3-Pack/p/149344) | $319 |
 | 服飾配件 | [Tommy Hilfiger 女踝襪 5入組](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Tommy-Hilfiger-Ladies-Low-Cut-Socks-5-Pack/p/157487) | $469 |
 | 服飾配件 | [New Balance DynaSoft Flash 女運動鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/New-Balance-DynaSoft-Flash-Ladies-Running-Shoe/p/160817) | $1,279 |
 | 服飾配件 | [Banana Republic 女長袖襯衫](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Banana-Republic-Ladies-Long-Sleeve-Shirt/p/1974301) | $1,159 |
 | 家電 3C | [Aiwa便攜式藍牙喇叭 BST-660](https://www.costco.com.tw/Digital-Mobile/Wearables-Audio/Bluetooth-Speakers-Landline-Phones/Aiwa-Portable-Bluetooth-Speaker-BST-660/p/152012) | $1,679 |
 | 家具家居 | [INFINITY X1 2000流明 充電式工作燈 3入組](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/INFINITY-X1-2000-Lumens-Rechargeable-Work-Light-3-Pack/p/1806323) | $599 |
 | 其他 | [INTEX Jump-O-Lene 城堡彈跳池](https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/INTEX-Jump-O-Lene-Castle-Bouncer/p/158245) | $1,389 |
-| 服飾配件 | [Le Coq Sportif 男短袖純棉上衣](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Le-Coq-Sportif-Mens-Short-Sleeve-Cotton-Tee/p/240942) | $5,799 |
+| 服飾配件 | [Le Coq Sportif 男短袖純棉上衣](https://www.costco.com.tw/Clothing-Accessories/p/240942) | $5,799 |
 | 食品飲料 | [Annie’s Home Grown 有機起司通心粉 12入組合包](https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/Annies-Home-Grown-Organic-Macaroni-Cheese-12-Pack-Assorted-Set/p/145777) | $498 |
 | 服飾配件 | [Character 兒童上衣四件組](https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Clothing-Sets-Accessories/Character-Kids-Short-Sleeve-Tee-4-Pack-Set/p/1956441) | $479 |
 | 食品飲料 | [味好美 大蒜香草調味料 520公克](https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/McCormick-Garlic-Herb-Seasoning-520-g/p/150604) | $319 |
-| 食品飲料 | [名廚美饌 24臻穀 36公克 X 50入](https://www.costco.com.tw/Costco/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/PGi-Cuisine-De-Chef-24-Grain-Powder-36-g-X-50-Count/p/102714) | $399 |
+| 食品飲料 | [名廚美饌 24臻穀 36公克 X 50入](https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/PGi-Cuisine-De-Chef-24-Grain-Powder-36-g-X-50-Count/p/102714) | $399 |
 | 服飾配件 | [Tommy Hilfiger 女短袖連身裙](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Tommy-Hilfiger-Ladies-Short-Sleeve-Dress/p/1956765) | $749 |
 | 服飾配件 | [Skechers 男運動鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Skechers-Mens-Athletic-Shoe/p/1961251) | $1,089 |
-| 食品飲料 | [百家珍蘋果醋 520毫升 X 12入](https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/PCC-Apple-Vinegar-520-ml-X-12-Pack/p/184266) | $299 |
 | 日用品／母嬰／玩具 | [Playgo 玩沙樂園 18件組 / 18個月以上](https://www.costco.com.tw/Household-Baby-Toys/Toys/Outdoor-Play/Playgo-Sand-Bucket-18-Piece-Set-Ages-18-Months-and-Up/p/689192) | $375 |
 | 家具家居 | [Corkcicle 不鏽鋼保冷保溫隨行杯 651毫升 + 887毫升](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/Corkcicle-Insulated-Stainless-Steel-Tumbler-651-ml-887-ml/p/1901800) | $845 |
 | 其他 | [幻知曲 單人天然舒柔防水保潔墊 2件組 107公分 X 190公分 X 38公分](https://www.costco.com.tw/Bedding/p/114499) | $615 |
 | 服飾配件 | [Body Blue 女細肩帶背心2入組](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Body-Blue-Ladies-Bratop-2-Piece-Set/p/157012) | $719 |
 | 服飾配件 | [Adidas 男踝襪六入組 #HT3468/IC1282](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Adidas-Mens-Ankle-Socks-6-Pack-Set-HT3468IC1282/p/117975) | $211 |
-| 食品飲料 | [米森 乳酸菌咬咬草莓優格 10公克 X 12包](https://www.costco.com.tw/Food-Dining/Snacks/p/860660) | $335 |
+| 食品飲料 | [米森 乳酸菌咬咬草莓優格 10公克 X 12包](https://www.costco.com.tw/Costco/Food-Dining/Snacks/Cookies-Chips/Vilson-Freeze-Dried-Strawberry-Yogurt-10-g-X-12-Pack/p/860660) | $335 |
 | 家具家居 | [La Belle 素色涼感被 150公分 X 200公分 杏色](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/La-Belle-ICE-Cool-Quilt-150-cm-X-200-cm-Beige/p/458611) | $999 |
-| 食品飲料 | [米森 有機藜麥八寶米 3 公斤](https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Vilson-Organic-Multi-Grains-with-Quinoa-3-kg/p/188634) | $439 |
+| 食品飲料 | [米森 有機藜麥八寶米 3 公斤](https://www.costco.com.tw/Costco/Food-Dining/Groceries/Rice-Noodles/Vilson-Organic-Multi-Grains-with-Quinoa-3-kg/p/188634) | $439 |
 | 其他 | [SunnyFeel 山扉 可調節露營椅](https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Tents-Camping-Gear/SunnyFeel-Kermit-Chair/p/8527298) | $599 |
 | 家具家居 | [SolRBrite 太陽能螢火蟲造型燈](https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/SolRBrite-Solar-Firefly-Lights/p/1938098) | $409 |
 | 服飾配件 | [Sunday Afternoons 兒童抗UV遮陽帽](https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Clothing-Sets-Accessories/Sunday-Afternoons-Kids-UPF-Sun-Protection-Hat/p/157456) | $409 |
@@ -395,11 +362,11 @@
 | 服飾配件 | [Palladium 女橘標防水鯊齒鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Palladium-Ladies-Vibram-Traction-Lug-Shoe/p/156947) | $2,259 |
 | 家具家居 | [Neatfreak 雙層鞋架長凳](https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Neatfreak-Wood-Shoe-Storage-Bench/p/1937900) | $939 |
 | 服飾配件 | [Berkemann Allexis 女休閒運動鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Berkemann-Allexis-Ladies-Sneaker-White/p/1846415) | $4,059 |
-| 食品飲料 | [鮮煮藝 冷凍清燉羊肉鍋 1.2 公斤 X 2 包](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Delicious-Idea-Frozen-Stewed-Sheep-Pot-12-kg-X-2-Pack/p/161487) | $649 |
+| 食品飲料 | [鮮煮藝 冷凍清燉羊肉鍋 1.2 公斤 X 2 包](https://www.costco.com.tw/Costco/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Delicious-Idea-Frozen-Stewed-Sheep-Pot-12-kg-X-2-Pack/p/161487) | $649 |
 | 其他 | [Intex 單人充氣沙發](https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Tents-Camping-Gear/Intex-Inflatable-Empire-Chair/p/142531) | $549 |
-| 家具家居 | [睡綿綿 單人舒眠記憶釋壓床墊 91公分 X 190公分 X 5公分 灰](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Deep-Sleep-Memory-Foam-Pressure-Relieving-Pad-Single-Size-91-cm-X-190-cm-X-5-cm-Gray/p/436939) | $1,915 |
+| 家具家居 | [睡綿綿 單人舒眠記憶釋壓床墊 91公分 X 190公分 X 5公分 灰](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Mattress-Toppers/Deep-Sleep-Memory-Foam-Pressure-Relieving-Pad-Single-Size-91-cm-X-190-cm-X-5-cm-Gray/p/436939) | $1,915 |
 | 服飾配件 | [Adidas 兒童休閒鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Childrens-Shoes/Adidas-Kids-Court-Shoe/p/1864508) | $679 |
-| 家具家居 | [Gilman Creek 牛皮電動躺椅 深棕](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Gilman-Creek-Leather-Power-Recliner-with-Power-Headrest-Power-Lumbar-Dark-Brown/p/1862181) | $14,399 |
+| 家具家居 | [Gilman Creek 牛皮電動躺椅 深棕](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Sofas-Sectionals/Gilman-Creek-Leather-Power-Recliner-with-Power-Headrest-Power-Lumbar-Dark-Brown/p/1862181) | $14,399 |
 | 食品飲料 | [大成益活雞 台灣冷凍雞肉綜合15入](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Dachan-Holy-Chicken-Taiwan-Frozen-Chicken-Variety-Pack-15-Count/p/142156) | $1,699 |
 | 家具家居 | [Aiden & Ivy 手動牛皮躺椅 咖啡色](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Aiden-Ivy-Manual-Leather-Recliner-Brown/p/1987819) | $9,999 |
 | 其他 | [Sunvilla 仿木餐椅](https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Sunvilla-Stacking-Chair/p/152081) | $1,199 |
@@ -422,14 +389,15 @@
 | 其他 | [Freetown 成人自行車安全頭盔](https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Bikes/Freetown-Mips-Bike-Helmet/p/152289) | $899 |
 | 家具家居 | [歐司朗 朗德萬斯 15W 3呎星皓LED支架燈 2入](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-LEDVANCE-15W-3-ft-LED-Batten-2-Piece/p/127608-B) | $500 |
 | 服飾配件 | [Nautica 女休閒服兩件組](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Pajamas/Nautica-Ladies-Short-Sleeve-Lounge-Set/p/8518084) | $679 |
+| 家具家居 | [Brave Home 多功能可折疊籃子組 3入組](https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Storage-Containers-Hooks/Brave-Home-Ez-Stack-Folding-Basket-3-Pack/p/159479) | $639 |
 | 服飾配件 | [New Balance 男跑步鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/New-Balance-Mens-Running-Shoe/p/156465) | $1,429 |
 | 家具家居 | [幻知曲 雙人特大天然舒柔防水保潔墊 3件組 183公分 X 212公分 X 38公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Reverie-Modal-Mattress-Protector-3-Piece-Set-183-cm-X-212-cm-X-38-cm/p/114501) | $1,039 |
 | 家具家居 | [經典卡通舒適地毯 57公分 X 96公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Rugs-Mats/Peanuts-Hooked-Accent-Rug-57-cm-X-96-cm/p/672267) | $609 |
-| 家具家居 | [睡綿綿 單人舒眠記憶釋壓床墊 91公分 X 190公分 X 5公分 藍](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Deep-Sleep-Memory-Foam-Pressure-Relieving-Pad-Single-Size-91-cm-X-190-cm-X-5-cm-Blue/p/336939) | $1,915 |
-| 其他 | [Sunvilla 10呎 太陽能 LED 戶外遮陽傘](https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Sunvilla-10-ft-Solar-Energy-LED-Market-Umbrella/p/1713474) | $4,799 |
+| 家具家居 | [睡綿綿 單人舒眠記憶釋壓床墊 91公分 X 190公分 X 5公分 藍](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Mattress-Toppers/Deep-Sleep-Memory-Foam-Pressure-Relieving-Pad-Single-Size-91-cm-X-190-cm-X-5-cm-Blue/p/336939) | $1,915 |
+| 其他 | [Sunvilla 10呎 太陽能 LED 戶外遮陽傘](https://www.costco.com.tw/Costco/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Sunvilla-10-ft-Solar-Energy-LED-Market-Umbrella/p/1713474) | $4,799 |
 | 家電 3C | [Ninja Slushi 冰沙機 1.9公升 FS301TW](https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Cookers-Oven-Microwaves-Food-Waste-Machine/Ninja-Slushi-Ice-Blender-19-L-FS301TW/p/158944) | $7,999 |
 | 家具家居 | [CASA 經典優質三角靠墊 60公分 X 50公分 X 30公分 米](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/CASA-Wedge-Cushion-60-cm-X-50-cm-X-30-cm-Beige/p/156362) | $499 |
-| 其他 | [Tommy Bahama 7.5呎 海灘遮陽傘](https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Water-Sports/Tommy-Bahama-75-ft-Beach-Umbrella/p/1819570) | $1,039 |
+| 其他 | [Tommy Bahama 7.5呎 海灘遮陽傘](https://www.costco.com.tw/Costco/Sports-Lifestyle/Sports-Fitness/Water-Sports/Tommy-Bahama-75-ft-Beach-Umbrella/p/1819570) | $1,039 |
 | 家具家居 | [Totally Bamboo 竹製砧板 / 點心盤 美國地圖造型](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Cookware-Cutlery-Cutting-Boards/Totally-Bamboo-Cutting-Board-Serving-Board-United-States-Map/p/159887) | $739 |
 | 家電 3C | [國際牌 遠近紅外線烤箱 9公升 NB-G205](https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Cookers-Oven-Microwaves-Food-Waste-Machine/Panasonic-Infrared-Oven-9L-NB-G205/p/157230) | $4,299 |
 | 家電 3C | [Tescom 大風量負離子吹風機 TD570TW](https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Hair-Skin-Care-Tools/Tescom-Negative-ion-Hair-Dryer-TD570TW/p/152520) | $1,189 |
@@ -437,6 +405,7 @@
 | 家具家居 | [Disney 造型四格置物櫃](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Disney-4-Shelf-Organizer/p/175718) | $1,999 |
 | 家電 3C | [Ninja Detect 多功能調理機 TB401TW](https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Coffee-Machines-Blenders-Juicers/Ninja-Detect-Food-Processor-TB401TW/p/156889) | $7,999 |
 | 家電 3C | [TCL 98吋 頂級 QD-Mini LED Google TV 量子智能連網液晶顯示器 不含視訊盒 98C8K](https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/80-Above-TVs/TCL-98-inch-premium-QD-Mini-LED-Google-TV-Smart-Monitor-without-STB-98C8K/p/154786) | $117,599 |
+| 家具家居 | [Hotel Grand 羽毛枕 2入組 45公分 X 66公分 X 5公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Hotel-Grand-White-Goose-Feather-and-Down-Pillow-2-Pack-45-cm-X-66-cm-X-5-cm/p/130667) | $835 |
 | 家具家居 | [Aiden & Ivy 手動牛皮躺椅 白色](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Aiden-Ivy-Manual-Leather-Recliner-White/p/1987820) | $9,999 |
 | 家具家居 | [歐司朗 朗德萬斯 晶享防水LED吸頂燈 20W 2入](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-LEDVANCE-IP65-Ceiling-20W-2-Pack/p/146656-B) | $929 |
 | 家具家居 | [Caliphil 單人素色床包 3件組 105公分 X 186公分 X 25公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Caliphil-Sheet-Set-3-Piece-105-cm-X-186-cm-X-25-cm/p/108446-B) | $799 |
@@ -452,16 +421,16 @@
 | 家具家居 | [CASA 經典優質三角靠墊 60公分 X 50公分 X 30公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/CASA-Wedge-Cushion-60-cm-X-50-cm-X-30-cm/p/125656-B) | $499 |
 | 其他 | [Igloo 23.6公升 保冷野餐籃](https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Coolers/Igloo-25QT-Modern-Picnic-Basket/p/1872096) | $869 |
 | 家具家居 | [大猩猩強力雙面膠帶 重量型 4入](https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Hardware-Ladders/Gorilla-Mounting-Tape-Heavy-Duty-4-Count/p/160585) | $699 |
-| 家具家居 | [大猩猩強效膠帶 10碼 黑色 4入](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Hardware-Ladders/Gorilla-Tape-10-yard-Black-4-Count/p/160551) | $639 |
+| 家具家居 | [大猩猩強效膠帶 10碼 黑色 4入](https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Hardware-Ladders/Gorilla-Tape-10-yard-Black-4-Count/p/160551) | $639 |
+| 其他 | [手指點讀有聲書 4冊](https://www.costco.com.tw/Costco/Office-School/Books/Kids-Books/Kids-Finger-Pointing-Sound-Book-4-Books-/p/157563) | $899 |
 | 家具家居 | [CASA 經典優質三角靠墊 60公分 X 50公分 X 30公分 青](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/CASA-Wedge-Cushion-60-cm-X-50-cm-X-30-cm-Blue/p/156363) | $499 |
 | 家具家居 | [Le Creuset 雙耳圓形鑄鐵鍋 含鋼頭鍋蓋 28公分 加勒比海藍](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Cookware-Cutlery-Cutting-Boards/Le-Creuset-Dutch-Oven-Cast-Iron-Pot-with-Knob-Lid-28-cm-Caribbean/p/151290) | $7,019 |
-| 家具家居 | [Hotel Grand 羽毛枕 2入組 45公分 X 66公分 X 5公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Hotel-Grand-White-Goose-Feather-and-Down-Pillow-2-Pack-45-cm-X-66-cm-X-5-cm/p/130667) | $835 |
-| 家具家居 | [Alpine Mountain Gear 不鏽鋼咖啡杯壺組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Alpine-Mountain-Gear-Coffee-Set/p/1906999) | $1,069 |
+| 家具家居 | [Alpine Mountain Gear 不鏽鋼咖啡杯壺組](https://www.costco.com.tw/Costco/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Alpine-Mountain-Gear-Coffee-Set/p/1906999) | $1,069 |
 | 其他 | [ATLeisure 10 呎戶外方形遮陽傘 附傘座 米色](https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/ATLeisure-10-ft-Square-Umbrella-with-Roller-Base-Beige/p/1807288) | $19,199 |
 | 其他 | [寶寶歡唱繪本 律動兒歌(全套4冊)](https://www.costco.com.tw/Office-School/Books/Kids-Books/Baby-Singing-Picture-Book-4-Books/p/160272) | $679 |
 | 家具家居 | [太星電工 1開3插2孔動力軟線 15A 15公尺](https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/MAXSTAR-1-Switch-3-Outlet-2-Pin-Power-Cord-15A-15-m/p/157863) | $499 |
 | 其他 | [Soft99 龍捲風鍍膜劑組合 300毫升 + 補充罐 380毫升](https://www.costco.com.tw/Sports-Lifestyle/Automotive/Exterior-Car-Care/Soft99-Tornado-Vortex-Rain-Drop-Coating-300-ml-Refill-380-ml/p/144900) | $675 |
-| 家具家居 | [太星電工 25W PD+QC 2開2插壁插轉接器 兩入組](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/MAX-STAR-25W-PDQC-2-Switch-2-Outlet-Wall-Mount-Plug-2-Pack/p/143941) | $639 |
+| 其他 | [太星電工 25W PD+QC 2開2插壁插轉接器 兩入組](https://www.costco.com.tw/p/143941) | $639 |
 | 家具家居 | [幻知曲 舒柔曲線乳膠枕 58公分 X 38公分 X 10公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Reverie-Comfort-Latex-Pillow-58-cm-X-38-cm-X-10-cm/p/121631) | $719 |
 | 其他 | [Sklz 迷你電子籃球框](https://www.costco.com.tw/Costco/Sports-Lifestyle/Sports-Fitness/Team-Sports/Sklz-Pro-Mini-Hoop/p/1144710) | $949 |
 | 家具家居 | [AIDEN & IVY 布面模組沙發4件組](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Aiden-Ivy-Fabric-Modular-Sectional-4-Piece-Set/p/1861745) | $22,399 |
@@ -470,7 +439,7 @@
 | 家具家居 | [Don Home 300織萊賽爾雙人加大兩用被套六件組 182公分 X 190公分 同頻](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Don-Home-300-Thread-Count-Lyocell-Quilted-Duvet-6-Piece-Set-182-cm-X-190-cm-Frequency/p/159773) | $2,399 |
 | 家具家居 | [Don Home 300織萊賽爾雙人兩用被套六件組 152公分 X 190公分 微光](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Don-Home-300-Thread-Count-Lyocell-Quilted-Duvet-6-Piece-Set-152-cm-X-190-cm-Shimmer/p/159770) | $2,079 |
 | 家具家居 | [Don Home 300織萊賽爾雙人兩用被套六件組 152公分 X 190公分 四季](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Don-Home-300-Thread-Count-Lyocell-Quilted-Duvet-6-Piece-Set-152-cm-X-190-cm-Four-seasons/p/159768) | $2,079 |
-| 其他 | [手指點讀有聲書 4冊](https://www.costco.com.tw/Office-School/Books/Kids-Books/Kids-Finger-Pointing-Sound-Book-4-Books-/p/157563) | $899 |
+| 其他 | [FOOD超人 魔法趣味麥克風 (歡唱童謠繪本)](https://www.costco.com.tw/Costco/Office-School/Books/Kids-Books/Kids-Karaoke-Microphone-Magic-Singing-Sounds-Book/p/152304) | $449 |
 | 其他 | [動物樂隊拍拍鼓 + 汽車遊戲方向盤 (紅色) (2冊)](https://www.costco.com.tw/Office-School/Books/Kids-Books/Baby-Touch-Music-Drum-Animal-Driving-Toy-Wheel-for-Kids-Red-2-Books/p/150510) | $669 |
 | 家具家居 | [Kohler Accliv 單槍面盆龍頭](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/KitchenBathroom-Hardware/Kohler-Accliv-Single-Handle-Sink-Faicet-With-Spoon-Handle/p/148377-B) | $3,199 |
 | 家具家居 | [歐司朗 20W LED 燈泡 8入](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/KitchenBathroom-Hardware/OSRAM-20W-LED-Bulb-8-Pack/p/147362-B) | $1,279 |
@@ -499,7 +468,7 @@
 | 家具家居 | [Don Home 300織萊賽爾雙人加大兩用被套六件組 182公分 X 190公分 微光](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Don-Home-300-Thread-Count-Lyocell-Quilted-Duvet-6-Piece-Set-182-cm-X-190-cm-Shimmer/p/159774) | $2,399 |
 | 家具家居 | [Caliphil 單人四季被附枕套 150公分 X 180公分 鯨魚樂園](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Caliphil-Comforter-with-Pillowcase-150-cm-X-180-cm-Whale/p/159413) | $1,039 |
 | 家具家居 | [Caliphil 美國棉單人床包枕套三件組 107公分 X 190公分 奶茶](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Caliphil-Sheet-3-Piece-Set-107-cm-X-190-cm-Milk-tea/p/159384) | $799 |
-| 家具家居 | [Caliphil 美國棉單人床包枕套三件組 107公分 X 190公分 森綠](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Caliphil-Sheet-3-Piece-Set-107-cm-X-190-cm-Green/p/159382) | $799 |
+| 其他 | [Caliphil 美國棉單人床包枕套三件組 107公分 X 190公分 森綠](https://www.costco.com.tw/Bedding/p/159382) | $799 |
 | 家具家居 | [Backbone Nook desk 兒童成長調節桌 奶油色](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Backbone-Nook-desk-Kids-Adjustable-Desk-Cream/p/152653) | $1,899 |
 | 家具家居 | [Don Home 萊賽爾雙人兩用被套6件組 格韻](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Don-Home-300-Thread-Count-Lyocell-Quilted-Duvet-6-Piece-Set-152-cm-X-190-cm-Blue-Square/p/150925) | $2,079 |
 | 家具家居 | [Don Home 300織萊賽爾雙人兩用被套六件組 152公分 X 190公分 布拉](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Don-Home-300-Thread-Count-Lyocell-Quilted-Duvet-6-Piece-Set-152-cm-X-190-cm-Bula/p/414112) | $2,079 |
@@ -509,16 +478,14 @@
 | 其他 | [ATLeisure 10 呎戶外方形遮陽傘 附傘座 藍色](https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/ATLeisure-10-ft-Square-Umbrella-with-Roller-Base-Indigo/p/1807248) | $18,399 |
 | 家具家居 | [Kohler 親子快拆馬桶蓋](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/KitchenBathroom-Hardware/Kohler-Transition-Toilet-Seat-Quick-Release/p/160169) | $1,599 |
 | 家具家居 | [愛惠浦 EF3000 櫥下型三道式淨水器](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Filtration/Everpure-PurVive-Trio-EF3000-Water-Purifier/p/160081) | $8,799 |
-| 家具家居 | [Brave Home 多功能可折疊籃子組 3入組](https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Storage-Containers-Hooks/Brave-Home-Ez-Stack-Folding-Basket-3-Pack/p/159479) | $639 |
 | 家具家居 | [Caliphil 單人四季被附枕套 150公分 X 180公分 你好澳洲](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Caliphil-Comforter-with-Pillowcase-150-cm-X-180-cm-Hello/p/159412) | $1,039 |
 | 家具家居 | [Caliphil 美國棉單人床包枕套三件組 107公分 X 190公分 春粉](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Caliphil-Sheet-3-Piece-Set-107-cm-X-190-cm-Pink/p/159383) | $799 |
-| 其他 | [莫凡彼 單球冰淇淋或飲品兌換券 X 12張](https://www.costco.com.tw/p/158343) | $799 |
+| 其他 | [莫凡彼 單球冰淇淋或飲品兌換券 X 12張](https://www.costco.com.tw/Costco/Sports-Lifestyle/Garden-Lifestyle/Tickets-Voucher/Movenpick-Voucher-Ice-Cream-Or-Cafe-X-12-Ticket/p/158343) | $799 |
 | 家電 3C | [Swann 4K 半球型 IP攝影機](https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/Swann-Professional-4K-Heat-Motion-Sensing-IP-Add-on-Dome-Camera/p/157831) | $3,199 |
 | 家電 3C | [Swann 無線門鈴攝影機](https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/Swann-Wireless-Video-Doorbell/p/157819) | $2,399 |
 | 家電 3C | [Swann 2K 無線電池攝影機](https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/Swann-2K-Wi-Fi-Battery-Camera/p/157815) | $1,999 |
 | 其他 | [百問百答圖解翻翻書(全套10冊)](https://www.costco.com.tw/Office-School/Books/Kids-Books/Lift-the-Flap-Learning-Book-Set-10-Books/p/157566) | $719 |
 | 日用品／母嬰／玩具 | [Super Mario 4吋公仔 3入組 / 3歲以上](https://www.costco.com.tw/Household-Baby-Toys/Toys/Building-Sets-Blocks/Super-Mario-4-inch-Figures-3-Pack-Set-Ages-3-and-Up/p/153789) | $469 |
-| 其他 | [FOOD超人 魔法趣味麥克風 (歡唱童謠繪本)](https://www.costco.com.tw/Office-School/Books/Kids-Books/Kids-Karaoke-Microphone-Magic-Singing-Sounds-Book/p/152304) | $449 |
 | 其他 | [KOVEA 彈開式帳篷](https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Tents-Camping-Gear/KOVEA-Pop-Up-Tent/p/148523) | $1,759 |
 | 家電 3C | [Swann 4K 半球型智能 IP攝影機](https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/Swann-Professional-4K-Heat-Motion-Sensing-IP-Add-on-Dome-Camera/p/145806) | $3,999 |
 | 家電 3C | [Swann 4K 槍型智能 IP攝影機](https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/Swann-Professional-4K-Heat-Motion-Sensing-IP-Add-on-Bullet-Camera/p/145805) | $3,495 |
@@ -532,20 +499,20 @@
 | 家具家居 | [歐司朗 朗德萬斯 5W 1呎星皓LED支架燈 2入](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-LEDVANCE-5W-1-ft-LED-Batten-2-Piece/p/127611-B) | $429 |
 | 家具家居 | [Don Home 300織萊賽爾雙人加大兩用被套六件組 182公分 X 190公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Don-Home-300-Thread-Count-Lyocell-Quilted-Duvet-6-Piece-Set-182-cm-X-190-cm/p/125787) | $2,335 |
 | 家具家居 | [Don Home 300織萊賽爾雙人兩用被套六件組 152公分 X 190公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Don-Home-300-Thread-Count-Lyocell-Quilted-Duvet-6-Piece-Set-152-cm-X-190-cm/p/114112) | $2,079 |
-| 食品飲料 | [科克蘭 冷凍養殖超特大生蝦仁 1.5磅 / 680公克, 每磅11-15隻](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Kirkland-Signature-Frozen-Raw-Tail-On-Shrimp-15-LBs-680-g-11-15-Count-LB/p/2255533) | $609 |
+| 食品飲料 | [科克蘭 冷凍養殖超特大生蝦仁 1.5磅 / 680公克, 每磅11-15隻](https://www.costco.com.tw/Costco/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Kirkland-Signature-Frozen-Raw-Tail-On-Shrimp-15-LBs-680-g-11-15-Count-LB/p/2255533) | $609 |
 | 食品飲料 | [科克蘭 初榨橄欖油 1 公升](https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Kirkland-Signature-Siurana-Arbequina-Extra-Virgin-Olive-Oil-1L/p/891831) | $399 |
 | 服飾配件 | [科克蘭 男短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Kirkland-Signature-Mens-Short-Sleeve-Tee/p/7771459) | $247 |
 | 服飾配件 | [科克蘭 女輕量休閒短褲](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Kirkland-Signature-Ladies-Lightweight-Short/p/7771782) | $327 |
-| 食品飲料 | [科克蘭 冷壓初榨椰子油 2.48公升](https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Kirkland-Signature-Virgin-Coconut-Oil-248-L/p/1076366) | $529 |
+| 食品飲料 | [科克蘭 冷壓初榨椰子油 2.48公升](https://www.costco.com.tw/Costco/Food-Dining/Groceries/Cooking-Oil-Sauces/Kirkland-Signature-Virgin-Coconut-Oil-248-L/p/1076366) | $529 |
 | 食品飲料 | [卡夫 100%帕馬森起司粉 227公克](https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/Kraft-100-Parmesan-Grated-Cheese-227-g/p/244895) | $167 |
-| 日用品／母嬰／玩具 | [Charmin 超柔捲筒衛生紙 213張 X 30卷](https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Charmin-Ultra-Soft-Bath-Tissue-213-Sheet-X-30-Roll/p/2773119) | $999 |
-| 食品飲料 | [MY MOTTO 提拉米蘇風味威化餅 30公克 X 20包](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/MY-MOTTO-Tiramisu-Flavor-30-g-X-20-Pack/p/163941) | $247 |
-| 日用品／母嬰／玩具 | [Ariel 極致雙效洗衣精補充包 1100公克 X 6 入](https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Laundry-Care/Ariel-Laundry-Detergent-Liquid-Refill-1100-g-X-6-Count/p/417455) | $899 |
-| 食品飲料 | [千年屋 年輪蛋糕 16入](https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/Sennenya-Baumkuchen-16-Piece/p/236540) | $399 |
+| 日用品／母嬰／玩具 | [Charmin 超柔捲筒衛生紙 213張 X 30卷](https://www.costco.com.tw/Costco/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Charmin-Ultra-Soft-Bath-Tissue-213-Sheet-X-30-Roll/p/2773119) | $999 |
+| 食品飲料 | [MY MOTTO 提拉米蘇風味威化餅 30公克 X 20包](https://www.costco.com.tw/Costco/Food-Dining/Snacks/Cookies-Chips/MY-MOTTO-Tiramisu-Flavor-30-g-X-20-Pack/p/163941) | $247 |
+| 日用品／母嬰／玩具 | [Ariel 極致雙效洗衣精補充包 1100公克 X 6 入](https://www.costco.com.tw/Costco/Household-Baby-Toys/Household-Essentials/Laundry-Care/Ariel-Laundry-Detergent-Liquid-Refill-1100-g-X-6-Count/p/417455) | $899 |
+| 食品飲料 | [千年屋 年輪蛋糕 16入](https://www.costco.com.tw/Costco/Food-Dining/Groceries/Baking-Dried-Goods/Sennenya-Baumkuchen-16-Piece/p/236540) | $399 |
 | 服飾配件 | [Levi's 男內褲四入組](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Levis-Mens-Active-Boxer-4-Pack-Set/p/156158) | $347 |
-| 保健美容 | [Tryall 無調味水解乳清蛋白 2.5公斤](https://www.costco.com.tw/Health-Beauty/Supplements/Sports-Performance/Tryall-Whey-Protein-Hydrolysate-Unflavored-25-kg/p/155647) | $2,439 |
-| 保健美容 | [愛喜 維生素C + 鈣口嚼錠 220錠 (60錠 X 3瓶 + 20錠 X 2條)](https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/HICEE-Vitamin-C-With-Calcium-220-Tablets-60-Tablet-X-3-Bottle-20-Tablet-X-2-Tube/p/997788) | $777 |
 | 食品飲料 | [百奇 巧克力棒 40公克 X 12入](https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Pocky-Chocolate-Biscuit-Sticks-40-g-X-12-Pack/p/103454) | $197 |
+| 保健美容 | [Tryall 無調味水解乳清蛋白 2.5公斤](https://www.costco.com.tw/Health-Beauty/Supplements/Sports-Performance/Tryall-Whey-Protein-Hydrolysate-Unflavored-25-kg/p/155647) | $2,439 |
+| 保健美容 | [愛喜 維生素C + 鈣口嚼錠 220錠 (60錠 X 3瓶 + 20錠 X 2條)](https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Multi-Letter-Vitamins/HICEE-Vitamin-C-With-Calcium-220-Tablets-60-Tablet-X-3-Bottle-20-Tablet-X-2-Tube/p/997788) | $777 |
 | 保健美容 | [Thinkbaby 新寶貝純物理防曬霜 SPF 50 89毫升 X 2入](https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/Thinkbaby-Sunscreen-SPF-50-89-ml-X-2-Pack/p/117096) | $397 |
 | 食品飲料 | [冷凍龍虎石斑魚片 1公斤](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Frozen-Tiger-Grouper-Fillet-1-kg/p/186793) | $929 |
 | 食品飲料 | [Bouchard 覆盆子風味可可薄片 600公克](https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Bouchard-Chocolate-Thins-Raspberry-Flavor-600-g/p/2323796) | $497 |
@@ -591,11 +558,11 @@
 | 日用品／母嬰／玩具 | [LEGO Ideas 家族樹 21346 / 18歲以上](https://www.costco.com.tw/Household-Baby-Toys/Toys/Building-Sets-Blocks/LEGO-Ideas-Family-Tree-21346-Ages-18-and-Up/p/153156) | $1,767 |
 | 家電 3C | [惠而浦 16公斤變頻蒸氣溫水洗衣機 VWHD1611BG](https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Washers-Dryers/Whirlpool-16-kg-Inverter-Top-Load-Washer-VWHD1611BG/p/145751) | $18,199 |
 | 其他 | [Water Buddies 20吋 浮板](https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Water-Sports/Water-Buddies-20-inch-Floating-Disc/p/678571) | $247 |
-| 服飾配件 | [JIMMY CHOO 太陽眼鏡 BIRDIE/S BKUHA 金色](https://www.costco.com.tw/Costco/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/JIMMY-CHOO-Sunglasses-BIRDIES-BKUHA-Gold/p/250673) | $1,897 |
-| 服飾配件 | [GAP 女九分褲](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/GAP-Ladies-Ankle-Trouser/p/1971848) | $2,999 |
+| 服飾配件 | [JIMMY CHOO 太陽眼鏡 BIRDIE/S BKUHA 金色](https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/JIMMY-CHOO-Sunglasses-BIRDIES-BKUHA-Gold/p/250673) | $1,897 |
+| 服飾配件 | [GAP 女九分褲](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/GAP-Ladies-Ankle-Trouser/p/1971848) | $999 |
 | 保健美容 | [Avaria Light Up LED 燈光蠟燭 X 2件組](https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Scented-Candles-Diffusers/Avaria-Light-Up-LED-Integrated-Glitter-Confetti-Scented-Candles-X-2-Piece-Set/p/1901750) | $347 |
 | 家具家居 | [Aiden & Ivy 布面單人椅](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Aiden-Ivy-Fabric-Accent-Chair/p/1862170) | $7,499 |
-| 家電 3C | [TP-Link Tapo C425 電池式戶外安全攝影機](https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/TP-Link-Tapo-C425-Smart-Wire-Free-Security-Camera/p/158488) | $2,289 |
+| 家電 3C | [TP-Link Tapo C425 電池式戶外安全攝影機](https://www.costco.com.tw/Digital-Mobile/Cameras/p/158488) | $2,289 |
 | 食品飲料 | [大成 冷凍芋頭紫米露 2200公克](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/New-Year-Dishes/Dachan-Frozen-Taro-Purple-Rice-Dessert-Soup-2200g/p/157558) | $337 |
 | 其他 | [夏普 55吋 4K QLED 144HZ 顯示器 4T-C55HN70CST](https://www.costco.com.tw/Televisions-TV-Accessories/p/153545) | $21,299 |
 | 家具家居 | [Disney 萌萌抱枕](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/Disney-Cute-Cushion/p/152481) | $397 |
@@ -606,7 +573,7 @@
 | 家電 3C | [Samsung 85吋 4K 晶彩智慧顯示器 UA85U8500FXXZW](https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/80-Above-TVs/Samsung-85-inch-4K-Smart-Monitor-UA85U8500FXXZW/p/153748) | $59,999 |
 | 其他 | [Hedgehog Dryer 多用途烘物機](https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Tents-Camping-Gear/Hedgehog-Dryer-Multi-Wear-Dryer/p/151322) | $1,747 |
 | 日用品／母嬰／玩具 | [緊急救援機動玩具車 多種款式選擇 / 3歲以上](https://www.costco.com.tw/Household-Baby-Toys/Toys/Outdoor-Play/Mighty-Fleet-Motorized-Vehecles-Various-Styles-Available-Ages-3-and-Up/p/146995) | $467 |
-| 其他 | [Bestway 充氣飛鏢盤](https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Team-Sports/Bestway-Soccer-Yard-Game/p/8523339) | $497 |
+| 其他 | [Bestway 充氣飛鏢盤](https://www.costco.com.tw/Costco/Sports-Lifestyle/Sports-Fitness/Team-Sports/Bestway-Soccer-Yard-Game/p/8523339) | $497 |
 | 其他 | [Leisure Line 進口造型椅 灰色](https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Leisure-Line-Classic-Adirondack-Chair-Gray/p/1900693) | $4,797 |
 | 家具家居 | [Bentley Designs Arlo 皮面餐椅 2入組 米色](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Dining-Sets/Bentley-Designs-Arlo-Faux-Leather-Dining-Chair-2-Pack-Set-Vintage-Stone/p/159591) | $3,199 |
 | 家具家居 | [Gallery Wigmore 布面沙發](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Gallery-Wigmore-Fabric-Sofa/p/157496) | $15,997 |
@@ -639,9 +606,9 @@
 | 其他 | [2.02克拉18K白K金 圓形鑽石項鍊 VVS1/D](https://www.costco.com.tw/Jewelry-Gold/Diamond/Diamond-Necklaces/202-ctw-18kt-White-Gold-Round-Diamond-Pendant-VVS1D/p/1024902) | $1,599,997 |
 | 其他 | [科克蘭 維生素 D3 350 IU 600錠](https://www.costco.com.tw/Vitamins-Herbals-Dietary-Supplements/Kirkland-Signature-Vitamin-D3-350-iu-600-Tablet/p/325143) | $279 |
 | 保健美容 | [威德 維生素 K2+D3 膠囊 120粒](https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Weider-Vitamin-K2-D3-120-Capsule/p/144635) | $559 |
-| 保健美容 | [科克蘭 鈣加維生素D3二合一錠 500錠](https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Kirkland-Signature-Calcium-600-mg-with-Vitamin-D3-500-Tablets/p/389195) | $479 |
-| 保健美容 | [Webber Naturals 甘胺酸鎂膠囊 300粒](https://www.costco.com.tw/Health-Beauty/Supplements/Bone-Joint-Support/Webber-Naturals-Magnesium-bisglycinate-300-Capsule/p/150568) | $899 |
-| 保健美容 | [小善存 綜合維他命+鈣 100錠](https://www.costco.com.tw/Health-Beauty/Supplements/Kids-Health/Centrum-Junior-Extra-Ca-Multi-vitamin-100-Tablet/p/118326) | $825 |
+| 保健美容 | [科克蘭 鈣加維生素D3二合一錠 500錠](https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Supplements-Digestive-Support/Kirkland-Signature-Calcium-600-mg-with-Vitamin-D3-500-Tablets/p/389195) | $479 |
+| 保健美容 | [Webber Naturals 甘胺酸鎂膠囊 300粒](https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Bone-Joint-Support/Webber-Naturals-Magnesium-bisglycinate-300-Capsule/p/150568) | $899 |
+| 保健美容 | [小善存 綜合維他命+鈣 100錠](https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Kids-Health/Centrum-Junior-Extra-Ca-Multi-vitamin-100-Tablet/p/118326) | $825 |
 | 家具家居 | [WOKY 沃廚 ECOZEN 純透渾圓隨行杯 880毫升 X 2件組](https://www.costco.com.tw/Costco/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/WOKY-ECOZEN-Water-Bottle-880-ml-X-2-Piece-Set/p/150702) | $879 |
 | 家具家居 | [樂扣樂扣 Tritan 彈蓋提帶冷水壺 650毫升 + 1000毫升](https://www.costco.com.tw/Costco/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/LocknLock-Tritan-Water-Bottle-650-ml-1000-ml/p/155277) | $849 |
 | 家具家居 | [Lustroware 冷水壺 2.2公升 X 2件組](https://www.costco.com.tw/Costco/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Lustroware-Pitcher-22-L-X-2-Piece-Set/p/149213) | $649 |
@@ -655,37 +622,34 @@
 | 家具家居 | [Bentley Designs Sienna Fumed 橡木 & 胡椒色 單層抽屜床頭櫃 46公分](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Bentley-Designs-Sienna-Fumed-Oak-Peppercorn-1-Drawer-Nightstand-46-cm/p/152783) | $5,399 |
 | 家具家居 | [Bentley Designs Sienna Fumed 橡木 雙層抽屜床頭櫃 46公分](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Bentley-Designs-Sienna-Fumed-Oak-Peppercorn-2-Drawer-Nightstand-46-cm/p/152784) | $6,299 |
 | 家具家居 | [Bentley Designs Kristen 窄收納櫃 103公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Cabinets-Tables/Bentley-Designs-Kristen-Oak-Light-Weathered-Oak-Narrow-Sideboard-103-cm/p/157437) | $16,899 |
-| 家具家居 | [Bentley Designs 置物架](https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Bentley-Designs-Open-Entertainment-Unit/p/152323) | $7,899 |
+| 家具家居 | [Bentley Designs 置物架](https://www.costco.com.tw/Costco/Furniture-Kitchen/Storage-Organization/Shelving/Bentley-Designs-Open-Entertainment-Unit/p/152323) | $7,899 |
 | 家具家居 | [Bentley Designs Vega Scandi 橡木 & 胡椒色 電視櫃 148公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Cabinets-Tables/Bentley-Designs-Vega-Scandi-Oak-Peppercorn-Entertainment-Unit-148-cm/p/152766) | $12,999 |
-| 家具家居 | [Finlandia 儲物櫃 白色 200公分](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Dresser-White-200-cm/p/145650) | $17,999 |
-| 家具家居 | [Finlandia Estante 電視櫃 胡桃色](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Estante-TV-Console-Walnut/p/159526) | $19,999 |
+| 家具家居 | [Finlandia 儲物櫃 白色 200公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Dresser-White-200-cm/p/145650) | $17,999 |
+| 家具家居 | [Finlandia Estante 電視櫃 胡桃色](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Estante-TV-Console-Walnut/p/159526) | $19,999 |
 | 家具家居 | [Finlandia Estante 電視櫃 橡木色](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Estante-TV-Console-Oak/p/159527) | $19,999 |
 | 家具家居 | [Finlandia Estante 六格抽屜櫃 胡桃色](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Estante-6-Drawer-Wide-Chest-Walnut/p/159528) | $19,999 |
 | 家具家居 | [Finlandia Estante 六格抽屜櫃 橡木色](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Estante-6-Drawer-Wide-Chest-Oak/p/159529) | $19,999 |
 | 家具家居 | [席伊麗 美姿系列 Colorado雙人加大床墊 183公分 X 190公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Mattress-Toppers/Sealy-Colorado-Posturepedic-Mattress-183-X-190-cm/p/133225) | $50,299 |
 | 家具家居 | [Ergoking 網布人體工學椅 171 S Plus系列](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Ergoking-Mesh-Chair-171-S-Plus/p/132324) | $8,899 |
 | 家具家居 | [幻知曲 R450 標準雙人睡眠系統 贈保潔墊 150公分 X 200公分](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Bedroom-Furniture-Sets/Reverie-R450-Sleep-System-with-Protector-150-cm-X-200-cm/p/141096) | $94,999 |
-| 保健美容 | [老協珍 冷凍熬雞精 68毫升 X 30入](https://www.costco.com.tw/Health-Beauty/Elderly-Care/Supplements/Lao-Xie-Zhen-Frozen-Chicken-Essence-68-ml-X-30-Pack/p/118552) | $3,999 |
+| 保健美容 | [老協珍 冷凍熬雞精 68毫升 X 30入](https://www.costco.com.tw/Costco/Health-Beauty/Elderly-Care/Supplements/Lao-Xie-Zhen-Frozen-Chicken-Essence-68-ml-X-30-Pack/p/118552) | $3,999 |
 | 家電 3C | [Beats Studio Pro 無線頭戴式耳機](https://www.costco.com.tw/Costco/Digital-Mobile/Wearables-Audio/Headphones-Audio-Devices/Beats-Studio-Pro-Wireless-Headphones/p/141447-B) | $9,399 |
 | 家具家居 | [台達電子 多功能循環涼暖風機 標準型300系列 遙控型](https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/KitchenBathroom-Hardware/Delta-Fan-Heater-Classic-300-Series-Remote-Control/p/135409-B) | $4,999 |
 | 家具家居 | [席伊麗 護背系列 Sunshine 標準雙人床墊 152公分 X 190公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Mattress-Toppers/Sealy-Sunshine-Backsaver-Mattress-152-cm-X-190-cm/p/133226) | $23,799 |
-| 其他 | [莫凡彼 單球冰淇淋或飲品兌換券 X 12張](https://www.costco.com.tw/Sports-Lifestyle/Garden-Lifestyle/Tickets-Voucher/Movenpick-Voucher-Ice-Cream-Or-Cafe-X-12-Ticket/p/158343) | $799 |
-| 日用品／母嬰／玩具 | [Mon Petit 貓倍麗 小鮮肉泥 綜合口味 10公克 X 80入](https://www.costco.com.tw/Costco/Household-Baby-Toys/Pet-Supplies/Pet-Treats-Health/Mon-Petit-PUREE-KISS-Combo-Set-10-g-X-80-Count/p/117068) | $559 |
-| 家電 3C | [飛利浦 攜帶式電鬍刀 RQ901/06](https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Hair-Skin-Care-Tools/Philips-Portable-Electric-Shaver-RQ90106/p/153334) | $4,599 |
-| 家電 3C | [IRIS Woozoo 空氣循環扇 PCF-SC15T-CT](https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/IRIS-Woozoo-Circulator-Fan-PCF-SC15T-CT/p/2354207) | $1,269 |
 | 家具家居 | [Sea Breeze 雙人涼感墊 152公分 X 195公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Sea-Breeze-Cool-Quilt-Pad-152-cm-X-195-cm/p/143514) | $929 |
+| 家電 3C | [IRIS Woozoo 空氣循環扇 PCF-SC15T-CT](https://www.costco.com.tw/Costco/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/IRIS-Woozoo-Circulator-Fan-PCF-SC15T-CT/p/2354207) | $1,269 |
 | 家具家居 | [Blender Bottle 不鏽鋼隨行搖搖杯 740毫升 X 2件組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/Blender-Bottle-Stainless-Steel-Shaker-740-ml-X-2-Piece-Set/p/2738416) | $999 |
 | 家具家居 | [三麗鷗 兒童不鏽鋼保冷保溫瓶 700毫升](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/Sanrio-Kids-Stainless-Steel-Water-Bottle-700-ml/p/8524812) | $479 |
 | 家電 3C | [LUMENA FAN STAND4 桌上型擺頭隨行風扇 2件組](https://www.costco.com.tw/Costco/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/LUMENA-FAN-STAND4-Wireless-Tabletop-Fan-2-Pack-Set/p/154234) | $1,759 |
 | 家具家居 | [Zoobies 涼感動物造型抱枕](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/Zoobies-Animal-Ice-Cushion/p/8523236) | $429 |
-| 家電 3C | [艾美特 9吋DC直流馬達空氣循環扇 FB2393DR](https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Airmate-9-inch-DC-Inverter-Air-Circulator-FB2393DR/p/149328) | $3,799 |
+| 家電 3C | [艾美特 9吋DC直流馬達空氣循環扇 FB2393DR](https://www.costco.com.tw/Costco/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Airmate-9-inch-DC-Inverter-Air-Circulator-FB2393DR/p/149328) | $3,799 |
 | 家具家居 | [ThermoFlask 不鏽鋼保冷保溫瓶 1.2公升 X 2件組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/ThermoFlask-Stainless-Steel-Water-Bottle-12-L-X-2-Piece-Set/p/158977) | $759 |
 | 家電 3C | [艾美特 14吋DC 直流遙控立扇 FS35150R](https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Airmate-14-inch-DC-Inverter-Stand-Fan-FS35150R/p/149335) | $2,099 |
 | 家電 3C | [向物 高速手持風扇 引擎PRO DSHJ-S-2324](https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/SOTHING-Handheld-Fan-Engine-Pro-DSHJ-S-2324/p/152999) | $969 |
 | 家具家居 | [幻知曲 涼感舒眠枕 66公分 X 38公分 X 11公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Reverie-Cooling-Pillow-66-cm-X-38-cm-X-11-cm/p/156890) | $985 |
 | 家具家居 | [樂扣樂扣 Tritan 大容量彈蓋提帶冷水壺 2.2公升](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/LocknLock-Tritan-Large-Capacity-Water-Bottle-22-L/p/159317) | $649 |
 | 家具家居 | [Thermatec 涼感被 180公分 X 210公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Thermatec-Cooling-Comforter-180-cm-X-210-cm/p/159001) | $945 |
-| 家具家居 | [Lustroware 冷水壺 2.1公升 X 2件組 附濾網](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Lustroware-Pitcher-21-L-X-2-Piece-Set-with-Filter/p/135210) | $679 |
+| 家具家居 | [Lustroware 冷水壺 2.1公升 X 2件組 附濾網](https://www.costco.com.tw/Costco/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Lustroware-Pitcher-21-L-X-2-Piece-Set-with-Filter/p/135210) | $679 |
 | 家具家居 | [Thermoflask 不鏽鋼保冷保溫瓶 946毫升 X 2件組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/Thermoflask-Stainless-Steel-Water-Bottle-946-ml-X-2-Piece-Set/p/1901817) | $659 |
 | 家具家居 | [樂扣樂扣 Tritan 彈蓋提帶冷水壺 650毫升 + 1000毫升](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/LocknLock-Tritan-Water-Bottle-650-ml-1000-ml/p/155277) | $849 |
 | 家電 3C | [艾美特 DC 遙控大廈扇 FT89R](https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Airmate-DC-Remote-Control-Tower-Fan-FT89R/p/150625) | $2,999 |
