@@ -1,26 +1,218 @@
 {
-  "date": "2026-07-29",
-  "generated_at": "2026-07-29 23:28",
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30 03:54",
   "has_previous": true,
   "added": [
     {
-      "name": "Tree Top 蘋果汁 2公升 X 4入",
-      "price": "$379",
-      "original_price": "$459",
-      "discount_amount": "$80",
-      "promotion": "商品已折價$80 含運",
-      "url": "https://www.costco.com.tw/Costco/Food-Dining/Drinks/Beverages-Juice/Tree-Top-Apple-Juice-2-L-X-4-Pack/p/30991",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h02/hdd/86343579500574.jpg",
+      "name": "克寧 銀養高鈣全效奶粉 呵護配方 1.9公斤",
+      "price": "$655",
+      "original_price": "$815",
+      "discount_amount": "$160",
+      "promotion": "商品已折價$160 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/p/224757",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h06/hba/434798989213726.jpg",
       "category": "食品飲料"
     },
     {
-      "name": "雀巢 金牌冰萃濾袋雙口味組 10公克 X 40入",
-      "price": "$359",
-      "original_price": "$449",
+      "name": "五木 細關東麵 416公克 X 9包",
+      "price": "$259",
+      "original_price": "$319",
+      "discount_amount": "$60",
+      "promotion": "商品已折價$60 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/p/56629",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf2/h4c/398742023700510.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Binggrae 草莓牛奶 保久調味乳 200毫升 X 24入",
+      "price": "$539",
+      "original_price": "$669",
+      "discount_amount": "$130",
+      "promotion": "商品已折價$130 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/p/298720",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h24/hcd/206972374122526.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "王麵河粉 杯裝河粉 分享組 61公克 X 12入",
+      "price": "$235",
+      "original_price": "$289",
+      "discount_amount": "$54",
+      "promotion": "商品已折價$54 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/p/152041",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hcb/h9c/361110010527774.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Skittles 彩虹糖綜合歡樂箱 38公克 X 20包",
+      "price": "$339",
+      "original_price": "$429",
       "discount_amount": "$90",
       "promotion": "商品已折價$90 含運",
-      "url": "https://www.costco.com.tw/Costco/Food-Dining/Drinks/Coffee/Nescafe-Gold-Cold-Brew-Mix-Pack-10-g-X-40-Pack/p/332545",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h5a/h30/438876389703710.jpg",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/915777",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0b/h94/397423321284638.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "大猩猩強力雙面膠帶 重量型 4入",
+      "price": "$699",
+      "original_price": "$879",
+      "discount_amount": "$180",
+      "promotion": "商品已折價$180 含運",
+      "url": "https://www.costco.com.tw/p/160585",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h3a/h4b/451293610180638.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Charmin 超柔捲筒衛生紙 213張 X 30卷",
+      "price": "$999",
+      "original_price": "$1,099",
+      "discount_amount": "$100",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/2773119",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc7/h92/420739725426718.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "千年屋 年輪蛋糕 16入",
+      "price": "$399",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/p/236540",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfc/h64/416282433486878.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "義美 皇家夾心酥 33公克 X 46包",
+      "price": "$289",
+      "original_price": "$359",
+      "discount_amount": "$70",
+      "promotion": "商品已折價$70 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/143277",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h16/h39/202920799141918.jpg",
+      "category": "食品飲料"
+    }
+  ],
+  "removed": [
+    {
+      "name": "克寧 銀養高鈣全效奶粉 呵護配方 1.9公斤",
+      "price": "$655",
+      "original_price": "$815",
+      "discount_amount": "$160",
+      "promotion": "商品已折價$160 含運",
+      "url": "https://www.costco.com.tw/Costco/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/KLIM-Senior-Milk-Powder-Multicare-19-kg/p/224757",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h06/hba/434798989213726.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "五木 細關東麵 416公克 X 9包",
+      "price": "$259",
+      "original_price": "$319",
+      "discount_amount": "$60",
+      "promotion": "商品已折價$60 含運",
+      "url": "https://www.costco.com.tw/Costco/Food-Dining/Groceries/Rice-Noodles/Wu-Mu-Thin-Kan-To-Noodles-416-g-X-9-Pack/p/56629",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf2/h4c/398742023700510.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Binggrae 草莓牛奶 保久調味乳 200毫升 X 24入",
+      "price": "$539",
+      "original_price": "$669",
+      "discount_amount": "$130",
+      "promotion": "商品已折價$130 含運",
+      "url": "https://www.costco.com.tw/Costco/Food-Dining/Drinks/Beverages-Juice/Binggrae-Strawberry-Flavored-Milk-Drink-200-ml-X-24-Pack/p/298720",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h24/hcd/206972374122526.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "王麵河粉 杯裝河粉 分享組 61公克 X 12入",
+      "price": "$235",
+      "original_price": "$289",
+      "discount_amount": "$54",
+      "promotion": "商品已折價$54 含運",
+      "url": "https://www.costco.com.tw/Costco/Food-Dining/Groceries/Rice-Noodles/KING-PHO-Instant-Pho-Cup-Type-Share-Group-61-g-X-12-Cup/p/152041",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hcb/h9c/361110010527774.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Kokiri 哇象海苔捲原味 5公克 X 22袋",
+      "price": "$309",
+      "original_price": "$379",
+      "discount_amount": "$70",
+      "promotion": "商品已折價$70 含運",
+      "url": "https://www.costco.com.tw/Costco/Food-Dining/Snacks/Cookies-Chips/Kokiri-Seaweed-Snack-Original-Flavor-5-g-X-22-Pack/p/1212069",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h80/h24/346620755312670.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "美威 冷凍鮭魚干貝海鮮丸 1050公克 X 2入",
+      "price": "$799",
+      "original_price": "$999",
+      "discount_amount": "$200",
+      "promotion": "商品已折價$200 含運",
+      "url": "https://www.costco.com.tw/Costco/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Supreme-Salmon-Frozen-Salmon-And-Scallop-Balls-1050-g-X-2-Count/p/153874",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h3b/h54/366001886101534.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Brita 瞬熱滅菌智能溫控開飲機 4公升 Model One-B",
+      "price": "$6,999",
+      "original_price": "$8,999",
+      "discount_amount": "$2,000",
+      "promotion": "商品已折價$2,000 含運",
+      "url": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Kitchen-Dining/Water-Filtration/Brita-UVC-Water-Dispenser-4-L-Model-One-B/p/154237",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h3d/h18/379074441412638.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "飛利浦 品玥 Luna LED檯燈",
+      "price": "$1,239",
+      "original_price": "$1,549",
+      "discount_amount": "$310",
+      "promotion": "商品已折價$310 含運",
+      "url": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/Philips-Luna-Black-Desk-Light/p/155117",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h84/hf8/396189712252958.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Charmin 超柔捲筒衛生紙 213張 X 30卷",
+      "price": "$999",
+      "original_price": "$1,099",
+      "discount_amount": "$100",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Costco/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Charmin-Ultra-Soft-Bath-Tissue-213-Sheet-X-30-Roll/p/2773119",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc7/h92/420739725426718.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "千年屋 年輪蛋糕 16入",
+      "price": "$399",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Costco/Food-Dining/Groceries/Baking-Dried-Goods/Sennenya-Baumkuchen-16-Piece/p/236540",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfc/h64/416282433486878.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Adidas 女運動休閒鞋",
+      "price": "$957",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Costco/Clothing-Accessories/Shoes/Womens-Shoes/Adidas-Runvista-Womens-Shoe/p/154454",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hdc/h1b/453636507631646.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "星巴克 白巧克力摩卡+咖啡拿鐵膠囊 48顆 適用NESCAFE Dolce Gusto機器",
+      "price": "$857",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Costco/Food-Dining/Drinks/Coffee/Starbucks-White-Chocolate-Mocha-Latte-Capsule-Pack-72-Count-NESCAFE-Dolce-Gusto-Compatible/p/154924",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4a/hcf/431395261415454.jpg",
       "category": "食品飲料"
     },
     {
@@ -29,79 +221,9 @@
       "original_price": "$389",
       "discount_amount": "$80",
       "promotion": "商品已折價$80 含運",
-      "url": "https://www.costco.com.tw/Costco/Household-Baby-Toys/Household-Essentials/Cleaning-Tools/Scotch-Brite-Disposable-Toilet-Scrubber-Refill-Set-30-Count/p/1132115",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Cleaning-Tools/p/1132115",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h7b/h8c/223144089124894.jpg",
       "category": "日用品／母嬰／玩具"
-    },
-    {
-      "name": "Webber Naturals 葡萄籽精華膠囊 180顆",
-      "price": "$379",
-      "original_price": "$479",
-      "discount_amount": "$100",
-      "promotion": "商品已折價 $100 含運",
-      "url": "https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Supplements-Digestive-Support/Webber-Naturals-Grape-Seed-Extract-Capsule-180-Capsule/p/877125",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h13/h11/168871490584606.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "味滋康 果香柚子醋醬汁 1公升",
-      "price": "$289",
-      "original_price": "$359",
-      "discount_amount": "$70",
-      "promotion": "商品已折價$70 含運",
-      "url": "https://www.costco.com.tw/Costco/Food-Dining/Groceries/Cooking-Oil-Sauces/Mizkan-Yuzu-Ponzu-Citrus-Seasoned-Soy-Sauce-1-L/p/132570",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h8e/h16/132368160358430.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "名廚美饌 24臻穀 36公克 X 50入",
-      "price": "$399",
-      "original_price": "$499",
-      "discount_amount": "$100",
-      "promotion": "商品已折價$100 含運",
-      "url": "https://www.costco.com.tw/Costco/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/PGi-Cuisine-De-Chef-24-Grain-Powder-36-g-X-50-Count/p/102714",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/he4/hd9/153904301244446.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "太星電工 25W PD+QC 2開2插壁插轉接器 兩入組",
-      "price": "$639",
-      "original_price": "$799",
-      "discount_amount": "$160",
-      "promotion": "商品已折價$160 含運",
-      "url": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/MAX-STAR-25W-PDQC-2-Switch-2-Outlet-Wall-Mount-Plug-2-Pack/p/143941",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h5a/h72/243378169348126.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Sports Research Omega-3 濃縮魚油 1250mg 150粒",
-      "price": "$1,379",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "url": "https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Supplements-Digestive-Support/Sports-Research-Omega-3-Fish-Oil-Triple-Strength-1250mg-150-Softgel/p/240666",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf2/h84/275802915995678.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "科克蘭 三層抽取衛生紙 120抽 X 72入",
-      "price": "$1,159",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "url": "https://www.costco.com.tw/c/Kirkland-Signature-3-Ply-Interfold-Bath-Tissue-120-Sheet-X-72-Count/p/189999",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf5/h5e/228120348950558.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Kokiri 哇象海苔捲原味 5公克 X 22袋",
-      "price": "$309",
-      "original_price": "$379",
-      "discount_amount": "$70",
-      "promotion": "商品已折價$70 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/1212069",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h80/h24/346620755312670.jpg",
-      "category": "食品飲料"
     },
     {
       "name": "TP-Link 旋轉式 WI-FI 攝影機 C212 2入組",
@@ -124,117 +246,18 @@
       "category": "其他"
     }
   ],
-  "removed": [
+  "price_changes": [
     {
-      "name": "Tree Top 蘋果汁 2公升 X 4入",
-      "price": "$379",
-      "original_price": "$459",
-      "discount_amount": "$80",
-      "promotion": "商品已折價$80 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/p/30991",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h02/hdd/86343579500574.jpg",
+      "name": "MY MOTTO 提拉米蘇風味威化餅 30公克 X 20包",
+      "price": "$329",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "old_price": "$247",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Costco/Food-Dining/Snacks/Cookies-Chips/MY-MOTTO-Tiramisu-Flavor-30-g-X-20-Pack/p/163941",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h53/hbc/325606367297566.jpg",
       "category": "食品飲料"
-    },
-    {
-      "name": "雀巢 金牌冰萃濾袋雙口味組 10公克 X 40入",
-      "price": "$359",
-      "original_price": "$449",
-      "discount_amount": "$90",
-      "promotion": "商品已折價$90 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/p/332545",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h5a/h30/438876389703710.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Webber Naturals 葡萄籽精華膠囊 180顆",
-      "price": "$379",
-      "original_price": "$479",
-      "discount_amount": "$100",
-      "promotion": "商品已折價 $100 含運",
-      "url": "https://www.costco.com.tw/p/877125",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h13/h11/168871490584606.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "味滋康 果香柚子醋醬汁 1公升",
-      "price": "$289",
-      "original_price": "$359",
-      "discount_amount": "$70",
-      "promotion": "商品已折價$70 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/p/132570",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h8e/h16/132368160358430.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "名廚美饌 24臻穀 36公克 X 50入",
-      "price": "$399",
-      "original_price": "$499",
-      "discount_amount": "$100",
-      "promotion": "商品已折價$100 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/p/102714",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/he4/hd9/153904301244446.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "太星電工 25W PD+QC 2開2插壁插轉接器 兩入組",
-      "price": "$639",
-      "original_price": "$799",
-      "discount_amount": "$160",
-      "promotion": "商品已折價$160 含運",
-      "url": "https://www.costco.com.tw/p/143941",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h5a/h72/243378169348126.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "科克蘭 維生素 D3 350 IU 600錠",
-      "price": "$279",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "url": "https://www.costco.com.tw/Vitamins-Herbals-Dietary-Supplements/Kirkland-Signature-Vitamin-D3-350-iu-600-Tablet/p/325143",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h15/h8a/362805044576286.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "威德 維生素 K2+D3 膠囊 120粒",
-      "price": "$559",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Weider-Vitamin-K2-D3-120-Capsule/p/144635",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h64/ha8/308062970740766.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "科克蘭 鈣加維生素D3二合一錠 500錠",
-      "price": "$479",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "url": "https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Supplements-Digestive-Support/Kirkland-Signature-Calcium-600-mg-with-Vitamin-D3-500-Tablets/p/389195",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h4a/h9e/86648440061982.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "Webber Naturals 甘胺酸鎂膠囊 300粒",
-      "price": "$899",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "url": "https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Bone-Joint-Support/Webber-Naturals-Magnesium-bisglycinate-300-Capsule/p/150568",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h52/h11/332442426114078.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "小善存 綜合維他命+鈣 100錠",
-      "price": "$825",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "url": "https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Kids-Health/Centrum-Junior-Extra-Ca-Multi-vitamin-100-Tablet/p/118326",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd7/h8f/274514909233182.jpg",
-      "category": "保健美容"
     }
-  ],
-  "price_changes": []
+  ]
 }
