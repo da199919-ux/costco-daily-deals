@@ -1,50 +1,8 @@
 {
   "date": "2026-07-30",
-  "generated_at": "2026-07-30 17:51",
+  "generated_at": "2026-07-30 22:42",
   "has_previous": true,
   "added": [
-    {
-      "name": "INTEX Jump-O-Lene 城堡彈跳池",
-      "price": "$1,389",
-      "original_price": "$1,739",
-      "discount_amount": "$350",
-      "promotion": "商品已折價$350 含運",
-      "url": "https://www.costco.com.tw/Patio-Furniture/p/158245",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h21/hea/436453395824670.jpg",
-      "category": "其他"
-    }
-  ],
-  "removed": [
-    {
-      "name": "Don Home 涼感素色雙人加大床包枕套 3件組 182公分 X 190公分 錫黃",
-      "price": "$869",
-      "original_price": "$1,099",
-      "discount_amount": "$230",
-      "promotion": "商品已折價$230 含運",
-      "url": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Don-Home-Cooling-Touch-Sheet-3-Piece-Set-King-Size-182-cm-X-190-cm-Khaki/p/258966",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hba/hdc/450418261950494.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Don Home 萊賽爾印花單人涼被3件組 150公分 X 210公分",
-      "price": "$1,099",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Don-Home-Lyocell-Quilt-Set-3-Piece-150-cm-X-210-cm/p/114933",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h85/hb5/225581084049438.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Don Home 萊賽爾素色雙人涼被 180公分 X 210公分",
-      "price": "$1,169",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Don-Home-300-Thread-Count-Lyocell-Quilt-180-cm-X-210-cm/p/136138",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h8f/h44/226673473552414.jpg",
-      "category": "家具家居"
-    },
     {
       "name": "INTEX Jump-O-Lene 城堡彈跳池",
       "price": "$1,389",
@@ -54,26 +12,18 @@
       "url": "https://www.costco.com.tw/Costco/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/INTEX-Jump-O-Lene-Castle-Bouncer/p/158245",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h21/hea/436453395824670.jpg",
       "category": "其他"
-    },
+    }
+  ],
+  "removed": [
     {
-      "name": "Don Home 涼感素色雙人特大床包枕套 3件組 182公分 X 212公分 錫黃",
-      "price": "$1,039",
-      "original_price": "$1,299",
-      "discount_amount": "$260",
-      "promotion": "商品已折價$260 含運",
-      "url": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Don-Home-Cooling-Touch-3-Piece-Set-182-cm-X-212-cm-Khaki/p/159079",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf1/he9/450418116591646.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "水果造型抱枕",
-      "price": "$197",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/Fruit-Shaped-Deco-Pillow/p/1909195",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h1f/h15/368528957243422.jpg",
-      "category": "家具家居"
+      "name": "INTEX Jump-O-Lene 城堡彈跳池",
+      "price": "$1,389",
+      "original_price": "$1,739",
+      "discount_amount": "$350",
+      "promotion": "商品已折價$350 含運",
+      "url": "https://www.costco.com.tw/Patio-Furniture/p/158245",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h21/hea/436453395824670.jpg",
+      "category": "其他"
     }
   ],
   "price_changes": []

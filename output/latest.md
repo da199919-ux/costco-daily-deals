@@ -2,7 +2,7 @@
 
 ## 今日變化
 
-更新時間：2026-07-30 17:51（台灣時間）
+更新時間：2026-07-30 22:42（台灣時間）
 共整理出 **455** 項官方線上優惠。
 本次共讀取 **475** 個官方商品頁面。
 
@@ -29,7 +29,7 @@
 ## 今日變化
 
 - 新增優惠：**1** 項
-- 本次未收錄：**6** 項（不代表優惠已結束）
+- 本次未收錄：**1** 項（不代表優惠已結束）
 - 價格變動：**0** 項
 
 ### 價格變動
@@ -38,16 +38,11 @@
 
 ### 今日新增
 
-- [INTEX Jump-O-Lene 城堡彈跳池](https://www.costco.com.tw/Patio-Furniture/p/158245)（$1,389）
+- [INTEX Jump-O-Lene 城堡彈跳池](https://www.costco.com.tw/Costco/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/INTEX-Jump-O-Lene-Castle-Bouncer/p/158245)（$1,389）
 
 ### 本次未收錄（不代表優惠已結束）
 
-- [Don Home 涼感素色雙人加大床包枕套 3件組 182公分 X 190公分 錫黃](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Don-Home-Cooling-Touch-Sheet-3-Piece-Set-King-Size-182-cm-X-190-cm-Khaki/p/258966)（$869）
-- [Don Home 萊賽爾印花單人涼被3件組 150公分 X 210公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Don-Home-Lyocell-Quilt-Set-3-Piece-150-cm-X-210-cm/p/114933)（$1,099）
-- [Don Home 萊賽爾素色雙人涼被 180公分 X 210公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Don-Home-300-Thread-Count-Lyocell-Quilt-180-cm-X-210-cm/p/136138)（$1,169）
-- [INTEX Jump-O-Lene 城堡彈跳池](https://www.costco.com.tw/Costco/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/INTEX-Jump-O-Lene-Castle-Bouncer/p/158245)（$1,389）
-- [Don Home 涼感素色雙人特大床包枕套 3件組 182公分 X 212公分 錫黃](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Don-Home-Cooling-Touch-3-Piece-Set-182-cm-X-212-cm-Khaki/p/159079)（$1,039）
-- [水果造型抱枕](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/Fruit-Shaped-Deco-Pillow/p/1909195)（$197）
+- [INTEX Jump-O-Lene 城堡彈跳池](https://www.costco.com.tw/Patio-Furniture/p/158245)（$1,389）
 
 ## 全部優惠
 
@@ -166,10 +161,10 @@
 | 家具家居 | [Corkcicle 不鏽鋼保冷保溫隨行杯 651毫升 + 887毫升](https://www.costco.com.tw/Costco/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/Corkcicle-Insulated-Stainless-Steel-Tumbler-651-ml-887-ml/p/1901800) | $845 |
 | 家具家居 | [幻知曲 單人天然舒柔防水保潔墊 2件組 107公分 X 190公分 X 38公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Mattress-Toppers/Reverie-Modal-Mattress-Protector-2-Piece-Set-107-cm-X-190-cm-X-38-cm/p/114499) | $615 |
 | 服飾配件 | [New Balance 515 男復古慢跑鞋](https://www.costco.com.tw/Costco/Clothing-Accessories/Shoes/Mens-Shoes/New-Balance-Mens-Running-Shoe/p/160814) | $1,419 |
-| 其他 | [INTEX Jump-O-Lene 城堡彈跳池](https://www.costco.com.tw/Patio-Furniture/p/158245) | $1,389 |
+| 其他 | [INTEX Jump-O-Lene 城堡彈跳池](https://www.costco.com.tw/Costco/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/INTEX-Jump-O-Lene-Castle-Bouncer/p/158245) | $1,389 |
 | 家具家居 | [CASA 經典優質三角靠墊 60公分 X 50公分 X 30公分 米](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/CASA-Wedge-Cushion-60-cm-X-50-cm-X-30-cm-Beige/p/156362) | $499 |
 | 服飾配件 | [Oh Sunny 女戶外休閒雙面遮陽帽](https://www.costco.com.tw/Costco/Clothing-Accessories/Womens-Clothing/Accessories/Oh-Sunny-Ladies-Reversible-Sunscreen-Hat/p/8522876) | $499 |
-| 服飾配件 | [Banana Republic 女長袖襯衫](https://www.costco.com.tw/Costco/Clothing-Accessories/Womens-Clothing/Womens-Tops/Banana-Republic-Ladies-Long-Sleeve-Shirt/p/1974301) | 請查看官網 |
+| 服飾配件 | [Banana Republic 女長袖襯衫](https://www.costco.com.tw/Costco/Clothing-Accessories/Womens-Clothing/Womens-Tops/Banana-Republic-Ladies-Long-Sleeve-Shirt/p/1974301) | $559 |
 | 家具家居 | [歐司朗 40W LED 平板燈 60公分 X 60公分 1入組](https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-40W-LED-Panel-60-cm-X-60-cm-1-Pack/p/145364-B) | $689 |
 | 家具家居 | [Neatfreak 雙層鞋架長凳](https://www.costco.com.tw/Costco/Furniture-Kitchen/Storage-Organization/Shelving/Neatfreak-Wood-Shoe-Storage-Bench/p/1937900) | $939 |
 | 服飾配件 | [Samsonite Colten 多功能後背包](https://www.costco.com.tw/Costco/Clothing-Accessories/Luggage-Backpacks/Totes-Backpacks/Samsonite-Colten-Backpack/p/154883) | $1,649 |
@@ -453,7 +448,7 @@
 | 家具家居 | [Bentley Designs Kristen 窄收納櫃 103公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Cabinets-Tables/Bentley-Designs-Kristen-Oak-Light-Weathered-Oak-Narrow-Sideboard-103-cm/p/157437) | $16,899 |
 | 家具家居 | [Bentley Designs 置物架](https://www.costco.com.tw/Costco/Furniture-Kitchen/Storage-Organization/Shelving/Bentley-Designs-Open-Entertainment-Unit/p/152323) | $7,899 |
 | 家具家居 | [Bentley Designs Vega Scandi 橡木 & 胡椒色 電視櫃 148公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Cabinets-Tables/Bentley-Designs-Vega-Scandi-Oak-Peppercorn-Entertainment-Unit-148-cm/p/152766) | $12,999 |
-| 家具家居 | [Finlandia Dresser White 200 cm](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Dresser-White-200-cm/p/145650) | $17,999 |
+| 家具家居 | [Finlandia 儲物櫃 白色 200公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Dresser-White-200-cm/p/145650) | $17,999 |
 | 家具家居 | [Finlandia Estante 電視櫃 胡桃色](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Estante-TV-Console-Walnut/p/159526) | $19,999 |
 | 家具家居 | [Finlandia Estante 電視櫃 橡木色](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Estante-TV-Console-Oak/p/159527) | $19,999 |
 | 家具家居 | [Finlandia Estante 六格抽屜櫃 胡桃色](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Estante-6-Drawer-Wide-Chest-Walnut/p/159528) | $19,999 |
