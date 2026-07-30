@@ -1,30 +1,81 @@
 {
-  "date": "2026-07-30",
-  "generated_at": "2026-07-30 22:42",
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31 02:56",
   "has_previous": true,
-  "added": [
+  "added": [],
+  "removed": [],
+  "price_changes": [
     {
-      "name": "INTEX Jump-O-Lene 城堡彈跳池",
-      "price": "$1,389",
-      "original_price": "$1,739",
-      "discount_amount": "$350",
-      "promotion": "商品已折價$350 含運",
-      "url": "https://www.costco.com.tw/Costco/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/INTEX-Jump-O-Lene-Castle-Bouncer/p/158245",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h21/hea/436453395824670.jpg",
-      "category": "其他"
-    }
-  ],
-  "removed": [
+      "name": "Canada Goose 女連帽上衣",
+      "price": "$9,999",
+      "original_price": "$12,499",
+      "discount_amount": "$2,500",
+      "promotion": "商品已折價$2,500 含運",
+      "old_price": "$1,159",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Costco/Clothing-Accessories/Womens-Clothing/Womens-Tops/Canada-Goose-Ladies-Hoodie/p/1846394",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h3a/h29/403099715108894.jpg",
+      "category": "服飾配件"
+    },
     {
-      "name": "INTEX Jump-O-Lene 城堡彈跳池",
-      "price": "$1,389",
-      "original_price": "$1,739",
-      "discount_amount": "$350",
-      "promotion": "商品已折價$350 含運",
-      "url": "https://www.costco.com.tw/Patio-Furniture/p/158245",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h21/hea/436453395824670.jpg",
+      "name": "Harbour 戶外休閒沙發四件組",
+      "price": "$59,997",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "old_price": "$62,997",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Costco/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Harbour-Deep-Seating-4-Piece-Set/p/1768196",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he2/h57/206972366389278.jpg",
       "category": "其他"
+    },
+    {
+      "name": "卡夫 100%帕馬森起司粉 227公克",
+      "price": "$189",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "old_price": "$167",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Costco/Food-Dining/Groceries/Canned-Prepared-Food/Kraft-100-Parmesan-Grated-Cheese-227-g/p/244895",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hbe/h05/362805008203806.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "日本製雙層冷水壺 1.2公升",
+      "price": "$799",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "old_price": "$1,049",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Double-Layer-Water-Pitcher-12-L/p/144408",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc9/ha4/224529148641310.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "日本製雙層冷水壺 1.7公升 X 6件組",
+      "price": "$5,099",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "old_price": "$6,199",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Double-Layer-Water-Pitcher-17-L-X-6-Piece-Set/p/143524",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h41/hfd/224528978116638.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "緊急救援機動玩具車 多種款式選擇 / 3歲以上",
+      "price": "$397",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "old_price": "$467",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Costco/Household-Baby-Toys/Toys/Outdoor-Play/Mighty-Fleet-Motorized-Vehecles-Various-Styles-Available-Ages-3-and-Up/p/146995",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hd7/h5c/273678039744542.jpg",
+      "category": "日用品／母嬰／玩具"
     }
-  ],
-  "price_changes": []
+  ]
 }
