@@ -1,32 +1,20 @@
 {
-  "date": "2026-08-01",
-  "generated_at": "2026-08-01 22:07",
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02 03:44",
   "has_previous": true,
   "added": [],
   "removed": [],
   "price_changes": [
     {
       "name": "Canada Goose 女連帽上衣",
-      "price": "$9,999",
-      "original_price": "$12,499",
-      "discount_amount": "$2,500",
-      "promotion": "商品已折價$2,500 含運",
-      "old_price": "$1,159",
-      "direction": "漲價",
+      "price": "$1,159",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "old_price": "$9,999",
+      "direction": "降價",
       "url": "https://www.costco.com.tw/Costco/Clothing-Accessories/Womens-Clothing/Womens-Tops/Canada-Goose-Ladies-Hoodie/p/1846394",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h3a/h29/403099715108894.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Le Coq Sportif 男短袖純棉上衣",
-      "price": "$649",
-      "original_price": "$849",
-      "discount_amount": "$200",
-      "promotion": "商品已折價$200 含運",
-      "old_price": "$5,799",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Costco/Clothing-Accessories/Mens-Clothing/Mens-Tops/Le-Coq-Sportif-Mens-Short-Sleeve-Cotton-Tee/p/240942",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha7/hc8/455934093852702.jpg",
       "category": "服飾配件"
     }
   ]
