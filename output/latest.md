@@ -2,7 +2,7 @@
 
 ## 今日變化
 
-更新時間：2026-08-01 17:32（台灣時間）
+更新時間：2026-08-01 22:07（台灣時間）
 共整理出 **495** 項官方線上優惠。
 本次共讀取 **517** 個官方商品頁面。
 
@@ -34,8 +34,8 @@
 
 ### 價格變動
 
-- **漲價**：[Banana Republic 女長袖襯衫](https://www.costco.com.tw/Costco/Clothing-Accessories/Womens-Clothing/Womens-Tops/Banana-Republic-Ladies-Long-Sleeve-Shirt/p/1974301) $449 → $559
-- **降價**：[Canada Goose 女連帽上衣](https://www.costco.com.tw/Costco/Clothing-Accessories/Womens-Clothing/Womens-Tops/Canada-Goose-Ladies-Hoodie/p/1846394) $9,999 → $1,159
+- **漲價**：[Canada Goose 女連帽上衣](https://www.costco.com.tw/Costco/Clothing-Accessories/Womens-Clothing/Womens-Tops/Canada-Goose-Ladies-Hoodie/p/1846394) $1,159 → $9,999
+- **降價**：[Le Coq Sportif 男短袖純棉上衣](https://www.costco.com.tw/Costco/Clothing-Accessories/Mens-Clothing/Mens-Tops/Le-Coq-Sportif-Mens-Short-Sleeve-Cotton-Tee/p/240942) $5,799 → $649
 
 ### 今日新增
 
@@ -197,7 +197,7 @@
 | 家具家居 | [La Belle 素色涼感被 150公分 X 200公分 抹茶](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/La-Belle-ICE-Cool-Quilt-150-cm-X-200-cm-Green/p/358611) | $999 |
 | 服飾配件 | [Tommy Hilfiger 女短袖連身裙](https://www.costco.com.tw/Costco/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Tommy-Hilfiger-Ladies-Short-Sleeve-Dress/p/1956765) | $749 |
 | 其他 | [勳風 15瓦 電擊式高效捕蚊燈](https://www.costco.com.tw/Costco/Sports-Lifestyle/Camping-Outdoors/Pest-Control/SUPA-FINE-15W-Insect-Mosquito-Zapper/p/144474) | $679 |
-| 服飾配件 | [Le Coq Sportif 男短袖純棉上衣](https://www.costco.com.tw/Costco/Clothing-Accessories/Mens-Clothing/Mens-Tops/Le-Coq-Sportif-Mens-Short-Sleeve-Cotton-Tee/p/240942) | $5,799 |
+| 服飾配件 | [Le Coq Sportif 男短袖純棉上衣](https://www.costco.com.tw/Costco/Clothing-Accessories/Mens-Clothing/Mens-Tops/Le-Coq-Sportif-Mens-Short-Sleeve-Cotton-Tee/p/240942) | $649 |
 | 家具家居 | [Backbone Nook desk 兒童成長調節桌 奶油色](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Backbone-Nook-desk-Kids-Adjustable-Desk-Cream/p/152653) | $1,899 |
 | 食品飲料 | [Annie’s Home Grown 有機起司通心粉 12入組合包](https://www.costco.com.tw/Costco/Food-Dining/Groceries/Baking-Dried-Goods/Annies-Home-Grown-Organic-Macaroni-Cheese-12-Pack-Assorted-Set/p/145777) | $495 |
 | 家具家居 | [Hotel Grand 羽毛枕 2入組 45公分 X 66公分 X 5公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Hotel-Grand-White-Goose-Feather-and-Down-Pillow-2-Pack-45-cm-X-66-cm-X-5-cm/p/130667) | $835 |
@@ -317,7 +317,7 @@
 | 家具家居 | [Finlandia Marrone 電視櫃](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Marrone-TV-Console/p/690599) | $14,399 |
 | 家具家居 | [Don Home 300織萊賽爾雙人兩用被套六件組 152公分 X 190公分 布拉](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Don-Home-300-Thread-Count-Lyocell-Quilted-Duvet-6-Piece-Set-152-cm-X-190-cm-Bula/p/414112) | $2,079 |
 | 其他 | [STAG Pacifica 戶外乒乓球桌](https://www.costco.com.tw/Costco/Sports-Lifestyle/Sports-Fitness/Team-Sports/STAG-Pacifica-Outdoor-Table-Tennis/p/2622001) | $12,399 |
-| 服飾配件 | [Canada Goose 女連帽上衣](https://www.costco.com.tw/Costco/Clothing-Accessories/Womens-Clothing/Womens-Tops/Canada-Goose-Ladies-Hoodie/p/1846394) | $1,159 |
+| 服飾配件 | [Canada Goose 女連帽上衣](https://www.costco.com.tw/Costco/Clothing-Accessories/Womens-Clothing/Womens-Tops/Canada-Goose-Ladies-Hoodie/p/1846394) | $9,999 |
 | 其他 | [ATLeisure 10 呎戶外方形遮陽傘 附傘座 棕色](https://www.costco.com.tw/Costco/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/ATLeisure-10-ft-Square-Umbrella-with-Roller-Base-Mushroom/p/1807306) | $18,399 |
 | 其他 | [ATLeisure 10 呎戶外方形遮陽傘 附傘座 藍色](https://www.costco.com.tw/Costco/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/ATLeisure-10-ft-Square-Umbrella-with-Roller-Base-Indigo/p/1807248) | $18,399 |
 | 其他 | [Sunvilla 10呎 LED 戶外遮陽傘 灰色](https://www.costco.com.tw/Costco/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Sunvilla-10-ft-LED-Market-Umbrella-Myra-Graphite/p/1768222) | $4,799 |
@@ -491,8 +491,8 @@
 | 家具家居 | [Bentley Designs Kristen 窄收納櫃 103公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Cabinets-Tables/Bentley-Designs-Kristen-Oak-Light-Weathered-Oak-Narrow-Sideboard-103-cm/p/157437) | $16,899 |
 | 家具家居 | [Bentley Designs 置物架](https://www.costco.com.tw/Costco/Furniture-Kitchen/Storage-Organization/Shelving/Bentley-Designs-Open-Entertainment-Unit/p/152323) | $7,899 |
 | 家具家居 | [Bentley Designs Vega Scandi 橡木 & 胡椒色 電視櫃 148公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Cabinets-Tables/Bentley-Designs-Vega-Scandi-Oak-Peppercorn-Entertainment-Unit-148-cm/p/152766) | $12,999 |
-| 家具家居 | [Finlandia 儲物櫃 白色 200公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Dresser-White-200-cm/p/145650) | $17,999 |
-| 家具家居 | [Finlandia Estante 電視櫃 胡桃色](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Estante-TV-Console-Walnut/p/159526) | $19,999 |
+| 家具家居 | [Finlandia Dresser White 200 cm](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Dresser-White-200-cm/p/145650) | $17,999 |
+| 家具家居 | [Finlandia Estante TV Console Walnut](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Estante-TV-Console-Walnut/p/159526) | $19,999 |
 | 家具家居 | [Finlandia Estante 電視櫃 橡木色](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Estante-TV-Console-Oak/p/159527) | $19,999 |
 | 家具家居 | [Finlandia Estante 六格抽屜櫃 胡桃色](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Estante-6-Drawer-Wide-Chest-Walnut/p/159528) | $19,999 |
 | 家具家居 | [Finlandia Estante 六格抽屜櫃 橡木色](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Estante-6-Drawer-Wide-Chest-Oak/p/159529) | $19,999 |

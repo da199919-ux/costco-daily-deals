@@ -1,6 +1,6 @@
 # Costco 每日優惠摘要（2026-08-01）
 
-更新時間：2026-08-01 17:32（台灣時間）
+更新時間：2026-08-01 22:07（台灣時間）
 共整理出 **495** 項官方線上優惠。
 本次共讀取 **517** 個官方商品頁面。
 
@@ -32,8 +32,8 @@
 
 ### 價格變動
 
-- **漲價**：[Banana Republic 女長袖襯衫](https://www.costco.com.tw/Costco/Clothing-Accessories/Womens-Clothing/Womens-Tops/Banana-Republic-Ladies-Long-Sleeve-Shirt/p/1974301) $449 → $559
-- **降價**：[Canada Goose 女連帽上衣](https://www.costco.com.tw/Costco/Clothing-Accessories/Womens-Clothing/Womens-Tops/Canada-Goose-Ladies-Hoodie/p/1846394) $9,999 → $1,159
+- **漲價**：[Canada Goose 女連帽上衣](https://www.costco.com.tw/Costco/Clothing-Accessories/Womens-Clothing/Womens-Tops/Canada-Goose-Ladies-Hoodie/p/1846394) $1,159 → $9,999
+- **降價**：[Le Coq Sportif 男短袖純棉上衣](https://www.costco.com.tw/Costco/Clothing-Accessories/Mens-Clothing/Mens-Tops/Le-Coq-Sportif-Mens-Short-Sleeve-Cotton-Tee/p/240942) $5,799 → $649
 
 ### 今日新增
 
