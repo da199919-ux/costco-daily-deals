@@ -1,119 +1,33 @@
 {
   "date": "2026-08-01",
-  "generated_at": "2026-08-01 04:03",
+  "generated_at": "2026-08-01 12:02",
   "has_previous": true,
-  "added": [
-    {
-      "name": "樂天 卡士達派 27公克 X 36入",
-      "price": "$389",
-      "original_price": "$489",
-      "discount_amount": "$100",
-      "promotion": "商品已折價$100 含運",
-      "url": "https://www.costco.com.tw/Costco/Food-Dining/Snacks/Cookies-Chips/Lotte-Custard-Cake-27-g-X-36-Pack/p/227320",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h2a/h84/190634467098654.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Insta360 GO Ultra 運動攝影機套裝組",
-      "price": "$11,259",
-      "original_price": "$12,699",
-      "discount_amount": "$1,440",
-      "promotion": "商品已折價$1,440 含運",
-      "url": "https://www.costco.com.tw/Costco/Digital-Mobile/Cameras/Security-Cameras-Drones/Insta360-GO-Ultra-Action-Camera-Set/p/155144",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hfe/hed/467458634678302.jpg",
-      "category": "家電 3C"
-    }
-  ],
-  "removed": [
-    {
-      "name": "Scotch-Brite 百利 替換式除菌馬桶刷補充包 30入",
-      "price": "$309",
-      "original_price": "$389",
-      "discount_amount": "$80",
-      "promotion": "商品已折價$80 含運",
-      "url": "https://www.costco.com.tw/Costco/Household-Baby-Toys/Household-Essentials/Cleaning-Tools/Scotch-Brite-Disposable-Toilet-Scrubber-Refill-Set-30-Count/p/1132115",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7b/h8c/223144089124894.jpg",
-      "category": "日用品／母嬰／玩具"
-    },
-    {
-      "name": "Adidas 男踝襪六入組 #HT3468/IC1282",
-      "price": "$211",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Costco/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Adidas-Mens-Ankle-Socks-6-Pack-Set-HT3468IC1282/p/117975",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7c/h44/417161900621854.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Happy Village 綜合果乾 567 公克",
-      "price": "$339",
-      "original_price": "$419",
-      "discount_amount": "$80",
-      "promotion": "商品已折價$80 含運",
-      "url": "https://www.costco.com.tw/Costco/Food-Dining/Snacks/Nuts-Jerky/Happy-Village-Fruit-Medley-567-g/p/2773524",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h94/hf7/415044041310238.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "DJI Osmo Pocket 3 旅拍套裝組 附續航手柄+收納包",
-      "price": "$12,049",
-      "original_price": "$14,249",
-      "discount_amount": "$2,200",
-      "promotion": "商品已折價$2,200 含運",
-      "url": "https://www.costco.com.tw/Costco/Digital-Mobile/Cameras/Security-Cameras-Drones/DJI-Osmo-Pocket-3-Bundle-Battery-Handle-X-1-Bag-X-1/p/159980",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hc8/h3f/466558645567518.jpg",
-      "category": "家電 3C"
-    }
-  ],
+  "added": [],
+  "removed": [],
   "price_changes": [
     {
-      "name": "Annie’s Home Grown 有機起司通心粉 12入組合包",
-      "price": "$495",
-      "original_price": "$719",
-      "discount_amount": "$224",
-      "promotion": "商品已折價$224 含運",
-      "old_price": "$498",
+      "name": "Banana Republic 女長袖襯衫",
+      "price": "$449",
+      "original_price": "$579",
+      "discount_amount": "$130",
+      "promotion": "商品已折價$130 含運",
+      "old_price": "$559",
       "direction": "降價",
-      "url": "https://www.costco.com.tw/Costco/Food-Dining/Groceries/Baking-Dried-Goods/Annies-Home-Grown-Organic-Macaroni-Cheese-12-Pack-Assorted-Set/p/145777",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h51/h2a/383236912185374.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Ariel 極致雙效洗衣精補充包 1100公克 X 6 入",
-      "price": "$949",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "old_price": "$899",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Costco/Household-Baby-Toys/Household-Essentials/Laundry-Care/Ariel-Laundry-Detergent-Liquid-Refill-1100-g-X-6-Count/p/417455",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h1a/hc8/438035520225310.jpg",
-      "category": "日用品／母嬰／玩具"
+      "url": "https://www.costco.com.tw/Costco/Clothing-Accessories/Womens-Clothing/Womens-Tops/Banana-Republic-Ladies-Long-Sleeve-Shirt/p/1974301",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hd6/he7/453636849991710.jpg",
+      "category": "服飾配件"
     },
     {
       "name": "Canada Goose 女連帽上衣",
-      "price": "$1,159",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "old_price": "$9,999",
-      "direction": "降價",
+      "price": "$9,999",
+      "original_price": "$12,499",
+      "discount_amount": "$2,500",
+      "promotion": "商品已折價$2,500 含運",
+      "old_price": "$1,159",
+      "direction": "漲價",
       "url": "https://www.costco.com.tw/Costco/Clothing-Accessories/Womens-Clothing/Womens-Tops/Canada-Goose-Ladies-Hoodie/p/1846394",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h3a/h29/403099715108894.jpg",
       "category": "服飾配件"
-    },
-    {
-      "name": "Samsung 655公升 美式對開 AI 冰箱 星空灰 RS70F65Q4TTW",
-      "price": "$43,999",
-      "original_price": "$52,999",
-      "discount_amount": "$9,000",
-      "promotion": "含運",
-      "old_price": "$48,999",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Costco/Televisions-Appliances/Large-Appliances/Fridges-Freezers/Overall-Capacity-500-L-Above/Samsung-655-L-French-Door-AI-Refrigerator-Starry-Gray-RS70F65Q4TTW/p/155431",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb6/hac/396189713563678.jpg",
-      "category": "家電 3C"
     }
   ]
 }
