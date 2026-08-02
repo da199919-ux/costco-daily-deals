@@ -1,20 +1,31 @@
 {
   "date": "2026-08-02",
-  "generated_at": "2026-08-02 08:22",
+  "generated_at": "2026-08-02 15:09",
   "has_previous": true,
-  "added": [],
+  "added": [
+    {
+      "name": "Samsung Bespoke AI 智慧電子衣櫥 DF18CB8600WRTW",
+      "price": "$31,999",
+      "original_price": "$39,999",
+      "discount_amount": "$8,000",
+      "promotion": "商品已折價$8,000 含運",
+      "url": "https://www.costco.com.tw/Large-Appliances/p/161275",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h2f/hcd/471660361416734.jpg",
+      "category": "其他"
+    }
+  ],
   "removed": [],
   "price_changes": [
     {
-      "name": "Le Coq Sportif 男短袖純棉上衣",
-      "price": "$5,799",
+      "name": "Skechers 男運動鞋",
+      "price": "$1,359",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
-      "old_price": "$649",
+      "old_price": "$1,089",
       "direction": "漲價",
-      "url": "https://www.costco.com.tw/Costco/Clothing-Accessories/Mens-Clothing/Mens-Tops/Le-Coq-Sportif-Mens-Short-Sleeve-Cotton-Tee/p/240942",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha7/hc8/455934093852702.jpg",
+      "url": "https://www.costco.com.tw/Costco/Clothing-Accessories/Shoes/Mens-Shoes/Skechers-Mens-Athletic-Shoe/p/1961251",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h77/ha2/466558876680222.jpg",
       "category": "服飾配件"
     }
   ]

@@ -1,8 +1,8 @@
 # Costco 每日優惠摘要（2026-08-02）
 
-更新時間：2026-08-02 08:22（台灣時間）
-共整理出 **495** 項官方線上優惠。
-本次共讀取 **517** 個官方商品頁面。
+更新時間：2026-08-02 15:09（台灣時間）
+共整理出 **496** 項官方線上優惠。
+本次共讀取 **518** 個官方商品頁面。
 
 > 價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。
 
@@ -13,7 +13,7 @@
 | 家具家居 | 158 |
 | 服飾配件 | 93 |
 | 家電 3C | 70 |
-| 其他 | 68 |
+| 其他 | 69 |
 | 食品飲料 | 59 |
 | 保健美容 | 25 |
 | 日用品／母嬰／玩具 | 22 |
@@ -26,17 +26,17 @@
 
 ## 今日變化
 
-- 新增優惠：**0** 項
+- 新增優惠：**1** 項
 - 本次未收錄：**0** 項（不代表優惠已結束）
 - 價格變動：**1** 項
 
 ### 價格變動
 
-- **漲價**：[Le Coq Sportif 男短袖純棉上衣](https://www.costco.com.tw/Costco/Clothing-Accessories/Mens-Clothing/Mens-Tops/Le-Coq-Sportif-Mens-Short-Sleeve-Cotton-Tee/p/240942) $649 → $5,799
+- **漲價**：[Skechers 男運動鞋](https://www.costco.com.tw/Costco/Clothing-Accessories/Shoes/Mens-Shoes/Skechers-Mens-Athletic-Shoe/p/1961251) $1,089 → $1,359
 
 ### 今日新增
 
-- 今天沒有新增優惠。
+- [Samsung Bespoke AI 智慧電子衣櫥 DF18CB8600WRTW](https://www.costco.com.tw/Large-Appliances/p/161275)（$31,999）
 
 ### 本次未收錄（不代表優惠已結束）
 
