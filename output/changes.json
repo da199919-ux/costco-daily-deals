@@ -1,8 +1,80 @@
 {
   "date": "2026-08-02",
-  "generated_at": "2026-08-02 15:09",
+  "generated_at": "2026-08-02 19:43",
   "has_previous": true,
   "added": [
+    {
+      "name": "Annie’s Home Grown 有機起司通心粉 12入組合包",
+      "price": "$495",
+      "original_price": "$719",
+      "discount_amount": "$224",
+      "promotion": "商品已折價$224 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/p/145777",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h51/h2a/383236912185374.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Sunvilla 10呎 LED 戶外遮陽傘 灰色",
+      "price": "$4,799",
+      "original_price": "$5,999",
+      "discount_amount": "$1,200",
+      "promotion": "商品已折價$1,200 含運",
+      "url": "https://www.costco.com.tw/Patio-Furniture/p/1768222",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h3f/h9f/436453464244254.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Charmin 超柔捲筒衛生紙 213張 X 30卷",
+      "price": "$999",
+      "original_price": "$1,099",
+      "discount_amount": "$100",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/2773119",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc7/h92/420739725426718.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "DUROFIX 4V 鋰電池充電式起子機",
+      "price": "$669",
+      "original_price": "$839",
+      "discount_amount": "$170",
+      "promotion": "商品已折價$170 含運",
+      "url": "https://www.costco.com.tw/p/155234",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h28/h4e/414650598424606.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "新視紀 矯正鏡片(未滅菌) 150度 KYNE",
+      "price": "$479",
+      "original_price": "$589",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/146743",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h5e/h34/378821660475422.jpg",
+      "category": "服飾配件"
+    }
+  ],
+  "removed": [
+    {
+      "name": "Annie’s Home Grown 有機起司通心粉 12入組合包",
+      "price": "$495",
+      "original_price": "$719",
+      "discount_amount": "$224",
+      "promotion": "商品已折價$224 含運",
+      "url": "https://www.costco.com.tw/Costco/Food-Dining/Groceries/Baking-Dried-Goods/Annies-Home-Grown-Organic-Macaroni-Cheese-12-Pack-Assorted-Set/p/145777",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h51/h2a/383236912185374.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Sunvilla 10呎 LED 戶外遮陽傘 灰色",
+      "price": "$4,799",
+      "original_price": "$5,999",
+      "discount_amount": "$1,200",
+      "promotion": "商品已折價$1,200 含運",
+      "url": "https://www.costco.com.tw/Costco/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Sunvilla-10-ft-LED-Market-Umbrella-Myra-Graphite/p/1768222",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h3f/h9f/436453464244254.jpg",
+      "category": "其他"
+    },
     {
       "name": "Samsung Bespoke AI 智慧電子衣櫥 DF18CB8600WRTW",
       "price": "$31,999",
@@ -12,20 +84,29 @@
       "url": "https://www.costco.com.tw/Large-Appliances/p/161275",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h2f/hcd/471660361416734.jpg",
       "category": "其他"
+    },
+    {
+      "name": "Charmin 超柔捲筒衛生紙 213張 X 30卷",
+      "price": "$999",
+      "original_price": "$1,099",
+      "discount_amount": "$100",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Costco/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Charmin-Ultra-Soft-Bath-Tissue-213-Sheet-X-30-Roll/p/2773119",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc7/h92/420739725426718.jpg",
+      "category": "日用品／母嬰／玩具"
     }
   ],
-  "removed": [],
   "price_changes": [
     {
-      "name": "Skechers 男運動鞋",
-      "price": "$1,359",
+      "name": "Lacoste 男純棉圓領短袖上衣",
+      "price": "$1,259",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
-      "old_price": "$1,089",
+      "old_price": "$1,159",
       "direction": "漲價",
-      "url": "https://www.costco.com.tw/Costco/Clothing-Accessories/Shoes/Mens-Shoes/Skechers-Mens-Athletic-Shoe/p/1961251",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h77/ha2/466558876680222.jpg",
+      "url": "https://www.costco.com.tw/Costco/Clothing-Accessories/Mens-Clothing/Mens-Tops/Lacoste-Mens-Cotton-Crew-Neck-Short-Sleeve-Tee/p/3333325",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h82/hd7/486580544569374.jpg",
       "category": "服飾配件"
     }
   ]
