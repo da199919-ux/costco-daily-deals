@@ -1,92 +1,72 @@
 {
   "date": "2026-08-03",
-  "generated_at": "2026-08-03 16:50",
+  "generated_at": "2026-08-03 20:45",
   "has_previous": true,
   "added": [
     {
-      "name": "Bentley Designs Vega 布面吧檯椅",
-      "price": "$3,599",
-      "original_price": "$4,599",
-      "discount_amount": "$1,000",
-      "promotion": "商品已折價$1,000 含運",
-      "url": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Dining-Sets/Bentley-Designs-Vega-Fabric-Bar-Stool/p/159439",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7b/had/437687091658782.jpg",
-      "category": "家具家居"
+      "name": "Simon Li 牛皮電動躺椅 M553-3Q6",
+      "price": "$9,999",
+      "original_price": "$12,999",
+      "discount_amount": "$3,000",
+      "promotion": "商品已折價$3,000 含運",
+      "url": "https://www.costco.com.tw/p/1812549",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h33/hce/279210273931294.jpg",
+      "category": "其他"
     },
     {
-      "name": "新視紀 矯正鏡片(未滅菌) 200度 MCKAY 抗藍光",
-      "price": "$479",
-      "original_price": "$589",
-      "discount_amount": "$110",
-      "promotion": "商品已折價$110 含運",
-      "url": "https://www.costco.com.tw/Costco/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-200-MCKAY-Anti-Blue-Light/p/146766",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h35/h37/378821996216350.jpg",
-      "category": "服飾配件"
+      "name": "HOTO 三合一露營燈",
+      "price": "$719",
+      "original_price": "$899",
+      "discount_amount": "$180",
+      "promotion": "商品已折價$180 含運",
+      "url": "https://www.costco.com.tw/p/159269",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h6c/h27/454001775476766.jpg",
+      "category": "其他"
     },
     {
-      "name": "新視紀 矯正鏡片(未滅菌) 150度 LIAM 抗藍光",
-      "price": "$479",
-      "original_price": "$589",
-      "discount_amount": "$110",
-      "promotion": "商品已折價$110 含運",
-      "url": "https://www.costco.com.tw/Costco/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-150-LIAM-Anti-Blue-Light/p/146750",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h60/h29/378821902958622.jpg",
-      "category": "服飾配件"
+      "name": "Trinity 66吋不鏽鋼工作檯附輪",
+      "price": "$16,799",
+      "original_price": "$20,999",
+      "discount_amount": "$4,200",
+      "promotion": "商品已折價$4,200 含運",
+      "url": "https://www.costco.com.tw/p/1193846",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hca/he8/12675054829598.jpg",
+      "category": "其他"
     }
   ],
   "removed": [
     {
-      "name": "True Innovations 全網布辦公椅",
-      "price": "$2,699",
-      "original_price": "$3,399",
-      "discount_amount": "$700",
-      "promotion": "商品已折價$700 含運",
-      "url": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/True-Innovations-Task-Mesh-Chair/p/1812395",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h4f/hd0/399197023043614.jpg",
+      "name": "HOTO 三合一露營燈",
+      "price": "$719",
+      "original_price": "$899",
+      "discount_amount": "$180",
+      "promotion": "商品已折價$180 含運",
+      "url": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/HOTO-3-in-1-Camping-Light/p/159269",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h6c/h27/454001775476766.jpg",
       "category": "家具家居"
     },
     {
-      "name": "Bentley Designs Vega 布面吧檯椅",
-      "price": "$3,599",
-      "original_price": "$4,599",
-      "discount_amount": "$1,000",
-      "promotion": "商品已折價$1,000 含運",
-      "url": "https://www.costco.com.tw/p/159439",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7b/had/437687091658782.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Bentley Designs Arlo 皮面餐椅 2入組 米色",
-      "price": "$3,199",
-      "original_price": "$3,399",
-      "discount_amount": "$200",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Dining-Sets/Bentley-Designs-Arlo-Faux-Leather-Dining-Chair-2-Pack-Set-Vintage-Stone/p/159591",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h08/haf/466558576525342.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Gallery Wigmore 布面沙發",
-      "price": "$15,997",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Sofas-Sectionals/Gallery-Wigmore-Fabric-Sofa/p/157496",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7f/h4d/418530690727966.jpg",
+      "name": "Trinity 66吋不鏽鋼工作檯附輪",
+      "price": "$16,799",
+      "original_price": "$20,999",
+      "discount_amount": "$4,200",
+      "promotion": "商品已折價$4,200 含運",
+      "url": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Tools-Storage/Trinity-66-inch-Stainless-Steel-Rolling-Workbench/p/1193846",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hca/he8/12675054829598.jpg",
       "category": "家具家居"
     }
   ],
   "price_changes": [
     {
-      "name": "GAP 男彈性舒適休閒短褲",
-      "price": "$1,159",
+      "name": "New Balance 男經典 Logo 短袖上衣",
+      "price": "$547",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
-      "old_price": "$399",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Costco/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/GAP-Mens-Stretch-Casual-Pull-On-Short/p/1983365",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h26/h90/472952482267166.jpg",
+      "old_price": "$1,159",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Costco/Clothing-Accessories/Mens-Clothing/Mens-Tops/New-Balance-Mens-Classic-Logo-Short-Sleeve-Tee/p/1846538",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha8/h90/434798860697630.jpg",
       "category": "服飾配件"
     }
   ]

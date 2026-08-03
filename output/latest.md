@@ -2,9 +2,9 @@
 
 ## 今日變化
 
-更新時間：2026-08-03 16:50（台灣時間）
-共整理出 **524** 項官方線上優惠。
-本次共讀取 **548** 個官方商品頁面。
+更新時間：2026-08-03 20:45（台灣時間）
+共整理出 **525** 項官方線上優惠。
+本次共讀取 **549** 個官方商品頁面。
 
 > 價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。
 
@@ -12,9 +12,9 @@
 
 | 分類 | 商品數量 |
 |---|---:|
-| 家具家居 | 181 |
+| 家具家居 | 179 |
 | 服飾配件 | 90 |
-| 其他 | 73 |
+| 其他 | 76 |
 | 家電 3C | 65 |
 | 食品飲料 | 60 |
 | 保健美容 | 31 |
@@ -29,25 +29,23 @@
 ## 今日變化
 
 - 新增優惠：**3** 項
-- 本次未收錄：**4** 項（不代表優惠已結束）
+- 本次未收錄：**2** 項（不代表優惠已結束）
 - 價格變動：**1** 項
 
 ### 價格變動
 
-- **漲價**：[GAP 男彈性舒適休閒短褲](https://www.costco.com.tw/Costco/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/GAP-Mens-Stretch-Casual-Pull-On-Short/p/1983365) $399 → $1,159
+- **降價**：[New Balance 男經典 Logo 短袖上衣](https://www.costco.com.tw/Costco/Clothing-Accessories/Mens-Clothing/Mens-Tops/New-Balance-Mens-Classic-Logo-Short-Sleeve-Tee/p/1846538) $1,159 → $547
 
 ### 今日新增
 
-- [Bentley Designs Vega 布面吧檯椅](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Dining-Sets/Bentley-Designs-Vega-Fabric-Bar-Stool/p/159439)（$3,599）
-- [新視紀 矯正鏡片(未滅菌) 200度 MCKAY 抗藍光](https://www.costco.com.tw/Costco/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-200-MCKAY-Anti-Blue-Light/p/146766)（$479）
-- [新視紀 矯正鏡片(未滅菌) 150度 LIAM 抗藍光](https://www.costco.com.tw/Costco/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-150-LIAM-Anti-Blue-Light/p/146750)（$479）
+- [Simon Li 牛皮電動躺椅 M553-3Q6](https://www.costco.com.tw/p/1812549)（$9,999）
+- [HOTO 三合一露營燈](https://www.costco.com.tw/p/159269)（$719）
+- [Trinity 66吋不鏽鋼工作檯附輪](https://www.costco.com.tw/p/1193846)（$16,799）
 
 ### 本次未收錄（不代表優惠已結束）
 
-- [True Innovations 全網布辦公椅](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/True-Innovations-Task-Mesh-Chair/p/1812395)（$2,699）
-- [Bentley Designs Vega 布面吧檯椅](https://www.costco.com.tw/p/159439)（$3,599）
-- [Bentley Designs Arlo 皮面餐椅 2入組 米色](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Dining-Sets/Bentley-Designs-Arlo-Faux-Leather-Dining-Chair-2-Pack-Set-Vintage-Stone/p/159591)（$3,199）
-- [Gallery Wigmore 布面沙發](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Sofas-Sectionals/Gallery-Wigmore-Fabric-Sofa/p/157496)（$15,997）
+- [HOTO 三合一露營燈](https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/HOTO-3-in-1-Camping-Light/p/159269)（$719）
+- [Trinity 66吋不鏽鋼工作檯附輪](https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Tools-Storage/Trinity-66-inch-Stainless-Steel-Rolling-Workbench/p/1193846)（$16,799）
 
 ## 全部優惠
 
@@ -341,14 +339,14 @@
 | 服飾配件 | [Tailor Vintage 男長褲](https://www.costco.com.tw/Costco/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/Tailor-Vintage-Mens-Ewaist-Surplus-Pant/p/1956433) | $449 |
 | 家具家居 | [Trinity 六層置物架附滾輪](https://www.costco.com.tw/Costco/Furniture-Kitchen/Storage-Organization/Shelving/Trinity-6-Tier-NSF-Rack-With-Wheels/p/1900509) | $3,039 |
 | 家具家居 | [Synergy 牛皮電動躺椅](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Sofas-Sectionals/Synergy-Leather-Power-Recliner/p/1862124) | $12,799 |
-| 家具家居 | [Simon Li 牛皮電動躺椅 M553-3Q6](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Sofas-Sectionals/Simon-Li-Leather-Power-Recliner-M553-3Q6/p/1812549) | $9,999 |
+| 其他 | [Simon Li 牛皮電動躺椅 M553-3Q6](https://www.costco.com.tw/p/1812549) | $9,999 |
 | 家具家居 | [Thomasville 餐桌椅七件組](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Dining-Sets/Thomasville-Dining-Set-7-Piece-Set/p/1812516) | $20,999 |
 | 保健美容 | [露得清 柔軟潔面巾組 卸妝棉 25張 X 4入 & 玻尿酸保濕棉 25張 X 1入](https://www.costco.com.tw/Costco/Health-Beauty/Beauty-Skin-Care/Skin-Care/Neutrogena-Ultra-Soft-Cleansing-Towelettes-Set-Makeup-Remover-25-Count-X-4-Pack-Hydro-Boost-with-Hyaluronic-Acid-Towelettes-25-Count-X-1-Pack/p/1806649) | $613 |
 | 日用品／母嬰／玩具 | [Barrington 10人撲克桌 含LED燈](https://www.costco.com.tw/Costco/Household-Baby-Toys/Toys/Board-Games-Puzzles/Barrington-10-Player-Poker-Table-with-LED-Lights/p/1740653) | $4,699 |
 | 家具家居 | [Bayside Furnishings 多功能置物櫃](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Television-Stands-Consoles/Bayside-Furnishings-TV-Console/p/1695477) | $10,999 |
 | 家具家居 | [Bentley Designs Sienna 雙門衣櫃](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Cabinets-Tables/Bentley-Designs-Sienna-Double-Wardrobe/p/159449) | $19,999 |
 | 家具家居 | [Caliphil 單人四季被附枕套 150公分 X 180公分 你好澳洲](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Caliphil-Comforter-with-Pillowcase-150-cm-X-180-cm-Hello/p/159412) | $1,039 |
-| 家具家居 | [HOTO 三合一露營燈](https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/HOTO-3-in-1-Camping-Light/p/159269) | $719 |
+| 其他 | [HOTO 三合一露營燈](https://www.costco.com.tw/p/159269) | $719 |
 | 其他 | [樂彩森林兒童智慧留聲機](https://www.costco.com.tw/Costco/Office-School/Books/Kids-Books/Kids-Intelligent-Phonograph/p/148525) | $599 |
 | 家具家居 | [MIT卡通兒童睡墊枕被組 史努比 彩虹好友 藍](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/MIT-Sleeping-Pad-Set-For-Kids-Snoopy-Blue/p/147518) | $719 |
 | 家具家居 | [MIT卡通兒童睡墊枕被組 三麗鷗大耳狗 奶油捲捲 藍](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/MIT-Sleeping-Pad-Set-For-Kids-Cinnamoroll-Blue/p/147510) | $719 |
@@ -364,7 +362,7 @@
 | 家具家居 | [Don Home 萊賽爾雙人加大兩用被套六件組 182公分 X 190公分 賽洛](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Don-Home-300-Thread-Count-Lyocell-Quilted-Duvet-6-Piece-Set-182-cm-X-190-cm-Lou/p/144734) | $2,399 |
 | 家具家居 | [Don Home 萊賽爾雙人兩用被套六件組 152公分 X 190公分 賽洛](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Don-Home-300-Thread-Count-Lyocell-Quilted-Duvet-6-Piece-Set-152-cm-X-190-cm-Lou/p/144731) | $2,079 |
 | 家具家居 | [Feit 7.5W LED 燈泡 5入](https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/Feit-75W-LED-Light-Bulb-5-Count/p/142186) | $319 |
-| 家具家居 | [Trinity 66吋不鏽鋼工作檯附輪](https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/Tools-Storage/Trinity-66-inch-Stainless-Steel-Rolling-Workbench/p/1193846) | $16,799 |
+| 其他 | [Trinity 66吋不鏽鋼工作檯附輪](https://www.costco.com.tw/p/1193846) | $16,799 |
 | 家具家居 | [Finlandia Marrone 多功能置物櫃 寬180公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Cabinets-Tables/Finlandia-Marrone-Console-Width-180-cm/p/690600) | $15,899 |
 | 家具家居 | [Caliphil 雲朵雙人加大床包兩用被四件組 183公分 X 190公分 特佩克堡](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Caliphil-Duvet-Sheet-4-Piece-Set-King-Size-183-cm-X-190-cm-Mocha/p/259157) | $1,739 |
 | 家具家居 | [Caliphil 雲朵雙人加大床包兩用被四件組 183公分 X 190公分 晴空花海](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Caliphil-Duvet-Sheet-4-Piece-Set-King-Size-183-cm-X-190-cm-Blue/p/259156) | $1,739 |
@@ -453,7 +451,7 @@
 | 家電 3C | [飛利浦 抗敏除甲醛空氣清淨機 AC0917](https://www.costco.com.tw/Costco/Televisions-Appliances/Cooling-Heating-Air-Treatment/Air-Purifiers-Filters-Accessories/Philips-Air-Purifier-AC0917/p/148769) | $7,999 |
 | 其他 | [Titan 保冰袋摺疊推車](https://www.costco.com.tw/Costco/Sports-Lifestyle/Camping-Outdoors/Coolers/Titan-60-Can-Rolling-Cooler/p/2622035) | $1,239 |
 | 保健美容 | [Avaria Light Up LED 燈光蠟燭 X 2件組](https://www.costco.com.tw/Costco/Health-Beauty/Beauty-Skin-Care/Scented-Candles-Diffusers/Avaria-Light-Up-LED-Integrated-Glitter-Confetti-Scented-Candles-X-2-Piece-Set/p/1901750) | $347 |
-| 服飾配件 | [New Balance 男經典 Logo 短袖上衣](https://www.costco.com.tw/Costco/Clothing-Accessories/Mens-Clothing/Mens-Tops/New-Balance-Mens-Classic-Logo-Short-Sleeve-Tee/p/1846538) | $1,159 |
+| 服飾配件 | [New Balance 男經典 Logo 短袖上衣](https://www.costco.com.tw/Costco/Clothing-Accessories/Mens-Clothing/Mens-Tops/New-Balance-Mens-Classic-Logo-Short-Sleeve-Tee/p/1846538) | $547 |
 | 服飾配件 | [Juicy Couture 女短袖上衣](https://www.costco.com.tw/Costco/Clothing-Accessories/Womens-Clothing/Womens-Tops/Juicy-Couture-Ladies-Short-Sleeve-Tee/p/156551) | $447 |
 | 日用品／母嬰／玩具 | [Bburago 1:43 賽車維修中心 / 3歲以上](https://www.costco.com.tw/Costco/Household-Baby-Toys/Toys/Outdoor-Play/Bburago-143-Paddock-Set-Ages-3-and-Up/p/1851433) | $597 |
 | 家電 3C | [Samsung 55吋 QLED 4K AI 量子智慧顯示器 QA55QEF1AXXZW](https://www.costco.com.tw/Costco/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/50-59-TVs/Samsung-55-inch-QLED-4K-AI-Smart-Monitor-QA55QEF1AXXZW/p/153529) | $17,999 |
@@ -542,6 +540,7 @@
 | 家電 3C | [Beats Studio Pro 無線頭戴式耳機](https://www.costco.com.tw/Costco/Digital-Mobile/Wearables-Audio/Headphones-Audio-Devices/Beats-Studio-Pro-Wireless-Headphones/p/141447-B) | $3,000 |
 | 家具家居 | [台達電子 多功能循環涼暖風機 標準型300系列 遙控型](https://www.costco.com.tw/Costco/Furniture-Kitchen/Hardware-DIY/KitchenBathroom-Hardware/Delta-Fan-Heater-Classic-300-Series-Remote-Control/p/135409-B) | $3,000 |
 | 家具家居 | [席伊麗 護背系列 Sunshine 標準雙人床墊 152公分 X 190公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Mattress-Toppers/Sealy-Sunshine-Backsaver-Mattress-152-cm-X-190-cm/p/133226) | $3,000 |
+| 家具家居 | [Simon Li 牛皮電動躺椅 M553-3Q6](https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Sofas-Sectionals/Simon-Li-Leather-Power-Recliner-M553-3Q6/p/1812549) | $9,999 |
 | 家具家居 | [Sea Breeze 雙人涼感墊 152公分 X 195公分](https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Mattress-Toppers/Sea-Breeze-Cool-Quilt-Pad-152-cm-X-195-cm/p/143514) | $929 |
 | 家電 3C | [IRIS Woozoo 空氣循環扇 PCF-SC15T-CT](https://www.costco.com.tw/Costco/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/IRIS-Woozoo-Circulator-Fan-PCF-SC15T-CT/p/2354207) | $1,269 |
 | 家電 3C | [LUMENA FAN STAND4 桌上型擺頭隨行風扇 2件組](https://www.costco.com.tw/Costco/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/LUMENA-FAN-STAND4-Wireless-Tabletop-Fan-2-Pack-Set/p/154234) | $1,759 |
