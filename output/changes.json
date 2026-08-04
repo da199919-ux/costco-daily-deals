@@ -1,8 +1,120 @@
 {
   "date": "2026-08-04",
-  "generated_at": "2026-08-04 18:09",
+  "generated_at": "2026-08-04 23:02",
   "has_previous": true,
   "added": [
+    {
+      "name": "Kid-O 奶油三明治家庭號 1530公克",
+      "price": "$269",
+      "original_price": "$339",
+      "discount_amount": "$70",
+      "promotion": "商品已折價$70 含運",
+      "url": "https://www.costco.com.tw/Costco/Food-Dining/Snacks/Cookies-Chips/Kid-O-Butter-Cracker-Sandwich-1530-g/p/156970",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h6d/h26/311830168076318.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "西雅圖 榛果風味濃淬咖啡球 16毫升 X 40入",
+      "price": "$299",
+      "original_price": "$379",
+      "discount_amount": "$80",
+      "promotion": "商品已折價$80 含運",
+      "url": "https://www.costco.com.tw/Costco/Food-Dining/Drinks/Coffee/Barista-Hazelnut-Flavor-Espresso-Shot-16-ml-X-40-Count/p/234436",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h62/h56/368770704965662.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "林聰明 沙鍋菜豆腐煲 800公克 X 3入",
+      "price": "$449",
+      "original_price": "$559",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "url": "https://www.costco.com.tw/Costco/Food-Dining/Groceries/Canned-Prepared-Food/Lin-Tsung-Ming-Tofu-Hotpot-Soup-Base-800-g-X-3-Count/p/154468",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h04/h7c/380783679701022.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "CASA 經典優質三角靠墊 60公分 X 50公分 X 30公分 青",
+      "price": "$499",
+      "original_price": "$639",
+      "discount_amount": "$140",
+      "promotion": "商品已折價$140 含運",
+      "url": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/CASA-Wedge-Cushion-60-cm-X-50-cm-X-30-cm-Blue/p/156363",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h91/hdf/419358258724894.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "National Vita 顧可飛 2000 葡萄糖胺薑黃軟骨素(液態食品) 946毫升",
+      "price": "$719",
+      "original_price": "$899",
+      "discount_amount": "$180",
+      "promotion": "商品已折價 $180 含運",
+      "url": "https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Bone-Joint-Support/National-Vita-Gluco-Flex-2000-with-Turmeric-Liquid/p/998595",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h57/hda/346620910960670.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "Caliphil 美國棉單人床包枕套三件組 107公分 X 190公分 森綠",
+      "price": "$799",
+      "original_price": "$999",
+      "discount_amount": "$200",
+      "promotion": "商品已折價$200 含運",
+      "url": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Caliphil-Sheet-3-Piece-Set-107-cm-X-190-cm-Green/p/159382",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h85/hac/450418175442974.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "歐樂B 微震科技充電式電動牙刷 單握柄+6刷頭 iO PRO",
+      "price": "$3,099",
+      "original_price": "$3,999",
+      "discount_amount": "$900",
+      "promotion": "商品已折價$900 含運",
+      "url": "https://www.costco.com.tw/Costco/Televisions-Appliances/Small-Appliances/Electric-Toothbrushes-Water-Flossers/Oral-B-Rechargeable-Toothbrush-1-Handle-6-Brush-Heads-iO-PRO/p/159964",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h29/hed/466199060316190.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "La Belle 素色涼感被 150公分 X 200公分 杏色",
+      "price": "$999",
+      "original_price": "$1,259",
+      "discount_amount": "$260",
+      "promotion": "商品已折價$260 含運",
+      "url": "https://www.costco.com.tw/Bedding/p/458611",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h83/hdf/433626153353246.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "La Belle 素色涼感被 150公分 X 200公分 抹茶",
+      "price": "$999",
+      "original_price": "$1,259",
+      "discount_amount": "$260",
+      "promotion": "商品已折價$260 含運",
+      "url": "https://www.costco.com.tw/Bedding/p/358611",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h61/had/433626148208670.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Swann 2K 無線電池攝影機",
+      "price": "$1,999",
+      "original_price": "$2,499",
+      "discount_amount": "$500",
+      "promotion": "商品已折價$500 含運",
+      "url": "https://www.costco.com.tw/Digital-Mobile/Cameras/p/157815",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hba/h2c/437687018455070.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "Kohler 電腦馬桶蓋軟水過濾器",
+      "price": "$1,439",
+      "original_price": "$1,799",
+      "discount_amount": "$360",
+      "promotion": "商品已折價$360 含運",
+      "url": "https://www.costco.com.tw/p/160170",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hbb/h75/468935624261662.jpg",
+      "category": "其他"
+    }
+  ],
+  "removed": [
     {
       "name": "Kid-O 奶油三明治家庭號 1530公克",
       "price": "$269",
@@ -112,197 +224,53 @@
       "url": "https://www.costco.com.tw/Automotive/p/1825869",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hbf/h92/471216499589150.jpg",
       "category": "其他"
-    }
-  ],
-  "removed": [
-    {
-      "name": "Kid-O 奶油三明治家庭號 1530公克",
-      "price": "$269",
-      "original_price": "$339",
-      "discount_amount": "$70",
-      "promotion": "商品已折價$70 含運",
-      "url": "https://www.costco.com.tw/Costco/Food-Dining/Snacks/Cookies-Chips/Kid-O-Butter-Cracker-Sandwich-1530-g/p/156970",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h6d/h26/311830168076318.jpg",
-      "category": "食品飲料"
     },
     {
-      "name": "西雅圖 榛果風味濃淬咖啡球 16毫升 X 40入",
-      "price": "$299",
-      "original_price": "$379",
-      "discount_amount": "$80",
-      "promotion": "商品已折價$80 含運",
-      "url": "https://www.costco.com.tw/Costco/Food-Dining/Drinks/Coffee/Barista-Hazelnut-Flavor-Espresso-Shot-16-ml-X-40-Count/p/234436",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h62/h56/368770704965662.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "林聰明 沙鍋菜豆腐煲 800公克 X 3入",
-      "price": "$449",
-      "original_price": "$559",
-      "discount_amount": "$110",
-      "promotion": "商品已折價$110 含運",
-      "url": "https://www.costco.com.tw/Costco/Food-Dining/Groceries/Canned-Prepared-Food/Lin-Tsung-Ming-Tofu-Hotpot-Soup-Base-800-g-X-3-Count/p/154468",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h04/h7c/380783679701022.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "CASA 經典優質三角靠墊 60公分 X 50公分 X 30公分 青",
-      "price": "$499",
-      "original_price": "$639",
-      "discount_amount": "$140",
-      "promotion": "商品已折價$140 含運",
-      "url": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/CASA-Wedge-Cushion-60-cm-X-50-cm-X-30-cm-Blue/p/156363",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h91/hdf/419358258724894.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "National Vita 顧可飛 2000 葡萄糖胺薑黃軟骨素(液態食品) 946毫升",
-      "price": "$719",
-      "original_price": "$899",
-      "discount_amount": "$180",
-      "promotion": "商品已折價 $180 含運",
-      "url": "https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Bone-Joint-Support/National-Vita-Gluco-Flex-2000-with-Turmeric-Liquid/p/998595",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h57/hda/346620910960670.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "Caliphil 美國棉單人床包枕套三件組 107公分 X 190公分 森綠",
-      "price": "$799",
-      "original_price": "$999",
-      "discount_amount": "$200",
-      "promotion": "商品已折價$200 含運",
-      "url": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Caliphil-Sheet-3-Piece-Set-107-cm-X-190-cm-Green/p/159382",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h85/hac/450418175442974.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "歐樂B 微震科技充電式電動牙刷 單握柄+6刷頭 iO PRO",
-      "price": "$3,099",
-      "original_price": "$3,999",
-      "discount_amount": "$900",
-      "promotion": "商品已折價$900 含運",
-      "url": "https://www.costco.com.tw/Costco/Televisions-Appliances/Small-Appliances/Electric-Toothbrushes-Water-Flossers/Oral-B-Rechargeable-Toothbrush-1-Handle-6-Brush-Heads-iO-PRO/p/159964",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h29/hed/466199060316190.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "科克蘭 男短袖上衣",
-      "price": "$247",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "url": "https://www.costco.com.tw/Costco/Clothing-Accessories/Mens-Clothing/Mens-Tops/Kirkland-Signature-Mens-Short-Sleeve-Tee/p/7771459",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h20/h50/333077037318174.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "FIFA 世界盃足球賽短袖上衣",
-      "price": "$247",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "url": "https://www.costco.com.tw/Costco/Clothing-Accessories/Mens-Clothing/Mens-Tops/FIFA-World-Cup-Short-Sleeve-Jersey/p/1968492",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h36/h0f/468935684915230.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Fila 兒童圓領刷毛長袖上衣",
-      "price": "$147",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "url": "https://www.costco.com.tw/Costco/Clothing-Accessories/Kids-Clothing/Kids-Tops/Fila-Kids-Crew-Neck-Fleece-Long-Sleeve-Sweatshirt/p/140162",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h07/haa/434451301236766.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Quiksilver 男防曬 UPF 50+ 運動褲",
-      "price": "$447",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "url": "https://www.costco.com.tw/Costco/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/Quiksilver-Mens-Sunscreen-UPF-50-Active-Short/p/156981",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h84/ha8/450045180051486.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Sunvilla 仿木餐椅",
-      "price": "$1,199",
-      "original_price": "$1,499",
-      "discount_amount": "$300",
-      "promotion": "商品已折價$300 含運",
-      "url": "https://www.costco.com.tw/Costco/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Sunvilla-Stacking-Chair/p/152081",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hdb/hdf/344805376426014.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Bentley Designs Kristen 開放式置物架",
-      "price": "$4,799",
-      "original_price": "$5,999",
-      "discount_amount": "$1,200",
-      "promotion": "商品已折價$1,200 含運",
-      "url": "https://www.costco.com.tw/Costco/Furniture-Kitchen/Furniture/Cabinets-Tables/Bentley-Designs-Kristen-Console-Table/p/159442",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h74/h7e/437687204216862.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "愛喜 維生素C + 鈣口嚼錠 220錠 (60錠 X 3瓶 + 20錠 X 2條)",
-      "price": "$777",
+      "name": "IRIS OHYAMA 桌上迷你型空氣循環扇 TAF-MKM10N",
+      "price": "$589",
       "original_price": "",
       "discount_amount": "",
       "promotion": "含運",
-      "url": "https://www.costco.com.tw/Costco/Health-Beauty/Supplements/Multi-Letter-Vitamins/HICEE-Vitamin-C-With-Calcium-220-Tablets-60-Tablet-X-3-Bottle-20-Tablet-X-2-Tube/p/997788",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h04/h3e/117438209982494.jpg",
-      "category": "保健美容"
+      "url": "https://www.costco.com.tw/Costco/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/IRIS-OHYAMA-Tabletop-Mini-Circulator-Fan-TAF-MKM10N/p/145560",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h11/h96/238306256551966.jpg",
+      "category": "家電 3C"
     }
   ],
   "price_changes": [
     {
       "name": "Canada Goose 男連帽外套",
-      "price": "$39,997",
+      "price": "$1,159",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
-      "old_price": "$1,159",
-      "direction": "漲價",
+      "old_price": "$39,997",
+      "direction": "降價",
       "url": "https://www.costco.com.tw/Costco/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/Canada-Goose-Mens-Expedition-Parka/p/772994",
       "image": "https://www.costco.com.tw/medias/sys_master/images/he7/ha0/418530817572894.jpg",
       "category": "服飾配件"
     },
     {
       "name": "GAP 男彈性舒適休閒短褲",
-      "price": "$499",
+      "price": "$1,159",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
-      "old_price": "$1,159",
-      "direction": "降價",
+      "old_price": "$499",
+      "direction": "漲價",
       "url": "https://www.costco.com.tw/Costco/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/GAP-Mens-Stretch-Casual-Pull-On-Short/p/1983365",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h26/h90/472952482267166.jpg",
       "category": "服飾配件"
     },
     {
       "name": "Le Coq Sportif 男短袖純棉上衣",
-      "price": "$849",
+      "price": "$5,799",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
-      "old_price": "$5,799",
-      "direction": "降價",
+      "old_price": "$849",
+      "direction": "漲價",
       "url": "https://www.costco.com.tw/Costco/Clothing-Accessories/Mens-Clothing/Mens-Tops/Le-Coq-Sportif-Mens-Short-Sleeve-Cotton-Tee/p/240942",
       "image": "https://www.costco.com.tw/medias/sys_master/images/ha7/hc8/455934093852702.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "New Balance 男經典 Logo 短袖上衣",
-      "price": "$1,159",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "old_price": "$547",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Costco/Clothing-Accessories/Mens-Clothing/Mens-Tops/New-Balance-Mens-Classic-Logo-Short-Sleeve-Tee/p/1846538",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha8/h90/434798860697630.jpg",
       "category": "服飾配件"
     }
   ]
