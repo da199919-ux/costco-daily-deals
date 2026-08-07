@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-07",
-  "generated_at": "2026-08-07 23:19",
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08 03:31",
   "has_previous": true,
   "added": [
     {
@@ -9,99 +9,61 @@
       "original_price": "$20,899",
       "discount_amount": "$4,200",
       "promotion": "商品已折價$4,200 含運",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/60-69-TVs/Philips-65-inch-4K-Google-TV-Monitor-with-Soundbar-Set-65PUH789096/p/153517",
+      "url": "https://www.costco.com.tw/Televisions-TV-Accessories/p/153517",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h8e/h30/438072169103390.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "Igloo 58公升 滾輪冰桶",
-      "price": "$1,689",
-      "original_price": "$2,139",
-      "discount_amount": "$450",
-      "promotion": "商品已折價$450 含運",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Coolers/Igloo-Maxcold-62QT-Rolling-Cooler/p/1872193",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h72/h75/436453723963422.jpg",
       "category": "其他"
     },
     {
-      "name": "進口洋蔥 10公斤",
-      "price": "$460",
-      "original_price": "$559",
-      "discount_amount": "$99",
-      "promotion": "商品已折價$99 含運",
-      "url": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Chilled-Food/Import-Onion-10-kg/p/85744",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h5b/168536181178398.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "百問百答圖解翻翻書(全套10冊)",
-      "price": "$719",
-      "original_price": "$799",
+      "name": "西雅圖 榛果風味濃淬咖啡球 16毫升 X 40入",
+      "price": "$299",
+      "original_price": "$379",
       "discount_amount": "$80",
       "promotion": "商品已折價$80 含運",
-      "url": "https://www.costco.com.tw/Office-School/Books/Kids-Books/Lift-the-Flap-Learning-Book-Set-10-Books/p/157566",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb5/hac/398741746188318.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "成語有意思套書：看漫畫成語故事，700+國小常用成語全掌握",
-      "price": "$799",
-      "original_price": "$899",
-      "discount_amount": "$100",
-      "promotion": "商品已折價$100 含運",
-      "url": "https://www.costco.com.tw/Office-School/Books/Kids-Books/Chinese-Idiom-Stories-So-Much-Fun-Learning-Chinese-Idioms-by-Reading-Comics-Master-All-700-Commonly-Used-Idioms-in-Elementary-School/p/144807",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hfe/ha6/221227230855198.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "TurboCar 多用途餐車附碗籃",
-      "price": "$3,999",
-      "original_price": "$4,999",
-      "discount_amount": "$1,000",
-      "promotion": "商品已折價$1,000 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/TurboCart-Utility-Cart-with-Baskets/p/156636",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb8/h01/449275213873182.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "新視紀 矯正鏡片(未滅菌) 275度 LIAM 抗藍光",
-      "price": "$479",
-      "original_price": "$589",
-      "discount_amount": "$110",
-      "promotion": "商品已折價$110 含運",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-275-LIAM-Anti-Blue-Light/p/146754",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hde/h4e/378821908234270.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "科克蘭 冷萃特級初榨橄欖油 2公升",
-      "price": "$729",
-      "original_price": "$879",
-      "discount_amount": "$150",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Kirkland-Signature-Extra-Virgin-Olive-Oil-2-L/p/1058619",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf8/h7f/472591303573534.jpg",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/p/234436",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h62/h56/368770704965662.jpg",
       "category": "食品飲料"
     },
     {
-      "name": "Tryall 無調味水解乳清蛋白 2.5公斤",
-      "price": "$2,439",
-      "original_price": "$2,659",
-      "discount_amount": "$220",
+      "name": "科克蘭 無調味烘烤開心果 1.36公斤",
+      "price": "$659",
+      "original_price": "",
+      "discount_amount": "",
       "promotion": "含運",
-      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Sports-Performance/Tryall-Whey-Protein-Hydrolysate-Unflavored-25-kg/p/155647",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/he4/h16/397422709243934.jpg",
-      "category": "保健美容"
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Kirkland-Signature-Unsalted-In-Shell-Pistachios-136-kg/p/1792518",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hea/h86/422091033903134.jpg",
+      "category": "食品飲料"
     },
     {
-      "name": "TP-Link Tapo D210 智慧門鈴",
-      "price": "$1,599",
-      "original_price": "$1,869",
-      "discount_amount": "$270",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/TP-Link-Tapo-D210-Video-Doorbell-Camera/p/158484",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h79/h36/448868347772958.jpg",
-      "category": "家電 3C"
+      "name": "Feit 7.5W LED 燈泡 5入",
+      "price": "$319",
+      "original_price": "$399",
+      "discount_amount": "$80",
+      "promotion": "商品已折價$80 含運",
+      "url": "https://www.costco.com.tw/p/142186",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h72/h52/298052155146270.jpg",
+      "category": "其他"
+    }
+  ],
+  "removed": [
+    {
+      "name": "西雅圖 榛果風味濃淬咖啡球 16毫升 X 40入",
+      "price": "$299",
+      "original_price": "$379",
+      "discount_amount": "$80",
+      "promotion": "商品已折價$80 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Barista-Hazelnut-Flavor-Espresso-Shot-16-ml-X-40-Count/p/234436",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h62/h56/368770704965662.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Feit 7.5W LED 燈泡 5入",
+      "price": "$319",
+      "original_price": "$399",
+      "discount_amount": "$80",
+      "promotion": "商品已折價$80 含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/Feit-75W-LED-Light-Bulb-5-Count/p/142186",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h72/h52/298052155146270.jpg",
+      "category": "家具家居"
     },
     {
       "name": "太星電工 1開3插2孔動力軟線 15A 15公尺",
@@ -134,127 +96,15 @@
       "category": "其他"
     }
   ],
-  "removed": [
-    {
-      "name": "飛利浦 65吋 4K Google TV 顯示器聲霸組合 65PUH7890/96",
-      "price": "$16,699",
-      "original_price": "$20,899",
-      "discount_amount": "$4,200",
-      "promotion": "商品已折價$4,200 含運",
-      "url": "https://www.costco.com.tw/Televisions-TV-Accessories/p/153517",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h8e/h30/438072169103390.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Igloo 58公升 滾輪冰桶",
-      "price": "$1,689",
-      "original_price": "$2,139",
-      "discount_amount": "$450",
-      "promotion": "商品已折價$450 含運",
-      "url": "https://www.costco.com.tw/p/1872193",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h72/h75/436453723963422.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "進口洋蔥 10公斤",
-      "price": "$460",
-      "original_price": "$559",
-      "discount_amount": "$99",
-      "promotion": "商品已折價$99 含運",
-      "url": "https://www.costco.com.tw/Chilled-Food/p/85744",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h5b/168536181178398.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "百問百答圖解翻翻書(全套10冊)",
-      "price": "$719",
-      "original_price": "$799",
-      "discount_amount": "$80",
-      "promotion": "商品已折價$80 含運",
-      "url": "https://www.costco.com.tw/Office-School/p/157566",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb5/hac/398741746188318.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "成語有意思套書：看漫畫成語故事，700+國小常用成語全掌握",
-      "price": "$799",
-      "original_price": "$899",
-      "discount_amount": "$100",
-      "promotion": "商品已折價$100 含運",
-      "url": "https://www.costco.com.tw/Office-School/p/144807",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hfe/ha6/221227230855198.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "TurboCar 多用途餐車附碗籃",
-      "price": "$3,999",
-      "original_price": "$4,999",
-      "discount_amount": "$1,000",
-      "promotion": "商品已折價$1,000 含運",
-      "url": "https://www.costco.com.tw/p/156636",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb8/h01/449275213873182.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "新視紀 矯正鏡片(未滅菌) 275度 LIAM 抗藍光",
-      "price": "$479",
-      "original_price": "$589",
-      "discount_amount": "$110",
-      "promotion": "商品已折價$110 含運",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/p/146754",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hde/h4e/378821908234270.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "科克蘭 冷萃特級初榨橄欖油 2公升",
-      "price": "$729",
-      "original_price": "$879",
-      "discount_amount": "$150",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/p/1058619",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf8/h7f/472591303573534.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "TP-Link Tapo D210 智慧門鈴",
-      "price": "$1,599",
-      "original_price": "$1,869",
-      "discount_amount": "$270",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Cameras/p/158484",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h79/h36/448868347772958.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "Tryall 無調味水解乳清蛋白 2.5公斤",
-      "price": "$2,439",
-      "original_price": "$2,659",
-      "discount_amount": "$220",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/p/155647",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/he4/h16/397422709243934.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "喜年來 蔬菜薄餅 20公克 X 52入",
-      "price": "$235",
-      "original_price": "$289",
-      "discount_amount": "$54",
-      "promotion": "商品已折價$54 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/100543",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h23/h4c/175063271374878.jpg",
-      "category": "食品飲料"
-    }
-  ],
   "price_changes": [
     {
       "name": "GAP 男彈性舒適休閒短褲",
-      "price": "$1,159",
+      "price": "$375",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
-      "old_price": "$375",
-      "direction": "漲價",
+      "old_price": "$1,159",
+      "direction": "降價",
       "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/GAP-Mens-Stretch-Casual-Pull-On-Short/p/1983365",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h26/h90/472952482267166.jpg",
       "category": "服飾配件"
