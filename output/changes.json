@@ -1,21 +1,103 @@
 {
-  "date": "2026-08-06",
-  "generated_at": "2026-08-06 22:50",
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07 08:51",
   "has_previous": true,
-  "added": [],
-  "removed": [],
+  "added": [
+    {
+      "name": "樂益活 海洋膠原蛋白凍 綜合莓果口味 40條",
+      "price": "$799",
+      "original_price": "$999",
+      "discount_amount": "$200",
+      "promotion": "商品已折價 $200 含運",
+      "url": "https://www.costco.com.tw/p/199500",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hed/he9/122559437176862.jpg",
+      "category": "其他"
+    }
+  ],
+  "removed": [
+    {
+      "name": "樂益活 海洋膠原蛋白凍 綜合莓果口味 40條",
+      "price": "$799",
+      "original_price": "$999",
+      "discount_amount": "$200",
+      "promotion": "商品已折價 $200 含運",
+      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/MeridLife-Premium-Marine-Collagen-Mixed-Berry-Flavor-40-Pack/p/199500",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hed/he9/122559437176862.jpg",
+      "category": "保健美容"
+    }
+  ],
   "price_changes": [
     {
-      "name": "Canada Goose 男連帽外套",
-      "price": "$39,997",
+      "name": "GAP 男彈性舒適休閒短褲",
+      "price": "$499",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
-      "old_price": "$1,159",
+      "old_price": "$375",
       "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/Canada-Goose-Mens-Expedition-Parka/p/772994",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/he7/ha0/418530817572894.jpg",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/GAP-Mens-Stretch-Casual-Pull-On-Short/p/1983365",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h26/h90/472952482267166.jpg",
       "category": "服飾配件"
+    },
+    {
+      "name": "Ninja Detect 多功能調理機 TB401TW",
+      "price": "$9,999",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "old_price": "$7,999",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Coffee-Machines-Blenders-Juicers/Ninja-Detect-Food-Processor-TB401TW/p/156889",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h01/hf5/400499548520478.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "Ninja Slushi 冰沙機 1.9公升 FS301TW",
+      "price": "$10,099",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "old_price": "$7,999",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Cookers-Oven-Microwaves-Food-Waste-Machine/Ninja-Slushi-Ice-Blender-19-L-FS301TW/p/158944",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf5/ha0/468568626364446.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "Soft99 超視野鍍膜雨刷精 2.6公升 X 2入",
+      "price": "$249",
+      "original_price": "$299",
+      "discount_amount": "$50",
+      "promotion": "商品已折價$50 含運",
+      "old_price": "$299",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Automotive/Automotive/Soft99-Hyperview-Coating-Windshield-Washer-Fluid-26-L-X-2-Pack/p/152963",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h94/h7a/365330239062046.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Step2 汽車造型戲水桌 / 3歲以上",
+      "price": "$1,997",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "old_price": "$3,997",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Outdoor-Play/Step2-Car-Wash-Splash-Center-Ages-3-and-Up/p/152880",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h8d/hd9/381454866710558.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "金博家 正宗四川担担麵 145公克 X 10入",
+      "price": "$389",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "old_price": "$297",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Jinbo-Classic-DanDan-Noodles-In-Sichuan-Chili-Sauce-145-g-X-10-Pack/p/146925",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h9d/h53/259146773823518.jpg",
+      "category": "食品飲料"
     }
   ]
 }
