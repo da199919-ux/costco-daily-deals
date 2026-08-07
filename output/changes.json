@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "generated_at": "2026-08-07 08:51",
+  "generated_at": "2026-08-07 14:00",
   "has_previous": true,
   "added": [
     {
@@ -9,8 +9,48 @@
       "original_price": "$999",
       "discount_amount": "$200",
       "promotion": "商品已折價 $200 含運",
-      "url": "https://www.costco.com.tw/p/199500",
+      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/MeridLife-Premium-Marine-Collagen-Mixed-Berry-Flavor-40-Pack/p/199500",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hed/he9/122559437176862.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "幻知曲 舒柔曲線乳膠枕 58公分 X 38公分 X 10公分",
+      "price": "$719",
+      "original_price": "$899",
+      "discount_amount": "$180",
+      "promotion": "商品已折價$180 含運",
+      "url": "https://www.costco.com.tw/Bedding/p/121631",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h5b/h1a/12090608451614.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "大猩猩強力雙面膠帶 重量型 4入",
+      "price": "$699",
+      "original_price": "$879",
+      "discount_amount": "$180",
+      "promotion": "商品已折價$180 含運",
+      "url": "https://www.costco.com.tw/p/160585",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h3a/h4b/451293610180638.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "幻知曲 雙人特大天然舒柔防水保潔墊 3件組 183公分 X 212公分 X 38公分",
+      "price": "$1,039",
+      "original_price": "$1,299",
+      "discount_amount": "$260",
+      "promotion": "商品已折價$260 含運",
+      "url": "https://www.costco.com.tw/Bedding/p/114501",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hbd/h20/47771977678878.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Finlandia Cypress 儲物櫃 220公分",
+      "price": "$15,999",
+      "original_price": "$20,999",
+      "discount_amount": "$5,000",
+      "promotion": "商品已折價$5,000 含運",
+      "url": "https://www.costco.com.tw/p/672535",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h74/hcf/361110719365150.jpg",
       "category": "其他"
     }
   ],
@@ -21,23 +61,9 @@
       "original_price": "$999",
       "discount_amount": "$200",
       "promotion": "商品已折價 $200 含運",
-      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/MeridLife-Premium-Marine-Collagen-Mixed-Berry-Flavor-40-Pack/p/199500",
+      "url": "https://www.costco.com.tw/p/199500",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hed/he9/122559437176862.jpg",
-      "category": "保健美容"
-    }
-  ],
-  "price_changes": [
-    {
-      "name": "GAP 男彈性舒適休閒短褲",
-      "price": "$499",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "old_price": "$375",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/GAP-Mens-Stretch-Casual-Pull-On-Short/p/1983365",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h26/h90/472952482267166.jpg",
-      "category": "服飾配件"
+      "category": "其他"
     },
     {
       "name": "Ninja Detect 多功能調理機 TB401TW",
@@ -45,8 +71,6 @@
       "original_price": "",
       "discount_amount": "",
       "promotion": "含運",
-      "old_price": "$7,999",
-      "direction": "漲價",
       "url": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Coffee-Machines-Blenders-Juicers/Ninja-Detect-Food-Processor-TB401TW/p/156889",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h01/hf5/400499548520478.jpg",
       "category": "家電 3C"
@@ -57,47 +81,30 @@
       "original_price": "",
       "discount_amount": "",
       "promotion": "含運",
-      "old_price": "$7,999",
-      "direction": "漲價",
       "url": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Cookers-Oven-Microwaves-Food-Waste-Machine/Ninja-Slushi-Ice-Blender-19-L-FS301TW/p/158944",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hf5/ha0/468568626364446.jpg",
       "category": "家電 3C"
     },
     {
-      "name": "Soft99 超視野鍍膜雨刷精 2.6公升 X 2入",
-      "price": "$249",
-      "original_price": "$299",
-      "discount_amount": "$50",
-      "promotion": "商品已折價$50 含運",
-      "old_price": "$299",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Automotive/Automotive/Soft99-Hyperview-Coating-Windshield-Washer-Fluid-26-L-X-2-Pack/p/152963",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h94/h7a/365330239062046.jpg",
-      "category": "其他"
+      "name": "A.P.C. 女純棉長袖上衣",
+      "price": "$1,159",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/APC-Ladies-Sweatshirt/p/1846331",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha2/he3/382511779053598.jpg",
+      "category": "服飾配件"
     },
     {
-      "name": "Step2 汽車造型戲水桌 / 3歲以上",
-      "price": "$1,997",
+      "name": "Sea Breeze 雙人涼感墊 152公分 X 195公分",
+      "price": "$929",
       "original_price": "",
       "discount_amount": "",
       "promotion": "含運",
-      "old_price": "$3,997",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Outdoor-Play/Step2-Car-Wash-Splash-Center-Ages-3-and-Up/p/152880",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h8d/hd9/381454866710558.jpg",
-      "category": "日用品／母嬰／玩具"
-    },
-    {
-      "name": "金博家 正宗四川担担麵 145公克 X 10入",
-      "price": "$389",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "old_price": "$297",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Jinbo-Classic-DanDan-Noodles-In-Sichuan-Chili-Sauce-145-g-X-10-Pack/p/146925",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h9d/h53/259146773823518.jpg",
-      "category": "食品飲料"
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Sea-Breeze-Cool-Quilt-Pad-152-cm-X-195-cm/p/143514",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h52/h68/450045165928478.jpg",
+      "category": "家具家居"
     }
-  ]
+  ],
+  "price_changes": []
 }
