@@ -1,28 +1,20 @@
 {
   "date": "2026-08-09",
-  "generated_at": "2026-08-09 01:57",
+  "generated_at": "2026-08-09 05:56",
   "has_previous": true,
   "added": [
     {
-      "name": "伊萊克斯 700系列 346公升 AI變頻獨立式上冷藏下冷凍雙門冰箱 EBM3402L-W",
-      "price": "$18,399",
-      "original_price": "$22,999",
-      "discount_amount": "$4,600",
-      "promotion": "商品已折價$4,600 含運",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Fridges-Freezers/Overall-Capacity-350-500-L/Electrolux-346-L-700-Series-AI-CoolAssist-2-Door-Fridge-EBM3402L-W/p/160928",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hec/h2b/470130459672606.jpg",
+      "name": "TP-Link BE3600 雙頻 Wi-Fi 7 路由器 Archer BE3600",
+      "price": "$1,639",
+      "original_price": "$2,049",
+      "discount_amount": "$410",
+      "promotion": "商品已折價$410 含運",
+      "url": "https://www.costco.com.tw/Digital-Mobile/Laptops-Computers/Keyboards-Mice-Computer-Accessories/TP-Link-BE3600-Dual-Band-Wi-Fi-7-Router-Archer-BE3600/p/154268",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h09/h9d/366793138733086.jpg",
       "category": "家電 3C"
-    },
-    {
-      "name": "顧可飛 黃金比例金盞花葉黃素+紅藻蝦紅素軟膠囊 130粒",
-      "price": "$789",
-      "original_price": "$989",
-      "discount_amount": "$200",
-      "promotion": "商品已折價 $200 含運",
-      "url": "https://www.costco.com.tw/p/147910",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h99/h04/298414369996830.jpg",
-      "category": "其他"
-    },
+    }
+  ],
+  "removed": [
     {
       "name": "TP-Link BE3600 雙頻 Wi-Fi 7 路由器 Archer BE3600",
       "price": "$1,639",
@@ -34,12 +26,22 @@
       "category": "家電 3C"
     },
     {
+      "name": "INFINITY X1 2000 流明露營燈",
+      "price": "$849",
+      "original_price": "$1,099",
+      "discount_amount": "$250",
+      "promotion": "商品已折價$250 含運",
+      "url": "https://www.costco.com.tw/p/1872247",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb4/h59/438876268855326.jpg",
+      "category": "其他"
+    },
+    {
       "name": "Schiff MegaRed 濃縮純淨藻油 Omega-3 軟膠囊(食品) 50顆",
       "price": "$1,059",
       "original_price": "$1,319",
       "discount_amount": "$260",
       "promotion": "商品已折價 $260 含運",
-      "url": "https://www.costco.com.tw/c/p/142926",
+      "url": "https://www.costco.com.tw/c/Schiff-MegaRed-Omega-3-Algae-Oil-50-Softgels/p/142926",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hab/h03/384242530680862.jpg",
       "category": "其他"
     },
@@ -49,9 +51,9 @@
       "original_price": "$2,399",
       "discount_amount": "$500",
       "promotion": "商品已折價$500 含運",
-      "url": "https://www.costco.com.tw/p/152653",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Backbone-Nook-desk-Kids-Adjustable-Desk-Cream/p/152653",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h32/h68/364686848196638.jpg",
-      "category": "其他"
+      "category": "家具家居"
     },
     {
       "name": "Zuru X-Shot 全電動高速水槍 2入組 / 8歲以上",
@@ -59,141 +61,10 @@
       "original_price": "$869",
       "discount_amount": "$174",
       "promotion": "商品已折價$174 含運",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/p/1851471",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Outdoor-Play/Zuru-X-Shot-Motor-Soakers-2-Pack-Set-Ages-8-and-up/p/1851471",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h63/h62/486580374896670.jpg",
       "category": "日用品／母嬰／玩具"
-    },
-    {
-      "name": "FlexiSpot 電動升降桌 GET156E-14070",
-      "price": "$4,289",
-      "original_price": "$5,489",
-      "discount_amount": "$1,200",
-      "promotion": "商品已折價$1,200 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/FlexiSpot-Adjustable-Desk-GET156E-14070/p/156015",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hdd/h08/386020262445086.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Soft99 超視野鍍膜雨刷精 2.6公升 X 2入",
-      "price": "$249",
-      "original_price": "$299",
-      "discount_amount": "$50",
-      "promotion": "商品已折價$50 含運",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Automotive/Automotive/Soft99-Hyperview-Coating-Windshield-Washer-Fluid-26-L-X-2-Pack/p/152963",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h94/h7a/365330239062046.jpg",
-      "category": "其他"
     }
   ],
-  "removed": [
-    {
-      "name": "伊萊克斯 700系列 346公升 AI變頻獨立式上冷藏下冷凍雙門冰箱 EBM3402L-W",
-      "price": "$18,399",
-      "original_price": "$22,999",
-      "discount_amount": "$4,600",
-      "promotion": "商品已折價$4,600 含運",
-      "url": "https://www.costco.com.tw/Large-Appliances/p/160928",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hec/h2b/470130459672606.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "顧可飛 黃金比例金盞花葉黃素+紅藻蝦紅素軟膠囊 130粒",
-      "price": "$789",
-      "original_price": "$989",
-      "discount_amount": "$200",
-      "promotion": "商品已折價 $200 含運",
-      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Marigold-Lutein-with-Algae-Astaxanthin-Veggie-Softgels-130-Count/p/147910",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h99/h04/298414369996830.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "TP-Link BE3600 雙頻 Wi-Fi 7 路由器 Archer BE3600",
-      "price": "$1,639",
-      "original_price": "$2,049",
-      "discount_amount": "$410",
-      "promotion": "商品已折價$410 含運",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Laptops-Computers/Keyboards-Mice-Computer-Accessories/TP-Link-BE3600-Dual-Band-Wi-Fi-7-Router-Archer-BE3600/p/154268",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h09/h9d/366793138733086.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "Backbone Hippo 兒童成長椅",
-      "price": "$2,699",
-      "original_price": "$3,399",
-      "discount_amount": "$700",
-      "promotion": "商品已折價$700 含運",
-      "url": "https://www.costco.com.tw/p/152649",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h0f/h32/363835041710110.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "FlexiSpot 電動升降桌 GET156E-14070",
-      "price": "$4,289",
-      "original_price": "$5,489",
-      "discount_amount": "$1,200",
-      "promotion": "商品已折價$1,200 含運",
-      "url": "https://www.costco.com.tw/p/156015",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hdd/h08/386020262445086.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Soft99 超視野鍍膜雨刷精 2.6公升 X 2入",
-      "price": "$249",
-      "original_price": "$299",
-      "discount_amount": "$50",
-      "promotion": "商品已折價$50 含運",
-      "url": "https://www.costco.com.tw/Automotive/p/152963",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h94/h7a/365330239062046.jpg",
-      "category": "其他"
-    }
-  ],
-  "price_changes": [
-    {
-      "name": "Bouchard 覆盆子風味可可薄片 600公克",
-      "price": "$397",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "old_price": "$497",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Bouchard-Chocolate-Thins-Raspberry-Flavor-600-g/p/2323796",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h19/h21/417162278043678.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "GAP 男彈性舒適休閒短褲",
-      "price": "$375",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "old_price": "$399",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/GAP-Mens-Stretch-Casual-Pull-On-Short/p/1983365",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h26/h90/472952482267166.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Insta360 GO Ultra 運動攝影機套裝組",
-      "price": "$12,699",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "old_price": "$11,259",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/Insta360-GO-Ultra-Action-Camera-Set/p/155144",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hfe/hed/467458634678302.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "Le Coq Sportif 男短袖純棉上衣",
-      "price": "$899",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "old_price": "$649",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Le-Coq-Sportif-Mens-Short-Sleeve-Cotton-Tee/p/240942",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha7/hc8/455934093852702.jpg",
-      "category": "服飾配件"
-    }
-  ]
+  "price_changes": []
 }
