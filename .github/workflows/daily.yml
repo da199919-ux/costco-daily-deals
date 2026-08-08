@@ -19,6 +19,11 @@ permissions:
   contents: write
   issues: write
 
+# 同一時間只允許一個 Costco 更新程序執行，避免兩次執行互相搶著上傳。
+concurrency:
+  group: costco-daily-update
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -85,7 +90,17 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add output/ docs/
           git commit -m "自動更新 Costco 每日優惠"
-          git push
+          # 若執行期間遠端剛好有新版本，先同步後再重試，避免 fetch first。
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            echo "遠端有較新更新，第 ${attempt} 次重新同步"
+            git fetch origin main
+            git rebase origin/main
+          done
+          echo "連續三次仍無法上傳更新"
+          exit 1
 
       - name: 發布 Gmail 摘要通知
         if: steps.frequency.outputs.should_run == 'true'
