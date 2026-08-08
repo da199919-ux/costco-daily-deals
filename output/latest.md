@@ -2,9 +2,9 @@
 
 ## 今日變化
 
-更新時間：2026-08-08 11:41（台灣時間）
-共整理出 **582** 項官方線上優惠。
-本次共讀取 **608** 個官方商品頁面。
+更新時間：2026-08-08 11:56（台灣時間）
+共整理出 **586** 項官方線上優惠。
+本次共讀取 **612** 個官方商品頁面。
 
 > 價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。
 
@@ -13,8 +13,8 @@
 | 分類 | 商品數量 |
 |---|---:|
 | 家具家居 | 217 |
-| 服飾配件 | 90 |
-| 其他 | 87 |
+| 服飾配件 | 91 |
+| 其他 | 90 |
 | 食品飲料 | 70 |
 | 家電 3C | 68 |
 | 保健美容 | 28 |
@@ -28,8 +28,8 @@
 
 ## 今日變化
 
-- 新增優惠：**0** 項
-- 本次未收錄：**4** 項（不代表優惠已結束）
+- 新增優惠：**4** 項
+- 本次未收錄：**0** 項（不代表優惠已結束）
 - 價格變動：**0** 項
 
 ### 價格變動
@@ -38,14 +38,14 @@
 
 ### 今日新增
 
-- 今天沒有新增優惠。
+- [FlexiSpot 電動升降桌 GET156E-14070](https://www.costco.com.tw/p/156015)（$4,289）
+- [Soft99 超視野鍍膜雨刷精 2.6公升 X 2入](https://www.costco.com.tw/Automotive/p/152963)（$249）
+- [Licensed 男童短袖休閒服四件套組 Tomica](https://www.costco.com.tw/Clothing-Accessories/p/87235-B)（$395）
+- [Igloo 18.9公升 保冷桶](https://www.costco.com.tw/p/1872201)（$1,359）
 
 ### 本次未收錄（不代表優惠已結束）
 
-- [Aiden & Ivy 布面可移動式沙發附腳凳 綠](https://www.costco.com.tw/p/152332)（$18,399）
-- [MIT卡通兒童睡墊枕被組 雙星仙子 花串聚會 藍](https://www.costco.com.tw/Bedding/p/147733)（$719）
-- [Aiden & Ivy 布面雙人電動沙發](https://www.costco.com.tw/p/1862169)（$20,999）
-- [Igloo 18.9公升 保冷桶](https://www.costco.com.tw/p/1872201)（$1,359）
+- 本次沒有商品離開抓取清單。
 
 ## 全部優惠
 
@@ -588,6 +588,10 @@
 | 其他 | [INFINITY X1 2000 流明露營燈](https://www.costco.com.tw/p/1872247) | $849 |
 | 其他 | [Schiff MegaRed 濃縮純淨藻油 Omega-3 軟膠囊(食品) 50顆](https://www.costco.com.tw/c/p/142926) | $1,059 |
 | 其他 | [SABA 20W 擺放/懸掛2用電擊式捕蚊燈 SA-HG07](https://www.costco.com.tw/p/151284) | $835 |
+| 其他 | [FlexiSpot 電動升降桌 GET156E-14070](https://www.costco.com.tw/p/156015) | $4,289 |
+| 其他 | [Soft99 超視野鍍膜雨刷精 2.6公升 X 2入](https://www.costco.com.tw/Automotive/p/152963) | $249 |
+| 服飾配件 | [Licensed 男童短袖休閒服四件套組 Tomica](https://www.costco.com.tw/Clothing-Accessories/p/87235-B) | $395 |
+| 其他 | [Igloo 18.9公升 保冷桶](https://www.costco.com.tw/p/1872201) | $1,359 |
 | 家電 3C | [IRIS Woozoo 空氣循環扇 PCF-SC15T-CT](https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/IRIS-Woozoo-Circulator-Fan-PCF-SC15T-CT/p/2354207) | $1,269 |
 | 家具家居 | [Zoobies 涼感動物造型抱枕](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/Zoobies-Animal-Ice-Cushion/p/8523236) | $429 |
 | 家具家居 | [ThermoFlask 不鏽鋼保冷保溫瓶 1.2公升 X 2件組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/ThermoFlask-Stainless-Steel-Water-Bottle-12-L-X-2-Piece-Set/p/158977) | $759 |

@@ -1,38 +1,37 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08 11:41",
+  "generated_at": "2026-08-08 11:56",
   "has_previous": true,
-  "added": [],
-  "removed": [
+  "added": [
     {
-      "name": "Aiden & Ivy 布面可移動式沙發附腳凳 綠",
-      "price": "$18,399",
-      "original_price": "$22,999",
-      "discount_amount": "$4,600",
-      "promotion": "商品已折價$4,600 含運",
-      "url": "https://www.costco.com.tw/p/152332",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h32/h14/361386678648862.jpg",
+      "name": "FlexiSpot 電動升降桌 GET156E-14070",
+      "price": "$4,289",
+      "original_price": "$5,489",
+      "discount_amount": "$1,200",
+      "promotion": "商品已折價$1,200 含運",
+      "url": "https://www.costco.com.tw/p/156015",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hdd/h08/386020262445086.jpg",
       "category": "其他"
     },
     {
-      "name": "MIT卡通兒童睡墊枕被組 雙星仙子 花串聚會 藍",
-      "price": "$719",
-      "original_price": "$899",
-      "discount_amount": "$180",
-      "promotion": "商品已折價$180 含運",
-      "url": "https://www.costco.com.tw/Bedding/p/147733",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h00/h96/296816391815198.jpg",
+      "name": "Soft99 超視野鍍膜雨刷精 2.6公升 X 2入",
+      "price": "$249",
+      "original_price": "$299",
+      "discount_amount": "$50",
+      "promotion": "商品已折價$50 含運",
+      "url": "https://www.costco.com.tw/Automotive/p/152963",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h94/h7a/365330239062046.jpg",
       "category": "其他"
     },
     {
-      "name": "Aiden & Ivy 布面雙人電動沙發",
-      "price": "$20,999",
-      "original_price": "$26,999",
-      "discount_amount": "$6,000",
-      "promotion": "商品已折價$6,000 含運",
-      "url": "https://www.costco.com.tw/p/1862169",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h1f/h90/438035502727198.jpg",
-      "category": "其他"
+      "name": "Licensed 男童短袖休閒服四件套組 Tomica",
+      "price": "$395",
+      "original_price": "$495",
+      "discount_amount": "$100",
+      "promotion": "商品已折價$100 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/87235-B",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h3b/h23/329177427968030.jpg",
+      "category": "服飾配件"
     },
     {
       "name": "Igloo 18.9公升 保冷桶",
@@ -45,5 +44,6 @@
       "category": "其他"
     }
   ],
+  "removed": [],
   "price_changes": []
 }
