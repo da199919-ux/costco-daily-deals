@@ -1,60 +1,8 @@
 {
   "date": "2026-08-09",
-  "generated_at": "2026-08-09 10:39",
+  "generated_at": "2026-08-09 15:33",
   "has_previous": true,
   "added": [
-    {
-      "name": "顧可飛 黃金比例金盞花葉黃素+紅藻蝦紅素軟膠囊 130粒",
-      "price": "$789",
-      "original_price": "$989",
-      "discount_amount": "$200",
-      "promotion": "商品已折價 $200 含運",
-      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Marigold-Lutein-with-Algae-Astaxanthin-Veggie-Softgels-130-Count/p/147910",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h99/h04/298414369996830.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "Schiff MegaRed 濃縮純淨藻油 Omega-3 軟膠囊(食品) 50顆",
-      "price": "$1,059",
-      "original_price": "$1,319",
-      "discount_amount": "$260",
-      "promotion": "商品已折價 $260 含運",
-      "url": "https://www.costco.com.tw/c/Schiff-MegaRed-Omega-3-Algae-Oil-50-Softgels/p/142926",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hab/h03/384242530680862.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Backbone Nook desk 兒童成長調節桌 奶油色",
-      "price": "$1,899",
-      "original_price": "$2,399",
-      "discount_amount": "$500",
-      "promotion": "商品已折價$500 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Backbone-Nook-desk-Kids-Adjustable-Desk-Cream/p/152653",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h32/h68/364686848196638.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Zuru X-Shot 全電動高速水槍 2入組 / 8歲以上",
-      "price": "$695",
-      "original_price": "$869",
-      "discount_amount": "$174",
-      "promotion": "商品已折價$174 含運",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Outdoor-Play/Zuru-X-Shot-Motor-Soakers-2-Pack-Set-Ages-8-and-up/p/1851471",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h63/h62/486580374896670.jpg",
-      "category": "日用品／母嬰／玩具"
-    }
-  ],
-  "removed": [
-    {
-      "name": "顧可飛 黃金比例金盞花葉黃素+紅藻蝦紅素軟膠囊 130粒",
-      "price": "$789",
-      "original_price": "$989",
-      "discount_amount": "$200",
-      "promotion": "商品已折價 $200 含運",
-      "url": "https://www.costco.com.tw/p/147910",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h99/h04/298414369996830.jpg",
-      "category": "其他"
-    },
     {
       "name": "3M 兒童安全地墊 32公分 X 18片 多種顏色選擇",
       "price": "$1,060",
@@ -64,37 +12,8 @@
       "url": "https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Bath-Care/3M-Kids-Safety-Puzzle-Mat-32-cm-X-18-Piece-Various-Colors-Available/p/140907",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hc4/h03/173767314374686.jpg",
       "category": "日用品／母嬰／玩具"
-    },
-    {
-      "name": "Schiff MegaRed 濃縮純淨藻油 Omega-3 軟膠囊(食品) 50顆",
-      "price": "$1,059",
-      "original_price": "$1,319",
-      "discount_amount": "$260",
-      "promotion": "商品已折價 $260 含運",
-      "url": "https://www.costco.com.tw/c/p/142926",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hab/h03/384242530680862.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Backbone Nook desk 兒童成長調節桌 奶油色",
-      "price": "$1,899",
-      "original_price": "$2,399",
-      "discount_amount": "$500",
-      "promotion": "商品已折價$500 含運",
-      "url": "https://www.costco.com.tw/p/152653",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h32/h68/364686848196638.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Zuru X-Shot 全電動高速水槍 2入組 / 8歲以上",
-      "price": "$695",
-      "original_price": "$869",
-      "discount_amount": "$174",
-      "promotion": "商品已折價$174 含運",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/p/1851471",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h63/h62/486580374896670.jpg",
-      "category": "日用品／母嬰／玩具"
     }
   ],
+  "removed": [],
   "price_changes": []
 }
