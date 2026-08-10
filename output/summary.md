@@ -1,8 +1,8 @@
 # Costco 每日優惠摘要（2026-08-10）
 
-更新時間：2026-08-10 17:00（台灣時間）
-共整理出 **619** 項官方線上優惠。
-本次共讀取 **644** 個官方商品頁面。
+更新時間：2026-08-10 21:55（台灣時間）
+共整理出 **562** 項官方線上優惠。
+本次共讀取 **587** 個官方商品頁面。
 
 > 價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。
 
@@ -10,13 +10,13 @@
 
 | 分類 | 商品數量 |
 |---|---:|
-| 家具家居 | 197 |
-| 其他 | 117 |
-| 服飾配件 | 117 |
+| 家具家居 | 194 |
+| 服飾配件 | 96 |
+| 其他 | 90 |
 | 食品飲料 | 71 |
-| 家電 3C | 62 |
+| 家電 3C | 59 |
 | 保健美容 | 31 |
-| 日用品／母嬰／玩具 | 24 |
+| 日用品／母嬰／玩具 | 21 |
 
 ## 我的追蹤商品
 
@@ -26,22 +26,40 @@
 
 ## 今日變化
 
-- 新增優惠：**67** 項
-- 本次未收錄：**11** 項（不代表優惠已結束）
-- 價格變動：**2** 項
+- 新增優惠：**13** 項
+- 本次未收錄：**70** 項（不代表優惠已結束）
+- 價格變動：**1** 項
 
 ### 價格變動
 
-- **漲價**：[Adidas 女短襪六入組](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Adidas-Ladies-Ankle-Sock-6-Pack-Set/p/217975) $299 → $379
-- **漲價**：[Le Coq Sportif 男短袖純棉上衣](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Le-Coq-Sportif-Mens-Short-Sleeve-Cotton-Tee/p/240942) $649 → $899
+- **降價**：[GAP 女九分褲](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/GAP-Ladies-Ankle-Trouser/p/1971848) $1,159 → $447
 
 ### 今日新增
 
-- [林聰明 沙鍋菜豆腐煲 800公克 X 3入](https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/Lin-Tsung-Ming-Tofu-Hotpot-Soup-Base-800-g-X-3-Count/p/154468)（$449）
-- [大成 冷凍香辣炸雞柳 1.7公斤](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Dachan-Frozen-Spicy-Fried-Chicken-Breast-Strips-17-kg/p/153997)（$459）
-- [奇美 冷凍港點三重奏 960公克](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Chi-Mei-Frozen-Dim-Sum-Set-960g/p/246436)（$409）
-- [Schiff MegaRed 濃縮純淨藻油 Omega-3 軟膠囊(食品) 50顆](https://www.costco.com.tw/c/Schiff-MegaRed-Omega-3-Algae-Oil-50-Softgels/p/142926)（$1,059）
+- [Nu-Pure 泉水 250毫升 X 40瓶](https://www.costco.com.tw/Food-Dining/Drinks/p/1498699)（$275）
+- [Schiff MegaRed 濃縮純淨藻油 Omega-3 軟膠囊(食品) 50顆](https://www.costco.com.tw/c/p/142926)（$1,059）
+- [Feit 7.5W LED 燈泡 5入](https://www.costco.com.tw/p/142186)（$319）
+- [Titan 保冰袋摺疊推車](https://www.costco.com.tw/p/2622035)（$1,239）
+- [TCL 333公升 變頻雙門冰箱 P333TM](https://www.costco.com.tw/Large-Appliances/p/149470)（$14,099）
+- [創維 43吋 4K QLED 聯網液晶顯示器 43Q6600H 3入組](https://www.costco.com.tw/Televisions-TV-Accessories/p/159618)（$19,199）
+- [True Innovations 電競椅 黑白](https://www.costco.com.tw/p/1752583)（$3,199）
+- [科克蘭 冷壓初榨椰子油 2.48公升](https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/p/1076366)（$529）
+- [飛利浦 抗敏除甲醛空氣清淨機 AC0917](https://www.costco.com.tw/Cooling-Heating-Air-Treatment/Air-Purifiers-Filters-Accessories/p/148769)（$7,999）
+- [Panasonic 碳鋅2號電池 24入組](https://www.costco.com.tw/p/152790)（$397）
+- [Ito-En 伊藤園 綠茶 530毫升 X 24瓶 X 50箱](https://www.costco.com.tw/Water-Beverages/p/198270)（$18,400）
+- [Fanttik X200 Mix 無線四合一手持真空吸塵器](https://www.costco.com.tw/Automotive/p/1825869)（$1,339）
+- [小鹿山丘草本防蚊彈力凍-尤加利精油](https://www.costco.com.tw/p/154861)（$559）
+
+### 本次未收錄（不代表優惠已結束）
+
+- [Feit 7.5W LED 燈泡 5入](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/Feit-75W-LED-Light-Bulb-5-Count/p/142186)（$319）
+- [TCL 333公升 變頻雙門冰箱 P333TM](https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Fridges-Freezers/Overall-Capacity-200-350-L/TCL-333-L-Double-Door-Inverter-Fridge-P333TM/p/149470)（$14,099）
+- [創維 43吋 4K QLED 聯網液晶顯示器 43Q6600H 3入組](https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/30-49-TVs/Skyworth-43-inch-4K-QLED-Smart-Monitor-43Q6600H-3-Pack-Set/p/159618)（$19,199）
+- [True Innovations 電競椅 黑白](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/True-Innovations-Gaming-Chair-Black-White/p/1752583)（$3,199）
 - [科克蘭 冷壓初榨椰子油 2.48公升](https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Kirkland-Signature-Virgin-Coconut-Oil-248-L/p/1076366)（$529）
+- [飛利浦 抗敏除甲醛空氣清淨機 AC0917](https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Air-Purifiers-Filters-Accessories/Philips-Air-Purifier-AC0917/p/148769)（$7,999）
+- [Panasonic 碳鋅2號電池 24入組](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/Panasonic-Carbon-Zinc-C-Size-Battery-24-Pack/p/152790)（$397）
+- [Ito-En 伊藤園 綠茶 530毫升 X 24瓶 X 50箱](https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Water-Beverages/Ito-En-Green-Tea-530-ml-X-24-Count-X-50-Case/p/198270)（$18,400）
 - [科克蘭 男皮瑪棉短袖Polo衫](https://www.costco.com.tw/Clothing-Accessories/p/7771540)（$499）
 - [五月花 三層抽取式廚房紙巾 80抽 X 24入](https://www.costco.com.tw/Household-Baby-Toys/p/239289)（$739）
 - [Wells Lamont 乳膠工作手套 10雙](https://www.costco.com.tw/p/1600320)（$319）
@@ -104,19 +122,5 @@
 - [Anda Seat 皮革電競椅 粉](https://www.costco.com.tw/p/153101)（$7,499）
 - [Anda Seat 皮革電競椅 藍](https://www.costco.com.tw/p/153100)（$7,499）
 - [Aiden & Ivy 布面可移動式沙發附腳凳 米](https://www.costco.com.tw/p/152331)（$18,399）
-
-### 本次未收錄（不代表優惠已結束）
-
-- [林聰明 沙鍋菜豆腐煲 800公克 X 3入](https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/p/154468)（$449）
-- [大成 冷凍香辣炸雞柳 1.7公斤](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/p/153997)（$459）
-- [奇美 冷凍港點三重奏 960公克](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/p/246436)（$409）
-- [INFINITY X1 2000 流明露營燈](https://www.costco.com.tw/p/1872247)（$849）
-- [Schiff MegaRed 濃縮純淨藻油 Omega-3 軟膠囊(食品) 50顆](https://www.costco.com.tw/c/p/142926)（$1,059）
-- [歐樂B 微震科技充電式電動牙刷 單握柄+6刷頭 iO PRO](https://www.costco.com.tw/Electric-Toothbrushes-Water-Flossers/p/159964)（$3,099）
-- [Gorilla 多功能組合置物架](https://www.costco.com.tw/p/1600205)（$2,999）
-- [科克蘭 冷壓初榨椰子油 2.48公升](https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/p/1076366)（$529）
-- [True Innovations 3D Insight電競椅含可調式頭枕](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/True-Innovations-3D-Insight-Gaming-Chair-with-Adjustable-Headrest/p/1518239)（$3,439）
-- [True Innovations 電競椅 黑藍](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/True-Innovations-Gaming-Chair-Black-Blue/p/1752582)（$3,199）
-- [Venus Diced 水蜜桃杯 113公克 X 20入](https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/Venus-Diced-Peach-Cup-113-g-X-20-Count/p/1336195)（$297）
 
 完整清單請查看專案中的 `output/latest.md`。
