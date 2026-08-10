@@ -1,500 +1,8 @@
 {
   "date": "2026-08-10",
-  "generated_at": "2026-08-10 13:05",
+  "generated_at": "2026-08-10 17:00",
   "has_previous": true,
   "added": [
-    {
-      "name": "林聰明 沙鍋菜豆腐煲 800公克 X 3入",
-      "price": "$449",
-      "original_price": "$559",
-      "discount_amount": "$110",
-      "promotion": "商品已折價$110 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/p/154468",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h04/h7c/380783679701022.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "大成 冷凍香辣炸雞柳 1.7公斤",
-      "price": "$459",
-      "original_price": "$559",
-      "discount_amount": "$100",
-      "promotion": "商品已折價 $100 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/p/153997",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h29/368495310110750.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "奇美 冷凍港點三重奏 960公克",
-      "price": "$409",
-      "original_price": "$499",
-      "discount_amount": "$90",
-      "promotion": "商品已折價 $90 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/p/246436",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha4/h2a/399197037658142.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Nu-Pure 氣泡水 500毫升 X 30瓶",
-      "price": "$349",
-      "original_price": "$419",
-      "discount_amount": "$70",
-      "promotion": "商品已折價$70 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Water-Sparkling-Water/Nu-Pure-Sparkling-Water-500-ml-X-30-Count/p/1498677",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hac/h0c/240878245445662.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "INFINITY X1 2000 流明露營燈",
-      "price": "$849",
-      "original_price": "$1,099",
-      "discount_amount": "$250",
-      "promotion": "商品已折價$250 含運",
-      "url": "https://www.costco.com.tw/p/1872247",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb4/h59/438876268855326.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "蘭諾 衣物抗黃抗菌芳香豆 柑橘香 1900毫升",
-      "price": "$495",
-      "original_price": "$615",
-      "discount_amount": "$120",
-      "promotion": "商品已折價$120 含運",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Laundry-Care/Lenor-Yellow-Blocking-Scent-Booster-1900-ml/p/150978",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hbb/hed/344500437811230.jpg",
-      "category": "日用品／母嬰／玩具"
-    },
-    {
-      "name": "Schiff MegaRed 濃縮純淨藻油 Omega-3 軟膠囊(食品) 50顆",
-      "price": "$1,059",
-      "original_price": "$1,319",
-      "discount_amount": "$260",
-      "promotion": "商品已折價 $260 含運",
-      "url": "https://www.costco.com.tw/c/p/142926",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hab/h03/384242530680862.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "歐樂B 微震科技充電式電動牙刷 單握柄+6刷頭 iO PRO",
-      "price": "$3,099",
-      "original_price": "$3,999",
-      "discount_amount": "$900",
-      "promotion": "商品已折價$900 含運",
-      "url": "https://www.costco.com.tw/Electric-Toothbrushes-Water-Flossers/p/159964",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h29/hed/466199060316190.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "五月花 三層抽取式廚房紙巾 80抽 X 24入",
-      "price": "$739",
-      "original_price": "$929",
-      "discount_amount": "$190",
-      "promotion": "商品已折價$190 含運",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Mayflower-3-Ply-Interfold-Kitchen-Towel-80-Sheet-X-24-Count/p/239289",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hdc/h50/151758801895454.jpg",
-      "category": "日用品／母嬰／玩具"
-    },
-    {
-      "name": "DeWALT 40公分 風扇",
-      "price": "$2,399",
-      "original_price": "$2,999",
-      "discount_amount": "$600",
-      "promotion": "商品已折價$600 含運",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/DeWALT-40-cm-Drum-Fan/p/9631000",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h80/h1d/348867518464030.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "Gorilla 多功能組合置物架",
-      "price": "$2,999",
-      "original_price": "$3,499",
-      "discount_amount": "$500",
-      "promotion": "商品已折價$500 含運",
-      "url": "https://www.costco.com.tw/p/1600205",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h40/h06/245391148220446.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "金博家 貓山王海鹽榴槤冰淇淋 473毫升 X 2入",
-      "price": "$589",
-      "original_price": "$729",
-      "discount_amount": "$140",
-      "promotion": "商品已折價$140 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Desserts-Ice-Cream/Jinbo-Musang-King-Sea-Salt-Durian-Ice-Cream-473-ml-X-2-Count/p/144661",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hbb/h03/221227230199838.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "福樂 PRO雙效蛋白飲(水果) 250毫升 X 24入",
-      "price": "$689",
-      "original_price": "$865",
-      "discount_amount": "$176",
-      "promotion": "商品已折價$176 含運",
-      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Sports-Performance/FreshDelight-PRO-Milk-Whey-Protein-Shake-Fruit-Flavor-250-ml-X-24-Count/p/157013",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/haa/hc6/413421385121822.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "美珍香 休閒雞肉乾 400公克",
-      "price": "$459",
-      "original_price": "$569",
-      "discount_amount": "$110",
-      "promotion": "商品已折價$110 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Bee-Cheng-Hiang-Mini-EZ-Chicken-400-g/p/143002",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd1/hdf/202920794882078.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Disney 造型四格置物櫃",
-      "price": "$1,999",
-      "original_price": "$2,499",
-      "discount_amount": "$500",
-      "promotion": "商品已折價$500 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Disney-4-Shelf-Organizer/p/175718",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hfa/hb4/413421512359966.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "CASA 單人天然乳膠Q彈床墊 91公分 X 190公分 X 7.5公分",
-      "price": "$3,509",
-      "original_price": "$4,389",
-      "discount_amount": "$880",
-      "promotion": "商品已折價$880 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/CASA-Natural-Latex-Mattress-Topper-91-cm-X-190-cm-X-75-cm/p/127337",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h0e/h8e/30628867145758.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "SODE 成人泳鏡 3入組",
-      "price": "$359",
-      "original_price": "$459",
-      "discount_amount": "$100",
-      "promotion": "商品已折價$100 含運",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Water-Sports/SODE-Adult-Goggles-3-Pack-Set/p/8524759",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/he2/h81/455116980191262.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "丹普 時尚枕 50公分 X 31公分 X 5-10公分",
-      "price": "$2,479",
-      "original_price": "$3,099",
-      "discount_amount": "$620",
-      "promotion": "商品已折價$620 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Tempur-One-Pillow-50-cm-X-31-cm-X-5-10-cm/p/159991",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hc3/hac/448868480417822.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Razestore 360度旋轉手機平板支架組",
-      "price": "$449",
-      "original_price": "$549",
-      "discount_amount": "$100",
-      "promotion": "商品已折價$100 含運",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Mobile-Tablets/Mobile-Tablets-Accessories/Razestore-360-Degree-Rotation-Phone-Pad-Stand-Combo/p/8516799",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h9f/hae/192681033990174.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "ALLIE 持采UV高效防曬水凝乳EX 90公克 X 3入",
-      "price": "$1,265",
-      "original_price": "$1,615",
-      "discount_amount": "$350",
-      "promotion": "商品已折價$350 含運",
-      "url": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/ALLIE-Chrono-Beauty-Gel-UV-EX-90-g-X-3-Piece/p/138849",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf6/h3a/137143937105950.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "CASA 單人3.5呎天然乳膠Q彈床墊 107公分 X 190公分 X 7.5公分",
-      "price": "$4,159",
-      "original_price": "$5,199",
-      "discount_amount": "$1,040",
-      "promotion": "商品已折價$1,040 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/CASA-Natural-Latex-Mattress-Topper-35-inch-107-cm-X-190-cm-X-75-cm/p/127338",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hfe/h8a/30628868522014.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Purely Indulgent 印度純棉浴巾 76公分 X 147公分 灰色",
-      "price": "$199",
-      "original_price": "$259",
-      "discount_amount": "$60",
-      "promotion": "商品已折價$60 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Towels/Purely-Indulgent-100-Hygro-Cotton-Bath-Towel-76-cm-X-147-cm-Grey/p/1855703",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h65/h95/351316526137374.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Purely Indulgent 印度純棉浴巾 76公分 X 147公分 藍色",
-      "price": "$199",
-      "original_price": "$259",
-      "discount_amount": "$60",
-      "promotion": "商品已折價$60 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Towels/Purely-Indulgent-100-Hygro-Cotton-Bath-Towel-76-cm-X-147-cm-Blue/p/1851161",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hc3/h26/351316167229470.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "CASA 雙人天然乳膠Q彈床墊 152公分 X 190公分 X 7.5公分",
-      "price": "$5,599",
-      "original_price": "$6,999",
-      "discount_amount": "$1,400",
-      "promotion": "商品已折價$1,400 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/CASA-Natural-Latex-Mattress-Topper-152-cm-X-190-cm-X-75-cm/p/127339",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hdb/h76/30628868980766.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Tommy Hilfiger 女無鋼圈內衣 2入組 S",
-      "price": "$629",
-      "original_price": "$779",
-      "discount_amount": "$150",
-      "promotion": "商品已折價$150 含運",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Tommy-Hilfiger-Ladies-Seamless-Bra-2-Pack-Set-S/p/1987631",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h04/h2c/472591896543262.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Aiden & Ivy 布面可移動式沙發附腳凳 綠",
-      "price": "$18,399",
-      "original_price": "$22,999",
-      "discount_amount": "$4,600",
-      "promotion": "商品已折價$4,600 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Aiden-Ivy-Fabric-Sofa-and-Ottoman-Green/p/152332",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h32/h14/361386678648862.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Yakult 消化蔬果粉 8.2公克 X 60包",
-      "price": "$904",
-      "original_price": "$1,129",
-      "discount_amount": "$225",
-      "promotion": "商品已折價 $225 含運",
-      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Yakult-Vegetables-Fruits-Smoothie-82-g-X-60-Sachet/p/567877",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h12/h2f/364290099216414.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "小鹿山丘 有機精油長效雙效抗菌防蚊組 120公克 X 2入 + 20公克 X 2入",
-      "price": "$639",
-      "original_price": "$799",
-      "discount_amount": "$160",
-      "promotion": "商品已折價$160 含運",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Pest-Control/Deer-Hills-Long-Lasting-Mosquito-Repellent-Antibacterial-Dual-Effect-Spray-120-g-X-2-Pack-20-g-X-2-Pack/p/156954",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h06/h1d/433249381777438.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "施華蔻 GLISS 4效咖啡因護髮膜 400毫升 X 2入",
-      "price": "$499",
-      "original_price": "$629",
-      "discount_amount": "$130",
-      "promotion": "商品已折價$130 含運",
-      "url": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Shampoo-Conditioner/Schwarzkopf-GLISS-4-IN-1-Bond-Building-Hair-Mask-400-ml-X-2-Count/p/153318",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf7/h01/398741418868766.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "Purely Indulgent 印度純棉浴巾 76公分 X 147公分 卡其色",
-      "price": "$199",
-      "original_price": "$259",
-      "discount_amount": "$60",
-      "promotion": "商品已折價$60 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Towels/Purely-Indulgent-100-Hygro-Cotton-Bath-Towel-76-cm-X-147-cm-Tan/p/1851162",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hc5/hfa/351316164214814.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "CASA 雙人加大天然乳膠Q彈床墊 183公分 X 190公分 X 7.5公分",
-      "price": "$6,799",
-      "original_price": "$8,499",
-      "discount_amount": "$1,700",
-      "promotion": "商品已折價$1,700 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/CASA-Natural-Latex-Mattress-Topper-183-cm-X-190-cm-X-75-cm/p/127340",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha9/h28/30628870946846.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Mizuno 兩層高爾夫球 24入 RB566",
-      "price": "$749",
-      "original_price": "$939",
-      "discount_amount": "$190",
-      "promotion": "商品已折價$190 含運",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Team-Sports/Mizuno-2-Piece-Golf-Ball-24-Count-RB566/p/151178",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h66/h77/420739463512094.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Tommy Hilfiger 女無鋼圈內衣 2入組 L",
-      "price": "$629",
-      "original_price": "$779",
-      "discount_amount": "$150",
-      "promotion": "商品已折價$150 含運",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Tommy-Hilfiger-Ladies-Seamless-Bra-2-Pack-Set-L/p/1987633",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7c/h71/472591910240286.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Tommy Hilfiger 女無鋼圈內衣 2入組 M",
-      "price": "$629",
-      "original_price": "$779",
-      "discount_amount": "$150",
-      "promotion": "商品已折價$150 含運",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Tommy-Hilfiger-Ladies-Seamless-Bra-2-Pack-Set-M/p/1987632",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h6a/h71/472591903817758.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "舒適牌 Hydro 水次元5辨型刮鬍刀組 刀架 X 1 + 刀片 X 11",
-      "price": "$759",
-      "original_price": "$949",
-      "discount_amount": "$190",
-      "promotion": "商品已折價$190 含運",
-      "url": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Facial-Cleansers-Hand-Washes/Schick-Hydro-5-Custom-Shaving-Set-Razor-X-1-Pack-Cartridge-X-11-Pack/p/313984",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hc2/h5e/379898438615070.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "Tommy Hilfiger 女無鋼圈內衣 2入組 XL",
-      "price": "$629",
-      "original_price": "$779",
-      "discount_amount": "$150",
-      "promotion": "商品已折價$150 含運",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Tommy-Hilfiger-Ladies-Seamless-Bra-2-Pack-Set-XL/p/1987634",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7f/h92/472591917154334.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Aiden & Ivy 布面可移動式沙發附腳凳 灰",
-      "price": "$18,399",
-      "original_price": "$22,999",
-      "discount_amount": "$4,600",
-      "promotion": "商品已折價$4,600 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Aiden-Ivy-Fabric-Sofa-and-Ottoman-Grey/p/152330",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h17/h1a/361386673012766.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Mizuno Rb Max 高爾夫三層球 24顆",
-      "price": "$1,159",
-      "original_price": "$1,449",
-      "discount_amount": "$290",
-      "promotion": "商品已折價$290 含運",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Team-Sports/Mizuno-Rb-Max-3-Piece-Golf-Ball-24-Count/p/151179",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/haa/h9c/414650589413406.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Mobi Garden 自動天幕",
-      "price": "$1,599",
-      "original_price": "$2,139",
-      "discount_amount": "$540",
-      "promotion": "商品已折價$540 含運",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Tents-Camping-Gear/Mobi-Garden-Auto-Trap/p/8523372",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h98/h65/378823413235742.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Wenger Sidebar 16吋 多功能電腦後背包",
-      "price": "$1,049",
-      "original_price": "$1,349",
-      "discount_amount": "$300",
-      "promotion": "商品已折價$300 含運",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Luggage-Backpacks/Totes-Backpacks/Wenger-Sidebar-16-inch-Laptop-Backpack/p/160724",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h99/hb7/466199077912606.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Shark EVOPOWER 手持吸塵器 WV210",
-      "price": "$2,299",
-      "original_price": "$2,799",
-      "discount_amount": "$500",
-      "promotion": "商品已折價$500 含運",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Vacuums-Floor-Care/Shark-EVOPOWER-Handheld-Vacuum-WV210/p/157140",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h5c/h4f/436453378719774.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "Trinity 72 吋滑輪不鏽鋼工作檯",
-      "price": "$17,359",
-      "original_price": "$21,699",
-      "discount_amount": "$4,340",
-      "promotion": "商品已折價$4,340 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Tools-Storage/Trinity-72-inch-Stainless-Steel-Rolling-Workbench/p/1900526",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hdd/ha4/10330780958750.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "KidKraft Sunny Bluff 遊戲屋",
-      "price": "$10,989",
-      "original_price": "$14,999",
-      "discount_amount": "$4,010",
-      "promotion": "商品已折價$4,010 含運",
-      "url": "https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/KidKraft-Sunny-Bluff-Playhouse/p/1872206",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf7/h1f/471660421840926.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Freetown MIPS 成人自行車安全頭盔",
-      "price": "$999",
-      "original_price": "$1,279",
-      "discount_amount": "$280",
-      "promotion": "商品已折價$280 含運",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Bikes/Freetown-MIPS-Adult-Bike-Helmet/p/1654516",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha1/ha1/193320251097118.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Gallery Blackhall 牛皮休閒躺椅",
-      "price": "$6,999",
-      "original_price": "$8,999",
-      "discount_amount": "$2,000",
-      "promotion": "商品已折價$2,000 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Gallery-Blackhall-Leather-Lounge-Chair/p/157498",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf6/h90/418530690990110.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Aiden & Ivy 布面可移動式沙發附腳凳 米",
-      "price": "$18,399",
-      "original_price": "$22,999",
-      "discount_amount": "$4,600",
-      "promotion": "商品已折價$4,600 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Aiden-Ivy-Fabric-Sofa-and-Ottoman-Beige/p/152331",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha0/h9a/361957960319006.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "科克蘭 冷壓初榨椰子油 2.48公升",
-      "price": "$529",
-      "original_price": "$599",
-      "discount_amount": "$70",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/p/1076366",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hea/h60/11171010084894.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "INFINITY X1 2000 流明露營燈",
-      "price": "$849",
-      "original_price": "$1,099",
-      "discount_amount": "$250",
-      "promotion": "商品已折價$250 含運",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Tents-Camping-Gear/INFINITY-X1-2000-Lumen-Camp-Light/p/1872247",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb4/h59/438876268855326.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Gorilla 多功能組合置物架",
-      "price": "$2,999",
-      "original_price": "$3,499",
-      "discount_amount": "$500",
-      "promotion": "商品已折價$500 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Gorilla-5-Tier-Step-Beam-Shelving-Rack/p/1600205",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h40/h06/245391148220446.jpg",
-      "category": "家具家居"
-    }
-  ],
-  "removed": [
     {
       "name": "林聰明 沙鍋菜豆腐煲 800公克 X 3入",
       "price": "$449",
@@ -526,16 +34,6 @@
       "category": "食品飲料"
     },
     {
-      "name": "科克蘭 無調味烘烤開心果 1.36公斤",
-      "price": "$659",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Kirkland-Signature-Unsalted-In-Shell-Pistachios-136-kg/p/1792518",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hea/h86/422091033903134.jpg",
-      "category": "食品飲料"
-    },
-    {
       "name": "Schiff MegaRed 濃縮純淨藻油 Omega-3 軟膠囊(食品) 50顆",
       "price": "$1,059",
       "original_price": "$1,319",
@@ -556,25 +54,759 @@
       "category": "食品飲料"
     },
     {
-      "name": "金博家 正宗四川担担麵 145公克 X 10入",
-      "price": "$389",
+      "name": "科克蘭 男皮瑪棉短袖Polo衫",
+      "price": "$499",
+      "original_price": "$629",
+      "discount_amount": "$130",
+      "promotion": "商品已折價$130 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/7771540",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h46/h70/471216564142110.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "五月花 三層抽取式廚房紙巾 80抽 X 24入",
+      "price": "$739",
+      "original_price": "$929",
+      "discount_amount": "$190",
+      "promotion": "商品已折價$190 含運",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/239289",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hdc/h50/151758801895454.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "Wells Lamont 乳膠工作手套 10雙",
+      "price": "$319",
+      "original_price": "$399",
+      "discount_amount": "$80",
+      "promotion": "商品已折價$80 含運",
+      "url": "https://www.costco.com.tw/p/1600320",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h6d/h3e/67709016604702.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Mizuno 男V領短袖上衣 2入組",
+      "price": "$439",
+      "original_price": "$549",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/117880",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h73/h2d/470130270928926.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "GAP 男彈性舒適休閒短褲",
+      "price": "$375",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/1983365",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h26/h90/472952482267166.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "勳風 15瓦 電擊式高效捕蚊燈",
+      "price": "$679",
+      "original_price": "$849",
+      "discount_amount": "$170",
+      "promotion": "商品已折價$170 含運",
+      "url": "https://www.costco.com.tw/p/144474",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfd/h69/221227224629278.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Caliphil 單人素色床包 3件組 105公分 X 186公分 X 25公分",
+      "price": "$799",
+      "original_price": "$999",
+      "discount_amount": "$200",
+      "promotion": "商品已折價$200 含運",
+      "url": "https://www.costco.com.tw/Bedding/p/108446-B",
+      "image": "https://www.costco.com.tw/medias/sys_master/products/hd4/hc1/8824222416926.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "陶瓷花盆 2件組 附竹製盆架",
+      "price": "$569",
+      "original_price": "$969",
+      "discount_amount": "$400",
+      "promotion": "商品已折價$400 含運",
+      "url": "https://www.costco.com.tw/p/1934304",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h51/h1a/436453748736030.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "幻知曲 涼感舒眠枕 66公分 X 38公分 X 11公分",
+      "price": "$785",
+      "original_price": "$985",
+      "discount_amount": "$200",
+      "promotion": "商品已折價$200 含運",
+      "url": "https://www.costco.com.tw/Bedding/p/156890",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha6/h87/418530686533662.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Disney 玩具總動員5 拼圖 X 20入 / 3歲以上",
+      "price": "$569",
+      "original_price": "$729",
+      "discount_amount": "$160",
+      "promotion": "商品已折價$160 含運",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/p/8526947",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h17/h29/466559018631198.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "Tailor Vintage 男長褲",
+      "price": "$449",
+      "original_price": "$649",
+      "discount_amount": "$200",
+      "promotion": "商品已折價$200 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/1956433",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h48/h0c/438876310011934.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Licensed 女童短袖休閒服四件套組 酷洛米",
+      "price": "$395",
+      "original_price": "$495",
+      "discount_amount": "$100",
+      "promotion": "商品已折價$100 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/87241-B",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he8/h3d/329177432096798.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Zuru X-Shot 全電動高速水槍 2入組 / 8歲以上",
+      "price": "$695",
+      "original_price": "$869",
+      "discount_amount": "$174",
+      "promotion": "商品已折價$174 含運",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/p/1851471",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h63/h62/486580374896670.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "3M 新絲舒眠單人涼透被 150公分 X 180公分",
+      "price": "$1,999",
+      "original_price": "$2,499",
+      "discount_amount": "$500",
+      "promotion": "商品已折價$500 含運",
+      "url": "https://www.costco.com.tw/Bedding/p/111136",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h68/h5c/115072906657822.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Oh Sunny 女戶外休閒雙面遮陽帽",
+      "price": "$489",
+      "original_price": "$639",
+      "discount_amount": "$150",
+      "promotion": "商品已折價$150 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/8522876",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc5/hbf/437687805116446.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Tommy Hilfiger 女踝襪 5入組",
+      "price": "$469",
+      "original_price": "$589",
+      "discount_amount": "$120",
+      "promotion": "商品已折價$120 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/157487",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h24/h90/454769474109470.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Boutique Living 400織萊賽爾床包 6件組 雙人尺寸",
+      "price": "$1,759",
+      "original_price": "$2,199",
+      "discount_amount": "$440",
+      "promotion": "商品已折價$440 含運",
+      "url": "https://www.costco.com.tw/Bedding/p/150460",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf2/h8f/471660175163422.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Pekkle 兒童短褲四件組",
+      "price": "$399",
+      "original_price": "$549",
+      "discount_amount": "$150",
+      "promotion": "商品已折價$150 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/1664092",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h46/hb0/455933985325086.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Le Coq Sportif 男短袖純棉上衣",
+      "price": "$899",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/240942",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha7/hc8/455934093852702.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "幻知曲 親水舒眠枕 62公分 X 40公分 X 12公分",
+      "price": "$789",
+      "original_price": "$999",
+      "discount_amount": "$210",
+      "promotion": "商品已折價$210 含運",
+      "url": "https://www.costco.com.tw/Bedding/p/143754",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hd6/h06/223676583444510.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "崖上的波妞 全彩故事書",
+      "price": "$299",
+      "original_price": "$349",
+      "discount_amount": "$50",
+      "promotion": "商品已折價$50 含運",
+      "url": "https://www.costco.com.tw/Office-School/p/74203",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h44/hce/67200564133918.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "SOUP 韓版女丹寧短褲",
+      "price": "$519",
+      "original_price": "$649",
+      "discount_amount": "$130",
+      "promotion": "商品已折價$130 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/1956392",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h36/hb6/454001923391518.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Pekkle 兒童圓領短袖上衣四件組",
+      "price": "$399",
+      "original_price": "$549",
+      "discount_amount": "$150",
+      "promotion": "商品已折價$150 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/1664090",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h99/hd3/455933969891358.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "魔女宅急便故事書",
+      "price": "$289",
+      "original_price": "$329",
+      "discount_amount": "$40",
+      "promotion": "商品已折價$40 含運",
+      "url": "https://www.costco.com.tw/Office-School/p/79880",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h05/ha6/67200564756510.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "RVCA 男Logo短袖運動上衣",
+      "price": "$349",
+      "original_price": "$439",
+      "discount_amount": "$90",
+      "promotion": "商品已折價$90 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/1989741",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf7/h85/470130563743774.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Adidas 兒童休閒鞋",
+      "price": "$659",
+      "original_price": "$859",
+      "discount_amount": "$200",
+      "promotion": "商品已折價$200 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/1864508",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfd/h75/454001908776990.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "新視紀 矯正鏡片(未滅菌) 200度 COLE",
+      "price": "$479",
+      "original_price": "$589",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/146772",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc8/hd1/378822008963102.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "新視紀 矯正鏡片(未滅菌) 175度 DAX",
+      "price": "$479",
+      "original_price": "$589",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/146757",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h43/hff/378821913477150.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "新視紀 矯正鏡片(未滅菌) 150度 DAX",
+      "price": "$479",
+      "original_price": "$589",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/146756",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h92/h36/378821913247774.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "新視紀 矯正鏡片(未滅菌) 275度 LIAM 抗藍光",
+      "price": "$479",
+      "original_price": "$589",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/146754",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hde/h4e/378821908234270.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Don Home 300織萊賽爾雙人加大兩用被套六件組 182公分 X 190公分",
+      "price": "$2,335",
+      "original_price": "$2,925",
+      "discount_amount": "$590",
+      "promotion": "商品已折價$590 含運",
+      "url": "https://www.costco.com.tw/Bedding/p/125787",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h26/he2/378822836486174.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "FIJI 天然深層礦泉水 330毫升 X 24瓶 X 78入",
+      "price": "$45,919",
+      "original_price": "$57,399",
+      "discount_amount": "$11,480",
+      "promotion": "商品已折價$11,480 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/p/1209255",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf2/hdf/241737431777310.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Mobi Garden 自動天幕",
+      "price": "$1,599",
+      "original_price": "$2,139",
+      "discount_amount": "$540",
+      "promotion": "商品已折價$540 含運",
+      "url": "https://www.costco.com.tw/p/8523372",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h98/h65/378823413235742.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Finlandia Cypress 儲物櫃 180公分",
+      "price": "$15,999",
+      "original_price": "$20,999",
+      "discount_amount": "$5,000",
+      "promotion": "商品已折價$5,000 含運",
+      "url": "https://www.costco.com.tw/p/672533",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h6c/h4a/361110715662366.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "STAG Pacifica 戶外乒乓球桌",
+      "price": "$12,399",
+      "original_price": "$15,599",
+      "discount_amount": "$3,200",
+      "promotion": "商品已折價$3,200 含運",
+      "url": "https://www.costco.com.tw/p/2622001",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hdf/hb5/454002089590814.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Igloo 18.9公升 保冷桶",
+      "price": "$1,359",
+      "original_price": "$1,759",
+      "discount_amount": "$400",
+      "promotion": "商品已折價$400 含運",
+      "url": "https://www.costco.com.tw/p/1872201",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hca/h9f/454001921064990.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Aiden & Ivy 布面雙人電動沙發",
+      "price": "$20,999",
+      "original_price": "$26,999",
+      "discount_amount": "$6,000",
+      "promotion": "商品已折價$6,000 含運",
+      "url": "https://www.costco.com.tw/p/1862169",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h1f/h90/438035502727198.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Caliphil 高織密防螨雙人加大床包兩用被四件組 183公分 X 190公分 白",
+      "price": "$4,319",
+      "original_price": "$5,399",
+      "discount_amount": "$1,080",
+      "promotion": "商品已折價$1,080 含運",
+      "url": "https://www.costco.com.tw/Bedding/p/159668",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h72/h0a/450418192810014.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Bentley Designs Martini 餐桌椅 5件組 皮面餐椅",
+      "price": "$7,999",
+      "original_price": "$9,999",
+      "discount_amount": "$2,000",
+      "promotion": "商品已折價$2,000 含運",
+      "url": "https://www.costco.com.tw/p/159592",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h94/h79/466558577410078.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Bentley Designs Kristen 電視櫃",
+      "price": "$10,299",
+      "original_price": "$12,899",
+      "discount_amount": "$2,600",
+      "promotion": "商品已折價$2,600 含運",
+      "url": "https://www.costco.com.tw/p/159441",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h18/h9c/437687199924254.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Bentley Designs Vega 布面吧檯椅",
+      "price": "$3,599",
+      "original_price": "$4,599",
+      "discount_amount": "$1,000",
+      "promotion": "商品已折價$1,000 含運",
+      "url": "https://www.costco.com.tw/p/159439",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h7b/had/437687091658782.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Anda Seat 皮革電競椅 栗色",
+      "price": "$7,499",
+      "original_price": "$9,499",
+      "discount_amount": "$2,000",
+      "promotion": "商品已折價$2,000 含運",
+      "url": "https://www.costco.com.tw/p/153097",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h09/hd4/367883393859614.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Duaning 全牛皮雙人座沙發 灰",
+      "price": "$49,999",
+      "original_price": "$63,999",
+      "discount_amount": "$14,000",
+      "promotion": "商品已折價$14,000 含運",
+      "url": "https://www.costco.com.tw/p/152907",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hdf/h3b/364686851866654.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Aiden & Ivy 牛皮電動L型沙發 右",
+      "price": "$38,999",
+      "original_price": "$47,999",
+      "discount_amount": "$9,000",
+      "promotion": "商品已折價$9,000 含運",
+      "url": "https://www.costco.com.tw/p/152325",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb4/h9d/361957918965790.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "新視紀 矯正鏡片(未滅菌) 275度 COLE",
+      "price": "$479",
+      "original_price": "$589",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/146774",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hce/h9e/378822010306590.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "新視紀 矯正鏡片(未滅菌) 250度 DAX",
+      "price": "$479",
+      "original_price": "$589",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/146759",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4f/h37/378821918687262.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "新視紀 矯正鏡片(未滅菌) 200度 DAX",
+      "price": "$479",
+      "original_price": "$589",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/146758",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h20/h8e/378821917311006.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "新視紀 矯正鏡片(未滅菌) 175度 KYNE",
+      "price": "$479",
+      "original_price": "$589",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/146745",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h92/he6/378821893357598.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Don Home 萊賽爾雙人加大兩用被套六件組 182公分 X 190公分 賽洛",
+      "price": "$2,399",
+      "original_price": "$2,999",
+      "discount_amount": "$600",
+      "promotion": "商品已折價$600 含運",
+      "url": "https://www.costco.com.tw/Bedding/p/144734",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc2/haf/227296421478430.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Caliphil 雲朵雙人加大床包兩用被四件組 183公分 X 190公分 特佩克堡",
+      "price": "$1,739",
+      "original_price": "$2,179",
+      "discount_amount": "$440",
+      "promotion": "商品已折價$440 含運",
+      "url": "https://www.costco.com.tw/Bedding/p/259157",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha7/h0b/437687724605470.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Trinity 72 吋滑輪不鏽鋼工作檯",
+      "price": "$17,359",
+      "original_price": "$21,699",
+      "discount_amount": "$4,340",
+      "promotion": "商品已折價$4,340 含運",
+      "url": "https://www.costco.com.tw/p/1900526",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hdd/ha4/10330780958750.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "AGIO Stinsley 戶外休閒沙發四件組",
+      "price": "$33,199",
+      "original_price": "$41,499",
+      "discount_amount": "$8,300",
+      "promotion": "商品已折價$8,300 含運",
+      "url": "https://www.costco.com.tw/Patio-Furniture/p/1807201",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h03/ha8/436453558747166.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Freetown MIPS 成人自行車安全頭盔",
+      "price": "$999",
+      "original_price": "$1,279",
+      "discount_amount": "$280",
+      "promotion": "商品已折價$280 含運",
+      "url": "https://www.costco.com.tw/p/1654516",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha1/ha1/193320251097118.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Bentley Designs Sienna 三層抽屜櫃",
+      "price": "$11,999",
+      "original_price": "$14,999",
+      "discount_amount": "$3,000",
+      "promotion": "商品已折價$3,000 含運",
+      "url": "https://www.costco.com.tw/p/159451",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h02/h69/437687222927390.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Bentley Designs Sienna 雙門衣櫃",
+      "price": "$19,999",
+      "original_price": "$24,999",
+      "discount_amount": "$5,000",
+      "promotion": "商品已折價$5,000 含運",
+      "url": "https://www.costco.com.tw/p/159449",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h23/h83/437687217848350.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Bentley Designs Vega 餐桌椅五件組",
+      "price": "$27,999",
+      "original_price": "$34,999",
+      "discount_amount": "$7,000",
+      "promotion": "商品已折價$7,000 含運",
+      "url": "https://www.costco.com.tw/p/159440",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h10/hf0/437687194484766.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Gallery Wigmore 布面休閒躺椅",
+      "price": "$5,599",
+      "original_price": "$6,999",
+      "discount_amount": "$1,400",
+      "promotion": "商品已折價$1,400 含運",
+      "url": "https://www.costco.com.tw/p/157766",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h09/h3e/433249467039774.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Gallery Blackhall 牛皮休閒躺椅",
+      "price": "$6,999",
+      "original_price": "$8,999",
+      "discount_amount": "$2,000",
+      "promotion": "商品已折價$2,000 含運",
+      "url": "https://www.costco.com.tw/p/157498",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf6/h90/418530690990110.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Gallery Wigmore 布面雙人沙發",
+      "price": "$10,999",
+      "original_price": "$13,999",
+      "discount_amount": "$3,000",
+      "promotion": "商品已折價$3,000 含運",
+      "url": "https://www.costco.com.tw/p/157495",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h9d/hbe/434798770847774.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Anda Seat 皮革電競椅 粉",
+      "price": "$7,499",
+      "original_price": "$9,499",
+      "discount_amount": "$2,000",
+      "promotion": "商品已折價$2,000 含運",
+      "url": "https://www.costco.com.tw/p/153101",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf9/ha0/367883407720478.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Anda Seat 皮革電競椅 藍",
+      "price": "$7,499",
+      "original_price": "$9,499",
+      "discount_amount": "$2,000",
+      "promotion": "商品已折價$2,000 含運",
+      "url": "https://www.costco.com.tw/p/153100",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h8a/ha7/367883403264030.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Aiden & Ivy 布面可移動式沙發附腳凳 米",
+      "price": "$18,399",
+      "original_price": "$22,999",
+      "discount_amount": "$4,600",
+      "promotion": "商品已折價$4,600 含運",
+      "url": "https://www.costco.com.tw/p/152331",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha0/h9a/361957960319006.jpg",
+      "category": "其他"
+    }
+  ],
+  "removed": [
+    {
+      "name": "林聰明 沙鍋菜豆腐煲 800公克 X 3入",
+      "price": "$449",
+      "original_price": "$559",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/p/154468",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h04/h7c/380783679701022.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "大成 冷凍香辣炸雞柳 1.7公斤",
+      "price": "$459",
+      "original_price": "$559",
+      "discount_amount": "$100",
+      "promotion": "商品已折價 $100 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/p/153997",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h29/368495310110750.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "奇美 冷凍港點三重奏 960公克",
+      "price": "$409",
+      "original_price": "$499",
+      "discount_amount": "$90",
+      "promotion": "商品已折價 $90 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/p/246436",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha4/h2a/399197037658142.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "INFINITY X1 2000 流明露營燈",
+      "price": "$849",
+      "original_price": "$1,099",
+      "discount_amount": "$250",
+      "promotion": "商品已折價$250 含運",
+      "url": "https://www.costco.com.tw/p/1872247",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb4/h59/438876268855326.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Schiff MegaRed 濃縮純淨藻油 Omega-3 軟膠囊(食品) 50顆",
+      "price": "$1,059",
+      "original_price": "$1,319",
+      "discount_amount": "$260",
+      "promotion": "商品已折價 $260 含運",
+      "url": "https://www.costco.com.tw/c/p/142926",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hab/h03/384242530680862.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "歐樂B 微震科技充電式電動牙刷 單握柄+6刷頭 iO PRO",
+      "price": "$3,099",
+      "original_price": "$3,999",
+      "discount_amount": "$900",
+      "promotion": "商品已折價$900 含運",
+      "url": "https://www.costco.com.tw/Electric-Toothbrushes-Water-Flossers/p/159964",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h29/hed/466199060316190.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Gorilla 多功能組合置物架",
+      "price": "$2,999",
+      "original_price": "$3,499",
+      "discount_amount": "$500",
+      "promotion": "商品已折價$500 含運",
+      "url": "https://www.costco.com.tw/p/1600205",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h40/h06/245391148220446.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "科克蘭 冷壓初榨椰子油 2.48公升",
+      "price": "$529",
+      "original_price": "$599",
+      "discount_amount": "$70",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/p/1076366",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hea/h60/11171010084894.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "True Innovations 3D Insight電競椅含可調式頭枕",
+      "price": "$3,439",
       "original_price": "",
       "discount_amount": "",
       "promotion": "含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Jinbo-Classic-DanDan-Noodles-In-Sichuan-Chili-Sauce-145-g-X-10-Pack/p/146925",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h9d/h53/259146773823518.jpg",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/True-Innovations-3D-Insight-Gaming-Chair-with-Adjustable-Headrest/p/1518239",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h35/h33/260516651827230.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "True Innovations 電競椅 黑藍",
+      "price": "$3,199",
+      "original_price": "$4,099",
+      "discount_amount": "$900",
+      "promotion": "商品已折價$900 含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/True-Innovations-Gaming-Chair-Black-Blue/p/1752582",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h3c/ha3/206972250456094.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Venus Diced 水蜜桃杯 113公克 X 20入",
+      "price": "$297",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/Venus-Diced-Peach-Cup-113-g-X-20-Count/p/1336195",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h8e/h61/313686463479838.jpg",
       "category": "食品飲料"
     }
   ],
   "price_changes": [
     {
+      "name": "Adidas 女短襪六入組",
+      "price": "$379",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "old_price": "$299",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Adidas-Ladies-Ankle-Sock-6-Pack-Set/p/217975",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h15/hcb/419358417190942.jpg",
+      "category": "服飾配件"
+    },
+    {
       "name": "Le Coq Sportif 男短袖純棉上衣",
-      "price": "$649",
-      "original_price": "$849",
-      "discount_amount": "$200",
-      "promotion": "商品已折價$200 含運",
-      "old_price": "$899",
-      "direction": "降價",
+      "price": "$899",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "old_price": "$649",
+      "direction": "漲價",
       "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Le-Coq-Sportif-Mens-Short-Sleeve-Cotton-Tee/p/240942",
       "image": "https://www.costco.com.tw/medias/sys_master/images/ha7/hc8/455934093852702.jpg",
       "category": "服飾配件"
