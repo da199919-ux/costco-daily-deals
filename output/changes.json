@@ -1,8 +1,340 @@
 {
   "date": "2026-08-11",
-  "generated_at": "2026-08-11 10:38",
+  "generated_at": "2026-08-11 15:48",
   "has_previous": true,
-  "added": [],
-  "removed": [],
+  "added": [
+    {
+      "name": "卡迪那 豌豆脆片 原味 80公克 X 10包",
+      "price": "$299",
+      "original_price": "$359",
+      "discount_amount": "$60",
+      "promotion": "商品已折價$60 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/138245",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha1/h1c/138087515095070.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "大成 冷凍香辣炸雞柳 1.7公斤",
+      "price": "$459",
+      "original_price": "$559",
+      "discount_amount": "$100",
+      "promotion": "商品已折價 $100 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/p/153997",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h29/368495310110750.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Curble 護脊美學椅 38.0公分 X 31.5公分 X 31.6公分 黑色",
+      "price": "$875",
+      "original_price": "$1,099",
+      "discount_amount": "$224",
+      "promotion": "商品已折價$224 含運",
+      "url": "https://www.costco.com.tw/Bedding/p/8517418",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h51/h76/308411625340958.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Curble 護脊美學椅 38.0公分 X 31.5公分 X 31.6公分 薰衣草紫",
+      "price": "$875",
+      "original_price": "$1,099",
+      "discount_amount": "$224",
+      "promotion": "商品已折價$224 含運",
+      "url": "https://www.costco.com.tw/Bedding/p/1017418",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h90/he5/346620753313822.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Curble 護脊美學椅 38.0公分 X 31.5公分 X 31.6公分 薄荷綠",
+      "price": "$875",
+      "original_price": "$1,099",
+      "discount_amount": "$224",
+      "promotion": "商品已折價$224 含運",
+      "url": "https://www.costco.com.tw/Bedding/p/1117418",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb9/h1f/346620753149982.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "樂天 卡士達派 27公克 X 36入",
+      "price": "$389",
+      "original_price": "$489",
+      "discount_amount": "$100",
+      "promotion": "商品已折價$100 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/227320",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h2a/h84/190634467098654.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Skittles 彩虹糖綜合歡樂箱 38公克 X 20包",
+      "price": "$339",
+      "original_price": "$429",
+      "discount_amount": "$90",
+      "promotion": "商品已折價$90 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/915777",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0b/h94/397423321284638.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "味好美 大蒜香草調味料 520公克",
+      "price": "$319",
+      "original_price": "$439",
+      "discount_amount": "$120",
+      "promotion": "商品已折價$120 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/p/150604",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he3/h4e/332442428997662.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "CASA 天然乳膠Q彈舒眠枕 58公分 X 38公分 X 11公分",
+      "price": "$855",
+      "original_price": "$1,079",
+      "discount_amount": "$224",
+      "promotion": "商品已折價$224 含運",
+      "url": "https://www.costco.com.tw/Bedding/p/127813",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h13/h7e/81353648078878.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "幻知曲 涼感舒眠枕 66公分 X 38公分 X 11公分",
+      "price": "$785",
+      "original_price": "$985",
+      "discount_amount": "$200",
+      "promotion": "商品已折價$200 含運",
+      "url": "https://www.costco.com.tw/Bedding/p/156890",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha6/h87/418530686533662.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Bayside 八格抽屜儲物櫃 白色",
+      "price": "$3,999",
+      "original_price": "$5,199",
+      "discount_amount": "$1,200",
+      "promotion": "商品已折價$1,200 含運",
+      "url": "https://www.costco.com.tw/p/1862101",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hd2/h6a/487711148834846.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "新視紀 矯正鏡片(未滅菌) 250度 LIAM 抗藍光",
+      "price": "$479",
+      "original_price": "$589",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-250-LIAM-Anti-Blue-Light/p/146753",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hee/hb9/378821907644446.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "新視紀 矯正鏡片(未滅菌) 200度 LIAM 抗藍光",
+      "price": "$479",
+      "original_price": "$589",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-200-LIAM-Anti-Blue-Light/p/146752",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h35/hc7/378821904039966.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "科克蘭 冷凍養殖超特大生蝦仁 1.5磅 / 680公克, 每磅11-15隻",
+      "price": "$609",
+      "original_price": "$659",
+      "discount_amount": "$50",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/p/2255533",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h82/h65/137772763709470.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "冷凍龍虎石斑魚片 1公斤",
+      "price": "$929",
+      "original_price": "$979",
+      "discount_amount": "$50",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/p/186793",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h49/hb7/115203741548574.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "新視紀 矯正鏡片(未滅菌) 275度 MCKAY 抗藍光",
+      "price": "$479",
+      "original_price": "$589",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-275-MCKAY-Anti-Blue-Light/p/146768",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h24/hb2/378821998051358.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "新視紀 矯正鏡片(未滅菌) 150度 MCKAY 抗藍光",
+      "price": "$479",
+      "original_price": "$589",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-150-MCKAY-Anti-Blue-Light/p/146764",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h22/hff/378821992349726.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "新視紀 矯正鏡片(未滅菌) 300度 LIAM 抗藍光",
+      "price": "$479",
+      "original_price": "$589",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-300-LIAM-Anti-Blue-Light/p/146755",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h37/h67/378821908725790.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "奧利奧 香草口味夾心餅乾 105公克 X 21入",
+      "price": "$439",
+      "original_price": "$549",
+      "discount_amount": "",
+      "promotion": "需一次購買活動組數才可享受此優惠 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/526453",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/haf/h3a/467458984050718.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Jamieson 複合益生菌 120粒",
+      "price": "$1,259",
+      "original_price": "$1,579",
+      "discount_amount": "$320",
+      "promotion": "商品已折價 $320 含運",
+      "url": "https://www.costco.com.tw/p/123200",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h2a/he2/240433624743966.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "福樂 PRO雙效蛋白飲(水果) 250毫升 X 24入",
+      "price": "$689",
+      "original_price": "$865",
+      "discount_amount": "$176",
+      "promotion": "商品已折價$176 含運",
+      "url": "https://www.costco.com.tw/p/157013",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/haa/hc6/413421385121822.jpg",
+      "category": "其他"
+    }
+  ],
+  "removed": [
+    {
+      "name": "卡迪那 豌豆脆片 原味 80公克 X 10包",
+      "price": "$299",
+      "original_price": "$359",
+      "discount_amount": "$60",
+      "promotion": "商品已折價$60 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Cadina-Popped-Green-Pea-Chips-Original-Flavor-80-g-X-10-Pack/p/138245",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha1/h1c/138087515095070.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "大成 冷凍香辣炸雞柳 1.7公斤",
+      "price": "$459",
+      "original_price": "$559",
+      "discount_amount": "$100",
+      "promotion": "商品已折價 $100 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Dachan-Frozen-Spicy-Fried-Chicken-Breast-Strips-17-kg/p/153997",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h29/368495310110750.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Skittles 彩虹糖綜合歡樂箱 38公克 X 20包",
+      "price": "$339",
+      "original_price": "$429",
+      "discount_amount": "$90",
+      "promotion": "商品已折價$90 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Skittles-Mixed-Party-Box-38-g-X-20-Pack/p/915777",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0b/h94/397423321284638.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Bayside 八格抽屜儲物櫃 白色",
+      "price": "$3,999",
+      "original_price": "$5,199",
+      "discount_amount": "$1,200",
+      "promotion": "商品已折價$1,200 含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Bayside-Room-Divider-White/p/1862101",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hd2/h6a/487711148834846.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "冷凍龍虎石斑魚片 1公斤",
+      "price": "$929",
+      "original_price": "$979",
+      "discount_amount": "$50",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Frozen-Tiger-Grouper-Fillet-1-kg/p/186793",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h49/hb7/115203741548574.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Curble 護脊美學椅 38.0公分 X 31.5公分 X 31.6公分 黑色",
+      "price": "$875",
+      "original_price": "$1,099",
+      "discount_amount": "$224",
+      "promotion": "商品已折價$224 含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/Curble-Posture-Corrector-Chair-Wider-380-cm-X-315-cm-X-316-cm-Black/p/8517418",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h51/h76/308411625340958.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Curble 護脊美學椅 38.0公分 X 31.5公分 X 31.6公分 薰衣草紫",
+      "price": "$875",
+      "original_price": "$1,099",
+      "discount_amount": "$224",
+      "promotion": "商品已折價$224 含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/Curble-Posture-Corrector-Chair-Wider-380-cm-X-315-cm-X-316-cm-Lavender/p/1017418",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h90/he5/346620753313822.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Curble 護脊美學椅 38.0公分 X 31.5公分 X 31.6公分 薄荷綠",
+      "price": "$875",
+      "original_price": "$1,099",
+      "discount_amount": "$224",
+      "promotion": "商品已折價$224 含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/Curble-Posture-Corrector-Chair-Wider-380-cm-X-315-cm-X-316-cm-Mint/p/1117418",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb9/h1f/346620753149982.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "AGIO Stockholm 戶外休閒沙發四件組",
+      "price": "$36,799",
+      "original_price": "$45,999",
+      "discount_amount": "$9,200",
+      "promotion": "商品已折價$9,200 含運",
+      "url": "https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/AGIO-Stockholm-4-Piece-Outdoor-Deep-Seating-Set/p/1934246",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/heb/h44/436453739823134.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "科克蘭 冷凍養殖超特大生蝦仁 1.5磅 / 680公克, 每磅11-15隻",
+      "price": "$609",
+      "original_price": "$659",
+      "discount_amount": "$50",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Kirkland-Signature-Frozen-Raw-Tail-On-Shrimp-15-LBs-680-g-11-15-Count-LB/p/2255533",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h82/h65/137772763709470.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Bburago 1:43 賽車維修中心 / 3歲以上",
+      "price": "$597",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Outdoor-Play/Bburago-143-Paddock-Set-Ages-3-and-Up/p/1851433",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h28/hff/421141123104798.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "Bentley Designs Arlo 皮面餐椅 2入組 橄欖綠",
+      "price": "$3,199",
+      "original_price": "$3,399",
+      "discount_amount": "$200",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Dining-Sets/Bentley-Designs-Arlo-Faux-Leather-Dining-Chair-2-Pack-Set-Olive/p/159590",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hbe/hbb/466558571610142.jpg",
+      "category": "家具家居"
+    }
+  ],
   "price_changes": []
 }
