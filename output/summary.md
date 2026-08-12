@@ -1,8 +1,8 @@
 # Costco 每日優惠摘要（2026-08-12）
 
-更新時間：2026-08-12 16:48（台灣時間）
-共整理出 **579** 項官方線上優惠。
-本次共讀取 **604** 個官方商品頁面。
+更新時間：2026-08-12 21:58（台灣時間）
+共整理出 **576** 項官方線上優惠。
+本次共讀取 **601** 個官方商品頁面。
 
 > 價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。
 
@@ -10,7 +10,7 @@
 
 | 分類 | 商品數量 |
 |---|---:|
-| 家具家居 | 206 |
+| 家具家居 | 203 |
 | 服飾配件 | 111 |
 | 其他 | 81 |
 | 食品飲料 | 65 |
@@ -26,26 +26,28 @@
 
 ## 今日變化
 
-- 新增優惠：**1** 項
-- 本次未收錄：**6** 項（不代表優惠已結束）
-- 價格變動：**2** 項
+- 新增優惠：**0** 項
+- 本次未收錄：**3** 項（不代表優惠已結束）
+- 價格變動：**7** 項
 
 ### 價格變動
 
-- **漲價**：[GAP 男彈性舒適休閒短褲](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/GAP-Mens-Stretch-Casual-Pull-On-Short/p/1983365) $375 → $2,499
-- **漲價**：[New Balance 男經典 Logo 短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/New-Balance-Mens-Classic-Logo-Short-Sleeve-Tee/p/1846538) $1,159 → $2,499
+- **漲價**：[Canada Goose 男連帽外套](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/Canada-Goose-Mens-Expedition-Parka/p/772994) $1,159 → $2,049
+- **降價**：[Ferragamo 太陽眼鏡 SF157S 069 黑色](https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/Ferragamo-Sunglasses-SF157S-069-Black/p/221001) $849 → $399
+- **漲價**：[Ferragamo 太陽眼鏡 SF226S 086 黑色](https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/Ferragamo-Sunglasses-SF226S-086-Black/p/250869) $139 → $1,497
+- **降價**：[GAP 男彈性舒適休閒短褲](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/GAP-Mens-Stretch-Casual-Pull-On-Short/p/1983365) $2,499 → $599
+- **降價**：[Le Coq Sportif 男短袖純棉上衣](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Le-Coq-Sportif-Mens-Short-Sleeve-Cotton-Tee/p/240942) $899 → $849
+- **漲價**：[馬牌 185/55 R15 82V XL CC7 輪胎](https://www.costco.com.tw/Tire/Continental-18555-R15-82V-XL-CC7-Tire/tire/p/142765) $1,159 → $1,499
+- **漲價**：[馬牌 215/50 R18 92W FR UX7 輪胎](https://www.costco.com.tw/Tire/Continental-21550-R18-92W-FR-UX7-Tire/tire/p/155336) $1,159 → $37,899
 
 ### 今日新增
 
-- [Adidas Golf男短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Adidas-Golf-Mens-Short-Sleeve-Tee/p/154296)（$347）
+- 今天沒有新增優惠。
 
 ### 本次未收錄（不代表優惠已結束）
 
-- [Dais LED太陽能磚塊燈 6入組](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/Dais-LED-Solar-Brick-Light-6-Pack-Set/p/1937910)（$447）
-- [Violanta 希臘優格夾心燕麥餅 180公克 X 3包](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Violanta-Oat-Sandwich-with-Greek-Yoghurt-Cream-180-g-X-3-Pack/p/551051)（$197）
-- [Lindt 開心果軟心巧克力球 500公克](https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Lindt-Lindor-Pistachio-Chocolate-Truffles-500-g/p/659908)（$597）
-- [Pocky Limited Edition 百奇冬季嚴選雙享組 268.2公克 / 6盒入](https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Pocky-Winter-Limited-Edition-2682-g-6-Pack/p/337561)（$317）
-- [Bouchard 覆盆子風味可可薄片 600公克](https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Bouchard-Chocolate-Thins-Raspberry-Flavor-600-g/p/2323796)（$397）
-- [琣伯莉 綜合餅乾 823公克](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Pepperidge-Farm-Assorted-Distinctive-Cookies-823-g/p/216874)（$297）
+- [Coddle 布面沙發床](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Coddle-Fabric-Sleeper-Sofa/p/1862099)（$15,899）
+- [DPS Insight 電競椅 黑紅](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/True-Innovations-Insight-Gaming-Chair-Black-Red/p/1861987)（$3,389）
+- [Bayside Furnishings 多功能置物櫃](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Television-Stands-Consoles/Bayside-Furnishings-TV-Console/p/1695477)（$10,999）
 
 完整清單請查看專案中的 `output/latest.md`。

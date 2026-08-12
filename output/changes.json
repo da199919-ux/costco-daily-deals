@@ -1,105 +1,124 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12 16:48",
+  "generated_at": "2026-08-12 21:58",
   "has_previous": true,
-  "added": [
-    {
-      "name": "Adidas Golf男短袖上衣",
-      "price": "$347",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Adidas-Golf-Mens-Short-Sleeve-Tee/p/154296",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hcd/hff/431395256631326.jpg",
-      "category": "服飾配件"
-    }
-  ],
+  "added": [],
   "removed": [
     {
-      "name": "Dais LED太陽能磚塊燈 6入組",
-      "price": "$447",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/Dais-LED-Solar-Brick-Light-6-Pack-Set/p/1937910",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h92/hc5/455934076223518.jpg",
+      "name": "Coddle 布面沙發床",
+      "price": "$15,899",
+      "original_price": "$19,999",
+      "discount_amount": "$4,100",
+      "promotion": "商品已折價$4,100 含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Coddle-Fabric-Sleeper-Sofa/p/1862099",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0c/h7f/434798883569694.jpg",
       "category": "家具家居"
     },
     {
-      "name": "Violanta 希臘優格夾心燕麥餅 180公克 X 3包",
-      "price": "$197",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Violanta-Oat-Sandwich-with-Greek-Yoghurt-Cream-180-g-X-3-Pack/p/551051",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h4a/hdd/400800772390942.jpg",
-      "category": "食品飲料"
+      "name": "DPS Insight 電競椅 黑紅",
+      "price": "$3,389",
+      "original_price": "$4,389",
+      "discount_amount": "$1,000",
+      "promotion": "商品已折價$1,000 含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/True-Innovations-Insight-Gaming-Chair-Black-Red/p/1861987",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h1b/hc1/384789237760030.jpg",
+      "category": "家具家居"
     },
     {
-      "name": "Lindt 開心果軟心巧克力球 500公克",
-      "price": "$597",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Lindt-Lindor-Pistachio-Chocolate-Truffles-500-g/p/659908",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h64/h3c/403085724287006.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Pocky Limited Edition 百奇冬季嚴選雙享組 268.2公克 / 6盒入",
-      "price": "$317",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Pocky-Winter-Limited-Edition-2682-g-6-Pack/p/337561",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h9c/397423285010462.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Bouchard 覆盆子風味可可薄片 600公克",
-      "price": "$397",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Bouchard-Chocolate-Thins-Raspberry-Flavor-600-g/p/2323796",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h19/h21/417162278043678.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "琣伯莉 綜合餅乾 823公克",
-      "price": "$297",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Pepperidge-Farm-Assorted-Distinctive-Cookies-823-g/p/216874",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h01/h48/102766106050590.jpg",
-      "category": "食品飲料"
+      "name": "Bayside Furnishings 多功能置物櫃",
+      "price": "$10,999",
+      "original_price": "$13,999",
+      "discount_amount": "$3,000",
+      "promotion": "商品已折價$3,000 含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Television-Stands-Consoles/Bayside-Furnishings-TV-Console/p/1695477",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h47/h3d/191208108294174.jpg",
+      "category": "家具家居"
     }
   ],
   "price_changes": [
     {
-      "name": "GAP 男彈性舒適休閒短褲",
-      "price": "$2,499",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "old_price": "$375",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/GAP-Mens-Stretch-Casual-Pull-On-Short/p/1983365",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h26/h90/472952482267166.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "New Balance 男經典 Logo 短袖上衣",
-      "price": "$2,499",
+      "name": "Canada Goose 男連帽外套",
+      "price": "$2,049",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
       "old_price": "$1,159",
       "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/New-Balance-Mens-Classic-Logo-Short-Sleeve-Tee/p/1846538",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha8/h90/434798860697630.jpg",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/Canada-Goose-Mens-Expedition-Parka/p/772994",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he7/ha0/418530817572894.jpg",
       "category": "服飾配件"
+    },
+    {
+      "name": "Ferragamo 太陽眼鏡 SF157S 069 黑色",
+      "price": "$399",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "old_price": "$849",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/Ferragamo-Sunglasses-SF157S-069-Black/p/221001",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he3/h58/384789266006046.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Ferragamo 太陽眼鏡 SF226S 086 黑色",
+      "price": "$1,497",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "old_price": "$139",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/Ferragamo-Sunglasses-SF226S-086-Black/p/250869",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h2f/hd2/384789269217310.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "GAP 男彈性舒適休閒短褲",
+      "price": "$599",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "old_price": "$2,499",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/GAP-Mens-Stretch-Casual-Pull-On-Short/p/1983365",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h26/h90/472952482267166.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Le Coq Sportif 男短袖純棉上衣",
+      "price": "$849",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "old_price": "$899",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Le-Coq-Sportif-Mens-Short-Sleeve-Cotton-Tee/p/240942",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha7/hc8/455934093852702.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "馬牌 185/55 R15 82V XL CC7 輪胎",
+      "price": "$1,499",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "old_price": "$1,159",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Tire/Continental-18555-R15-82V-XL-CC7-Tire/tire/p/142765",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he8/hba/224528751263774.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "馬牌 215/50 R18 92W FR UX7 輪胎",
+      "price": "$37,899",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "old_price": "$1,159",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Tire/Continental-21550-R18-92W-FR-UX7-Tire/tire/p/155336",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4f/h54/368528938565662.jpg",
+      "category": "其他"
     }
   ]
 }
