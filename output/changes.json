@@ -1,8 +1,19 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12 05:14",
+  "generated_at": "2026-08-12 11:05",
   "has_previous": true,
-  "added": [],
+  "added": [
+    {
+      "name": "Cavendish Farms 冷凍馬鈴薯條 4公斤",
+      "price": "$385",
+      "original_price": "$469",
+      "discount_amount": "$84",
+      "promotion": "商品已折價$84 含運",
+      "url": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Frozen-Food/Cavendish-Farms-Frozen-Fries-French-Fries-4-kg/p/25258",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4f/h1b/168536167710750.jpg",
+      "category": "其他"
+    }
+  ],
   "removed": [],
   "price_changes": []
 }
