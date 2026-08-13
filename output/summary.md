@@ -1,8 +1,8 @@
-# Costco 每日優惠摘要（2026-08-13）
+# Costco 每日優惠摘要（2026-08-14）
 
-更新時間：2026-08-13 21:57（台灣時間）
-共整理出 **444** 項官方線上優惠。
-本次共讀取 **462** 個官方商品頁面。
+更新時間：2026-08-14 02:17（台灣時間）
+共整理出 **572** 項官方線上優惠。
+本次共讀取 **597** 個官方商品頁面。
 
 > 價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。
 
@@ -10,24 +10,24 @@
 
 | 分類 | 商品數量 |
 |---|---:|
-| 家具家居 | 173 |
-| 服飾配件 | 77 |
-| 其他 | 62 |
-| 食品飲料 | 53 |
-| 家電 3C | 49 |
-| 保健美容 | 21 |
-| 日用品／母嬰／玩具 | 9 |
+| 家具家居 | 200 |
+| 服飾配件 | 111 |
+| 其他 | 81 |
+| 食品飲料 | 65 |
+| 家電 3C | 63 |
+| 保健美容 | 32 |
+| 日用品／母嬰／玩具 | 20 |
 
 ## 我的追蹤商品
 
 追蹤關鍵字：apple, iphone, macbook, ipad, ipod
 
-- 今天的優惠清單沒有符合追蹤關鍵字的商品。
+- [Apple MagSafe 充電器 1公尺](https://www.costco.com.tw/Digital-Mobile/Mobile-Tablets/Mobile-Tablets-Accessories/Apple-MagSafe-Charger-1-m/p/155889)（$1,029）
 
 ## 今日變化
 
-- 新增優惠：**3** 項
-- 本次未收錄：**130** 項（不代表優惠已結束）
+- 新增優惠：**128** 項
+- 本次未收錄：**0** 項（不代表優惠已結束）
 - 價格變動：**0** 項
 
 ### 價格變動
@@ -36,15 +36,6 @@
 
 ### 今日新增
 
-- [Skechers 女運動鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Skechers-Ladies-Athletic-Shoe/p/1961240)（$999）
-- [新視紀 矯正鏡片(未滅菌) 150度 DAX](https://www.costco.com.tw/Clothing-Accessories/p/146756)（$479）
-- [新視紀 矯正鏡片(未滅菌) 250度 LIAM 抗藍光](https://www.costco.com.tw/Clothing-Accessories/p/146753)（$479）
-
-### 本次未收錄（不代表優惠已結束）
-
-- [Giovanni 茶樹洗髮精 1公升](https://www.costco.com.tw/Health-Beauty/Personal-Care/Shampoo-Conditioner/Giovanni-Tea-Tree-Shampoo-1-L/p/62371)（$379）
-- [新視紀 矯正鏡片(未滅菌) 150度 DAX](https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-150-DAX/p/146756)（$479）
-- [新視紀 矯正鏡片(未滅菌) 250度 LIAM 抗藍光](https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-250-LIAM-Anti-Blue-Light/p/146753)（$479）
 - [科克蘭 初榨橄欖油 1 公升](https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Kirkland-Signature-Siurana-Arbequina-Extra-Virgin-Olive-Oil-1L/p/891831)（$399）
 - [科克蘭 超級維他命B群 500錠](https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Kirkland-Signature-Super-B-Complex-500-Tablet/p/339120)（$627）
 - [科克蘭 冷凍養殖超特大生蝦仁 1.5磅 / 680公克, 每磅11-15隻](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Kirkland-Signature-Frozen-Raw-Tail-On-Shrimp-15-LBs-680-g-11-15-Count-LB/p/2255533)（$609）
@@ -64,7 +55,6 @@
 - [TP-Link Tapo C425 電池式戶外安全攝影機](https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/TP-Link-Tapo-C425-Smart-Wire-Free-Security-Camera/p/158488)（$2,289）
 - [GAP 女九分褲](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/GAP-Ladies-Ankle-Trouser/p/1971848)（$1,159）
 - [飛利浦 55吋 4K QLED Google TV 顯示器 55PQT8530/96](https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/50-59-TVs/Philips-55-inch-4K-QLED-Google-TV-Monitor-55PQT853096/p/153526)（$15,799）
-- [得意的一天 芋頭燕麥椰奶露 750公克 X 3包](https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Great-Day-Taro-Coconut-Soup-with-Oats-750-g-X-3-Pack/p/149344)（$227）
 - [Nepa 男休閒多口袋短褲](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/Nepa-Mens-Cargo-Shorts/p/658226)（$647）
 - [Advent 女寬直筒褲](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Advent-Ladies-Advent-Draped-Pleated-Wide-Pant/p/156457)（$347）
 - [Juicy Couture 女短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Juicy-Couture-Ladies-Short-Sleeve-Tee/p/156551)（$347）
@@ -135,7 +125,7 @@
 - [環形電動軟球槍 / 14歲以上](https://www.costco.com.tw/Household-Baby-Toys/Toys/Outdoor-Play/Spiral-Power-Popper-Ages-14-and-Up/p/155749)（$467）
 - [Casual Living 雙人舒適毯 233公分 X 248公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Casual-Living-Velvet-Blanket-233-cm-X-248-cm/p/153200)（$597）
 - [2.03克拉 鉑金 圓形鑽石戒指 VVS2/E](https://www.costco.com.tw/Jewelry-Gold/Diamond/Diamond-Rings/203-ct-Platinum-Round-Diamond-Ring-VVS2E/p/967585)（$1,349,997）
-- [Canada Goose 男連帽外套](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/Canada-Goose-Mens-Expedition-Parka/p/772994)（$2,049）
+- [Canada Goose 男連帽外套](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/Canada-Goose-Mens-Expedition-Parka/p/772994)（$2,499）
 - [1.11克拉 鉑金 圓形鑽石戒指 VVS2/E](https://www.costco.com.tw/Jewelry-Gold/Diamond/Diamond-Rings/111-ct-Platinum-Round-Diamond-Ring-VVS2E/p/672472)（$439,997）
 - [1.09克拉 鉑金 圓形鑽石戒指 VVS1/F](https://www.costco.com.tw/Jewelry-Gold/Diamond/Diamond-Rings/109-ct-Platinum-Round-Diamond-Ring-VVS1F/p/651049)（$456,997）
 - [1.63克拉 鉑金 圓形鑽石戒指 VS2/G](https://www.costco.com.tw/Jewelry-Gold/Diamond/Diamond-Rings/163-ct-Platinum-Round-Diamond-Ring-VS2G/p/648495)（$558,997）
@@ -159,6 +149,7 @@
 - [Hotel Grand 雙人白鵝絨可水洗子母被 180公分 X 210公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Hotel-Grand-Goose-Down-Comforter-180-cm-X-210-cm/p/152368)（$7,997）
 - [日本製雙層冷水壺 1.2公升 X 6件組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Double-Layer-Water-Pitcher-12-L-X-6-Piece-Set/p/144402)（$4,499）
 - [2.02克拉18K白K金 圓形鑽石項鍊 VVS1/D](https://www.costco.com.tw/Jewelry-Gold/Diamond/Diamond-Necklaces/202-ctw-18kt-White-Gold-Round-Diamond-Pendant-VVS1D/p/1024902)（$1,599,997）
+- [Giovanni 茶樹洗髮精 1公升](https://www.costco.com.tw/Health-Beauty/Personal-Care/Shampoo-Conditioner/Giovanni-Tea-Tree-Shampoo-1-L/p/62371)（$379）
 - [紐西蘭有機富士蘋果 8.5公斤/ 50入](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Chilled-Fresh-Food/New-Zealand-Organic-Fuji-Apple-85-kg-50CT/p/3985077)（$1,349）
 - [Alepia Marseille 液態馬賽皂 馬鞭草 1000毫升 X 2入](https://www.costco.com.tw/Health-Beauty/Personal-Care/Bath-Body/Alepia-Marseille-Soap-Verbena-1000-ml-X-2-Count/p/155690)（$619）
 - [Alepia Marseille 液態馬賽皂 檸檬 1000毫升 X 2入](https://www.costco.com.tw/Health-Beauty/Personal-Care/Bath-Body/Alepia-Marseille-Soap-Lemon-1000-ml-X-2-Count/p/155689)（$619）
@@ -167,10 +158,15 @@
 - [Curble 護脊美學椅 38.0公分 X 31.5公分 X 31.6公分 薄荷綠](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/Curble-Posture-Corrector-Chair-Wider-380-cm-X-315-cm-X-316-cm-Mint/p/1117418)（$875）
 - [Oikos 咖啡拿鐵風味蛋白飲 240毫升 X 12入](https://www.costco.com.tw/Health-Beauty/Supplements/Sports-Performance/Oikos-Protein-Drink-Cafe-Latte-Flavor-240-ml-X-12-Count/p/168836)（$557）
 - [Berkshire 織紋柔軟舒適毯 152公分 X 177公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Berkshire-Chenille-Knit-Throw-152-cm-X-177-cm/p/1796289)（$247）
-- [Ferragamo 太陽眼鏡 SF226S 086 黑色](https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/Ferragamo-Sunglasses-SF226S-086-Black/p/250869)（$1,497）
-- [Ferragamo 太陽眼鏡 SF157S 069 黑色](https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/Ferragamo-Sunglasses-SF157S-069-Black/p/221001)（$399）
+- [得意的一天 芋頭燕麥椰奶露 750公克 X 3包](https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Great-Day-Taro-Coconut-Soup-with-Oats-750-g-X-3-Pack/p/149344)（$227）
+- [Ferragamo 太陽眼鏡 SF226S 086 黑色](https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/Ferragamo-Sunglasses-SF226S-086-Black/p/250869)（$139）
+- [Ferragamo 太陽眼鏡 SF157S 069 黑色](https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/Ferragamo-Sunglasses-SF157S-069-Black/p/221001)（$589）
 - [JIMMY CHOO 太陽眼鏡 BIRDIE/S BKUHA 金色](https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/JIMMY-CHOO-Sunglasses-BIRDIES-BKUHA-Gold/p/250673)（$1,897）
 - [三上食楽 燃太郎 辣湯拉麵 187公克 X 6袋](https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Mikami-Shokuraku-Spicy-Soup-Ramen-187-g-X-6-Pack/p/339638)（$297）
 - [樂天 巧克力派 北海道生焦糖乳酪蛋糕風味 30公克 X 6入 X 5盒](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Lotte-Choco-Pie-Hokkaido-Caramel-Cheese-Cake-30-g-X-6-Count-X-5-Pack/p/159840)（$297）
+
+### 本次未收錄（不代表優惠已結束）
+
+- 本次沒有商品離開抓取清單。
 
 完整清單請查看專案中的 `output/latest.md`。

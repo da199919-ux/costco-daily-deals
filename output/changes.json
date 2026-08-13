@@ -1,70 +1,8 @@
 {
-  "date": "2026-08-13",
-  "generated_at": "2026-08-13 21:57",
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14 02:17",
   "has_previous": true,
   "added": [
-    {
-      "name": "Skechers 女運動鞋",
-      "price": "$999",
-      "original_price": "$1,259",
-      "discount_amount": "$260",
-      "promotion": "商品已折價$260 含運",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Skechers-Ladies-Athletic-Shoe/p/1961240",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf2/h9e/473820154658846.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "新視紀 矯正鏡片(未滅菌) 150度 DAX",
-      "price": "$479",
-      "original_price": "$589",
-      "discount_amount": "$110",
-      "promotion": "商品已折價$110 含運",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/p/146756",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h92/h36/378821913247774.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "新視紀 矯正鏡片(未滅菌) 250度 LIAM 抗藍光",
-      "price": "$479",
-      "original_price": "$589",
-      "discount_amount": "$110",
-      "promotion": "商品已折價$110 含運",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/p/146753",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hee/hb9/378821907644446.jpg",
-      "category": "服飾配件"
-    }
-  ],
-  "removed": [
-    {
-      "name": "Giovanni 茶樹洗髮精 1公升",
-      "price": "$379",
-      "original_price": "$475",
-      "discount_amount": "$96",
-      "promotion": "商品已折價 $96 含運",
-      "url": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Shampoo-Conditioner/Giovanni-Tea-Tree-Shampoo-1-L/p/62371",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hc2/hea/432345310625822.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "新視紀 矯正鏡片(未滅菌) 150度 DAX",
-      "price": "$479",
-      "original_price": "$589",
-      "discount_amount": "$110",
-      "promotion": "商品已折價$110 含運",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-150-DAX/p/146756",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h92/h36/378821913247774.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "新視紀 矯正鏡片(未滅菌) 250度 LIAM 抗藍光",
-      "price": "$479",
-      "original_price": "$589",
-      "discount_amount": "$110",
-      "promotion": "商品已折價$110 含運",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-250-LIAM-Anti-Blue-Light/p/146753",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hee/hb9/378821907644446.jpg",
-      "category": "服飾配件"
-    },
     {
       "name": "科克蘭 初榨橄欖油 1 公升",
       "price": "$399",
@@ -254,16 +192,6 @@
       "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/50-59-TVs/Philips-55-inch-4K-QLED-Google-TV-Monitor-55PQT853096/p/153526",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hf8/h76/438072172707870.jpg",
       "category": "家電 3C"
-    },
-    {
-      "name": "得意的一天 芋頭燕麥椰奶露 750公克 X 3包",
-      "price": "$227",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Great-Day-Taro-Coconut-Soup-with-Oats-750-g-X-3-Pack/p/149344",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha0/h5b/293903504801822.jpg",
-      "category": "食品飲料"
     },
     {
       "name": "Nepa 男休閒多口袋短褲",
@@ -967,7 +895,7 @@
     },
     {
       "name": "Canada Goose 男連帽外套",
-      "price": "$2,049",
+      "price": "$2,499",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
@@ -1206,6 +1134,16 @@
       "category": "其他"
     },
     {
+      "name": "Giovanni 茶樹洗髮精 1公升",
+      "price": "$379",
+      "original_price": "$475",
+      "discount_amount": "$96",
+      "promotion": "商品已折價 $96 含運",
+      "url": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Shampoo-Conditioner/Giovanni-Tea-Tree-Shampoo-1-L/p/62371",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc2/hea/432345310625822.jpg",
+      "category": "保健美容"
+    },
+    {
       "name": "紐西蘭有機富士蘋果 8.5公斤/ 50入",
       "price": "$1,349",
       "original_price": "$1,599",
@@ -1286,8 +1224,18 @@
       "category": "家具家居"
     },
     {
+      "name": "得意的一天 芋頭燕麥椰奶露 750公克 X 3包",
+      "price": "$227",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Great-Day-Taro-Coconut-Soup-with-Oats-750-g-X-3-Pack/p/149344",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha0/h5b/293903504801822.jpg",
+      "category": "食品飲料"
+    },
+    {
       "name": "Ferragamo 太陽眼鏡 SF226S 086 黑色",
-      "price": "$1,497",
+      "price": "$139",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
@@ -1297,7 +1245,7 @@
     },
     {
       "name": "Ferragamo 太陽眼鏡 SF157S 069 黑色",
-      "price": "$399",
+      "price": "$589",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
@@ -1336,5 +1284,6 @@
       "category": "食品飲料"
     }
   ],
+  "removed": [],
   "price_changes": []
 }
