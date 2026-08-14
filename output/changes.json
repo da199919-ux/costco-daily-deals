@@ -1,69 +1,8 @@
 {
   "date": "2026-08-15",
-  "generated_at": "2026-08-15 02:15",
+  "generated_at": "2026-08-15 06:50",
   "has_previous": true,
-  "added": [],
-  "removed": [
-    {
-      "name": "科克蘭 兩層隨意撕特級廚房紙巾 160張 X 12捲",
-      "price": "$609",
-      "original_price": "$669",
-      "discount_amount": "$60",
-      "promotion": "商品已折價 $60 含運",
-      "url": "https://www.costco.com.tw/c/Kirkland-Signature-Premium-Big-Roll-Create-A-Size-Paper-Towel-160-Sheet-X-12-Roll/p/1768085",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf9/ha1/260838170984478.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Nu-Pure 泉水 250毫升 X 40瓶",
-      "price": "$275",
-      "original_price": "$315",
-      "discount_amount": "$40",
-      "promotion": "商品已折價$40 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Water-Sparkling-Water/Nu-Pure-Spring-Water-250-ml-X-40-Count/p/1498699",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/he5/h63/369280608927774.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Nu-Pure 氣泡水 500毫升 X 30瓶",
-      "price": "$349",
-      "original_price": "$419",
-      "discount_amount": "$70",
-      "promotion": "商品已折價$70 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Water-Sparkling-Water/Nu-Pure-Sparkling-Water-500-ml-X-30-Count/p/1498677",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hac/h0c/240878245445662.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "王品 青花驕特釀酸梅汁 1500毫升 X 6入",
-      "price": "$459",
-      "original_price": "$559",
-      "discount_amount": "$100",
-      "promotion": "商品已折價$100 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Wowprime-Chin-Huajiao-Plum-Juice-1500-ml-X-6-Pack/p/160594",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h33/hf2/452750396325918.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "DJI Osmo 360 套裝組 雙電池+自拍棒+收納包",
-      "price": "$12,119",
-      "original_price": "$14,119",
-      "discount_amount": "$2,000",
-      "promotion": "商品已折價$2,000 含運",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/DJI-Osmo-360-Bundle-Battery-X-2-Selfie-Stick-X-1-Bag-X-1/p/159985",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h1a/h3a/466558749507614.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "格力高 杏仁果飲 原味 196毫升 X 12瓶",
-      "price": "$349",
-      "original_price": "$429",
-      "discount_amount": "$80",
-      "promotion": "商品已折價$80 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Glico-Almond-Almond-Beverage-Original-196-ml-X-12-Pack/p/135621",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h3e/hba/206032508125214.jpg",
-      "category": "食品飲料"
-    },
+  "added": [
     {
       "name": "Anda Seat 皮革電競椅 黑",
       "price": "$3,649",
@@ -75,17 +14,18 @@
       "category": "家具家居"
     }
   ],
+  "removed": [],
   "price_changes": [
     {
-      "name": "Adidas 女短襪六入組",
-      "price": "$299",
-      "original_price": "$379",
-      "discount_amount": "$80",
-      "promotion": "商品已折價$80 含運",
-      "old_price": "$379",
+      "name": "GAP 男彈性舒適休閒短褲",
+      "price": "$399",
+      "original_price": "$499",
+      "discount_amount": "$100",
+      "promotion": "商品已折價$100 含運",
+      "old_price": "$2,499",
       "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Adidas-Ladies-Ankle-Sock-6-Pack-Set/p/217975",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h15/hcb/419358417190942.jpg",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/GAP-Mens-Stretch-Casual-Pull-On-Short/p/1983365",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h26/h90/472952482267166.jpg",
       "category": "服飾配件"
     }
   ]
