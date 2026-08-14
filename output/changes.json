@@ -1,18 +1,20 @@
 {
   "date": "2026-08-14",
-  "generated_at": "2026-08-14 16:45",
+  "generated_at": "2026-08-14 21:54",
   "has_previous": true,
   "added": [
     {
-      "name": "Alepia Marseille 液態馬賽皂 馬鞭草 1000毫升 X 2入",
-      "price": "$619",
-      "original_price": "$779",
-      "discount_amount": "$160",
-      "promotion": "商品已折價 $160 含運",
-      "url": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Bath-Body/Alepia-Marseille-Soap-Verbena-1000-ml-X-2-Count/p/155690",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h32/ha8/384001257898014.jpg",
-      "category": "保健美容"
-    },
+      "name": "岩谷 3.5kW 雙重防風卡式爐 CB-KZ-3 含外盒",
+      "price": "$1,579",
+      "original_price": "$1,999",
+      "discount_amount": "$420",
+      "promotion": "商品已折價$420 含運",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Camp-Kitchen-Cooking-Gear/Iwatani-35kW-Cassette-Gas-Stove-CB-KZ-3-with-Case/p/140066",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h33/h29/149676462080030.jpg",
+      "category": "其他"
+    }
+  ],
+  "removed": [
     {
       "name": "震旦 15張細碎式超靜音高碎量多功能碎紙機 32公升",
       "price": "$6,639",
@@ -24,166 +26,54 @@
       "category": "家電 3C"
     }
   ],
-  "removed": [
-    {
-      "name": "岩谷 3.5kW 雙重防風卡式爐 CB-KZ-3 含外盒",
-      "price": "$1,579",
-      "original_price": "$1,999",
-      "discount_amount": "$420",
-      "promotion": "商品已折價$420 含運",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Camp-Kitchen-Cooking-Gear/Iwatani-35kW-Cassette-Gas-Stove-CB-KZ-3-with-Case/p/140066",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h33/h29/149676462080030.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Ariel 極致雙效洗衣精補充包 1100公克 X 6 入",
-      "price": "$949",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Laundry-Care/Ariel-Laundry-Detergent-Liquid-Refill-1100-g-X-6-Count/p/417455",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h1a/hc8/438035520225310.jpg",
-      "category": "日用品／母嬰／玩具"
-    },
-    {
-      "name": "歐司朗 40W LED 平板燈 60公分 X 60公分 1入組",
-      "price": "$869",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-40W-LED-Panel-60-cm-X-60-cm-1-Pack/p/145364-B",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hee/h4e/228335434137630.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "飛利浦 55吋 4K QLED Google TV 顯示器 55PQT8530/96",
-      "price": "$15,799",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/50-59-TVs/Philips-55-inch-4K-QLED-Google-TV-Monitor-55PQT853096/p/153526",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf8/h76/438072172707870.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "Samsung 55吋 QLED 4K AI 量子智慧顯示器 QA55QEF1AXXZW",
-      "price": "$17,999",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/50-59-TVs/Samsung-55-inch-QLED-4K-AI-Smart-Monitor-QA55QEF1AXXZW/p/153529",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h2e/h59/438072173625374.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "飛利浦 75吋 4K QLED Google TV 顯示器 75PQT8530/96",
-      "price": "$34,999",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/70-79-TVs/Philips-75-inch-4K-QLED-Google-TV-Monitor-75PQT853096/p/153525",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/he0/hf2/438072169365534.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "Tresanti Charlie 含鏡旋轉櫃",
-      "price": "$6,399",
-      "original_price": "$7,999",
-      "discount_amount": "$1,600",
-      "promotion": "商品已折價$1,600 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Tresanti-Charlie-Rotating-Vanity-with-Mirror/p/1812633",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h22/h3c/472591831597086.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Oikos 咖啡拿鐵風味蛋白飲 240毫升 X 12入",
-      "price": "$557",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Sports-Performance/Oikos-Protein-Drink-Cafe-Latte-Flavor-240-ml-X-12-Count/p/168836",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha6/h75/398741755265054.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "Ferragamo 太陽眼鏡 SF157S 069 黑色",
-      "price": "$1,999",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/Ferragamo-Sunglasses-SF157S-069-Black/p/221001",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/he3/h58/384789266006046.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "JIMMY CHOO 太陽眼鏡 BIRDIE/S BKUHA 金色",
-      "price": "$1,897",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/JIMMY-CHOO-Sunglasses-BIRDIES-BKUHA-Gold/p/250673",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h56/h55/381684948926494.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "科克蘭 兩層隨意撕特級廚房紙巾 160張 X 12捲",
-      "price": "$609",
-      "original_price": "$669",
-      "discount_amount": "$60",
-      "promotion": "商品已折價 $60 含運",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Kirkland-Signature-Premium-Big-Roll-Create-A-Size-Paper-Towel-160-Sheet-X-12-Roll/p/1768085",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf9/ha1/260838170984478.jpg",
-      "category": "日用品／母嬰／玩具"
-    }
-  ],
   "price_changes": [
     {
-      "name": "Canada Goose 男連帽外套",
+      "name": "Ferragamo 太陽眼鏡 SF226S 086 黑色",
       "price": "$2,499",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
       "old_price": "$1,999",
       "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/Canada-Goose-Mens-Expedition-Parka/p/772994",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/he7/ha0/418530817572894.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "GAP 女九分褲",
-      "price": "$2,499",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "old_price": "$1,999",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/GAP-Ladies-Ankle-Trouser/p/1971848",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h8f/451293719953438.jpg",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/Ferragamo-Sunglasses-SF226S-086-Black/p/250869",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h2f/hd2/384789269217310.jpg",
       "category": "服飾配件"
     },
     {
       "name": "Le Coq Sportif 男短袖純棉上衣",
-      "price": "$899",
+      "price": "$2,499",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
-      "old_price": "$1,999",
-      "direction": "降價",
+      "old_price": "$899",
+      "direction": "漲價",
       "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Le-Coq-Sportif-Mens-Short-Sleeve-Cotton-Tee/p/240942",
       "image": "https://www.costco.com.tw/medias/sys_master/images/ha7/hc8/455934093852702.jpg",
       "category": "服飾配件"
     },
     {
       "name": "New Balance 男經典 Logo 短袖上衣",
-      "price": "$547",
+      "price": "$2,499",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "old_price": "$547",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/New-Balance-Mens-Classic-Logo-Short-Sleeve-Tee/p/1846538",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha8/h90/434798860697630.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "米其林輪胎 / 限時優惠折扣中",
+      "price": "$600",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
       "old_price": "$1,999",
       "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/New-Balance-Mens-Classic-Logo-Short-Sleeve-Tee/p/1846538",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha8/h90/434798860697630.jpg",
-      "category": "服飾配件"
+      "url": "https://www.costco.com.tw/BazaarVoiceExclusion/freight/Michelin-Tire-Exclusive-Limited-Time-Offer/p/117622",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h1d/h2f/466199162257438.jpg",
+      "category": "其他"
     }
   ]
 }
