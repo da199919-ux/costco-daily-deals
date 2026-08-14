@@ -1,89 +1,109 @@
 {
   "date": "2026-08-14",
-  "generated_at": "2026-08-14 06:10",
+  "generated_at": "2026-08-14 11:08",
   "has_previous": true,
   "added": [
     {
-      "name": "中祥 啵啵脆酸奶洋蔥口味 45公克 X 16包",
-      "price": "$279",
-      "original_price": "$339",
-      "discount_amount": "$60",
-      "promotion": "商品已折價$60 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Chung-Hsiang-Popillow-Sour-Cream-Onion-Flavor-45-g-X-16-Pack/p/160888",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h79/hd4/469716771897374.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Richy 瑞奇 富裕蔬菜餅 960公克",
-      "price": "$269",
-      "original_price": "$329",
-      "discount_amount": "$60",
-      "promotion": "商品已折價$60 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Richy-Kenju-Vegetable-Thin-Cracker-960-g/p/151283",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h28/h32/344500441415710.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "大田海洋 鱈魚杏仁脆片 120公克 X 4入",
-      "price": "$269",
-      "original_price": "$329",
-      "discount_amount": "$60",
-      "promotion": "商品已折價$60 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Dah-Tien-Crispy-Fish-Snack-with-Almond-120-g-X-4-Pack/p/128533",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h8b/h9d/255946125344798.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Arowana 29.5吋 河馬運動行李箱",
-      "price": "$3,099",
-      "original_price": "$3,899",
-      "discount_amount": "$800",
-      "promotion": "商品已折價$800 含運",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Luggage-Backpacks/Luggage/Arowana-295-inch-Trunk-Luggage/p/154848-B",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h30/h0d/368528759717918.jpg",
+      "name": "新視紀 矯正鏡片(未滅菌) 150度 DAX",
+      "price": "$479",
+      "original_price": "$589",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-150-DAX/p/146756",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h92/h36/378821913247774.jpg",
       "category": "服飾配件"
     },
     {
-      "name": "AGIO Stockholm 戶外休閒沙發四件組",
-      "price": "$36,799",
-      "original_price": "$45,999",
-      "discount_amount": "$9,200",
-      "promotion": "商品已折價$9,200 含運",
-      "url": "https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/AGIO-Stockholm-4-Piece-Outdoor-Deep-Seating-Set/p/1934246",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/heb/h44/436453739823134.jpg",
-      "category": "其他"
+      "name": "新視紀 矯正鏡片(未滅菌) 250度 LIAM 抗藍光",
+      "price": "$479",
+      "original_price": "$589",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-250-LIAM-Anti-Blue-Light/p/146753",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hee/hb9/378821907644446.jpg",
+      "category": "服飾配件"
     },
     {
-      "name": "UCLA 男LOGO短袖上衣",
-      "price": "$347",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/UCLA-Mens-Wordmark-Logo-Short-Sleeve-Tee/p/675346",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h2a/ha6/437687786143774.jpg",
-      "category": "服飾配件"
-    }
-  ],
-  "removed": [
+      "name": "OzKleen 寵物汙漬異味清除劑 500毫升 X 2入",
+      "price": "$294",
+      "original_price": "$369",
+      "discount_amount": "$75",
+      "promotion": "商品已折價$75 含運",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Cleaning-Supplies/OzKleen-Pet-Power-500-ml-X-2-Count/p/412384",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf4/h6e/450045556785182.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
     {
       "name": "王品 青花驕特釀酸梅汁 1500毫升 X 6入",
       "price": "$459",
       "original_price": "$559",
-      "discount_amount": "",
-      "promotion": "",
+      "discount_amount": "$100",
+      "promotion": "商品已折價$100 含運",
       "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Wowprime-Chin-Huajiao-Plum-Juice-1500-ml-X-6-Pack/p/160594",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h33/hf2/452750396325918.jpg",
       "category": "食品飲料"
     },
     {
-      "name": "Cavendish Farms 冷凍馬鈴薯條 4公斤",
-      "price": "$385",
-      "original_price": "$469",
+      "name": "科克蘭 兩層隨意撕特級廚房紙巾 160張 X 12捲",
+      "price": "$609",
+      "original_price": "$669",
+      "discount_amount": "$60",
+      "promotion": "商品已折價 $60 含運",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Kirkland-Signature-Premium-Big-Roll-Create-A-Size-Paper-Towel-160-Sheet-X-12-Roll/p/1768085",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf9/ha1/260838170984478.jpg",
+      "category": "日用品／母嬰／玩具"
+    }
+  ],
+  "removed": [
+    {
+      "name": "新視紀 矯正鏡片(未滅菌) 150度 DAX",
+      "price": "$479",
+      "original_price": "$589",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/146756",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h92/h36/378821913247774.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "新視紀 矯正鏡片(未滅菌) 250度 LIAM 抗藍光",
+      "price": "$479",
+      "original_price": "$589",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/146753",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hee/hb9/378821907644446.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Alepia Marseille 液態馬賽皂 馬鞭草 1000毫升 X 2入",
+      "price": "$619",
+      "original_price": "$779",
+      "discount_amount": "$160",
+      "promotion": "商品已折價 $160 含運",
+      "url": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Bath-Body/Alepia-Marseille-Soap-Verbena-1000-ml-X-2-Count/p/155690",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h32/ha8/384001257898014.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "Nautica 男寬肩背心三入組",
+      "price": "$739",
+      "original_price": "",
       "discount_amount": "",
-      "promotion": "",
-      "url": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Frozen-Food/Cavendish-Farms-Frozen-Fries-French-Fries-4-kg/p/25258",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h4f/h1b/168536167710750.jpg",
-      "category": "其他"
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Nautica-Mens-Tank-Top-3-Pack-Set/p/8526955",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h5c/h80/470130576162846.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Berkshire 織紋柔軟舒適毯 152公分 X 177公分",
+      "price": "$247",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Berkshire-Chenille-Knit-Throw-152-cm-X-177-cm/p/1796289",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h66/hb8/402145404846110.jpg",
+      "category": "家具家居"
     }
   ],
   "price_changes": []
