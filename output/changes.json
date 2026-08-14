@@ -1,79 +1,92 @@
 {
-  "date": "2026-08-14",
-  "generated_at": "2026-08-14 21:54",
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15 02:15",
   "has_previous": true,
-  "added": [
-    {
-      "name": "岩谷 3.5kW 雙重防風卡式爐 CB-KZ-3 含外盒",
-      "price": "$1,579",
-      "original_price": "$1,999",
-      "discount_amount": "$420",
-      "promotion": "商品已折價$420 含運",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Camp-Kitchen-Cooking-Gear/Iwatani-35kW-Cassette-Gas-Stove-CB-KZ-3-with-Case/p/140066",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h33/h29/149676462080030.jpg",
-      "category": "其他"
-    }
-  ],
+  "added": [],
   "removed": [
     {
-      "name": "震旦 15張細碎式超靜音高碎量多功能碎紙機 32公升",
-      "price": "$6,639",
-      "original_price": "$7,999",
-      "discount_amount": "$1,360",
-      "promotion": "商品已折價$1,360 含運",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Office-Equipment-Accessories/p/134557",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h74/ha4/83706037829662.jpg",
+      "name": "科克蘭 兩層隨意撕特級廚房紙巾 160張 X 12捲",
+      "price": "$609",
+      "original_price": "$669",
+      "discount_amount": "$60",
+      "promotion": "商品已折價 $60 含運",
+      "url": "https://www.costco.com.tw/c/Kirkland-Signature-Premium-Big-Roll-Create-A-Size-Paper-Towel-160-Sheet-X-12-Roll/p/1768085",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf9/ha1/260838170984478.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Nu-Pure 泉水 250毫升 X 40瓶",
+      "price": "$275",
+      "original_price": "$315",
+      "discount_amount": "$40",
+      "promotion": "商品已折價$40 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Water-Sparkling-Water/Nu-Pure-Spring-Water-250-ml-X-40-Count/p/1498699",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he5/h63/369280608927774.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Nu-Pure 氣泡水 500毫升 X 30瓶",
+      "price": "$349",
+      "original_price": "$419",
+      "discount_amount": "$70",
+      "promotion": "商品已折價$70 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Water-Sparkling-Water/Nu-Pure-Sparkling-Water-500-ml-X-30-Count/p/1498677",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hac/h0c/240878245445662.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "王品 青花驕特釀酸梅汁 1500毫升 X 6入",
+      "price": "$459",
+      "original_price": "$559",
+      "discount_amount": "$100",
+      "promotion": "商品已折價$100 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Wowprime-Chin-Huajiao-Plum-Juice-1500-ml-X-6-Pack/p/160594",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h33/hf2/452750396325918.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "DJI Osmo 360 套裝組 雙電池+自拍棒+收納包",
+      "price": "$12,119",
+      "original_price": "$14,119",
+      "discount_amount": "$2,000",
+      "promotion": "商品已折價$2,000 含運",
+      "url": "https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/DJI-Osmo-360-Bundle-Battery-X-2-Selfie-Stick-X-1-Bag-X-1/p/159985",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h1a/h3a/466558749507614.jpg",
       "category": "家電 3C"
+    },
+    {
+      "name": "格力高 杏仁果飲 原味 196毫升 X 12瓶",
+      "price": "$349",
+      "original_price": "$429",
+      "discount_amount": "$80",
+      "promotion": "商品已折價$80 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Glico-Almond-Almond-Beverage-Original-196-ml-X-12-Pack/p/135621",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h3e/hba/206032508125214.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Anda Seat 皮革電競椅 黑",
+      "price": "$3,649",
+      "original_price": "$4,599",
+      "discount_amount": "$950",
+      "promotion": "商品已折價$950 含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Anda-Seat-Leather-Gaming-Chair-Black/p/151428",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0f/h6e/344500463894558.jpg",
+      "category": "家具家居"
     }
   ],
   "price_changes": [
     {
-      "name": "Ferragamo 太陽眼鏡 SF226S 086 黑色",
-      "price": "$2,499",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "old_price": "$1,999",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/Ferragamo-Sunglasses-SF226S-086-Black/p/250869",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h2f/hd2/384789269217310.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Le Coq Sportif 男短袖純棉上衣",
-      "price": "$2,499",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "old_price": "$899",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Le-Coq-Sportif-Mens-Short-Sleeve-Cotton-Tee/p/240942",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha7/hc8/455934093852702.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "New Balance 男經典 Logo 短袖上衣",
-      "price": "$2,499",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "old_price": "$547",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/New-Balance-Mens-Classic-Logo-Short-Sleeve-Tee/p/1846538",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha8/h90/434798860697630.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "米其林輪胎 / 限時優惠折扣中",
-      "price": "$600",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "old_price": "$1,999",
+      "name": "Adidas 女短襪六入組",
+      "price": "$299",
+      "original_price": "$379",
+      "discount_amount": "$80",
+      "promotion": "商品已折價$80 含運",
+      "old_price": "$379",
       "direction": "降價",
-      "url": "https://www.costco.com.tw/BazaarVoiceExclusion/freight/Michelin-Tire-Exclusive-Limited-Time-Offer/p/117622",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h1d/h2f/466199162257438.jpg",
-      "category": "其他"
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Adidas-Ladies-Ankle-Sock-6-Pack-Set/p/217975",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h15/hcb/419358417190942.jpg",
+      "category": "服飾配件"
     }
   ]
 }
