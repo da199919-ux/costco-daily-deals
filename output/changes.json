@@ -1,56 +1,19 @@
 {
   "date": "2026-08-15",
-  "generated_at": "2026-08-15 19:44",
+  "generated_at": "2026-08-15 23:44",
   "has_previous": true,
-  "added": [],
-  "removed": [
+  "added": [
     {
       "name": "一芯一粒 CNS一等白米 3公斤 X 3入",
       "price": "$600",
       "original_price": "$755",
       "discount_amount": "$155",
-      "promotion": "商品已折價 $155 含運；商品已折價 $155；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "promotion": "商品已折價 $155 含運",
       "url": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/A-Core-One-Rice-3-kg-X-3-Count/p/108352",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h6f/h6c/16007410712606.jpg",
       "category": "食品飲料"
     }
   ],
-  "price_changes": [
-    {
-      "name": "GAP 男彈性舒適休閒短褲",
-      "price": "$2,499",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "old_price": "$399",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/GAP-Mens-Stretch-Casual-Pull-On-Short/p/1983365",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h26/h90/472952482267166.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Le Coq Sportif 男短袖純棉上衣",
-      "price": "$2,499",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "old_price": "$649",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Le-Coq-Sportif-Mens-Short-Sleeve-Cotton-Tee/p/240942",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha7/hc8/455934093852702.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "馬牌 215/50 R18 92W FR UX7 輪胎",
-      "price": "$37,899",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "old_price": "$4,629",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Tire/Continental-21550-R18-92W-FR-UX7-Tire/tire/p/155336",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h4f/h54/368528938565662.jpg",
-      "category": "其他"
-    }
-  ]
+  "removed": [],
+  "price_changes": []
 }
