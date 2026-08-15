@@ -1,20 +1,32 @@
 {
   "date": "2026-08-15",
-  "generated_at": "2026-08-15 11:14",
+  "generated_at": "2026-08-15 15:08",
   "has_previous": true,
   "added": [],
   "removed": [],
   "price_changes": [
     {
       "name": "GAP 男彈性舒適休閒短褲",
-      "price": "$2,499",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "old_price": "$399",
-      "direction": "漲價",
+      "price": "$399",
+      "original_price": "$499",
+      "discount_amount": "$100",
+      "promotion": "商品已折價$100 含運",
+      "old_price": "$2,499",
+      "direction": "降價",
       "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/GAP-Mens-Stretch-Casual-Pull-On-Short/p/1983365",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h26/h90/472952482267166.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Le Coq Sportif 男短袖純棉上衣",
+      "price": "$649",
+      "original_price": "$849",
+      "discount_amount": "$200",
+      "promotion": "商品已折價$200 含運",
+      "old_price": "$2,499",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Le-Coq-Sportif-Mens-Short-Sleeve-Cotton-Tee/p/240942",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha7/hc8/455934093852702.jpg",
       "category": "服飾配件"
     }
   ]
