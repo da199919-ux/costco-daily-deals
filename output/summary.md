@@ -1,6 +1,6 @@
-# Costco 每日優惠摘要（2026-08-15）
+# Costco 每日優惠摘要（2026-08-16）
 
-更新時間：2026-08-15 23:44（台灣時間）
+更新時間：2026-08-16 03:45（台灣時間）
 共整理出 **561** 項官方線上優惠。
 本次共讀取 **586** 個官方商品頁面。
 
@@ -26,8 +26,8 @@
 
 ## 今日變化
 
-- 新增優惠：**1** 項
-- 本次未收錄：**0** 項（不代表優惠已結束）
+- 新增優惠：**2** 項
+- 本次未收錄：**2** 項（不代表優惠已結束）
 - 價格變動：**0** 項
 
 ### 價格變動
@@ -36,10 +36,12 @@
 
 ### 今日新增
 
-- [一芯一粒 CNS一等白米 3公斤 X 3入](https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/A-Core-One-Rice-3-kg-X-3-Count/p/108352)（$600）
+- [Kid-O 奶油三明治家庭號 1530公克](https://www.costco.com.tw/Food-Dining/Snacks/p/156970)（$269）
+- [Fanttik X200 Mix 無線四合一手持真空吸塵器](https://www.costco.com.tw/Automotive/p/1825869)（$1,339）
 
 ### 本次未收錄（不代表優惠已結束）
 
-- 本次沒有商品離開抓取清單。
+- [Kid-O 奶油三明治家庭號 1530公克](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Kid-O-Butter-Cracker-Sandwich-1530-g/p/156970)（$269）
+- [Fanttik X200 Mix 無線四合一手持真空吸塵器](https://www.costco.com.tw/Sports-Lifestyle/Automotive/Automotive/Fanttik-X200-Mix-4-in-1-Cordless-Car-Vacuum/p/1825869)（$1,339）
 
 完整清單請查看專案中的 `output/latest.md`。

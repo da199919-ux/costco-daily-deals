@@ -1,19 +1,50 @@
 {
-  "date": "2026-08-15",
-  "generated_at": "2026-08-15 23:44",
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16 03:45",
   "has_previous": true,
   "added": [
     {
-      "name": "一芯一粒 CNS一等白米 3公斤 X 3入",
-      "price": "$600",
-      "original_price": "$755",
-      "discount_amount": "$155",
-      "promotion": "商品已折價 $155 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/A-Core-One-Rice-3-kg-X-3-Count/p/108352",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h6f/h6c/16007410712606.jpg",
+      "name": "Kid-O 奶油三明治家庭號 1530公克",
+      "price": "$269",
+      "original_price": "$339",
+      "discount_amount": "$70",
+      "promotion": "商品已折價$70 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/156970",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h6d/h26/311830168076318.jpg",
       "category": "食品飲料"
+    },
+    {
+      "name": "Fanttik X200 Mix 無線四合一手持真空吸塵器",
+      "price": "$1,339",
+      "original_price": "$1,659",
+      "discount_amount": "$320",
+      "promotion": "商品已折價$320 含運",
+      "url": "https://www.costco.com.tw/Automotive/p/1825869",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hbf/h92/471216499589150.jpg",
+      "category": "其他"
     }
   ],
-  "removed": [],
+  "removed": [
+    {
+      "name": "Kid-O 奶油三明治家庭號 1530公克",
+      "price": "$269",
+      "original_price": "$339",
+      "discount_amount": "$70",
+      "promotion": "商品已折價$70 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Kid-O-Butter-Cracker-Sandwich-1530-g/p/156970",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h6d/h26/311830168076318.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Fanttik X200 Mix 無線四合一手持真空吸塵器",
+      "price": "$1,339",
+      "original_price": "$1,659",
+      "discount_amount": "$320",
+      "promotion": "商品已折價$320 含運",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Automotive/Automotive/Fanttik-X200-Mix-4-in-1-Cordless-Car-Vacuum/p/1825869",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hbf/h92/471216499589150.jpg",
+      "category": "其他"
+    }
+  ],
   "price_changes": []
 }
