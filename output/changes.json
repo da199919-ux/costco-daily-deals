@@ -1,30 +1,18 @@
 {
   "date": "2026-08-16",
-  "generated_at": "2026-08-16 03:45",
+  "generated_at": "2026-08-16 07:45",
   "has_previous": true,
   "added": [
     {
-      "name": "Kid-O 奶油三明治家庭號 1530公克",
-      "price": "$269",
-      "original_price": "$339",
-      "discount_amount": "$70",
-      "promotion": "商品已折價$70 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/156970",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h6d/h26/311830168076318.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Fanttik X200 Mix 無線四合一手持真空吸塵器",
-      "price": "$1,339",
-      "original_price": "$1,659",
-      "discount_amount": "$320",
-      "promotion": "商品已折價$320 含運",
-      "url": "https://www.costco.com.tw/Automotive/p/1825869",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hbf/h92/471216499589150.jpg",
+      "name": "奈森克林 細滑牙線棒 1000支",
+      "price": "$275",
+      "original_price": "$349",
+      "discount_amount": "$74",
+      "promotion": "商品已折價$74 含運",
+      "url": "https://www.costco.com.tw/p/111185",
+      "image": "https://www.costco.com.tw/medias/sys_master/products/h14/h87/8829691920414.jpg",
       "category": "其他"
-    }
-  ],
-  "removed": [
+    },
     {
       "name": "Kid-O 奶油三明治家庭號 1530公克",
       "price": "$269",
@@ -36,14 +24,46 @@
       "category": "食品飲料"
     },
     {
-      "name": "Fanttik X200 Mix 無線四合一手持真空吸塵器",
-      "price": "$1,339",
-      "original_price": "$1,659",
-      "discount_amount": "$320",
-      "promotion": "商品已折價$320 含運",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Automotive/Automotive/Fanttik-X200-Mix-4-in-1-Cordless-Car-Vacuum/p/1825869",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hbf/h92/471216499589150.jpg",
-      "category": "其他"
+      "name": "味滋康 雞昆布鰹魚高湯 1.8公升",
+      "price": "$309",
+      "original_price": "$399",
+      "discount_amount": "$90",
+      "promotion": "商品已折價$90 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/p/132561",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0c/hf5/67984469950494.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Paradise Green 芒果乾 1公斤",
+      "price": "$397",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/130032",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf7/h08/49442270969886.jpg",
+      "category": "食品飲料"
+    }
+  ],
+  "removed": [
+    {
+      "name": "Kid-O 奶油三明治家庭號 1530公克",
+      "price": "$269",
+      "original_price": "$339",
+      "discount_amount": "$70",
+      "promotion": "商品已折價$70 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/156970",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h6d/h26/311830168076318.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Paradise Green 芒果乾 1公斤",
+      "price": "$397",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Paradise-Green-Dried-Mangoes-1-kg/p/130032",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf7/h08/49442270969886.jpg",
+      "category": "食品飲料"
     }
   ],
   "price_changes": []
