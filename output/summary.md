@@ -1,6 +1,6 @@
 # Costco 每日優惠摘要（2026-08-15）
 
-更新時間：2026-08-15 06:50（台灣時間）
+更新時間：2026-08-15 11:14（台灣時間）
 共整理出 **561** 項官方線上優惠。
 本次共讀取 **586** 個官方商品頁面。
 
@@ -26,17 +26,17 @@
 
 ## 今日變化
 
-- 新增優惠：**1** 項
+- 新增優惠：**0** 項
 - 本次未收錄：**0** 項（不代表優惠已結束）
 - 價格變動：**1** 項
 
 ### 價格變動
 
-- **降價**：[GAP 男彈性舒適休閒短褲](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/GAP-Mens-Stretch-Casual-Pull-On-Short/p/1983365) $2,499 → $399
+- **漲價**：[GAP 男彈性舒適休閒短褲](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/GAP-Mens-Stretch-Casual-Pull-On-Short/p/1983365) $399 → $2,499
 
 ### 今日新增
 
-- [Anda Seat 皮革電競椅 黑](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Anda-Seat-Leather-Gaming-Chair-Black/p/151428)（$3,649）
+- 今天沒有新增優惠。
 
 ### 本次未收錄（不代表優惠已結束）
 
