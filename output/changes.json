@@ -1,8 +1,160 @@
 {
   "date": "2026-08-16",
-  "generated_at": "2026-08-16 12:09",
+  "generated_at": "2026-08-16 16:56",
   "has_previous": true,
   "added": [
+    {
+      "name": "Petitzel 石榴醋添加濃縮飲料 900毫升 X 2瓶",
+      "price": "$329",
+      "original_price": "$399",
+      "discount_amount": "$70",
+      "promotion": "商品已折價$70 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Petitzel-Pomegranate-Fruit-Vinegar-Drink-900-ml-X-2-Count/p/208768",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h89/ha6/192680631042078.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "TurboCar 多用途餐車附碗籃",
+      "price": "$3,999",
+      "original_price": "$4,999",
+      "discount_amount": "$1,000",
+      "promotion": "商品已折價$1,000 含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/TurboCart-Utility-Cart-with-Baskets/p/156636",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb8/h01/449275213873182.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "La Belle 素色涼感被 150公分 X 200公分 柔粉",
+      "price": "$999",
+      "original_price": "$1,259",
+      "discount_amount": "$260",
+      "promotion": "商品已折價$260 含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/La-Belle-ICE-Cool-Quilt-150-cm-X-200-cm-Pink/p/158611",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h61/h2c/433626094731294.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Bentley Designs Dansk 雙層茶几",
+      "price": "$3,495",
+      "original_price": "$4,395",
+      "discount_amount": "$900",
+      "promotion": "商品已折價$900 含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Bentley-Designs-Dansk-Scandi-Oak-Coffee-Table-With-Shelf/p/143697",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h05/hb7/209599964971038.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Cheers 頭層牛皮三人座電動沙發茶几款 白",
+      "price": "$31,999",
+      "original_price": "$39,999",
+      "discount_amount": "$8,000",
+      "promotion": "商品已折價$8,000 含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Cheers-Leather-Power-Sofa-3-Seater-White/p/155576",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h07/h4c/484306804211742.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Cheers 頭層牛皮電動躺椅 白",
+      "price": "$14,399",
+      "original_price": "$17,999",
+      "discount_amount": "$3,600",
+      "promotion": "商品已折價$3,600 含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Cheers-Leather-Power-Recliner-White/p/159983",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf2/h6f/484306821808158.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "新視紀 矯正鏡片(未滅菌) 150度 LIAM 抗藍光",
+      "price": "$479",
+      "original_price": "$589",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-150-LIAM-Anti-Blue-Light/p/146750",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h60/h29/378821902958622.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "OzKleen 寵物汙漬異味清除劑 500毫升 X 2入",
+      "price": "$294",
+      "original_price": "$369",
+      "discount_amount": "$75",
+      "promotion": "商品已折價$75 含運",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Cleaning-Supplies/OzKleen-Pet-Power-500-ml-X-2-Count/p/412384",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf4/h6e/450045556785182.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "Trinity 五層多功能大型置物架 黑色",
+      "price": "$2,729",
+      "original_price": "$3,429",
+      "discount_amount": "$700",
+      "promotion": "商品已折價$700 含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Trinity-5-Tier-NSF-Wire-Rack-with-Wheels-Black/p/106816",
+      "image": "https://www.costco.com.tw/medias/sys_master/products/h8f/hc2/8825996050462.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "新視紀 矯正鏡片(未滅菌) 275度 MCKAY 抗藍光",
+      "price": "$479",
+      "original_price": "$589",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-275-MCKAY-Anti-Blue-Light/p/146768",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h24/hb2/378821998051358.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "科克蘭 冷壓初榨椰子油 2.48公升",
+      "price": "$529",
+      "original_price": "$599",
+      "discount_amount": "$70",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Kirkland-Signature-Virgin-Coconut-Oil-248-L/p/1076366",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hea/h60/11171010084894.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "CJ Bibigo 韓式辣炒年糕 1080公克",
+      "price": "$277",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/CJ-Bibigo-Korean-Sweet-Spicy-Tteokbokki-1080-g/p/153693",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h19/hb2/381454903967774.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Over & Back 彩繪花紋馬克杯 414毫升 X 6件組",
+      "price": "$457",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Over-Back-Floral-Mugs-414-ml-X-6-Piece-Set/p/1324688",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h18/he9/433249360478238.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "CASA 單人3.5呎天然乳膠Q彈床墊 107公分 X 190公分 X 7.5公分",
+      "price": "$4,159",
+      "original_price": "$5,199",
+      "discount_amount": "$1,040",
+      "promotion": "商品已折價$1,040 含運",
+      "url": "https://www.costco.com.tw/Bedding/p/127338",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfe/h8a/30628868522014.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Don Home 萊賽爾雙人加大兩用被套6件組 語菓",
+      "price": "$2,399",
+      "original_price": "$2,999",
+      "discount_amount": "$600",
+      "promotion": "商品已折價$600 含運",
+      "url": "https://www.costco.com.tw/Bedding/p/3509251",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h5f/h72/327562520592414.jpg",
+      "category": "其他"
+    }
+  ],
+  "removed": [
     {
       "name": "小善存 綜合維他命+維他命C 120錠 (60錠 X 2瓶)",
       "price": "$764",
@@ -64,6 +216,16 @@
       "category": "其他"
     },
     {
+      "name": "Fanttik X200 Mix 無線四合一手持真空吸塵器",
+      "price": "$1,339",
+      "original_price": "$1,659",
+      "discount_amount": "$320",
+      "promotion": "商品已折價$320 含運",
+      "url": "https://www.costco.com.tw/Automotive/p/1825869",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hbf/h92/471216499589150.jpg",
+      "category": "其他"
+    },
+    {
       "name": "丹普 時尚枕 50公分 X 31公分 X 5-10公分",
       "price": "$2,479",
       "original_price": "$3,099",
@@ -71,16 +233,6 @@
       "promotion": "商品已折價$620 含運",
       "url": "https://www.costco.com.tw/Bedding/p/159991",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hc3/hac/448868480417822.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "KASACA 無邊框碳纖維匹克球拍套組",
-      "price": "$1,749",
-      "original_price": "$2,189",
-      "discount_amount": "$440",
-      "promotion": "商品已折價$440 含運",
-      "url": "https://www.costco.com.tw/p/156966",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h79/h9e/403520064815134.jpg",
       "category": "其他"
     },
     {
@@ -151,16 +303,6 @@
       "promotion": "商品已折價$200 含運",
       "url": "https://www.costco.com.tw/Bedding/p/159384",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hf1/h87/450418175868958.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "La Belle 素色涼感被 150公分 X 200公分 杏色",
-      "price": "$999",
-      "original_price": "$1,259",
-      "discount_amount": "$260",
-      "promotion": "商品已折價$260 含運",
-      "url": "https://www.costco.com.tw/Bedding/p/458611",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h83/hdf/433626153353246.jpg",
       "category": "其他"
     },
     {
@@ -274,16 +416,6 @@
       "category": "食品飲料"
     },
     {
-      "name": "Paradise Green 芒果乾 1公斤",
-      "price": "$397",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Paradise-Green-Dried-Mangoes-1-kg/p/130032",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf7/h08/49442270969886.jpg",
-      "category": "食品飲料"
-    },
-    {
       "name": "CJ Bibigo 韓式辣炒年糕 1080公克",
       "price": "$277",
       "original_price": "",
@@ -304,16 +436,6 @@
       "category": "其他"
     },
     {
-      "name": "Fanttik X200 Mix 無線四合一手持真空吸塵器",
-      "price": "$1,339",
-      "original_price": "$1,659",
-      "discount_amount": "$320",
-      "promotion": "商品已折價$320 含運",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Automotive/Automotive/Fanttik-X200-Mix-4-in-1-Cordless-Car-Vacuum/p/1825869",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hbf/h92/471216499589150.jpg",
-      "category": "其他"
-    },
-    {
       "name": "新視紀 矯正鏡片(未滅菌) 150度 DAX",
       "price": "$479",
       "original_price": "$589",
@@ -322,168 +444,6 @@
       "url": "https://www.costco.com.tw/Clothing-Accessories/p/146756",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h92/h36/378821913247774.jpg",
       "category": "服飾配件"
-    }
-  ],
-  "removed": [
-    {
-      "name": "奈森克林 細滑牙線棒 1000支",
-      "price": "$275",
-      "original_price": "$349",
-      "discount_amount": "$74",
-      "promotion": "商品已折價$74 含運",
-      "url": "https://www.costco.com.tw/p/111185",
-      "image": "https://www.costco.com.tw/medias/sys_master/products/h14/h87/8829691920414.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "味滋康 雞昆布鰹魚高湯 1.8公升",
-      "price": "$309",
-      "original_price": "$399",
-      "discount_amount": "$90",
-      "promotion": "商品已折價$90 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/p/132561",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h0c/hf5/67984469950494.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Petitzel 石榴醋添加濃縮飲料 900毫升 X 2瓶",
-      "price": "$329",
-      "original_price": "$399",
-      "discount_amount": "$70",
-      "promotion": "商品已折價$70 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Petitzel-Pomegranate-Fruit-Vinegar-Drink-900-ml-X-2-Count/p/208768",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h89/ha6/192680631042078.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Trinity 五層多功能大型置物架 黑色",
-      "price": "$2,729",
-      "original_price": "$3,429",
-      "discount_amount": "$700",
-      "promotion": "商品已折價$700 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Trinity-5-Tier-NSF-Wire-Rack-with-Wheels-Black/p/106816",
-      "image": "https://www.costco.com.tw/medias/sys_master/products/h8f/hc2/8825996050462.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "La Belle 素色涼感被 150公分 X 200公分 柔粉",
-      "price": "$999",
-      "original_price": "$1,259",
-      "discount_amount": "$260",
-      "promotion": "商品已折價$260 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/La-Belle-ICE-Cool-Quilt-150-cm-X-200-cm-Pink/p/158611",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h61/h2c/433626094731294.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "TurboCar 多用途餐車附碗籃",
-      "price": "$3,999",
-      "original_price": "$4,999",
-      "discount_amount": "$1,000",
-      "promotion": "商品已折價$1,000 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/TurboCart-Utility-Cart-with-Baskets/p/156636",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb8/h01/449275213873182.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Cheers 頭層牛皮三人座電動沙發茶几款 白",
-      "price": "$31,999",
-      "original_price": "$39,999",
-      "discount_amount": "$8,000",
-      "promotion": "商品已折價$8,000 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Cheers-Leather-Power-Sofa-3-Seater-White/p/155576",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h07/h4c/484306804211742.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Bentley Designs Dansk 雙層茶几",
-      "price": "$3,495",
-      "original_price": "$4,395",
-      "discount_amount": "$900",
-      "promotion": "商品已折價$900 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Bentley-Designs-Dansk-Scandi-Oak-Coffee-Table-With-Shelf/p/143697",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h05/hb7/209599964971038.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Cheers 頭層牛皮電動躺椅 白",
-      "price": "$14,399",
-      "original_price": "$17,999",
-      "discount_amount": "$3,600",
-      "promotion": "商品已折價$3,600 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Cheers-Leather-Power-Recliner-White/p/159983",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf2/h6f/484306821808158.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "新視紀 矯正鏡片(未滅菌) 150度 LIAM 抗藍光",
-      "price": "$479",
-      "original_price": "$589",
-      "discount_amount": "$110",
-      "promotion": "商品已折價$110 含運",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-150-LIAM-Anti-Blue-Light/p/146750",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h60/h29/378821902958622.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "OzKleen 寵物汙漬異味清除劑 500毫升 X 2入",
-      "price": "$294",
-      "original_price": "$369",
-      "discount_amount": "$75",
-      "promotion": "商品已折價$75 含運",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Cleaning-Supplies/OzKleen-Pet-Power-500-ml-X-2-Count/p/412384",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf4/h6e/450045556785182.jpg",
-      "category": "日用品／母嬰／玩具"
-    },
-    {
-      "name": "新視紀 矯正鏡片(未滅菌) 275度 MCKAY 抗藍光",
-      "price": "$479",
-      "original_price": "$589",
-      "discount_amount": "$110",
-      "promotion": "商品已折價$110 含運",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-275-MCKAY-Anti-Blue-Light/p/146768",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h24/hb2/378821998051358.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "科克蘭 冷壓初榨椰子油 2.48公升",
-      "price": "$529",
-      "original_price": "$599",
-      "discount_amount": "$70",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Kirkland-Signature-Virgin-Coconut-Oil-248-L/p/1076366",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hea/h60/11171010084894.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Paradise Green 芒果乾 1公斤",
-      "price": "$397",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/130032",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf7/h08/49442270969886.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "CJ Bibigo 韓式辣炒年糕 1080公克",
-      "price": "$277",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/CJ-Bibigo-Korean-Sweet-Spicy-Tteokbokki-1080-g/p/153693",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h19/hb2/381454903967774.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Over & Back 彩繪花紋馬克杯 414毫升 X 6件組",
-      "price": "$457",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Over-Back-Floral-Mugs-414-ml-X-6-Piece-Set/p/1324688",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h18/he9/433249360478238.jpg",
-      "category": "家具家居"
     }
   ],
   "price_changes": []
