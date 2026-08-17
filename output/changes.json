@@ -1,8 +1,110 @@
 {
-  "date": "2026-08-17",
-  "generated_at": "2026-08-17 22:01",
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18 01:55",
   "has_previous": true,
   "added": [
+    {
+      "name": "奧利奧 香草口味夾心餅乾 105公克 X 21入",
+      "price": "$439",
+      "original_price": "$549",
+      "discount_amount": "",
+      "promotion": "需一次購買活動組數才可享受此優惠 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/OREO-Vanilla-Flavor-Sandwich-Cookies-105-g-X-21-Pack/p/526453",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/haf/h3a/467458984050718.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "高端食品 藜麥椒鹽蘇打餅 80公克 X 10入",
+      "price": "$389",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Gao-Duan-Quinoa-Soda-Cracker-80-g-X-10-Pack/p/108586",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf0/h93/380783489974302.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "CASA 雙人天然乳膠Q彈床墊 152公分 X 190公分 X 7.5公分",
+      "price": "$5,599",
+      "original_price": "$6,999",
+      "discount_amount": "$1,400",
+      "promotion": "商品已折價$1,400 含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/CASA-Natural-Latex-Mattress-Topper-152-cm-X-190-cm-X-75-cm/p/127339",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hdb/h76/30628868980766.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Panasonic IH 電子鍋 SR-FE109",
+      "price": "$4,699",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Cookers-Oven-Microwaves-Food-Waste-Machine/Panasonic-IH-Rice-Cooker-SR-FE109/p/158438",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h62/h02/454001505861662.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "飛利浦 2.1 聲道 無線重低音杜比全景聲聲霸 TAB6309",
+      "price": "$6,039",
+      "original_price": "$7,599",
+      "discount_amount": "$1,560",
+      "promotion": "商品已折價$1,560 含運",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Soundbars-Home-Theater/Philips-21-CH-Soundbar-TAB6309/p/147918",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hab/h2b/278946106507294.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "Paradise Green 芒果乾 1公斤",
+      "price": "$397",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Paradise-Green-Dried-Mangoes-1-kg/p/130032",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf7/h08/49442270969886.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "亨氏 法式龍蝦濃湯 1公升 X 2入",
+      "price": "$239",
+      "original_price": "$399",
+      "discount_amount": "$160",
+      "promotion": "商品已折價$160 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/p/150603",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfb/hbf/325606304186398.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "艾美特 12吋DC電扇 FS30253R",
+      "price": "$1,899",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Airmate-12-inch-DC-Inverter-Fan-FS30253R/p/157027",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h6c/h38/450418078515230.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "樂司科 赤色風暴渦輪風扇 #X12900TW",
+      "price": "$3,399",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Lasko-X-Blower-Multi-Position-Utility-Blower-Fan-X12900TW/p/137007",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hdb/h0b/115073010171934.jpg",
+      "category": "家電 3C"
+    }
+  ],
+  "removed": [
+    {
+      "name": "奧利奧 香草口味夾心餅乾 105公克 X 21入",
+      "price": "$439",
+      "original_price": "$549",
+      "discount_amount": "",
+      "promotion": "需一次購買活動組數才可享受此優惠 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/526453",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/haf/h3a/467458984050718.jpg",
+      "category": "食品飲料"
+    },
     {
       "name": "高端食品 藜麥椒鹽蘇打餅 80公克 X 10入",
       "price": "$389",
@@ -94,6 +196,26 @@
       "category": "其他"
     },
     {
+      "name": "飛利浦 2.1 聲道 無線重低音杜比全景聲聲霸 TAB6309",
+      "price": "$6,039",
+      "original_price": "$7,599",
+      "discount_amount": "$1,560",
+      "promotion": "商品已折價$1,560 含運",
+      "url": "https://www.costco.com.tw/p/147918",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hab/h2b/278946106507294.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "LEGO 城市系列 火車 60511 / 7歲以上",
+      "price": "$2,049",
+      "original_price": "$2,569",
+      "discount_amount": "$520",
+      "promotion": "商品已折價$520 含運",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Building-Sets-Blocks/LEGO-City-Train-60511-Ages-7-and-Up/p/160556",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h68/hbf/466558761828382.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
       "name": "Paradise Green 芒果乾 1公斤",
       "price": "$397",
       "original_price": "",
@@ -101,6 +223,16 @@
       "promotion": "含運",
       "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/130032",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hf7/h08/49442270969886.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "三上食楽 燃太郎 辣湯拉麵 187公克 X 6袋",
+      "price": "$297",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Mikami-Shokuraku-Spicy-Soup-Ramen-187-g-X-6-Pack/p/339638",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h89/h68/415897492684830.jpg",
       "category": "食品飲料"
     },
     {
@@ -154,216 +286,18 @@
       "category": "其他"
     }
   ],
-  "removed": [
-    {
-      "name": "蘭諾 衣物抗黃抗菌芳香豆 柑橘香 1900毫升",
-      "price": "$495",
-      "original_price": "$615",
-      "discount_amount": "$120",
-      "promotion": "商品已折價$120 含運",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/150978",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hbb/hed/344500437811230.jpg",
-      "category": "日用品／母嬰／玩具"
-    },
-    {
-      "name": "豐力富 紐西蘭頂級純濃奶粉 2.6公斤",
-      "price": "$631",
-      "original_price": "$789",
-      "discount_amount": "",
-      "promotion": "需一次購買活動組數才可享受此優惠 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/p/79922",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h24/hb9/15916554420254.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "樂天 卡士達派 27公克 X 36入",
-      "price": "$389",
-      "original_price": "$489",
-      "discount_amount": "$100",
-      "promotion": "商品已折價$100 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/227320",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h2a/h84/190634467098654.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "五月花 三層抽取式廚房紙巾 80抽 X 24入",
-      "price": "$739",
-      "original_price": "$929",
-      "discount_amount": "$190",
-      "promotion": "商品已折價$190 含運",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/239289",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hdc/h50/151758801895454.jpg",
-      "category": "日用品／母嬰／玩具"
-    },
-    {
-      "name": "萬歲牌 總匯點心包 42公克 X 20包",
-      "price": "$579",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/229227",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h43/h9b/466558898143262.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "舒潔 濕式衛生紙 46張 X 32入",
-      "price": "$1,429",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/123333",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h62/h92/312615946485790.jpg",
-      "category": "日用品／母嬰／玩具"
-    },
-    {
-      "name": "高端食品 藜麥椒鹽蘇打餅 80公克 X 10入",
-      "price": "$389",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Gao-Duan-Quinoa-Soda-Cracker-80-g-X-10-Pack/p/108586",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf0/h93/380783489974302.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "百力滋 風味棒餅組 (番茄野菜 & 義式香草烤雞) 12入",
-      "price": "$359",
-      "original_price": "$439",
-      "discount_amount": "$80",
-      "promotion": "商品已折價$80 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/352414",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h18/h4e/261774607384606.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "富里 富麗有機白米 1.5公斤 X 3入",
-      "price": "$394",
-      "original_price": "$489",
-      "discount_amount": "$95",
-      "promotion": "商品已折價$95 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/p/136767",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h05/h7b/119755030659102.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "CASA 雙人天然乳膠Q彈床墊 152公分 X 190公分 X 7.5公分",
-      "price": "$5,599",
-      "original_price": "$6,999",
-      "discount_amount": "$1,400",
-      "promotion": "商品已折價$1,400 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/CASA-Natural-Latex-Mattress-Topper-152-cm-X-190-cm-X-75-cm/p/127339",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hdb/h76/30628868980766.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Panasonic IH 電子鍋 SR-FE109",
-      "price": "$4,699",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Cookers-Oven-Microwaves-Food-Waste-Machine/Panasonic-IH-Rice-Cooker-SR-FE109/p/158438",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h62/h02/454001505861662.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "Paradise Green 芒果乾 1公斤",
-      "price": "$397",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Paradise-Green-Dried-Mangoes-1-kg/p/130032",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf7/h08/49442270969886.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "奧利奧 香草口味夾心餅乾 105公克 X 21入",
-      "price": "$439",
-      "original_price": "$549",
-      "discount_amount": "",
-      "promotion": "需一次購買活動組數才可享受此優惠 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/OREO-Vanilla-Flavor-Sandwich-Cookies-105-g-X-21-Pack/p/526453",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/haf/h3a/467458984050718.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "飛利浦 2.1 聲道 無線重低音杜比全景聲聲霸 TAB6309",
-      "price": "$6,039",
-      "original_price": "$7,599",
-      "discount_amount": "$1,560",
-      "promotion": "商品已折價$1,560 含運",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Soundbars-Home-Theater/Philips-21-CH-Soundbar-TAB6309/p/147918",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hab/h2b/278946106507294.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "艾美特 12吋DC電扇 FS30253R",
-      "price": "$1,899",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Airmate-12-inch-DC-Inverter-Fan-FS30253R/p/157027",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h6c/h38/450418078515230.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "樂司科 赤色風暴渦輪風扇 #X12900TW",
-      "price": "$3,399",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Lasko-X-Blower-Multi-Position-Utility-Blower-Fan-X12900TW/p/137007",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hdb/h0b/115073010171934.jpg",
-      "category": "家電 3C"
-    }
-  ],
   "price_changes": [
     {
-      "name": "Canada Goose 男連帽外套",
-      "price": "$70",
+      "name": "Max & Mia 女無袖連身洋裝",
+      "price": "$647",
       "original_price": "",
       "discount_amount": "",
-      "promotion": "",
-      "old_price": "$39,997",
+      "promotion": "含運",
+      "old_price": "$847",
       "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/Canada-Goose-Mens-Expedition-Parka/p/772994",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/he7/ha0/418530817572894.jpg",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Max-Mia-Ladies-Sleeveless-Dress/p/1912115",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h19/h3f/379632630693918.jpg",
       "category": "服飾配件"
-    },
-    {
-      "name": "Ferragamo 太陽眼鏡 SF226S 086 黑色",
-      "price": "$70",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "old_price": "$2,499",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/Ferragamo-Sunglasses-SF226S-086-Black/p/250869",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h2f/hd2/384789269217310.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "米其林輪胎 / 限時優惠折扣中",
-      "price": "$70",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "old_price": "$600",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/BazaarVoiceExclusion/freight/Michelin-Tire-Exclusive-Limited-Time-Offer/p/117622",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h1d/h2f/466199162257438.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "馬牌 215/50 R18 92W FR UX7 輪胎",
-      "price": "$70",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "old_price": "$37,899",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Tire/Continental-21550-R18-92W-FR-UX7-Tire/tire/p/155336",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h4f/h54/368528938565662.jpg",
-      "category": "其他"
     }
   ]
 }
