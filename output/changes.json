@@ -1,9 +1,8 @@
 {
-  "date": "2026-08-18",
-  "generated_at": "2026-08-18 22:05",
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19 03:08",
   "has_previous": true,
-  "added": [],
-  "removed": [
+  "added": [
     {
       "name": "Buffalo 男針織平口內褲 5入組 L",
       "price": "$615",
@@ -13,7 +12,74 @@
       "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Buffalo-Mens-Knit-Boxers-5-Pack-Set-L/p/155497",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hea/h51/470130291769374.jpg",
       "category": "服飾配件"
+    },
+    {
+      "name": "西雅圖 冰拿鐵 濃焦糖風味 30公克 X 40入",
+      "price": "$379",
+      "original_price": "$469",
+      "discount_amount": "$90",
+      "promotion": "商品已折價$90 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Barista-Iced-Latte-Caramel-Flavor-30-g-X-40-Pack/p/146963",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h9d/ha0/258345332637726.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "JIMMY CHOO 太陽眼鏡 ALIANA/S RHLIR 金色",
+      "price": "$1,897",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/JIMMY-CHOO-Sunglasses-ALIANAS-RHLIR-Gold/p/250672",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hed/h6e/381684949123102.jpg",
+      "category": "服飾配件"
     }
   ],
-  "price_changes": []
+  "removed": [
+    {
+      "name": "Paradise Green 芒果乾 1公斤",
+      "price": "$397",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Paradise-Green-Dried-Mangoes-1-kg/p/130032",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf7/h08/49442270969886.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "紅龍 冷凍雞肉捲 220公克 X 6入",
+      "price": "$399",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "指定夏日涼感商品：買2件享8.5折，買3件享8折（結帳時依活動條件計算）",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Red-Dragon-Frozen-Chicken-Bakes-220-g-X-6-Count/p/68068",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hbd/hb0/33857915387934.jpg",
+      "category": "食品飲料"
+    }
+  ],
+  "price_changes": [
+    {
+      "name": "CJ Bibigo 韓式辣炒年糕 1080公克",
+      "price": "$339",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "old_price": "$277",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/CJ-Bibigo-Korean-Sweet-Spicy-Tteokbokki-1080-g/p/153693",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h19/hb2/381454903967774.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "艾美特 14吋DC 直流遙控立扇 FS35150R",
+      "price": "$1,679",
+      "original_price": "$2,099",
+      "discount_amount": "$420",
+      "promotion": "商品已折價$420 含運",
+      "old_price": "$2,099",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Airmate-14-inch-DC-Inverter-Stand-Fan-FS35150R/p/149335",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h27/hee/333377589444638.jpg",
+      "category": "家電 3C"
+    }
+  ]
 }
