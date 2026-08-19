@@ -1,70 +1,8 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19 12:07",
+  "generated_at": "2026-08-19 22:03",
   "has_previous": true,
   "added": [
-    {
-      "name": "飛利浦 Sonicare G3 智能護齦刷頭 6入 HX9053",
-      "price": "$1,239",
-      "original_price": "$1,559",
-      "discount_amount": "$320",
-      "promotion": "商品已折價$320 含運",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Electric-Toothbrushes-Water-Flossers/Philips-Sonicare-G3-Clean-Replacement-Toothbrush-Heads-6-Count-HX9053/p/151105",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb0/hc6/332442436206622.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "Hurley 女帆布鞋",
-      "price": "$679",
-      "original_price": "$859",
-      "discount_amount": "$180",
-      "promotion": "商品已折價$180 含運",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Hurley-Ladies-Canvas-Shoe/p/1975208",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h17/h8b/489268521697310.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "雀巢 西西里風檸檬咖啡 15公克 X 40入",
-      "price": "$369",
-      "original_price": "$469",
-      "discount_amount": "$100",
-      "promotion": "商品已折價$100 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Nescafe-Sicily-Coffee-15-g-X-40-Pack/p/150636",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb6/he6/414650589544478.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "夏普 12 公升 自動除菌離子空氣清淨除濕機 DW-CA12FT-S",
-      "price": "$11,599",
-      "original_price": "$14,499",
-      "discount_amount": "$2,900",
-      "promotion": "商品已折價$2,900 含運",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Dehumidifiers-Dry-Cabinets/SHARP-12-L-Dehumidifier-DW-CA12FT-S/p/158448",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h95/h03/431395289202718.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "SolRBrite 太陽能螢火蟲造型燈",
-      "price": "$409",
-      "original_price": "$519",
-      "discount_amount": "$110",
-      "promotion": "商品已折價$110 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/SolRBrite-Solar-Firefly-Lights/p/1938098",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hbb/h71/450045485809694.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "好麗友 烏龜脆片 巧克力口味 80公克 X 8包",
-      "price": "$279",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Orion-Turtle-Chips-Choco-Churros-Flavor-80-g-X-8-Pack/p/323285",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hc7/hf1/418236893626398.jpg",
-      "category": "食品飲料"
-    }
-  ],
-  "removed": [
     {
       "name": "老楊 鹹蛋黃餅 20公克 X 32入 / 共640公克",
       "price": "$225",
@@ -74,6 +12,58 @@
       "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/TK-Food-Salted-Egg-Yolk-Cookies-20-g-X-32-Pack/p/215324",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hfa/hf7/64294442434590.jpg",
       "category": "食品飲料"
+    },
+    {
+      "name": "紅龍 冷凍雞肉捲 220公克 X 6入",
+      "price": "$399",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "指定夏日涼感商品：買2件享8.5折，買3件享8折（結帳時依活動條件計算）",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Red-Dragon-Frozen-Chicken-Bakes-220-g-X-6-Count/p/68068",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hbd/hb0/33857915387934.jpg",
+      "category": "食品飲料"
+    }
+  ],
+  "removed": [
+    {
+      "name": "科克蘭 冷壓初榨椰子油 2.48公升",
+      "price": "$529",
+      "original_price": "$599",
+      "discount_amount": "$70",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Kirkland-Signature-Virgin-Coconut-Oil-248-L/p/1076366",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hea/h60/11171010084894.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Mizuno Rb Max 高爾夫三層球 24顆",
+      "price": "$1,159",
+      "original_price": "$1,449",
+      "discount_amount": "$290",
+      "promotion": "商品已折價$290 含運",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Team-Sports/Mizuno-Rb-Max-3-Piece-Golf-Ball-24-Count/p/151179",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/haa/h9c/414650589413406.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "科克蘭 冷凍養殖超特大生蝦仁 1.5磅 / 680公克, 每磅11-15隻",
+      "price": "$609",
+      "original_price": "$659",
+      "discount_amount": "$50",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Kirkland-Signature-Frozen-Raw-Tail-On-Shrimp-15-LBs-680-g-11-15-Count-LB/p/2255533",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h82/h65/137772763709470.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Advent 女短袖睡衣套組",
+      "price": "$547",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Pajamas/Advent-Ladies-Short-Sleeve-Pajama-Set/p/156611",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h54/h03/437687004626974.jpg",
+      "category": "服飾配件"
     }
   ],
   "price_changes": []
