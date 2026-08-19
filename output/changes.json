@@ -1,8 +1,80 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19 07:46",
+  "generated_at": "2026-08-19 12:07",
   "has_previous": true,
-  "added": [],
-  "removed": [],
+  "added": [
+    {
+      "name": "飛利浦 Sonicare G3 智能護齦刷頭 6入 HX9053",
+      "price": "$1,239",
+      "original_price": "$1,559",
+      "discount_amount": "$320",
+      "promotion": "商品已折價$320 含運",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Electric-Toothbrushes-Water-Flossers/Philips-Sonicare-G3-Clean-Replacement-Toothbrush-Heads-6-Count-HX9053/p/151105",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb0/hc6/332442436206622.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "Hurley 女帆布鞋",
+      "price": "$679",
+      "original_price": "$859",
+      "discount_amount": "$180",
+      "promotion": "商品已折價$180 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Hurley-Ladies-Canvas-Shoe/p/1975208",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h17/h8b/489268521697310.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "雀巢 西西里風檸檬咖啡 15公克 X 40入",
+      "price": "$369",
+      "original_price": "$469",
+      "discount_amount": "$100",
+      "promotion": "商品已折價$100 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Nescafe-Sicily-Coffee-15-g-X-40-Pack/p/150636",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb6/he6/414650589544478.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "夏普 12 公升 自動除菌離子空氣清淨除濕機 DW-CA12FT-S",
+      "price": "$11,599",
+      "original_price": "$14,499",
+      "discount_amount": "$2,900",
+      "promotion": "商品已折價$2,900 含運",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Dehumidifiers-Dry-Cabinets/SHARP-12-L-Dehumidifier-DW-CA12FT-S/p/158448",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h95/h03/431395289202718.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "SolRBrite 太陽能螢火蟲造型燈",
+      "price": "$409",
+      "original_price": "$519",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/SolRBrite-Solar-Firefly-Lights/p/1938098",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hbb/h71/450045485809694.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "好麗友 烏龜脆片 巧克力口味 80公克 X 8包",
+      "price": "$279",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Orion-Turtle-Chips-Choco-Churros-Flavor-80-g-X-8-Pack/p/323285",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc7/hf1/418236893626398.jpg",
+      "category": "食品飲料"
+    }
+  ],
+  "removed": [
+    {
+      "name": "老楊 鹹蛋黃餅 20公克 X 32入 / 共640公克",
+      "price": "$225",
+      "original_price": "$275",
+      "discount_amount": "$50",
+      "promotion": "商品已折價$50 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/TK-Food-Salted-Egg-Yolk-Cookies-20-g-X-32-Pack/p/215324",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfa/hf7/64294442434590.jpg",
+      "category": "食品飲料"
+    }
+  ],
   "price_changes": []
 }
