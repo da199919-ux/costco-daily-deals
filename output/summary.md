@@ -1,6 +1,6 @@
 # Costco 每日優惠摘要（2026-08-20）
 
-更新時間：2026-08-20 17:05（台灣時間）
+更新時間：2026-08-20 21:21（台灣時間）
 共整理出 **486** 項官方線上優惠。
 本次共讀取 **508** 個官方商品頁面。
 
@@ -27,7 +27,7 @@
 ## 今日變化
 
 - 新增優惠：**0** 項
-- 本次未收錄：**2** 項（不代表優惠已結束）
+- 本次未收錄：**0** 項（不代表優惠已結束）
 - 價格變動：**0** 項
 
 ### 價格變動
@@ -40,7 +40,6 @@
 
 ### 本次未收錄（不代表優惠已結束）
 
-- [Yakult 消化蔬果粉 8.2公克 X 60包](https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Yakult-Vegetables-Fruits-Smoothie-82-g-X-60-Sachet/p/567877)（$904）
-- [Biore Zero 爽身粉濕巾 20片裝 柔和皂香 X 2包 + 涼感皂香 X 2包](https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/Biore-Zero-Powder-Wipes-20-Piece-Soap-Scent-X-2-Pack-Cool-Soap-Scent-X-2-Pack/p/248654)（$419）
+- 本次沒有商品離開抓取清單。
 
 完整清單請查看專案中的 `output/latest.md`。

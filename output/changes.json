@@ -1,29 +1,8 @@
 {
   "date": "2026-08-20",
-  "generated_at": "2026-08-20 17:05",
+  "generated_at": "2026-08-20 21:21",
   "has_previous": true,
   "added": [],
-  "removed": [
-    {
-      "name": "Yakult 消化蔬果粉 8.2公克 X 60包",
-      "price": "$904",
-      "original_price": "$1,129",
-      "discount_amount": "$225",
-      "promotion": "商品已折價 $225 含運",
-      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Yakult-Vegetables-Fruits-Smoothie-82-g-X-60-Sachet/p/567877",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h12/h2f/364290099216414.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "Biore Zero 爽身粉濕巾 20片裝 柔和皂香 X 2包 + 涼感皂香 X 2包",
-      "price": "$419",
-      "original_price": "$529",
-      "discount_amount": "$110",
-      "promotion": "商品已折價$110 含運",
-      "url": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/Biore-Zero-Powder-Wipes-20-Piece-Soap-Scent-X-2-Pack-Cool-Soap-Scent-X-2-Pack/p/248654",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/had/hb5/433249675313182.jpg",
-      "category": "保健美容"
-    }
-  ],
+  "removed": [],
   "price_changes": []
 }
