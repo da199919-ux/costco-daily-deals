@@ -1,89 +1,29 @@
 {
   "date": "2026-08-20",
-  "generated_at": "2026-08-20 13:02",
+  "generated_at": "2026-08-20 17:05",
   "has_previous": true,
-  "added": [
+  "added": [],
+  "removed": [
     {
-      "name": "Scoop Away 超凝結貓砂 4.76公斤 X 4入",
-      "price": "$569",
-      "original_price": "$699",
-      "discount_amount": "$130",
-      "promotion": "商品已折價$130 含運",
-      "url": "https://www.costco.com.tw/c/Scoop-Away-Complete-Performance-Plus-Cat-Litter-476-kg-X-4-Count/p/1529177",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h5b/h88/226673722195998.jpg",
-      "category": "其他"
+      "name": "Yakult 消化蔬果粉 8.2公克 X 60包",
+      "price": "$904",
+      "original_price": "$1,129",
+      "discount_amount": "$225",
+      "promotion": "商品已折價 $225 含運",
+      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Yakult-Vegetables-Fruits-Smoothie-82-g-X-60-Sachet/p/567877",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h12/h2f/364290099216414.jpg",
+      "category": "保健美容"
     },
     {
-      "name": "Sunvilla 10呎 LED 戶外遮陽傘 灰色",
-      "price": "$4,799",
-      "original_price": "$5,999",
-      "discount_amount": "$1,200",
-      "promotion": "商品已折價$1,200 含運",
-      "url": "https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Sunvilla-10-ft-LED-Market-Umbrella-Myra-Graphite/p/1768222",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h3f/h9f/436453464244254.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Ferrone 戶外鋁製休閒桌椅七件組",
-      "price": "$25,399",
-      "original_price": "$31,799",
-      "discount_amount": "$6,400",
-      "promotion": "商品已折價$6,400 含運",
-      "url": "https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Ferrone-Dining-7-Piece-Set/p/1807357",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hbb/hc8/346355970867230.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Louisiane 戶外鋁製休閒桌椅七件組",
-      "price": "$21,599",
-      "original_price": "$26,999",
-      "discount_amount": "$5,400",
-      "promotion": "商品已折價$5,400 含運",
-      "url": "https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Louisiane-Extendable-Dining-7-Piece-Set/p/1807219",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hdc/hfd/346355968835614.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Sunvilla 10呎 LED 戶外遮陽傘 藍色",
-      "price": "$4,799",
-      "original_price": "$5,999",
-      "discount_amount": "$1,200",
-      "promotion": "商品已折價$1,200 含運",
-      "url": "https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Sunvilla-10-ft-LED-Market-Umbrella-Ebby-Ink/p/1713505",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h56/h02/436453452120094.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Sunvilla 10呎 太陽能 LED 戶外遮陽傘",
-      "price": "$4,799",
-      "original_price": "$5,999",
-      "discount_amount": "$1,200",
-      "promotion": "商品已折價$1,200 含運",
-      "url": "https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Sunvilla-10-ft-Solar-Energy-LED-Market-Umbrella/p/1713474",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h02/hdf/326879520096286.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "飛利浦 50吋 4K QLED Google TV 顯示器 50PQT8530/96",
-      "price": "$11,999",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/50-59-TVs/Philips-50-inch-4K-QLED-Google-TV-Monitor-50PQT853096/p/153544",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h77/hcd/438072214323230.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "飛利浦 65吋 4K Google TV 顯示器 65PUH7650/96",
-      "price": "$16,399",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/60-69-TVs/Philips-65-inch-4K-Google-TV-Monitor-65PUH765096/p/153543",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h36/h3b/438072177950750.jpg",
-      "category": "家電 3C"
+      "name": "Biore Zero 爽身粉濕巾 20片裝 柔和皂香 X 2包 + 涼感皂香 X 2包",
+      "price": "$419",
+      "original_price": "$529",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "url": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/Biore-Zero-Powder-Wipes-20-Piece-Soap-Scent-X-2-Pack-Cool-Soap-Scent-X-2-Pack/p/248654",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/had/hb5/433249675313182.jpg",
+      "category": "保健美容"
     }
   ],
-  "removed": [],
   "price_changes": []
 }
