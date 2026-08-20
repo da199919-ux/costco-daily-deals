@@ -1,8 +1,20 @@
 {
   "date": "2026-08-21",
-  "generated_at": "2026-08-21 01:55",
+  "generated_at": "2026-08-21 05:53",
   "has_previous": true,
   "added": [
+    {
+      "name": "老楊 鹹蛋黃餅 640公克",
+      "price": "$225",
+      "original_price": "$275",
+      "discount_amount": "$50",
+      "promotion": "商品已折價$50 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/TK-Food-Salted-Egg-Yolk-Cookies-20-g-X-32-Pack/p/215324",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfa/hf7/64294442434590.jpg",
+      "category": "食品飲料"
+    }
+  ],
+  "removed": [
     {
       "name": "老楊 鹹蛋黃餅 640公克",
       "price": "$225",
@@ -14,122 +26,25 @@
       "category": "食品飲料"
     },
     {
-      "name": "Nature Made 萊萃美 南瓜籽油茄紅素男性配方軟膠囊 200粒",
-      "price": "$829",
-      "original_price": "$1,029",
-      "discount_amount": "$200",
-      "promotion": "商品已折價 $200 含運",
-      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Nature-Made-Mens-Advanced-Pumpkin-Seed-Oil-Plus-Lycopene-200-Softgel/p/994016",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h78/h6d/325606395740190.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "Bayside 八格抽屜儲物櫃 白色",
-      "price": "$3,999",
-      "original_price": "$5,199",
-      "discount_amount": "$1,200",
-      "promotion": "商品已折價$1,200 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Bayside-Room-Divider-White/p/1862101",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd2/h6a/487711148834846.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Backbone Hippo 兒童成長椅",
-      "price": "$2,699",
-      "original_price": "$3,399",
-      "discount_amount": "$700",
-      "promotion": "商品已折價$700 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Backbone-Hippo-Kids-Chair/p/152649",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h0f/h32/363835041710110.jpg",
-      "category": "家具家居"
-    }
-  ],
-  "removed": [
-    {
-      "name": "老楊 鹹蛋黃餅 640公克",
-      "price": "$225",
-      "original_price": "$275",
-      "discount_amount": "$50",
-      "promotion": "商品已折價$50 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/TK-Food-Salted-Egg-Yolk-Cookies-20-g-X-32-Pack/p/215324",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hfa/hf7/64294442434590.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "科克蘭 全合成機油 0W-20 946毫升 X 6入",
-      "price": "$679",
-      "original_price": "$859",
-      "discount_amount": "$180",
-      "promotion": "商品已折價$180 含運",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Automotive/Car-Oils-Fluids/Kirkland-Signature-Sp-Saefull-Synth-Motor-Oil-0W-20-946-ml-X-6-Pack/p/1448207",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h95/hf0/61634482208798.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "樂天 卡士達派 27公克 X 36入",
-      "price": "$389",
-      "original_price": "$489",
-      "discount_amount": "$100",
-      "promotion": "商品已折價$100 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Lotte-Custard-Cake-27-g-X-36-Pack/p/227320",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h2a/h84/190634467098654.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Purely Indulgent 印度純棉浴巾 76公分 X 147公分 卡其色",
-      "price": "$199",
-      "original_price": "$259",
-      "discount_amount": "$60",
-      "promotion": "商品已折價$60 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Towels/Purely-Indulgent-100-Hygro-Cotton-Bath-Towel-76-cm-X-147-cm-Tan/p/1851162",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hc5/hfa/351316164214814.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Purely Indulgent 印度純棉浴巾 76公分 X 147公分 藍色",
-      "price": "$199",
-      "original_price": "$259",
-      "discount_amount": "$60",
-      "promotion": "商品已折價$60 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Towels/Purely-Indulgent-100-Hygro-Cotton-Bath-Towel-76-cm-X-147-cm-Blue/p/1851161",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hc3/h26/351316167229470.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Purely Indulgent 印度純棉浴巾 76公分 X 147公分 灰色",
-      "price": "$199",
-      "original_price": "$259",
-      "discount_amount": "$60",
-      "promotion": "商品已折價$60 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Towels/Purely-Indulgent-100-Hygro-Cotton-Bath-Towel-76-cm-X-147-cm-Grey/p/1855703",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h65/h95/351316526137374.jpg",
-      "category": "家具家居"
-    }
-  ],
-  "price_changes": [
-    {
-      "name": "Berkshire 涼感被 152公分 X 177公分",
-      "price": "$429",
-      "original_price": "$539",
-      "discount_amount": "$110",
-      "promotion": "商品已折價$110 含運",
-      "old_price": "$539",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Berkshire-Reversible-Cooling-Throw-152-cm-X-177-cm/p/690459",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/he8/h49/436453833670686.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "不二家 經典牛奶糖 520公克",
-      "price": "$319",
+      "name": "Freetown MIPS 成人自行車安全頭盔",
+      "price": "$999",
       "original_price": "",
       "discount_amount": "",
       "promotion": "含運",
-      "old_price": "$237",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Fujiya-Peko-Milk-Soft-Candy-520-g/p/155247",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h2f/h79/381660478636062.jpg",
-      "category": "食品飲料"
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Bikes/Freetown-MIPS-Adult-Bike-Helmet/p/1654516",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha1/ha1/193320251097118.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Coddle 布面沙發床",
+      "price": "$15,899",
+      "original_price": "$19,999",
+      "discount_amount": "$4,100",
+      "promotion": "商品已折價$4,100 含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Coddle-Fabric-Sleeper-Sofa/p/1862099",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0c/h7f/434798883569694.jpg",
+      "category": "家具家居"
     }
-  ]
+  ],
+  "price_changes": []
 }
