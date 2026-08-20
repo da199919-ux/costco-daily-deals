@@ -1,20 +1,8 @@
 {
   "date": "2026-08-20",
-  "generated_at": "2026-08-20 09:02",
+  "generated_at": "2026-08-20 13:02",
   "has_previous": true,
   "added": [
-    {
-      "name": "Bentley Designs Dansk 雙層茶几",
-      "price": "$3,495",
-      "original_price": "$4,395",
-      "discount_amount": "$900",
-      "promotion": "商品已折價$900 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Bentley-Designs-Dansk-Scandi-Oak-Coffee-Table-With-Shelf/p/143697",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h05/hb7/209599964971038.jpg",
-      "category": "家具家居"
-    }
-  ],
-  "removed": [
     {
       "name": "Scoop Away 超凝結貓砂 4.76公斤 X 4入",
       "price": "$569",
@@ -26,85 +14,76 @@
       "category": "其他"
     },
     {
-      "name": "農心 海苔味杯麵 65公克 X 12入",
-      "price": "$299",
-      "original_price": "$379",
-      "discount_amount": "$80",
-      "promotion": "商品已折價$80 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Nongshim-Seaweed-Flavor-Cup-Noodle-65-g-X-12-Pack/p/144788",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h73/h6a/102765951909918.jpg",
-      "category": "食品飲料"
+      "name": "Sunvilla 10呎 LED 戶外遮陽傘 灰色",
+      "price": "$4,799",
+      "original_price": "$5,999",
+      "discount_amount": "$1,200",
+      "promotion": "商品已折價$1,200 含運",
+      "url": "https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Sunvilla-10-ft-LED-Market-Umbrella-Myra-Graphite/p/1768222",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h3f/h9f/436453464244254.jpg",
+      "category": "其他"
     },
     {
-      "name": "Calbee JagaRico 原味薯條 60公克 X 12入",
-      "price": "$379",
-      "original_price": "$459",
-      "discount_amount": "$80",
-      "promotion": "商品已折價$80 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Calbee-JagaRico-Potato-Sticks-Original-Flavor-60-g-X-12-Count/p/143990",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h16/h77/239549992206366.jpg",
-      "category": "食品飲料"
+      "name": "Ferrone 戶外鋁製休閒桌椅七件組",
+      "price": "$25,399",
+      "original_price": "$31,799",
+      "discount_amount": "$6,400",
+      "promotion": "商品已折價$6,400 含運",
+      "url": "https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Ferrone-Dining-7-Piece-Set/p/1807357",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hbb/hc8/346355970867230.jpg",
+      "category": "其他"
     },
     {
-      "name": "Gilman Creek 牛皮電動沙發",
-      "price": "$23,999",
-      "original_price": "$29,999",
-      "discount_amount": "$6,000",
-      "promotion": "商品已折價$6,000 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Gilman-Creek-Leather-Power-Sofa/p/1783024",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h04/h54/379898320551966.jpg",
-      "category": "家具家居"
+      "name": "Louisiane 戶外鋁製休閒桌椅七件組",
+      "price": "$21,599",
+      "original_price": "$26,999",
+      "discount_amount": "$5,400",
+      "promotion": "商品已折價$5,400 含運",
+      "url": "https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Louisiane-Extendable-Dining-7-Piece-Set/p/1807219",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hdc/hfd/346355968835614.jpg",
+      "category": "其他"
     },
     {
-      "name": "Cheers 頭層牛皮三人座電動沙發茶几款 白",
-      "price": "$31,999",
-      "original_price": "$39,999",
-      "discount_amount": "$8,000",
-      "promotion": "商品已折價$8,000 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Cheers-Leather-Power-Sofa-3-Seater-White/p/155576",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h07/h4c/484306804211742.jpg",
-      "category": "家具家居"
+      "name": "Sunvilla 10呎 LED 戶外遮陽傘 藍色",
+      "price": "$4,799",
+      "original_price": "$5,999",
+      "discount_amount": "$1,200",
+      "promotion": "商品已折價$1,200 含運",
+      "url": "https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Sunvilla-10-ft-LED-Market-Umbrella-Ebby-Ink/p/1713505",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h56/h02/436453452120094.jpg",
+      "category": "其他"
     },
     {
-      "name": "Sony PlayStation Portal 遙控遊玩機 + PULSE Explore 無線耳塞式耳機 黑",
+      "name": "Sunvilla 10呎 太陽能 LED 戶外遮陽傘",
+      "price": "$4,799",
+      "original_price": "$5,999",
+      "discount_amount": "$1,200",
+      "promotion": "商品已折價$1,200 含運",
+      "url": "https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Sunvilla-10-ft-Solar-Energy-LED-Market-Umbrella/p/1713474",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h02/hdf/326879520096286.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "飛利浦 50吋 4K QLED Google TV 顯示器 50PQT8530/96",
       "price": "$11,999",
-      "original_price": "$13,399",
-      "discount_amount": "$1,400",
-      "promotion": "商品已折價$1,400 含運",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Wearables-Audio/Video-Games-Consoles/Sony-PlayStation-Portal-PULSE-Explore-Wireless-Earbuds-Black/p/152345",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h3f/hf4/346355822952478.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "RinseKit 可攜式淋浴灑水器",
-      "price": "$4,097",
       "original_price": "",
       "discount_amount": "",
       "promotion": "含運",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Tents-Camping-Gear/RinseKit-Portable-Shower/p/1872141",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h56/hcd/438876264300574.jpg",
-      "category": "其他"
+      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/50-59-TVs/Philips-50-inch-4K-QLED-Google-TV-Monitor-50PQT853096/p/153544",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h77/hcd/438072214323230.jpg",
+      "category": "家電 3C"
     },
     {
-      "name": "馬牌 215/50 R18 92W FR UX7 輪胎",
-      "price": "$70",
+      "name": "飛利浦 65吋 4K Google TV 顯示器 65PUH7650/96",
+      "price": "$16,399",
       "original_price": "",
       "discount_amount": "",
-      "promotion": "",
-      "url": "https://www.costco.com.tw/Tire/Continental-21550-R18-92W-FR-UX7-Tire/tire/p/155336",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h4f/h54/368528938565662.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "勁量 4合1 多功能 汽車 電動打氣 / 救車電源",
-      "price": "$2,999",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Automotive/Automotive/Energizer-4-in-1-Air-Compressor-Car-Jump-Starter/p/154389",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h3e/hbd/364555306467358.jpg",
-      "category": "其他"
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/60-69-TVs/Philips-65-inch-4K-Google-TV-Monitor-65PUH765096/p/153543",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h36/h3b/438072177950750.jpg",
+      "category": "家電 3C"
     }
   ],
+  "removed": [],
   "price_changes": []
 }
