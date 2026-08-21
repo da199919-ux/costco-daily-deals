@@ -1,6 +1,6 @@
 # Costco 每日優惠摘要（2026-08-22）
 
-更新時間：2026-08-22 03:10（台灣時間）
+更新時間：2026-08-22 07:52（台灣時間）
 共整理出 **835** 項官方線上優惠。
 本次共讀取 **871** 個官方商品頁面。
 
@@ -27,12 +27,12 @@
 ## 今日變化
 
 - 新增優惠：**0** 項
-- 本次未收錄：**1** 項（不代表優惠已結束）
+- 本次未收錄：**0** 項（不代表優惠已結束）
 - 價格變動：**1** 項
 
 ### 價格變動
 
-- **降價**：[喜躍 豪華海鮮拼盤湯包綜合組 43.9公克 X 24包入](https://www.costco.com.tw/Household-Baby-Toys/Pet-Supplies/Pet-Dry-Wet-Food/Friskies-Seafood-Faves-Variety-Pack-439-g-X-24-Pack/p/155123) $347 → $197
+- **漲價**：[Lacoste 男純棉圓領短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Lacoste-Mens-Cotton-Crew-Neck-Short-Sleeve-Tee/p/3333325) $70 → $899
 
 ### 今日新增
 
@@ -40,6 +40,6 @@
 
 ### 本次未收錄（不代表優惠已結束）
 
-- [Casual Living 雙人舒適毯 233公分 X 248公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Casual-Living-Velvet-Blanket-233-cm-X-248-cm/p/153200)（$597）
+- 本次沒有商品離開抓取清單。
 
 完整清單請查看專案中的 `output/latest.md`。

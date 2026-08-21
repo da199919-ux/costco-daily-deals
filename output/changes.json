@@ -1,32 +1,21 @@
 {
   "date": "2026-08-22",
-  "generated_at": "2026-08-22 03:10",
+  "generated_at": "2026-08-22 07:52",
   "has_previous": true,
   "added": [],
-  "removed": [
-    {
-      "name": "Casual Living 雙人舒適毯 233公分 X 248公分",
-      "price": "$597",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Casual-Living-Velvet-Blanket-233-cm-X-248-cm/p/153200",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h25/h9e/369280949977118.jpg",
-      "category": "家具家居"
-    }
-  ],
+  "removed": [],
   "price_changes": [
     {
-      "name": "喜躍 豪華海鮮拼盤湯包綜合組 43.9公克 X 24包入",
-      "price": "$197",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "old_price": "$347",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/Pet-Supplies/Pet-Dry-Wet-Food/Friskies-Seafood-Faves-Variety-Pack-439-g-X-24-Pack/p/155123",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h97/h95/384001257177118.jpg",
-      "category": "日用品／母嬰／玩具"
+      "name": "Lacoste 男純棉圓領短袖上衣",
+      "price": "$899",
+      "original_price": "$1,259",
+      "discount_amount": "$360",
+      "promotion": "商品已折價$360 含運",
+      "old_price": "$70",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Lacoste-Mens-Cotton-Crew-Neck-Short-Sleeve-Tee/p/3333325",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h82/hd7/486580544569374.jpg",
+      "category": "服飾配件"
     }
   ]
 }
