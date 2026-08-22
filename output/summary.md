@@ -1,6 +1,6 @@
 # Costco 每日優惠摘要（2026-08-22）
 
-更新時間：2026-08-22 07:52（台灣時間）
+更新時間：2026-08-22 12:08（台灣時間）
 共整理出 **835** 項官方線上優惠。
 本次共讀取 **871** 個官方商品頁面。
 
@@ -32,7 +32,7 @@
 
 ### 價格變動
 
-- **漲價**：[Lacoste 男純棉圓領短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Lacoste-Mens-Cotton-Crew-Neck-Short-Sleeve-Tee/p/3333325) $70 → $899
+- **降價**：[Lacoste 男純棉圓領短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Lacoste-Mens-Cotton-Crew-Neck-Short-Sleeve-Tee/p/3333325) $899 → $70
 
 ### 今日新增
 

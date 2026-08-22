@@ -1,18 +1,18 @@
 {
   "date": "2026-08-22",
-  "generated_at": "2026-08-22 07:52",
+  "generated_at": "2026-08-22 12:08",
   "has_previous": true,
   "added": [],
   "removed": [],
   "price_changes": [
     {
       "name": "Lacoste 男純棉圓領短袖上衣",
-      "price": "$899",
-      "original_price": "$1,259",
-      "discount_amount": "$360",
-      "promotion": "商品已折價$360 含運",
-      "old_price": "$70",
-      "direction": "漲價",
+      "price": "$70",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "old_price": "$899",
+      "direction": "降價",
       "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Lacoste-Mens-Cotton-Crew-Neck-Short-Sleeve-Tee/p/3333325",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h82/hd7/486580544569374.jpg",
       "category": "服飾配件"
