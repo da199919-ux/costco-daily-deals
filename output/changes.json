@@ -1,8 +1,60 @@
 {
   "date": "2026-08-23",
-  "generated_at": "2026-08-23 01:49",
+  "generated_at": "2026-08-23 05:48",
   "has_previous": true,
   "added": [
+    {
+      "name": "大成 冷凍香辣炸雞柳 1.7公斤",
+      "price": "$459",
+      "original_price": "$559",
+      "discount_amount": "$100",
+      "promotion": "商品已折價 $100 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/p/153997",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h29/368495310110750.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "幻知曲 人體工學乳膠枕 60公分 X 40公分 X 10公分 / 12公分",
+      "price": "$899",
+      "original_price": "$1,139",
+      "discount_amount": "$240",
+      "promotion": "商品已折價$240 含運",
+      "url": "https://www.costco.com.tw/Bedding/p/107720",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h39/h4a/11484394127390.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "岩谷 3.5kW 雙重防風卡式爐 CB-KZ-3 含外盒",
+      "price": "$1,579",
+      "original_price": "$1,999",
+      "discount_amount": "$420",
+      "promotion": "商品已折價$420 含運",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Camp-Kitchen-Cooking-Gear/Iwatani-35kW-Cassette-Gas-Stove-CB-KZ-3-with-Case/p/140066",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h33/h29/149676462080030.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "桂格 3重優蛋白高鈣奶粉 1400公克",
+      "price": "$495",
+      "original_price": "$615",
+      "discount_amount": "$120",
+      "promotion": "商品已折價$120 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Quaker-Triple-Protein-High-Calcium-Milk-Powder-1400-g/p/151615",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hef/hf9/364420200235038.jpg",
+      "category": "食品飲料"
+    }
+  ],
+  "removed": [
+    {
+      "name": "大成 冷凍香辣炸雞柳 1.7公斤",
+      "price": "$459",
+      "original_price": "$559",
+      "discount_amount": "$100",
+      "promotion": "商品已折價 $100 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Dachan-Frozen-Spicy-Fried-Chicken-Breast-Strips-17-kg/p/153997",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h29/368495310110750.jpg",
+      "category": "食品飲料"
+    },
     {
       "name": "岩谷 3.5kW 雙重防風卡式爐 CB-KZ-3 含外盒",
       "price": "$1,579",
@@ -14,64 +66,14 @@
       "category": "其他"
     },
     {
-      "name": "進口洋蔥 10公斤",
-      "price": "$460",
-      "original_price": "$559",
-      "discount_amount": "$99",
-      "promotion": "商品已折價$99 含運",
-      "url": "https://www.costco.com.tw/Chilled-Food/p/85744",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h5b/168536181178398.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Caliphil 雙層紗雙人床包兩用被四件組 152公分 X 190公分 洛莉絲",
-      "price": "$2,159",
-      "original_price": "$2,699",
-      "discount_amount": "$540",
-      "promotion": "商品已折價$540 含運",
-      "url": "https://www.costco.com.tw/Bedding/p/159658",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h72/h82/450418184716318.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Korhani KO2 可機洗埃及地毯 240公分 X 300公分",
-      "price": "$3,169",
-      "original_price": "$3,969",
-      "discount_amount": "$800",
-      "promotion": "商品已折價$800 含運",
-      "url": "https://www.costco.com.tw/Bedding/p/1996999",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h0c/he1/455934077141022.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "新視紀 矯正鏡片(未滅菌) 200度 KYNE",
-      "price": "$479",
-      "original_price": "$589",
-      "discount_amount": "$110",
-      "promotion": "商品已折價$110 含運",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/p/146746",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h2b/ha8/378821893652510.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Sunvilla 鞦韆椅",
-      "price": "$15,119",
-      "original_price": "$18,899",
-      "discount_amount": "$3,780",
-      "promotion": "商品已折價$3,780 含運",
-      "url": "https://www.costco.com.tw/Patio-Furniture/p/1807161",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h9b/h53/436453551013918.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Apple MagSafe 充電器 1公尺",
-      "price": "$1,029",
-      "original_price": "$1,149",
+      "name": "桂格 3重優蛋白高鈣奶粉 1400公克",
+      "price": "$495",
+      "original_price": "$615",
       "discount_amount": "$120",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Mobile-Tablets/p/155889",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h96/h39/489125933580318.jpg",
-      "category": "家電 3C"
+      "promotion": "商品已折價$120 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/p/151615",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hef/hf9/364420200235038.jpg",
+      "category": "食品飲料"
     },
     {
       "name": "Prestone 強效亮澤雨刷精 3.78公升 X 2入",
@@ -101,6 +103,36 @@
       "promotion": "",
       "url": "https://www.costco.com.tw/Tire/Michelin-20560-R17-97V-Extra-Load-Primacy-4-ST-Tire/tire/p/151813",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hb1/h0d/487910068584478.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Korhani KO2 可機洗埃及地毯 240公分 X 300公分",
+      "price": "$3,169",
+      "original_price": "$3,969",
+      "discount_amount": "$800",
+      "promotion": "商品已折價$800 含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Rugs-Mats/Korhani-KO2-Washable-Area-Rug-240-cm-X-300-cm/p/1996999",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0c/he1/455934077141022.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "新視紀 矯正鏡片(未滅菌) 200度 KYNE",
+      "price": "$479",
+      "original_price": "$589",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-200-KYNE/p/146746",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h2b/ha8/378821893652510.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Sunvilla 鞦韆椅",
+      "price": "$15,119",
+      "original_price": "$18,899",
+      "discount_amount": "$3,780",
+      "promotion": "商品已折價$3,780 含運",
+      "url": "https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Sunvilla-Pine-Knoll-Swing/p/1807161",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h9b/h53/436453551013918.jpg",
       "category": "其他"
     },
     {
@@ -432,68 +464,6 @@
       "url": "https://www.costco.com.tw/Tire/Michelin-27535-R19-100Y-EXTRA-LOAD-PILOT-SPORT-4-S-Tire/tire/p/147868",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hf2/hf1/487912500854814.jpg",
       "category": "其他"
-    }
-  ],
-  "removed": [
-    {
-      "name": "岩谷 3.5kW 雙重防風卡式爐 CB-KZ-3 含外盒",
-      "price": "$1,579",
-      "original_price": "$1,999",
-      "discount_amount": "$420",
-      "promotion": "商品已折價$420 含運",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Camp-Kitchen-Cooking-Gear/Iwatani-35kW-Cassette-Gas-Stove-CB-KZ-3-with-Case/p/140066",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h33/h29/149676462080030.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "桂格 3重優蛋白高鈣奶粉 1400公克",
-      "price": "$495",
-      "original_price": "$615",
-      "discount_amount": "$120",
-      "promotion": "商品已折價$120 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Quaker-Triple-Protein-High-Calcium-Milk-Powder-1400-g/p/151615",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hef/hf9/364420200235038.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "進口洋蔥 10公斤",
-      "price": "$460",
-      "original_price": "$559",
-      "discount_amount": "$99",
-      "promotion": "商品已折價$99 含運",
-      "url": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Chilled-Food/Import-Onion-10-kg/p/85744",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h5b/168536181178398.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Caliphil 雙層紗雙人床包兩用被四件組 152公分 X 190公分 洛莉絲",
-      "price": "$2,159",
-      "original_price": "$2,699",
-      "discount_amount": "$540",
-      "promotion": "商品已折價$540 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Caliphil-Double-Cotton-Gauze-4-Piece-Set-Queen-Size-152-cm-X-190-cm-Yellow/p/159658",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h72/h82/450418184716318.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Apple MagSafe 充電器 1公尺",
-      "price": "$1,029",
-      "original_price": "$1,149",
-      "discount_amount": "$120",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Mobile-Tablets/Mobile-Tablets-Accessories/Apple-MagSafe-Charger-1-m/p/155889",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h96/h39/489125933580318.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "親愛的糙米白咖啡 30公克 X 80入",
-      "price": "$485",
-      "original_price": "$615",
-      "discount_amount": "",
-      "promotion": "需一次購買活動組數才可享受此優惠 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Darling-Brown-Rice-White-Coffee-30-g-X-80-Count/p/374199",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hfb/hd9/325606390956062.jpg",
-      "category": "食品飲料"
     }
   ],
   "price_changes": []
