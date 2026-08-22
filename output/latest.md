@@ -1,10 +1,10 @@
-# Costco 台灣每日優惠清單（2026-08-22）
+# Costco 台灣每日優惠清單（2026-08-23）
 
 ## 今日變化
 
-更新時間：2026-08-22 21:14（台灣時間）
-共整理出 **837** 項官方線上優惠。
-本次共讀取 **873** 個官方商品頁面。
+更新時間：2026-08-23 01:49（台灣時間）
+共整理出 **874** 項官方線上優惠。
+本次共讀取 **910** 個官方商品頁面。
 
 > 價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。
 
@@ -12,11 +12,11 @@
 
 | 分類 | 商品數量 |
 |---|---:|
-| 其他 | 446 |
+| 其他 | 481 |
 | 家具家居 | 117 |
-| 服飾配件 | 95 |
-| 食品飲料 | 70 |
-| 家電 3C | 66 |
+| 服飾配件 | 98 |
+| 食品飲料 | 68 |
+| 家電 3C | 67 |
 | 保健美容 | 23 |
 | 日用品／母嬰／玩具 | 20 |
 
@@ -24,12 +24,12 @@
 
 追蹤關鍵字：apple, iphone, macbook, ipad, ipod
 
-- [Apple MagSafe 充電器 1公尺](https://www.costco.com.tw/Digital-Mobile/Mobile-Tablets/Mobile-Tablets-Accessories/Apple-MagSafe-Charger-1-m/p/155889)（$1,029）
+- [Apple MagSafe 充電器 1公尺](https://www.costco.com.tw/Digital-Mobile/Mobile-Tablets/p/155889)（$1,029）
 
 ## 今日變化
 
-- 新增優惠：**11** 項
-- 本次未收錄：**51** 項（不代表優惠已結束）
+- 新增優惠：**43** 項
+- 本次未收錄：**6** 項（不代表優惠已結束）
 - 價格變動：**0** 項
 
 ### 價格變動
@@ -38,31 +38,18 @@
 
 ### 今日新增
 
-- [Nautica 女內褲六入組](https://www.costco.com.tw/Clothing-Accessories/p/8520993)（$599）
-- [岩谷 3.5kW 雙重防風卡式爐 CB-KZ-3 含外盒](https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Camp-Kitchen-Cooking-Gear/Iwatani-35kW-Cassette-Gas-Stove-CB-KZ-3-with-Case/p/140066)（$1,579）
-- [桂格 3重優蛋白高鈣奶粉 1400公克](https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Quaker-Triple-Protein-High-Calcium-Milk-Powder-1400-g/p/151615)（$495）
-- [Prestone 強效亮澤雨刷精 3.78公升 X 2入](https://www.costco.com.tw/Sports-Lifestyle/Automotive/Exterior-Car-Care/Prestone-Bug-Wash-Windshield-Washer-Fluid-378-L-X-2-Pack/p/126189)（$329）
-- [進口洋蔥 10公斤](https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Chilled-Food/Import-Onion-10-kg/p/85744)（$460）
-- [Caliphil 雙層紗雙人床包兩用被四件組 152公分 X 190公分 洛莉絲](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Caliphil-Double-Cotton-Gauze-4-Piece-Set-Queen-Size-152-cm-X-190-cm-Yellow/p/159658)（$2,159）
-- [Korhani KO2 可機洗埃及地毯 240公分 X 300公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Rugs-Mats/Korhani-KO2-Washable-Area-Rug-240-cm-X-300-cm/p/1996999)（$3,169）
-- [新視紀 矯正鏡片(未滅菌) 200度 KYNE](https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-200-KYNE/p/146746)（$479）
-- [Sunvilla 鞦韆椅](https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Sunvilla-Pine-Knoll-Swing/p/1807161)（$15,119）
-- [Apple MagSafe 充電器 1公尺](https://www.costco.com.tw/Digital-Mobile/Mobile-Tablets/Mobile-Tablets-Accessories/Apple-MagSafe-Charger-1-m/p/155889)（$1,029）
-- [親愛的糙米白咖啡 30公克 X 80入](https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Darling-Brown-Rice-White-Coffee-30-g-X-80-Count/p/374199)（$485）
-
-### 本次未收錄（不代表優惠已結束）
-
-- [Nautica 女內褲六入組](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Nautica-Ladies-Nude-Brief-6-Pack-Set/p/8520993)（$599）
 - [岩谷 3.5kW 雙重防風卡式爐 CB-KZ-3 含外盒](https://www.costco.com.tw/p/140066)（$1,579）
-- [Prestone 強效亮澤雨刷精 3.78公升 X 2入](https://www.costco.com.tw/Automotive/p/126189)（$329）
 - [進口洋蔥 10公斤](https://www.costco.com.tw/Chilled-Food/p/85744)（$460）
 - [Caliphil 雙層紗雙人床包兩用被四件組 152公分 X 190公分 洛莉絲](https://www.costco.com.tw/Bedding/p/159658)（$2,159）
 - [Korhani KO2 可機洗埃及地毯 240公分 X 300公分](https://www.costco.com.tw/Bedding/p/1996999)（$3,169）
 - [新視紀 矯正鏡片(未滅菌) 200度 KYNE](https://www.costco.com.tw/Clothing-Accessories/p/146746)（$479）
 - [Sunvilla 鞦韆椅](https://www.costco.com.tw/Patio-Furniture/p/1807161)（$15,119）
 - [Apple MagSafe 充電器 1公尺](https://www.costco.com.tw/Digital-Mobile/Mobile-Tablets/p/155889)（$1,029）
-- [東元 快速自動製冰塊機](https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Water-Dispensers-Water-Purification/TECO-Ice-Makers/p/146687)（$2,299）
-- [艾美特 14吋DC 直流遙控立扇 FS35150R](https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Airmate-14-inch-DC-Inverter-Stand-Fan-FS35150R/p/149335)（$1,679）
+- [Prestone 強效亮澤雨刷精 3.78公升 X 2入](https://www.costco.com.tw/Automotive/p/126189)（$329）
+- [Berkemann Allexis 女休閒運動鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Berkemann-Allexis-Ladies-Sneaker-White/p/1846415)（$4,059）
+- [米其林 205/60 R17 97V Extra Load Primacy 4 ST 輪胎](https://www.costco.com.tw/Tire/Michelin-20560-R17-97V-Extra-Load-Primacy-4-ST-Tire/tire/p/151813)（$70）
+- [Sunvilla 10呎 LED 戶外遮陽傘 灰色](https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Sunvilla-10-ft-LED-Market-Umbrella-Myra-Graphite/p/1768222)（$4,799）
+- [新視紀 矯正鏡片(未滅菌) 275度 ADDIE 金屬](https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-275-ADDIE-Metal/p/146762)（$479）
 - [米其林 345/30 R20 106Y Pilot Sport 4 S 輪胎](https://www.costco.com.tw/Tire/Michelin-34530-R20-106Y-Pilot-Sport-4-S-Tire/tire/p/151923)（$70）
 - [米其林 305/25 R20 97Y Extra Load Pilot Sport 4 S 輪胎](https://www.costco.com.tw/Tire/Michelin-30525-R20-97Y-Extra-Load-Pilot-Sport-4-S-Tire/tire/p/151920)（$70）
 - [米其林 245/45 R20 103W Extra Load Latitude Sport * ZP 輪胎](https://www.costco.com.tw/Tire/Michelin-24545-R20-103W-Extra-Load-Latitude-Sport-ZP-Tire/tire/p/151914)（$70）
@@ -73,25 +60,16 @@
 - [米其林 275/60 R20 115H Primacy SUV + 輪胎](https://www.costco.com.tw/Tire/Michelin-27560-R20-115H-Primacy-SUV-Tire/tire/p/151865)（$70）
 - [米其林 245/30 R19 89Y Extra Load Pilot Sport 4 S 輪胎](https://www.costco.com.tw/Tire/Michelin-24530-R19-89Y-Extra-Load-Pilot-Sport-4-S-Tire/tire/p/151862)（$70）
 - [米其林 225/35 R19 88Y Extra Load Pilot Sport 4 S ZP 輪胎](https://www.costco.com.tw/Tire/Michelin-22535-R19-88Y-Extra-Load-Pilot-Sport-4-S-ZP-Tire/tire/p/151859)（$70）
-- [米其林 255/40 R18 99Y Extra Load Pilot Sport 4 ST * ZP 輪胎](https://www.costco.com.tw/Tire/Michelin-25540-R18-99Y-Extra-Load-Pilot-Sport-4-ST-ZP-Tire/tire/p/151856)（$70）
-- [米其林 245/35 R18 92Y Extra Load Pilot Sport 4 ZP 輪胎](https://www.costco.com.tw/Tire/Michelin-24535-R18-92Y-Extra-Load-Pilot-Sport-4-ZP-Tire/tire/p/151843)（$70）
-- [米其林 255/60 R18 112W Extra Load Pilot Sport 4 SUV 輪胎](https://www.costco.com.tw/Tire/Michelin-25560-R18-112W-Extra-Load-Pilot-Sport-4-SUV-Tire/tire/p/151842)（$70）
-- [米其林 225/50 R18 99Y Extra Load Pilot Sport 4 S 輪胎](https://www.costco.com.tw/Tire/Michelin-22550-R18-99Y-Extra-Load-Pilot-Sport-4-S-Tire/tire/p/151838)（$70）
-- [米其林 225/35 R18 87Y Extra Load Pilot Super Sport 輪胎](https://www.costco.com.tw/Tire/Michelin-22535-R18-87Y-Extra-Load-Pilot-Super-Sport-Tire/tire/p/151826)（$70）
-- [米其林 215/65 R17 99V PRIMACY 4 輪胎](https://www.costco.com.tw/Tire/Michelin-21565-R17-99V-PRIMACY-4-Tire/tire/p/148034)（$70）
-- [米其林 255/35 R19 96Y EXTRA LOAD PILOT SPORT 5 輪胎](https://www.costco.com.tw/Tire/Michelin-25535-R19-96Y-EXTRA-LOAD-PILOT-SPORT-5-Tire/tire/p/147905)（$70）
-- [米其林 285/45 R21 113Y EXTRA LOAD PILOT SPORT 4 SUV 輪胎](https://www.costco.com.tw/Tire/Michelin-28545-R21-113Y-EXTRA-LOAD-PILOT-SPORT-4-SUV-Tire/tire/p/147876)（$70）
-- [米其林 275/35 R21 103Y EXTRA LOAD PILOT SPORT 4 S 輪胎](https://www.costco.com.tw/Tire/Michelin-27535-R21-103Y-EXTRA-LOAD-PILOT-SPORT-4-S-Tire/tire/p/147865)（$70）
-- [米其林 315/30 R22 107Y EXTRA LOAD PILOT SPORT 4 S 輪胎](https://www.costco.com.tw/Tire/Michelin-31530-R22-107Y-EXTRA-LOAD-PILOT-SPORT-4-S-Tire/tire/p/147854)（$70）
-- [米其林 235/60 R18 103V LATITUDE SPORT 3 輪胎](https://www.costco.com.tw/Tire/Michelin-23560-R18-103V-LATITUDE-SPORT-3-Tire/tire/p/147828)（$70）
-- [米其林 195/60 R18 96H EPRIMACY 輪胎](https://www.costco.com.tw/Tire/Michelin-19560-R18-96H-EPRIMACY-Tire/tire/p/146264)（$70）
-- [米其林 225/55 ZR17 101Y Pilot Sport 5 輪胎](https://www.costco.com.tw/Tire/Michelin-22555-ZR17-101Y-Pilot-Sport-5-Tire/tire/p/141584)（$70）
-- [米其林 225/50 17吋 98Y Pilot Sport 5 輪胎](https://www.costco.com.tw/Tire/Michelin-22550-ZR17-98Y-Pilot-Sport-5-Tire/tire/p/136559)（$70）
-- [米其林 295/30 20吋 101Y Pilot Sport 4 S 輪胎](https://www.costco.com.tw/Tire/Michelin-29530-R20-101Y-Pilot-Sport-4-S-Tire/tire/p/134153)（$70）
-- [米其林 285/35 19吋 103Y Pilot Sport 4 S 輪胎](https://www.costco.com.tw/Tire/Michelin-28535-R19-103Y-Pilot-Sport-4-S-Tire/tire/p/133009)（$70）
-- [米其林 235/55 18吋 Latitude Sport 3 輪胎](https://www.costco.com.tw/Tire/Michelin-23555-R18-Latitude-Sport-3-Tire/tire/p/131609)（$70）
-- [米其林 255/50 20吋 109Y Pilot Sport 4 SUV 輪胎](https://www.costco.com.tw/Tire/Michelin-25550-R20-109Y-Pilot-Sport-4-SUV-Tire/tire/p/127360)（$70）
-- [Caliphil 雙人色織緹花床包被套 4件組 152公分 X 190公分 芙蘿](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Caliphil-Yarn-Dye-Bedding-4-Piece-Set-152-cm-X-190-cm-Flora/p/125723)（$2,319）
+- [米其林 275/40 19吋 101Y Primacy 3 ZP 輪胎](https://www.costco.com.tw/Tire/Michelin-27540-R19-101Y-Primacy-3-ZP-Tire/tire/p/124043)（$70）
+- [米其林 255/40 20吋 PILOT SPORT 4 S 輪胎](https://www.costco.com.tw/Tire/Michelin-25540-R20-PILOT-SPORT-4-S-Tire/tire/p/123260)（$70）
+- [米其林 275/40 19吋 PILOT SPORT 4 S 輪胎](https://www.costco.com.tw/Tire/Michelin-27540-R19-PILOT-SPORT-4-S-Tire/tire/p/123242)（$70）
+- [米其林 275/30 19吋 PILOT SPORT 4 S 輪胎](https://www.costco.com.tw/Tire/Michelin-27530-R19-PILOT-SPORT-4-S-Tire/tire/p/123239)（$70）
+- [米其林 235/35 19吋 PILOT SPORT 4 S 輪胎](https://www.costco.com.tw/Tire/Michelin-23535-R19-PILOT-SPORT-4-S-Tire/tire/p/123234)（$70）
+- [米其林 255/55 19吋 LATITUDE SPORT 3 輪胎](https://www.costco.com.tw/Tire/Michelin-25555-R19-LATITUDE-SPORT-3-Tire/tire/p/123229)（$70）
+- [米其林 285/45 19吋 LATITUDE SPORT 3 失壓續跑 ZP 輪胎](https://www.costco.com.tw/Tire/Michelin-28545-R19-LATITUDE-SPORT-3-ZP-Tire/tire/p/123228)（$70）
+- [米其林 275/40 18吋 99Y Primacy 3 ZP 輪胎](https://www.costco.com.tw/Tire/Michelin-27540-R18-99Y-Primacy-3-ZP-Tire/tire/p/122567)（$70）
+- [米其林 225/50 18吋 PRIMACY 3 ST 失壓續跑 ZP 輪胎](https://www.costco.com.tw/Tire/Michelin-22550-R18-PRIMACY-3-ST-ZP-Tire/tire/p/122270)（$70）
+- [米其林 235/55 R19 101V Tourhp 輪胎](https://www.costco.com.tw/Tire/Michelin-23555-R19-101V-Tourhp-Tire/tire/p/117257)（$70）
 - [Razestore 360度旋轉手機平板支架組](https://www.costco.com.tw/Digital-Mobile/Mobile-Tablets/Mobile-Tablets-Accessories/Razestore-360-Degree-Rotation-Phone-Pad-Stand-Combo/p/8516799)（$449）
 - [CASA 單人3.5呎天然乳膠Q彈床墊 107公分 X 190公分 X 7.5公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/CASA-Natural-Latex-Mattress-Topper-35-inch-107-cm-X-190-cm-X-75-cm/p/127338)（$4,159）
 - [米其林 215/55 R18 99V Extra Load Primacy 5 輪胎](https://www.costco.com.tw/Tire/Michelin-21555-R18-99V-Extra-Load-Primacy-5-Tire/tire/p/153592)（$70）
@@ -103,6 +81,15 @@
 - [米其林 245/35 R19 93Y EXTRA LOAD PILOT SPORT 5 輪胎](https://www.costco.com.tw/Tire/Michelin-24535-R19-93Y-EXTRA-LOAD-PILOT-SPORT-5-Tire/tire/p/147995)（$70）
 - [米其林 235/50 R20 104Y EXTRA LOAD PILOT SPORT 4 SUV 輪胎](https://www.costco.com.tw/Tire/Michelin-23550-R20-104Y-EXTRA-LOAD-PILOT-SPORT-4-SUV-Tire/tire/p/147890)（$70）
 - [米其林 275/35 R19 100Y EXTRA LOAD PILOT SPORT 4 S 輪胎](https://www.costco.com.tw/Tire/Michelin-27535-R19-100Y-EXTRA-LOAD-PILOT-SPORT-4-S-Tire/tire/p/147868)（$70）
+
+### 本次未收錄（不代表優惠已結束）
+
+- [岩谷 3.5kW 雙重防風卡式爐 CB-KZ-3 含外盒](https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Camp-Kitchen-Cooking-Gear/Iwatani-35kW-Cassette-Gas-Stove-CB-KZ-3-with-Case/p/140066)（$1,579）
+- [桂格 3重優蛋白高鈣奶粉 1400公克](https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Quaker-Triple-Protein-High-Calcium-Milk-Powder-1400-g/p/151615)（$495）
+- [進口洋蔥 10公斤](https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Chilled-Food/Import-Onion-10-kg/p/85744)（$460）
+- [Caliphil 雙層紗雙人床包兩用被四件組 152公分 X 190公分 洛莉絲](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Caliphil-Double-Cotton-Gauze-4-Piece-Set-Queen-Size-152-cm-X-190-cm-Yellow/p/159658)（$2,159）
+- [Apple MagSafe 充電器 1公尺](https://www.costco.com.tw/Digital-Mobile/Mobile-Tablets/Mobile-Tablets-Accessories/Apple-MagSafe-Charger-1-m/p/155889)（$1,029）
+- [親愛的糙米白咖啡 30公克 X 80入](https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Darling-Brown-Rice-White-Coffee-30-g-X-80-Count/p/374199)（$485）
 
 ## 全部優惠
 
@@ -152,7 +139,7 @@
 | 食品飲料 | [奇美 冷凍港點三重奏 960公克](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Chi-Mei-Frozen-Dim-Sum-Set-960g/p/246436) | $409 |
 | 服飾配件 | [Nautica 女內褲六入組](https://www.costco.com.tw/Clothing-Accessories/p/8520993) | $599 |
 | 食品飲料 | [亞細亞田園 冷凍智利草莓 1.5公斤 X 6包](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Fruits-Vegetables/Asia-Farm-Frozen-Strawberries-15-kg-X-6-Pack/p/1866581) | $1,639 |
-| 其他 | [岩谷 3.5kW 雙重防風卡式爐 CB-KZ-3 含外盒](https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Camp-Kitchen-Cooking-Gear/Iwatani-35kW-Cassette-Gas-Stove-CB-KZ-3-with-Case/p/140066) | $1,579 |
+| 其他 | [岩谷 3.5kW 雙重防風卡式爐 CB-KZ-3 含外盒](https://www.costco.com.tw/p/140066) | $1,579 |
 | 服飾配件 | [Buffalo 男針織平口內褲 5入組 L](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Buffalo-Mens-Knit-Boxers-5-Pack-Set-L/p/155497) | $615 |
 | 食品飲料 | [亞細亞田園 冷凍玉米筍 1公斤 X 8包](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Fruits-Vegetables/Asia-Farm-Frozen-Baby-Corn-1-kg-X-8-Pack/p/1144825) | $925 |
 | 其他 | [Fanttik S200 APEX 多功能無線打氣機](https://www.costco.com.tw/Sports-Lifestyle/Automotive/Automotive/Fanttik-S200-APEX-Multifunction-Wireless-Air-Inflator/p/1787419) | $1,319 |
@@ -172,8 +159,9 @@
 | 食品飲料 | [百力滋 風味棒餅組 (番茄野菜 & 義式香草烤雞) 12入](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/PRETZ-Flavors-Stick-Biscuit-Tomato-Vegetable-Herbs-Chicken-12-Pack/p/352414) | $359 |
 | 食品飲料 | [Airwaves 紫冰野莓無糖口香糖 462公克](https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Airwaves-Super-Berry-Flavor-Sugarfree-Chewing-Gum-462-g/p/195826) | $389 |
 | 家電 3C | [Looploop 磁吸式傳輸充電線 3入組](https://www.costco.com.tw/Digital-Mobile/Mobile-Tablets/p/148174) | $619 |
+| 其他 | [翠果子 綜合米果 20公克 X 30包 X 4盒](https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Grains-Nuts-Snacks/Trygoodz-Rice-Crackers-with-Almonds-20-g-X-30-Bag-X-4-Case/p/211681) | $949 |
 | 日用品／母嬰／玩具 | [驅塵氏 抗菌濕拖巾 18張 X 8入](https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Cleaning-Tools/Farcent-Wet-Cleaning-Cloth-18-Sheet-X-8-Count/p/132541) | $329 |
-| 食品飲料 | [桂格 3重優蛋白高鈣奶粉 1400公克](https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Quaker-Triple-Protein-High-Calcium-Milk-Powder-1400-g/p/151615) | $495 |
+| 食品飲料 | [桂格 3重優蛋白高鈣奶粉 1400公克](https://www.costco.com.tw/Food-Dining/Drinks/p/151615) | $495 |
 | 食品飲料 | [親愛的糙米白咖啡 30公克 X 80入](https://www.costco.com.tw/Food-Dining/Drinks/p/374199) | $485 |
 | 食品飲料 | [唐舖子 原味牛軋巧酥 650公克](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Tang-Shop-Nougat-with-Biscuit-Original-650-g/p/144896) | $285 |
 | 日用品／母嬰／玩具 | [驅塵氏 靜電除塵紙 (加大) 30張 X 8入](https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Cleaning-Tools/Farcent-Electrostatic-Dry-Mopping-Cloths-Large-30-Sheet-X-8-Count/p/232542) | $299 |
@@ -199,7 +187,7 @@
 | 家具家居 | [La Belle 素色涼感被 150公分 X 200公分 水藍](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/La-Belle-ICE-Cool-Quilt-150-cm-X-200-cm-Blue/p/258611) | $999 |
 | 家電 3C | [飛利浦 Sonicare G3 智能護齦刷頭 6入 HX9053](https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Electric-Toothbrushes-Water-Flossers/Philips-Sonicare-G3-Clean-Replacement-Toothbrush-Heads-6-Count-HX9053/p/151105) | $1,239 |
 | 日用品／母嬰／玩具 | [寶貝星 自動吸水電動水槍 / 6歲以上](https://www.costco.com.tw/Household-Baby-Toys/Toys/Outdoor-Play/Baby-Star-Water-Gun-Ages-6-and-up/p/8526807) | $485 |
-| 其他 | [進口洋蔥 10公斤](https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Chilled-Food/Import-Onion-10-kg/p/85744) | $460 |
+| 其他 | [進口洋蔥 10公斤](https://www.costco.com.tw/Chilled-Food/p/85744) | $460 |
 | 服飾配件 | [Lacoste 男純棉圓領短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Lacoste-Mens-Cotton-Crew-Neck-Short-Sleeve-Tee/p/3333325) | $70 |
 | 食品飲料 | [雀巢 西西里風檸檬咖啡 15公克 X 40入](https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Nescafe-Sicily-Coffee-15-g-X-40-Pack/p/150636) | $369 |
 | 家具家居 | [幻知曲 標準型優眠天然乳膠枕 60公分 X 40公分 X 13公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Reverie-Standard-Latex-Pillow-60-cm-X-40-cm-X-13-cm/p/129701) | $789 |
@@ -251,6 +239,7 @@
 | 家具家居 | [Brita On Tap 龍頭式濾水器濾芯 六入組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Filtration/Brita-On-Tap-Water-Filter-6-Piece-Set/p/144398) | $4,949 |
 | 其他 | [Speedo 女連身及膝泳裝](https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Water-Sports/Speedo-Ladies-Knee-Length-One-Piece-Swimsuit/p/160822) | $1,199 |
 | 服飾配件 | [新視紀 矯正鏡片(未滅菌) 200度 MCKAY 抗藍光](https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-200-MCKAY-Anti-Blue-Light/p/146766) | $479 |
+| 家具家居 | [Simon Li 牛皮電動三人座沙發](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Simon-Li-Leather-Power-3-Seater-Reclining-Sofa/p/1783051) | $23,999 |
 | 家具家居 | [Don Home 萊賽爾沁涼被 150公分 X 200公分 同頻](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Don-Home-Lyocell-Cooling-Quilt-150-cm-X-200-cm-Frequency/p/158959) | $875 |
 | 其他 | [Coleman 8人帳篷](https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Tents-Camping-Gear/Coleman-8-Person-Dome-Tent/p/1985281) | $4,099 |
 | 其他 | [米其林 215/50 R18 96W EXTRA LOAD PRIMACY 5 ENERGY 輪胎](https://www.costco.com.tw/Tire/Michelin-21550-R18-96W-EXTRA-LOAD-PRIMACY-5-ENERGY-Tire/tire/p/161437) | $70 |
@@ -302,7 +291,7 @@
 | 其他 | [米其林 225/50 R18 99W EXTRA LOAD PRIMACY 5 ENERGY 輪胎](https://www.costco.com.tw/Tire/Michelin-22550-R18-99W-EXTRA-LOAD-PRIMACY-5-ENERGY-Tire/tire/p/161438) | $70 |
 | 其他 | [米其林 235/55 R20 105V EXTRA LOAD PRIMACY 5 輪胎](https://www.costco.com.tw/Tire/Michelin-23555-R20-105V-EXTRA-LOAD-PRIMACY-5-Tire/tire/p/161435) | $70 |
 | 其他 | [米其林 245/50 R20 102W PRIMACY 5 輪胎](https://www.costco.com.tw/Tire/Michelin-24550-R20-102W-PRIMACY-5-Tire/tire/p/160444) | $70 |
-| 家具家居 | [Caliphil 雙層紗雙人床包兩用被四件組 152公分 X 190公分 洛莉絲](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Caliphil-Double-Cotton-Gauze-4-Piece-Set-Queen-Size-152-cm-X-190-cm-Yellow/p/159658) | $2,159 |
+| 其他 | [Caliphil 雙層紗雙人床包兩用被四件組 152公分 X 190公分 洛莉絲](https://www.costco.com.tw/Bedding/p/159658) | $2,159 |
 | 家電 3C | [創維 43吋 4K QLED 聯網液晶顯示器 43Q6600H 3入組](https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/30-49-TVs/Skyworth-43-inch-4K-QLED-Smart-Monitor-43Q6600H-3-Pack-Set/p/159618) | $19,199 |
 | 其他 | [米其林 245/45 R17 99Y Extra Load Primacy 5 輪胎](https://www.costco.com.tw/Tire/Michelin-24545-R17-99Y-Extra-Load-Primacy-5-Tire/tire/p/154687) | $70 |
 | 家電 3C | [大金 10-12坪 7.2kW 大關Z系列 變頻冷暖一對一分離式冷氣 含運費及基本安裝](https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Air-Conditioners/CSPF-Above-7-kW/Daikin-72kW-FTXV-Z-Series-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/154071) | $63,699 |
@@ -355,7 +344,7 @@
 | 服飾配件 | [新視紀 矯正鏡片(未滅菌) 250度 KYNE](https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-250-KYNE/p/146747) | $479 |
 | 家電 3C | [大金 2.3 - 3.1坪 2.0kW 經典V系列變頻冷暖一對一分離式冷氣 含運費及基本安裝](https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Air-Conditioners/Daikin-20kW-FTHF-V-Series-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/145220) | $25,399 |
 | 家電 3C | [大金 6.3 - 8.5坪 6.0kW 經典V系列變頻冷暖一對一分離式冷氣 含運費及基本安裝](https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Air-Conditioners/Daikin-60kW-FTHF-V-Series-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/144875) | $49,799 |
-| 家具家居 | [Korhani KO2 可機洗埃及地毯 240公分 X 300公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Rugs-Mats/Korhani-KO2-Washable-Area-Rug-240-cm-X-300-cm/p/1996999) | $3,169 |
+| 其他 | [Korhani KO2 可機洗埃及地毯 240公分 X 300公分](https://www.costco.com.tw/Bedding/p/1996999) | $3,169 |
 | 服飾配件 | [Tommy Hilfiger 女短袖連身裙](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Tommy-Hilfiger-Ladies-Short-Sleeve-Dress/p/1956765) | $719 |
 | 其他 | [Happy Hop 龍堡水滑道樂園](https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Water-Sports/Happy-Hop-Dragon-Castle-Water-Park/p/1872197) | $12,985 |
 | 其他 | [Sunvilla 10呎 戶外遮陽傘 米色條紋](https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Sunvilla-10-ft-Market-Umbrella-Tan-Stripe/p/1807317) | $3,999 |
@@ -370,7 +359,7 @@
 | 家具家居 | [Aiden & Ivy 牛皮電動L型沙發 右](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Aiden-Ivy-Leather-Power-Sectional-Right/p/152325) | $38,999 |
 | 服飾配件 | [新視紀 矯正鏡片(未滅菌) 200度 COLE](https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-200-COLE/p/146772) | $479 |
 | 服飾配件 | [新視紀 矯正鏡片(未滅菌) 175度 COLE](https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-175-COLE/p/146771) | $479 |
-| 服飾配件 | [新視紀 矯正鏡片(未滅菌) 200度 KYNE](https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-200-KYNE/p/146746) | $479 |
+| 服飾配件 | [新視紀 矯正鏡片(未滅菌) 200度 KYNE](https://www.costco.com.tw/Clothing-Accessories/p/146746) | $479 |
 | 服飾配件 | [新視紀 矯正鏡片(未滅菌) 175度 KYNE](https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-175-KYNE/p/146745) | $479 |
 | 服飾配件 | [新視紀 矯正鏡片(未滅菌) 150度 ADDIE](https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-150-ADDIE/p/146735) | $479 |
 | 家電 3C | [大金 5.3 - 7.1坪 5.0kW 經典V系列變頻冷暖一對一分離式冷氣 含運費及基本安裝](https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Air-Conditioners/Daikin-50kW-FTHF-V-Series-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/144874) | $43,998 |
@@ -380,7 +369,7 @@
 | 其他 | [KidKraft Sunny Bluff 遊戲屋](https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/KidKraft-Sunny-Bluff-Playhouse/p/1872206) | $10,989 |
 | 其他 | [ATLeisure 10 呎戶外方形遮陽傘 附傘座 棕色](https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/ATLeisure-10-ft-Square-Umbrella-with-Roller-Base-Mushroom/p/1807306) | $18,399 |
 | 其他 | [ATLeisure 10 呎戶外方形遮陽傘 附傘座 藍色](https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/ATLeisure-10-ft-Square-Umbrella-with-Roller-Base-Indigo/p/1807248) | $18,399 |
-| 其他 | [Sunvilla 鞦韆椅](https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Sunvilla-Pine-Knoll-Swing/p/1807161) | $15,119 |
+| 其他 | [Sunvilla 鞦韆椅](https://www.costco.com.tw/Patio-Furniture/p/1807161) | $15,119 |
 | 其他 | [Sunvilla 10呎 LED 戶外遮陽傘 灰色](https://www.costco.com.tw/Patio-Furniture/p/1768222) | $4,799 |
 | 其他 | [Sunvilla 10呎 太陽能 LED 戶外遮陽傘](https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Sunvilla-10-ft-Solar-Energy-LED-Market-Umbrella/p/1713474) | $4,799 |
 | 家電 3C | [大金 6-8坪 5.0kW 大關Z系列 變頻冷暖一對一分離式冷氣 含運費及基本安裝](https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Air-Conditioners/CSPF-559-kW/Daikin-50kW-FTXV-Z-Series-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/154050) | $51,299 |
@@ -706,7 +695,7 @@
 | 服飾配件 | [Advent 女寬直筒褲](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Advent-Ladies-Advent-Draped-Pleated-Wide-Pant/p/156457) | $347 |
 | 家具家居 | [三麗鷗 兒童不鏽鋼保冷保溫瓶 700毫升](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/Sanrio-Kids-Stainless-Steel-Water-Bottle-700-ml/p/8524812) | $377 |
 | 家具家居 | [Panasonic 碳鋅2號電池 24入組](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/Panasonic-Carbon-Zinc-C-Size-Battery-24-Pack/p/152790) | $397 |
-| 家電 3C | [Apple MagSafe 充電器 1公尺](https://www.costco.com.tw/Digital-Mobile/Mobile-Tablets/Mobile-Tablets-Accessories/Apple-MagSafe-Charger-1-m/p/155889) | $1,029 |
+| 家電 3C | [Apple MagSafe 充電器 1公尺](https://www.costco.com.tw/Digital-Mobile/Mobile-Tablets/p/155889) | $1,029 |
 | 家具家居 | [Disney 萌萌抱枕](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/Disney-Cute-Cushion/p/152481) | $297 |
 | 家具家居 | [Tramontina 廚房烹飪用具 4件組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Cooking-Accessories/Tramontina-Gourmet-Tool-4-Piece-Set/p/8525857) | $527 |
 | 其他 | [Riviera Home 花邊柔軟浴室地墊 2入 40公分 X 60公分](https://www.costco.com.tw/Bedding/p/669807) | $447 |
@@ -789,7 +778,6 @@
 | 家具家居 | [Curble 護脊美學椅 38.0公分 X 31.5公分 X 31.6公分 黑色](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/Curble-Posture-Corrector-Chair-Wider-380-cm-X-315-cm-X-316-cm-Black/p/8517418) | $875 |
 | 家具家居 | [Curble 護脊美學椅 38.0公分 X 31.5公分 X 31.6公分 薄荷綠](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/Curble-Posture-Corrector-Chair-Wider-380-cm-X-315-cm-X-316-cm-Mint/p/1117418) | $875 |
 | 家具家居 | [Curble 護脊美學椅 38.0公分 X 31.5公分 X 31.6公分 薰衣草紫](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/Curble-Posture-Corrector-Chair-Wider-380-cm-X-315-cm-X-316-cm-Lavender/p/1017418) | $875 |
-| 其他 | [翠果子 綜合米果 20公克 X 30包 X 4盒](https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Grains-Nuts-Snacks/Trygoodz-Rice-Crackers-with-Almonds-20-g-X-30-Bag-X-4-Case/p/211681) | $949 |
 | 食品飲料 | [Mr. Brownie 檸檬風味蛋糕 40入](https://www.costco.com.tw/Food-Dining/Snacks/Snack-Cakes/Mr-Brownie-Lemon-Cake-40-Count/p/253753) | $379 |
 | 家電 3C | [Razestore 360度旋轉手機平板支架組](https://www.costco.com.tw/Digital-Mobile/Mobile-Tablets/p/8516799) | $449 |
 | 食品飲料 | [亨氏 法式龍蝦濃湯 1公升 X 2入](https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/Heinz-Lobster-Bisque-1-L-X-2-Pack/p/150603) | $239 |
@@ -801,7 +789,6 @@
 | 其他 | [米其林 205/55 R16 91W Extra Load Primacy 5 輪胎](https://www.costco.com.tw/Tire/Michelin-20555-R16-91W-Extra-Load-Primacy-5-Tire/tire/p/153572) | $70 |
 | 家具家居 | [CASA 雙人加大天然乳膠Q彈床墊 183公分 X 190公分 X 7.5公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/CASA-Natural-Latex-Mattress-Topper-183-cm-X-190-cm-X-75-cm/p/127340) | $6,799 |
 | 家具家居 | [Backbone Hippo 兒童成長椅](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Backbone-Hippo-Kids-Chair/p/152649) | $2,699 |
-| 家具家居 | [Simon Li 牛皮電動三人座沙發](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Simon-Li-Leather-Power-3-Seater-Reclining-Sofa/p/1783051) | $23,999 |
 | 其他 | [米其林 225/55 R18 102V Extra Load Primacy 5 輪胎](https://www.costco.com.tw/Tire/Michelin-22555-R18-102V-Extra-Load-Primacy-5-Tire/tire/p/154689) | $70 |
 | 其他 | [米其林 185/60 R15 84H P4 輪胎](https://www.costco.com.tw/Tire/Michelin-18560-R15-84H-P4-Tire/tire/p/132849) | $70 |
 | 其他 | [Bayside 八格抽屜儲物櫃 白色](https://www.costco.com.tw/p/1862101) | $3,999 |
@@ -890,8 +877,45 @@
 | 家電 3C | [Beats Studio Pro 無線頭戴式耳機](https://www.costco.com.tw/Digital-Mobile/Wearables-Audio/Headphones-Audio-Devices/Beats-Studio-Pro-Wireless-Headphones/p/141447-B) | $3,000 |
 | 家具家居 | [台達電子 多功能循環涼暖風機 標準型300系列 遙控型](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/KitchenBathroom-Hardware/Delta-Fan-Heater-Classic-300-Series-Remote-Control/p/135409-B) | $3,000 |
 | 家具家居 | [席伊麗 護背系列 Sunshine 標準雙人床墊 152公分 X 190公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Sealy-Sunshine-Backsaver-Mattress-152-cm-X-190-cm/p/133226) | $3,000 |
-| 食品飲料 | [桂格 3重優蛋白高鈣奶粉 1400公克](https://www.costco.com.tw/Food-Dining/Drinks/p/151615) | $495 |
-| 食品飲料 | [親愛的糙米白咖啡 30公克 X 80入](https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Darling-Brown-Rice-White-Coffee-30-g-X-80-Count/p/374199) | $485 |
+| 其他 | [Prestone 強效亮澤雨刷精 3.78公升 X 2入](https://www.costco.com.tw/Automotive/p/126189) | $329 |
+| 服飾配件 | [Berkemann Allexis 女休閒運動鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Berkemann-Allexis-Ladies-Sneaker-White/p/1846415) | $4,059 |
+| 其他 | [米其林 205/60 R17 97V Extra Load Primacy 4 ST 輪胎](https://www.costco.com.tw/Tire/Michelin-20560-R17-97V-Extra-Load-Primacy-4-ST-Tire/tire/p/151813) | $70 |
+| 家具家居 | [Korhani KO2 可機洗埃及地毯 240公分 X 300公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Rugs-Mats/Korhani-KO2-Washable-Area-Rug-240-cm-X-300-cm/p/1996999) | $3,169 |
+| 服飾配件 | [新視紀 矯正鏡片(未滅菌) 200度 KYNE](https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-200-KYNE/p/146746) | $479 |
+| 其他 | [Sunvilla 鞦韆椅](https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Sunvilla-Pine-Knoll-Swing/p/1807161) | $15,119 |
+| 其他 | [Sunvilla 10呎 LED 戶外遮陽傘 灰色](https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Sunvilla-10-ft-LED-Market-Umbrella-Myra-Graphite/p/1768222) | $4,799 |
+| 服飾配件 | [新視紀 矯正鏡片(未滅菌) 275度 ADDIE 金屬](https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-275-ADDIE-Metal/p/146762) | $479 |
+| 其他 | [米其林 345/30 R20 106Y Pilot Sport 4 S 輪胎](https://www.costco.com.tw/Tire/Michelin-34530-R20-106Y-Pilot-Sport-4-S-Tire/tire/p/151923) | $70 |
+| 其他 | [米其林 305/25 R20 97Y Extra Load Pilot Sport 4 S 輪胎](https://www.costco.com.tw/Tire/Michelin-30525-R20-97Y-Extra-Load-Pilot-Sport-4-S-Tire/tire/p/151920) | $70 |
+| 其他 | [米其林 245/45 R20 103W Extra Load Latitude Sport * ZP 輪胎](https://www.costco.com.tw/Tire/Michelin-24545-R20-103W-Extra-Load-Latitude-Sport-ZP-Tire/tire/p/151914) | $70 |
+| 其他 | [米其林 275/40 R20 106Y Extra Load Pilot Sport 4 S 輪胎](https://www.costco.com.tw/Tire/Michelin-27540-R20-106Y-Extra-Load-Pilot-Sport-4-S-Tire/tire/p/151907) | $70 |
+| 其他 | [米其林 295/35 R18 103Y Extra Load Pilot Super Sport 輪胎](https://www.costco.com.tw/Tire/Michelin-29535-R18-103Y-Extra-Load-Pilot-Super-Sport-Tire/tire/p/151904) | $70 |
+| 其他 | [米其林 305/30 R19 102Y Extra Load Pilot Sport 4 S 輪胎](https://www.costco.com.tw/Tire/Michelin-30530-R19-102Y-Extra-Load-Pilot-Sport-4-S-Tire/tire/p/151902) | $70 |
+| 其他 | [米其林 255/45 R20 101V Extra Load Primacy 4 SUV AC 輪胎](https://www.costco.com.tw/Tire/Michelin-25545-R20-101V-Extra-Load-Primacy-4-SUV-AC-Tire/tire/p/151897) | $70 |
+| 其他 | [米其林 275/60 R20 115H Primacy SUV + 輪胎](https://www.costco.com.tw/Tire/Michelin-27560-R20-115H-Primacy-SUV-Tire/tire/p/151865) | $70 |
+| 其他 | [米其林 245/30 R19 89Y Extra Load Pilot Sport 4 S 輪胎](https://www.costco.com.tw/Tire/Michelin-24530-R19-89Y-Extra-Load-Pilot-Sport-4-S-Tire/tire/p/151862) | $70 |
+| 其他 | [米其林 225/35 R19 88Y Extra Load Pilot Sport 4 S ZP 輪胎](https://www.costco.com.tw/Tire/Michelin-22535-R19-88Y-Extra-Load-Pilot-Sport-4-S-ZP-Tire/tire/p/151859) | $70 |
+| 其他 | [米其林 275/40 19吋 101Y Primacy 3 ZP 輪胎](https://www.costco.com.tw/Tire/Michelin-27540-R19-101Y-Primacy-3-ZP-Tire/tire/p/124043) | $70 |
+| 其他 | [米其林 255/40 20吋 PILOT SPORT 4 S 輪胎](https://www.costco.com.tw/Tire/Michelin-25540-R20-PILOT-SPORT-4-S-Tire/tire/p/123260) | $70 |
+| 其他 | [米其林 275/40 19吋 PILOT SPORT 4 S 輪胎](https://www.costco.com.tw/Tire/Michelin-27540-R19-PILOT-SPORT-4-S-Tire/tire/p/123242) | $70 |
+| 其他 | [米其林 275/30 19吋 PILOT SPORT 4 S 輪胎](https://www.costco.com.tw/Tire/Michelin-27530-R19-PILOT-SPORT-4-S-Tire/tire/p/123239) | $70 |
+| 其他 | [米其林 235/35 19吋 PILOT SPORT 4 S 輪胎](https://www.costco.com.tw/Tire/Michelin-23535-R19-PILOT-SPORT-4-S-Tire/tire/p/123234) | $70 |
+| 其他 | [米其林 255/55 19吋 LATITUDE SPORT 3 輪胎](https://www.costco.com.tw/Tire/Michelin-25555-R19-LATITUDE-SPORT-3-Tire/tire/p/123229) | $70 |
+| 其他 | [米其林 285/45 19吋 LATITUDE SPORT 3 失壓續跑 ZP 輪胎](https://www.costco.com.tw/Tire/Michelin-28545-R19-LATITUDE-SPORT-3-ZP-Tire/tire/p/123228) | $70 |
+| 其他 | [米其林 275/40 18吋 99Y Primacy 3 ZP 輪胎](https://www.costco.com.tw/Tire/Michelin-27540-R18-99Y-Primacy-3-ZP-Tire/tire/p/122567) | $70 |
+| 其他 | [米其林 225/50 18吋 PRIMACY 3 ST 失壓續跑 ZP 輪胎](https://www.costco.com.tw/Tire/Michelin-22550-R18-PRIMACY-3-ST-ZP-Tire/tire/p/122270) | $70 |
+| 其他 | [米其林 235/55 R19 101V Tourhp 輪胎](https://www.costco.com.tw/Tire/Michelin-23555-R19-101V-Tourhp-Tire/tire/p/117257) | $70 |
+| 家電 3C | [Razestore 360度旋轉手機平板支架組](https://www.costco.com.tw/Digital-Mobile/Mobile-Tablets/Mobile-Tablets-Accessories/Razestore-360-Degree-Rotation-Phone-Pad-Stand-Combo/p/8516799) | $449 |
+| 家具家居 | [CASA 單人3.5呎天然乳膠Q彈床墊 107公分 X 190公分 X 7.5公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/CASA-Natural-Latex-Mattress-Topper-35-inch-107-cm-X-190-cm-X-75-cm/p/127338) | $4,159 |
+| 其他 | [米其林 215/55 R18 99V Extra Load Primacy 5 輪胎](https://www.costco.com.tw/Tire/Michelin-21555-R18-99V-Extra-Load-Primacy-5-Tire/tire/p/153592) | $70 |
+| 其他 | [米其林 305/30 R20 103Y Extra Load Pilot Sport 4 S 輪胎](https://www.costco.com.tw/Tire/Michelin-30530-R20-103Y-Extra-Load-Pilot-Sport-4-S-Tire/tire/p/151921) | $70 |
+| 其他 | [米其林 295/25 R20 95Y Pilot Sport 4 S 輪胎](https://www.costco.com.tw/Tire/Michelin-29525-R20-95Y-Pilot-Sport-4-S-Tire/tire/p/151919) | $70 |
+| 其他 | [米其林 275/40 R22 108Y Extra Load Pilot Sport 4 SUV 輪胎](https://www.costco.com.tw/Tire/Michelin-27540-R22-108Y-Extra-Load-Pilot-Sport-4-SUV-Tire/tire/p/151900) | $70 |
+| 其他 | [米其林 195/50 R15 82V PRIMACY 4 輪胎](https://www.costco.com.tw/Tire/Michelin-19550-R15-82V-PRIMACY-4-Tire/tire/p/148036) | $70 |
+| 其他 | [米其林 235/40 R18 95Y EXTRA LOAD PILOT SPORT 5 輪胎](https://www.costco.com.tw/Tire/Michelin-23540-R18-95Y-EXTRA-LOAD-PILOT-SPORT-5-Tire/tire/p/148000) | $70 |
+| 其他 | [米其林 245/35 R19 93Y EXTRA LOAD PILOT SPORT 5 輪胎](https://www.costco.com.tw/Tire/Michelin-24535-R19-93Y-EXTRA-LOAD-PILOT-SPORT-5-Tire/tire/p/147995) | $70 |
+| 其他 | [米其林 235/50 R20 104Y EXTRA LOAD PILOT SPORT 4 SUV 輪胎](https://www.costco.com.tw/Tire/Michelin-23550-R20-104Y-EXTRA-LOAD-PILOT-SPORT-4-SUV-Tire/tire/p/147890) | $70 |
+| 其他 | [米其林 275/35 R19 100Y EXTRA LOAD PILOT SPORT 4 S 輪胎](https://www.costco.com.tw/Tire/Michelin-27535-R19-100Y-EXTRA-LOAD-PILOT-SPORT-4-S-Tire/tire/p/147868) | $70 |
 | 家電 3C | [聲寶 16吋 機械式立扇 SK-GF16X](https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/SAMPO-16-inch-Mechanical-Fan-SK-GF16X/p/158738) | $1,359 |
 | 家電 3C | [IRIS Woozoo 空氣循環扇 PCF-SC15T-CT](https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/IRIS-Woozoo-Circulator-Fan-PCF-SC15T-CT/p/2354207) | $1,269 |
 | 家具家居 | [Lustroware 冷水壺 2.2公升 X 2件組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Lustroware-Pitcher-22-L-X-2-Piece-Set/p/149213) | $519 |

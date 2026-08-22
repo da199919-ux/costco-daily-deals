@@ -1,130 +1,8 @@
 {
-  "date": "2026-08-22",
-  "generated_at": "2026-08-22 21:14",
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23 01:49",
   "has_previous": true,
   "added": [
-    {
-      "name": "Nautica 女內褲六入組",
-      "price": "$599",
-      "original_price": "$749",
-      "discount_amount": "$150",
-      "promotion": "商品已折價$150 含運",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/p/8520993",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h04/h4a/436453925552158.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "岩谷 3.5kW 雙重防風卡式爐 CB-KZ-3 含外盒",
-      "price": "$1,579",
-      "original_price": "$1,999",
-      "discount_amount": "$420",
-      "promotion": "商品已折價$420 含運",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Camp-Kitchen-Cooking-Gear/Iwatani-35kW-Cassette-Gas-Stove-CB-KZ-3-with-Case/p/140066",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h33/h29/149676462080030.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "桂格 3重優蛋白高鈣奶粉 1400公克",
-      "price": "$495",
-      "original_price": "$615",
-      "discount_amount": "$120",
-      "promotion": "商品已折價$120 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Quaker-Triple-Protein-High-Calcium-Milk-Powder-1400-g/p/151615",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hef/hf9/364420200235038.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Prestone 強效亮澤雨刷精 3.78公升 X 2入",
-      "price": "$329",
-      "original_price": "$399",
-      "discount_amount": "$70",
-      "promotion": "商品已折價$70 含運",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Automotive/Exterior-Car-Care/Prestone-Bug-Wash-Windshield-Washer-Fluid-378-L-X-2-Pack/p/126189",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h4e/h84/97208859230238.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "進口洋蔥 10公斤",
-      "price": "$460",
-      "original_price": "$559",
-      "discount_amount": "$99",
-      "promotion": "商品已折價$99 含運",
-      "url": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Chilled-Food/Import-Onion-10-kg/p/85744",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h5b/168536181178398.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Caliphil 雙層紗雙人床包兩用被四件組 152公分 X 190公分 洛莉絲",
-      "price": "$2,159",
-      "original_price": "$2,699",
-      "discount_amount": "$540",
-      "promotion": "商品已折價$540 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Caliphil-Double-Cotton-Gauze-4-Piece-Set-Queen-Size-152-cm-X-190-cm-Yellow/p/159658",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h72/h82/450418184716318.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Korhani KO2 可機洗埃及地毯 240公分 X 300公分",
-      "price": "$3,169",
-      "original_price": "$3,969",
-      "discount_amount": "$800",
-      "promotion": "商品已折價$800 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Rugs-Mats/Korhani-KO2-Washable-Area-Rug-240-cm-X-300-cm/p/1996999",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h0c/he1/455934077141022.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "新視紀 矯正鏡片(未滅菌) 200度 KYNE",
-      "price": "$479",
-      "original_price": "$589",
-      "discount_amount": "$110",
-      "promotion": "商品已折價$110 含運",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-200-KYNE/p/146746",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h2b/ha8/378821893652510.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Sunvilla 鞦韆椅",
-      "price": "$15,119",
-      "original_price": "$18,899",
-      "discount_amount": "$3,780",
-      "promotion": "商品已折價$3,780 含運",
-      "url": "https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Sunvilla-Pine-Knoll-Swing/p/1807161",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h9b/h53/436453551013918.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Apple MagSafe 充電器 1公尺",
-      "price": "$1,029",
-      "original_price": "$1,149",
-      "discount_amount": "$120",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Mobile-Tablets/Mobile-Tablets-Accessories/Apple-MagSafe-Charger-1-m/p/155889",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h96/h39/489125933580318.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "親愛的糙米白咖啡 30公克 X 80入",
-      "price": "$485",
-      "original_price": "$615",
-      "discount_amount": "",
-      "promotion": "需一次購買活動組數才可享受此優惠 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Darling-Brown-Rice-White-Coffee-30-g-X-80-Count/p/374199",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hfb/hd9/325606390956062.jpg",
-      "category": "食品飲料"
-    }
-  ],
-  "removed": [
-    {
-      "name": "Nautica 女內褲六入組",
-      "price": "$599",
-      "original_price": "$749",
-      "discount_amount": "$150",
-      "promotion": "商品已折價$150 含運",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Nautica-Ladies-Nude-Brief-6-Pack-Set/p/8520993",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h04/h4a/436453925552158.jpg",
-      "category": "服飾配件"
-    },
     {
       "name": "岩谷 3.5kW 雙重防風卡式爐 CB-KZ-3 含外盒",
       "price": "$1,579",
@@ -133,16 +11,6 @@
       "promotion": "商品已折價$420 含運",
       "url": "https://www.costco.com.tw/p/140066",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h33/h29/149676462080030.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Prestone 強效亮澤雨刷精 3.78公升 X 2入",
-      "price": "$329",
-      "original_price": "$399",
-      "discount_amount": "$70",
-      "promotion": "商品已折價$70 含運",
-      "url": "https://www.costco.com.tw/Automotive/p/126189",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h4e/h84/97208859230238.jpg",
       "category": "其他"
     },
     {
@@ -206,24 +74,54 @@
       "category": "家電 3C"
     },
     {
-      "name": "東元 快速自動製冰塊機",
-      "price": "$2,299",
-      "original_price": "$2,899",
-      "discount_amount": "$600",
-      "promotion": "商品已折價$600 含運",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Water-Dispensers-Water-Purification/TECO-Ice-Makers/p/146687",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h1d/hca/255087840395294.jpg",
-      "category": "家電 3C"
+      "name": "Prestone 強效亮澤雨刷精 3.78公升 X 2入",
+      "price": "$329",
+      "original_price": "$399",
+      "discount_amount": "$70",
+      "promotion": "商品已折價$70 含運",
+      "url": "https://www.costco.com.tw/Automotive/p/126189",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4e/h84/97208859230238.jpg",
+      "category": "其他"
     },
     {
-      "name": "艾美特 14吋DC 直流遙控立扇 FS35150R",
-      "price": "$1,679",
-      "original_price": "$2,099",
-      "discount_amount": "$420",
-      "promotion": "商品已折價$420 含運",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Airmate-14-inch-DC-Inverter-Stand-Fan-FS35150R/p/149335",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h27/hee/333377589444638.jpg",
-      "category": "家電 3C"
+      "name": "Berkemann Allexis 女休閒運動鞋",
+      "price": "$4,059",
+      "original_price": "$5,059",
+      "discount_amount": "$1,000",
+      "promotion": "商品已折價$1,000 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Berkemann-Allexis-Ladies-Sneaker-White/p/1846415",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0a/h48/468935674658846.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "米其林 205/60 R17 97V Extra Load Primacy 4 ST 輪胎",
+      "price": "$70",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "url": "https://www.costco.com.tw/Tire/Michelin-20560-R17-97V-Extra-Load-Primacy-4-ST-Tire/tire/p/151813",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb1/h0d/487910068584478.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Sunvilla 10呎 LED 戶外遮陽傘 灰色",
+      "price": "$4,799",
+      "original_price": "$5,999",
+      "discount_amount": "$1,200",
+      "promotion": "商品已折價$1,200 含運",
+      "url": "https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Sunvilla-10-ft-LED-Market-Umbrella-Myra-Graphite/p/1768222",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h3f/h9f/436453464244254.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "新視紀 矯正鏡片(未滅菌) 275度 ADDIE 金屬",
+      "price": "$479",
+      "original_price": "$589",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-275-ADDIE-Metal/p/146762",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hac/hd7/378821923209246.jpg",
+      "category": "服飾配件"
     },
     {
       "name": "米其林 345/30 R20 106Y Pilot Sport 4 S 輪胎",
@@ -326,194 +224,104 @@
       "category": "其他"
     },
     {
-      "name": "米其林 255/40 R18 99Y Extra Load Pilot Sport 4 ST * ZP 輪胎",
+      "name": "米其林 275/40 19吋 101Y Primacy 3 ZP 輪胎",
       "price": "$70",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
-      "url": "https://www.costco.com.tw/Tire/Michelin-25540-R18-99Y-Extra-Load-Pilot-Sport-4-ST-ZP-Tire/tire/p/151856",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h8c/h0e/487910080118814.jpg",
+      "url": "https://www.costco.com.tw/Tire/Michelin-27540-R19-101Y-Primacy-3-ZP-Tire/tire/p/124043",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h9a/h13/487900252667934.jpg",
       "category": "其他"
     },
     {
-      "name": "米其林 245/35 R18 92Y Extra Load Pilot Sport 4 ZP 輪胎",
+      "name": "米其林 255/40 20吋 PILOT SPORT 4 S 輪胎",
       "price": "$70",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
-      "url": "https://www.costco.com.tw/Tire/Michelin-24535-R18-92Y-Extra-Load-Pilot-Sport-4-ZP-Tire/tire/p/151843",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hc7/h1b/487916290539550.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "米其林 255/60 R18 112W Extra Load Pilot Sport 4 SUV 輪胎",
-      "price": "$70",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "url": "https://www.costco.com.tw/Tire/Michelin-25560-R18-112W-Extra-Load-Pilot-Sport-4-SUV-Tire/tire/p/151842",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7b/h18/487912509308958.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "米其林 225/50 R18 99Y Extra Load Pilot Sport 4 S 輪胎",
-      "price": "$70",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "url": "https://www.costco.com.tw/Tire/Michelin-22550-R18-99Y-Extra-Load-Pilot-Sport-4-S-Tire/tire/p/151838",
+      "url": "https://www.costco.com.tw/Tire/Michelin-25540-R20-PILOT-SPORT-4-S-Tire/tire/p/123260",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hf2/hf1/487912500854814.jpg",
       "category": "其他"
     },
     {
-      "name": "米其林 225/35 R18 87Y Extra Load Pilot Super Sport 輪胎",
+      "name": "米其林 275/40 19吋 PILOT SPORT 4 S 輪胎",
       "price": "$70",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
-      "url": "https://www.costco.com.tw/Tire/Michelin-22535-R18-87Y-Extra-Load-Pilot-Super-Sport-Tire/tire/p/151826",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h1e/h7b/487912496267294.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "米其林 215/65 R17 99V PRIMACY 4 輪胎",
-      "price": "$70",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "url": "https://www.costco.com.tw/Tire/Michelin-21565-R17-99V-PRIMACY-4-Tire/tire/p/148034",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h71/h5c/487900260794398.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "米其林 255/35 R19 96Y EXTRA LOAD PILOT SPORT 5 輪胎",
-      "price": "$70",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "url": "https://www.costco.com.tw/Tire/Michelin-25535-R19-96Y-EXTRA-LOAD-PILOT-SPORT-5-Tire/tire/p/147905",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h81/h40/487916125945886.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "米其林 285/45 R21 113Y EXTRA LOAD PILOT SPORT 4 SUV 輪胎",
-      "price": "$70",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "url": "https://www.costco.com.tw/Tire/Michelin-28545-R21-113Y-EXTRA-LOAD-PILOT-SPORT-4-SUV-Tire/tire/p/147876",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7b/h18/487912509308958.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "米其林 275/35 R21 103Y EXTRA LOAD PILOT SPORT 4 S 輪胎",
-      "price": "$70",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "url": "https://www.costco.com.tw/Tire/Michelin-27535-R21-103Y-EXTRA-LOAD-PILOT-SPORT-4-S-Tire/tire/p/147865",
+      "url": "https://www.costco.com.tw/Tire/Michelin-27540-R19-PILOT-SPORT-4-S-Tire/tire/p/123242",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hf2/hf1/487912500854814.jpg",
       "category": "其他"
     },
     {
-      "name": "米其林 315/30 R22 107Y EXTRA LOAD PILOT SPORT 4 S 輪胎",
+      "name": "米其林 275/30 19吋 PILOT SPORT 4 S 輪胎",
       "price": "$70",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
-      "url": "https://www.costco.com.tw/Tire/Michelin-31530-R22-107Y-EXTRA-LOAD-PILOT-SPORT-4-S-Tire/tire/p/147854",
+      "url": "https://www.costco.com.tw/Tire/Michelin-27530-R19-PILOT-SPORT-4-S-Tire/tire/p/123239",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hf2/hf1/487912500854814.jpg",
       "category": "其他"
     },
     {
-      "name": "米其林 235/60 R18 103V LATITUDE SPORT 3 輪胎",
+      "name": "米其林 235/35 19吋 PILOT SPORT 4 S 輪胎",
       "price": "$70",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
-      "url": "https://www.costco.com.tw/Tire/Michelin-23560-R18-103V-LATITUDE-SPORT-3-Tire/tire/p/147828",
+      "url": "https://www.costco.com.tw/Tire/Michelin-23535-R19-PILOT-SPORT-4-S-Tire/tire/p/123234",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf2/hf1/487912500854814.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "米其林 255/55 19吋 LATITUDE SPORT 3 輪胎",
+      "price": "$70",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "url": "https://www.costco.com.tw/Tire/Michelin-25555-R19-LATITUDE-SPORT-3-Tire/tire/p/123229",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h58/h39/487916151341086.jpg",
       "category": "其他"
     },
     {
-      "name": "米其林 195/60 R18 96H EPRIMACY 輪胎",
+      "name": "米其林 285/45 19吋 LATITUDE SPORT 3 失壓續跑 ZP 輪胎",
       "price": "$70",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
-      "url": "https://www.costco.com.tw/Tire/Michelin-19560-R18-96H-EPRIMACY-Tire/tire/p/146264",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hca/h6f/491576807260190.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "米其林 225/55 ZR17 101Y Pilot Sport 5 輪胎",
-      "price": "$70",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "url": "https://www.costco.com.tw/Tire/Michelin-22555-ZR17-101Y-Pilot-Sport-5-Tire/tire/p/141584",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h81/h40/487916125945886.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "米其林 225/50 17吋 98Y Pilot Sport 5 輪胎",
-      "price": "$70",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "url": "https://www.costco.com.tw/Tire/Michelin-22550-ZR17-98Y-Pilot-Sport-5-Tire/tire/p/136559",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h81/h40/487916125945886.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "米其林 295/30 20吋 101Y Pilot Sport 4 S 輪胎",
-      "price": "$70",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "url": "https://www.costco.com.tw/Tire/Michelin-29530-R20-101Y-Pilot-Sport-4-S-Tire/tire/p/134153",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf2/hf1/487912500854814.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "米其林 285/35 19吋 103Y Pilot Sport 4 S 輪胎",
-      "price": "$70",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "url": "https://www.costco.com.tw/Tire/Michelin-28535-R19-103Y-Pilot-Sport-4-S-Tire/tire/p/133009",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf2/hf1/487912500854814.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "米其林 235/55 18吋 Latitude Sport 3 輪胎",
-      "price": "$70",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "url": "https://www.costco.com.tw/Tire/Michelin-23555-R18-Latitude-Sport-3-Tire/tire/p/131609",
+      "url": "https://www.costco.com.tw/Tire/Michelin-28545-R19-LATITUDE-SPORT-3-ZP-Tire/tire/p/123228",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h58/h39/487916151341086.jpg",
       "category": "其他"
     },
     {
-      "name": "米其林 255/50 20吋 109Y Pilot Sport 4 SUV 輪胎",
+      "name": "米其林 275/40 18吋 99Y Primacy 3 ZP 輪胎",
       "price": "$70",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
-      "url": "https://www.costco.com.tw/Tire/Michelin-25550-R20-109Y-Pilot-Sport-4-SUV-Tire/tire/p/127360",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7b/h18/487912509308958.jpg",
+      "url": "https://www.costco.com.tw/Tire/Michelin-27540-R18-99Y-Primacy-3-ZP-Tire/tire/p/122567",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h9a/h13/487900252667934.jpg",
       "category": "其他"
     },
     {
-      "name": "Caliphil 雙人色織緹花床包被套 4件組 152公分 X 190公分 芙蘿",
-      "price": "$2,319",
-      "original_price": "$2,899",
-      "discount_amount": "$580",
-      "promotion": "商品已折價$580 含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Caliphil-Yarn-Dye-Bedding-4-Piece-Set-152-cm-X-190-cm-Flora/p/125723",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h27/he2/29249815511070.jpg",
-      "category": "家具家居"
+      "name": "米其林 225/50 18吋 PRIMACY 3 ST 失壓續跑 ZP 輪胎",
+      "price": "$70",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "url": "https://www.costco.com.tw/Tire/Michelin-22550-R18-PRIMACY-3-ST-ZP-Tire/tire/p/122270",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h7e/h63/487912505049118.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "米其林 235/55 R19 101V Tourhp 輪胎",
+      "price": "$70",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "url": "https://www.costco.com.tw/Tire/Michelin-23555-R19-101V-Tourhp-Tire/tire/p/117257",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb3/hb3/487900248211486.jpg",
+      "category": "其他"
     },
     {
       "name": "Razestore 360度旋轉手機平板支架組",
@@ -624,6 +432,68 @@
       "url": "https://www.costco.com.tw/Tire/Michelin-27535-R19-100Y-EXTRA-LOAD-PILOT-SPORT-4-S-Tire/tire/p/147868",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hf2/hf1/487912500854814.jpg",
       "category": "其他"
+    }
+  ],
+  "removed": [
+    {
+      "name": "岩谷 3.5kW 雙重防風卡式爐 CB-KZ-3 含外盒",
+      "price": "$1,579",
+      "original_price": "$1,999",
+      "discount_amount": "$420",
+      "promotion": "商品已折價$420 含運",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Camp-Kitchen-Cooking-Gear/Iwatani-35kW-Cassette-Gas-Stove-CB-KZ-3-with-Case/p/140066",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h33/h29/149676462080030.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "桂格 3重優蛋白高鈣奶粉 1400公克",
+      "price": "$495",
+      "original_price": "$615",
+      "discount_amount": "$120",
+      "promotion": "商品已折價$120 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Quaker-Triple-Protein-High-Calcium-Milk-Powder-1400-g/p/151615",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hef/hf9/364420200235038.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "進口洋蔥 10公斤",
+      "price": "$460",
+      "original_price": "$559",
+      "discount_amount": "$99",
+      "promotion": "商品已折價$99 含運",
+      "url": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Chilled-Food/Import-Onion-10-kg/p/85744",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h5b/168536181178398.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Caliphil 雙層紗雙人床包兩用被四件組 152公分 X 190公分 洛莉絲",
+      "price": "$2,159",
+      "original_price": "$2,699",
+      "discount_amount": "$540",
+      "promotion": "商品已折價$540 含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Caliphil-Double-Cotton-Gauze-4-Piece-Set-Queen-Size-152-cm-X-190-cm-Yellow/p/159658",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h72/h82/450418184716318.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Apple MagSafe 充電器 1公尺",
+      "price": "$1,029",
+      "original_price": "$1,149",
+      "discount_amount": "$120",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Digital-Mobile/Mobile-Tablets/Mobile-Tablets-Accessories/Apple-MagSafe-Charger-1-m/p/155889",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h96/h39/489125933580318.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "親愛的糙米白咖啡 30公克 X 80入",
+      "price": "$485",
+      "original_price": "$615",
+      "discount_amount": "",
+      "promotion": "需一次購買活動組數才可享受此優惠 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Darling-Brown-Rice-White-Coffee-30-g-X-80-Count/p/374199",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfb/hd9/325606390956062.jpg",
+      "category": "食品飲料"
     }
   ],
   "price_changes": []
