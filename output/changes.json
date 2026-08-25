@@ -1,52 +1,100 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25 10:00",
+  "generated_at": "2026-08-25 13:57",
   "has_previous": true,
   "added": [
     {
-      "name": "戴森 360玻璃纖維HEPA+活性碳空氣清淨機濾網 2入組",
-      "price": "$3,999",
-      "original_price": "$4,799",
-      "discount_amount": "$800",
-      "promotion": "商品已折價$800 含運",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Air-Purifiers-Filters-Accessories/Dyson-360-Combi-Glass-HEPA-Carbon-Air-Purifier-Filter-2-Pack/p/141919",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h31/h78/185158982860830.jpg",
-      "category": "家電 3C"
+      "name": "空運日本山梨縣麝香葡萄 1.75公斤/ 5入裝",
+      "price": "$2,299",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Chilled-Fresh-Food/Air-Freighted-Japan-Yamanashi-Muscat-Grape-175-kg-5Pack/p/156434",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hed/hbb/380783691890718.jpg",
+      "category": "食品飲料"
     },
     {
-      "name": "戴森 空氣清淨機HEPA H13濾網 BP02/BP03/BP04專用 2入組",
-      "price": "$8,799",
-      "original_price": "$10,799",
-      "discount_amount": "$2,000",
-      "promotion": "商品已折價$2,000 含運",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Air-Purifiers-Filters-Accessories/Dyson-Air-Purifier-HEPA-H13-Filter-for-BP02BP03BP04-2Pack/p/156902",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h5f/he1/396189778477086.jpg",
-      "category": "家電 3C"
+      "name": "紅龍 冷凍雞塊 3公斤",
+      "price": "$539",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "指定夏日涼感商品：買2件享8.5折，買3件享8折（結帳時依活動條件計算）",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Red-Dragon-Frozen-Chicken-Nuggets-3-kg/p/18382",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h3f/h3b/12693292253214.jpg",
+      "category": "食品飲料"
     },
     {
-      "name": "戴森 空氣清淨機活性碳濾網 BP02/BP03專用 2入組",
-      "price": "$4,999",
-      "original_price": "$5,999",
-      "discount_amount": "$1,000",
-      "promotion": "商品已折價$1,000 含運",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Air-Purifiers-Filters-Accessories/Dyson-Air-Purifier-Carbon-Filter-for-BP02BP03-2Pack/p/156901",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h0d/h86/396189777657886.jpg",
-      "category": "家電 3C"
+      "name": "紅龍 冷凍雞肉捲 220公克 X 6入",
+      "price": "$399",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "指定夏日涼感商品：買2件享8.5折，買3件享8折（結帳時依活動條件計算）",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Red-Dragon-Frozen-Chicken-Bakes-220-g-X-6-Count/p/68068",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hbd/hb0/33857915387934.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "豐力富 紐西蘭頂級純濃奶粉 2.6公斤",
+      "price": "$631",
+      "original_price": "$789",
+      "discount_amount": "",
+      "promotion": "需一次購買活動組數才可享受此優惠 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/p/79922",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h24/hb9/15916554420254.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "蘭諾 衣物抗黃抗菌芳香豆 柑橘香 1900毫升",
+      "price": "$495",
+      "original_price": "$615",
+      "discount_amount": "$120",
+      "promotion": "商品已折價$120 含運",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/150978",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hbb/hed/344500437811230.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "驅塵氏 靜電除塵紙 (加大) 30張 X 8入",
+      "price": "$299",
+      "original_price": "$379",
+      "discount_amount": "$80",
+      "promotion": "商品已折價$80 含運",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Cleaning-Tools/p/232542",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h84/had/291292498952222.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "親愛的糙米白咖啡 30公克 X 80入",
+      "price": "$485",
+      "original_price": "$615",
+      "discount_amount": "",
+      "promotion": "需一次購買活動組數才可享受此優惠 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/p/374199",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfb/hd9/325606390956062.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Prestone 強效亮澤雨刷精 3.78公升 X 2入",
+      "price": "$329",
+      "original_price": "$399",
+      "discount_amount": "$70",
+      "promotion": "商品已折價$70 含運",
+      "url": "https://www.costco.com.tw/Automotive/p/126189",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4e/h84/97208859230238.jpg",
+      "category": "其他"
     }
   ],
-  "removed": [],
-  "price_changes": [
+  "removed": [
     {
-      "name": "Webber Naturals 維生素 C + D + 鋅錠 240錠",
-      "price": "$530",
-      "original_price": "$655",
-      "discount_amount": "$125",
-      "promotion": "商品已折價 $125 含運",
-      "old_price": "$534",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Webber-Naturals-Vitamin-C-D-Zinc-240-Tablet/p/146499",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h5f/h40/315743812517918.jpg",
-      "category": "保健美容"
+      "name": "Charmin 超柔捲筒衛生紙 213張 X 30卷",
+      "price": "$999",
+      "original_price": "$1,099",
+      "discount_amount": "$100",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Charmin-Ultra-Soft-Bath-Tissue-213-Sheet-X-30-Roll/p/2773119",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc7/h92/420739725426718.jpg",
+      "category": "日用品／母嬰／玩具"
     }
-  ]
+  ],
+  "price_changes": []
 }
