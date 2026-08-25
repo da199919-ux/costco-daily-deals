@@ -1,8 +1,52 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25 05:53",
+  "generated_at": "2026-08-25 10:00",
   "has_previous": true,
-  "added": [],
+  "added": [
+    {
+      "name": "戴森 360玻璃纖維HEPA+活性碳空氣清淨機濾網 2入組",
+      "price": "$3,999",
+      "original_price": "$4,799",
+      "discount_amount": "$800",
+      "promotion": "商品已折價$800 含運",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Air-Purifiers-Filters-Accessories/Dyson-360-Combi-Glass-HEPA-Carbon-Air-Purifier-Filter-2-Pack/p/141919",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h31/h78/185158982860830.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "戴森 空氣清淨機HEPA H13濾網 BP02/BP03/BP04專用 2入組",
+      "price": "$8,799",
+      "original_price": "$10,799",
+      "discount_amount": "$2,000",
+      "promotion": "商品已折價$2,000 含運",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Air-Purifiers-Filters-Accessories/Dyson-Air-Purifier-HEPA-H13-Filter-for-BP02BP03BP04-2Pack/p/156902",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h5f/he1/396189778477086.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "戴森 空氣清淨機活性碳濾網 BP02/BP03專用 2入組",
+      "price": "$4,999",
+      "original_price": "$5,999",
+      "discount_amount": "$1,000",
+      "promotion": "商品已折價$1,000 含運",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Air-Purifiers-Filters-Accessories/Dyson-Air-Purifier-Carbon-Filter-for-BP02BP03-2Pack/p/156901",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0d/h86/396189777657886.jpg",
+      "category": "家電 3C"
+    }
+  ],
   "removed": [],
-  "price_changes": []
+  "price_changes": [
+    {
+      "name": "Webber Naturals 維生素 C + D + 鋅錠 240錠",
+      "price": "$530",
+      "original_price": "$655",
+      "discount_amount": "$125",
+      "promotion": "商品已折價 $125 含運",
+      "old_price": "$534",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Webber-Naturals-Vitamin-C-D-Zinc-240-Tablet/p/146499",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h5f/h40/315743812517918.jpg",
+      "category": "保健美容"
+    }
+  ]
 }
