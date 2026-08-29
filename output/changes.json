@@ -1,32 +1,180 @@
 {
   "date": "2026-08-29",
-  "generated_at": "2026-08-29 10:23",
+  "generated_at": "2026-08-29 17:15",
   "has_previous": true,
   "added": [
     {
-      "name": "LG PuriCare 16公升 UV 抑菌 WiFi 雙變頻除濕機 粉藍色 MD161QBE0",
-      "price": "$3,000",
-      "original_price": "$3,420",
-      "discount_amount": "$420",
-      "promotion": "商品已折價 $420；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Dehumidifiers-Dry-Cabinets/LG-PuriCare-16-L-Dual-Inverter-Dehumidifier-with-UV-nano-WiFi-Blue-MD161QBE0/p/146161",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h76/ha5/382254201896990.jpg",
-      "category": "家電 3C"
-    }
-  ],
-  "removed": [],
-  "price_changes": [
+      "name": "雀巢美祿 高鈣可可麥芽牛奶 198毫升 X 24入",
+      "price": "$259",
+      "original_price": "$319",
+      "discount_amount": "$60",
+      "promotion": "商品已折價$60 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/p/148852",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h3f/hd5/438035407503390.jpg",
+      "category": "食品飲料"
+    },
     {
-      "name": "Lacoste 男純棉圓領短袖上衣",
-      "price": "$250",
+      "name": "豐力富 紐西蘭頂級純濃奶粉 2.6公斤",
+      "price": "$631",
+      "original_price": "$789",
+      "discount_amount": "",
+      "promotion": "需一次購買活動組數才可享受此優惠 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/p/79922",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h24/hb9/15916554420254.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "愛喜雅 黑缶貓主食軟包 兩種口味 70公克 X 24入",
+      "price": "$419",
+      "original_price": "$519",
+      "discount_amount": "$100",
+      "promotion": "商品已折價$100 含運",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/127226",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc7/hc0/82634096574494.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "口福不淺 有機雙麻派 25公克 X 20入",
+      "price": "$339",
+      "original_price": "$419",
+      "discount_amount": "$80",
+      "promotion": "商品已折價$80 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/116754",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he7/h02/29596038725662.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "興麥烘焙王國 牛奶醬菠蘿泡芙 576公克",
+      "price": "$299",
+      "original_price": "$369",
+      "discount_amount": "$70",
+      "promotion": "商品已折價$70 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/149528",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hdb/h68/402145146437662.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "米森 醇黑可可一口酥 20公克 X 21包 X 2盒",
+      "price": "$679",
+      "original_price": "$849",
+      "discount_amount": "$170",
+      "promotion": "商品已折價$170 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/960667",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hd8/hf8/399197074554910.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "義美 生機水果穀物圈 莓果派對 240公克",
+      "price": "$259",
+      "original_price": "$319",
+      "discount_amount": "$60",
+      "promotion": "商品已折價$60 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/p/151455",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hbb/ha2/472591331950622.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Dr.B 保博適 綜合維生素B群 微發泡口含錠 30錠 X 2入",
+      "price": "$479",
+      "original_price": "$599",
+      "discount_amount": "$120",
+      "promotion": "商品已折價 $120 含運",
+      "url": "https://www.costco.com.tw/p/888120",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h04/h2b/361110760390686.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "OzKleen 寵物汙漬異味清除劑 500毫升 X 2入",
+      "price": "$294",
+      "original_price": "$369",
+      "discount_amount": "$75",
+      "promotion": "商品已折價$75 含運",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/412384",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf4/h6e/450045556785182.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "寶貝星 自動吸水電動水槍 / 6歲以上",
+      "price": "$485",
+      "original_price": "$615",
+      "discount_amount": "$130",
+      "promotion": "商品已折價$130 含運",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/p/8526807",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h44/h00/485340996861982.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "LEGO Friends系列 無尾熊保育中心 42701 / 7歲以上",
+      "price": "$1,385",
+      "original_price": "$1,735",
+      "discount_amount": "$350",
+      "promotion": "商品已折價$350 含運",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/p/160557",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hd7/h8b/471660308398110.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "新視紀 矯正鏡片(未滅菌) 200度 MCKAY 抗藍光",
+      "price": "$479",
+      "original_price": "$589",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/146766",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h35/h37/378821996216350.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "CASA 雙人加大天然乳膠Q彈床墊 183公分 X 190公分 X 7.5公分",
+      "price": "$6,799",
+      "original_price": "$8,499",
+      "discount_amount": "$1,700",
+      "promotion": "商品已折價$1,700 含運",
+      "url": "https://www.costco.com.tw/Bedding/p/127340",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha9/h28/30628870946846.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "新視紀 矯正鏡片(未滅菌) 300度 COLE",
+      "price": "$479",
+      "original_price": "$589",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/146775",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h50/h51/378822012600350.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Studio TU 玻璃飲料桶 8.3公升 含木製桶架 & 上蓋",
+      "price": "$715",
       "original_price": "",
       "discount_amount": "",
-      "promotion": "",
-      "old_price": "$899",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Lacoste-Mens-Cotton-Crew-Neck-Short-Sleeve-Tee/p/3333325",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h82/hd7/486580544569374.jpg",
-      "category": "服飾配件"
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/p/1796162",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h1a/h6b/449275417952286.jpg",
+      "category": "其他"
     }
-  ]
+  ],
+  "removed": [
+    {
+      "name": "雀巢美祿 高鈣可可麥芽牛奶 198毫升 X 24入",
+      "price": "$259",
+      "original_price": "$319",
+      "discount_amount": "$60",
+      "promotion": "商品已折價$60 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Milo-High-Calcium-Cocoa-Malt-Milk-198-ml-X-24-Pack/p/148852",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h3f/hd5/438035407503390.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Studio TU 玻璃飲料桶 8.3公升 含木製桶架 & 上蓋",
+      "price": "$715",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Studio-TU-Gallon-Glass-Drink-Dispenser-83-L-with-Acacia-Wood-Stand-Lid/p/1796162",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h1a/h6b/449275417952286.jpg",
+      "category": "家具家居"
+    }
+  ],
+  "price_changes": []
 }
