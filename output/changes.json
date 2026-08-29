@@ -1,6 +1,6 @@
 {
   "date": "2026-08-29",
-  "generated_at": "2026-08-29 17:15",
+  "generated_at": "2026-08-29 22:39",
   "has_previous": true,
   "added": [
     {
@@ -9,18 +9,80 @@
       "original_price": "$319",
       "discount_amount": "$60",
       "promotion": "商品已折價$60 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/p/148852",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Milo-High-Calcium-Cocoa-Malt-Milk-198-ml-X-24-Pack/p/148852",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h3f/hd5/438035407503390.jpg",
       "category": "食品飲料"
     },
     {
-      "name": "豐力富 紐西蘭頂級純濃奶粉 2.6公斤",
-      "price": "$631",
-      "original_price": "$789",
+      "name": "驅塵氏 靜電除塵紙 (加大) 30張 X 8入",
+      "price": "$299",
+      "original_price": "$379",
+      "discount_amount": "$80",
+      "promotion": "商品已折價$80 含運",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Cleaning-Tools/p/232542",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h84/had/291292498952222.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "韓味不二 人蔘雞湯 3入",
+      "price": "$619",
+      "original_price": "$799",
+      "discount_amount": "$180",
+      "promotion": "商品已折價$180 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/p/59203",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h81/h98/261774610071582.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "舒特膚 嫩亮角質潔膚凝膠 178毫升 X 2入",
+      "price": "$525",
+      "original_price": "$659",
+      "discount_amount": "$134",
+      "promotion": "商品已折價$134 含運",
+      "url": "https://www.costco.com.tw/p/146935",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hdb/hb5/418236334145566.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "OzKleen 廚房清潔劑 清新橙香 750毫升 X 3入",
+      "price": "$299",
+      "original_price": "$369",
+      "discount_amount": "$70",
+      "promotion": "商品已折價$70 含運",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/212384",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/had/he9/31388205645854.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "翠果子 綜合米果 20公克 X 30包 X 4盒",
+      "price": "$949",
+      "original_price": "$1,189",
+      "discount_amount": "$240",
+      "promotion": "商品已折價$240 含運",
+      "url": "https://www.costco.com.tw/Grains-Nuts-Snacks/p/211681",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h28/h8e/168536159420446.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Studio TU 玻璃飲料桶 8.3公升 含木製桶架 & 上蓋",
+      "price": "$715",
+      "original_price": "",
       "discount_amount": "",
-      "promotion": "需一次購買活動組數才可享受此優惠 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/p/79922",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h24/hb9/15916554420254.jpg",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Studio-TU-Gallon-Glass-Drink-Dispenser-83-L-with-Acacia-Wood-Stand-Lid/p/1796162",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h1a/h6b/449275417952286.jpg",
+      "category": "家具家居"
+    }
+  ],
+  "removed": [
+    {
+      "name": "雀巢美祿 高鈣可可麥芽牛奶 198毫升 X 24入",
+      "price": "$259",
+      "original_price": "$319",
+      "discount_amount": "$60",
+      "promotion": "商品已折價$60 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/p/148852",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h3f/hd5/438035407503390.jpg",
       "category": "食品飲料"
     },
     {
@@ -74,16 +136,6 @@
       "category": "食品飲料"
     },
     {
-      "name": "Dr.B 保博適 綜合維生素B群 微發泡口含錠 30錠 X 2入",
-      "price": "$479",
-      "original_price": "$599",
-      "discount_amount": "$120",
-      "promotion": "商品已折價 $120 含運",
-      "url": "https://www.costco.com.tw/p/888120",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h04/h2b/361110760390686.jpg",
-      "category": "其他"
-    },
-    {
       "name": "OzKleen 寵物汙漬異味清除劑 500毫升 X 2入",
       "price": "$294",
       "original_price": "$369",
@@ -91,16 +143,6 @@
       "promotion": "商品已折價$75 含運",
       "url": "https://www.costco.com.tw/Household-Baby-Toys/p/412384",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hf4/h6e/450045556785182.jpg",
-      "category": "日用品／母嬰／玩具"
-    },
-    {
-      "name": "寶貝星 自動吸水電動水槍 / 6歲以上",
-      "price": "$485",
-      "original_price": "$615",
-      "discount_amount": "$130",
-      "promotion": "商品已折價$130 含運",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/p/8526807",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h44/h00/485340996861982.jpg",
       "category": "日用品／母嬰／玩具"
     },
     {
@@ -152,28 +194,6 @@
       "url": "https://www.costco.com.tw/p/1796162",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h1a/h6b/449275417952286.jpg",
       "category": "其他"
-    }
-  ],
-  "removed": [
-    {
-      "name": "雀巢美祿 高鈣可可麥芽牛奶 198毫升 X 24入",
-      "price": "$259",
-      "original_price": "$319",
-      "discount_amount": "$60",
-      "promotion": "商品已折價$60 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Milo-High-Calcium-Cocoa-Malt-Milk-198-ml-X-24-Pack/p/148852",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h3f/hd5/438035407503390.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Studio TU 玻璃飲料桶 8.3公升 含木製桶架 & 上蓋",
-      "price": "$715",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Studio-TU-Gallon-Glass-Drink-Dispenser-83-L-with-Acacia-Wood-Stand-Lid/p/1796162",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h1a/h6b/449275417952286.jpg",
-      "category": "家具家居"
     }
   ],
   "price_changes": []
