@@ -1,40 +1,8 @@
 {
   "date": "2026-09-01",
-  "generated_at": "2026-09-01 18:19",
+  "generated_at": "2026-09-01 23:02",
   "has_previous": true,
   "added": [
-    {
-      "name": "蜜蜂工坊 Beelove 高山蜂蜜禮盒 700公克 X 2入",
-      "price": "$669",
-      "original_price": "$849",
-      "discount_amount": "$180",
-      "promotion": "商品已折價$180 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/BeeTouched-Beelove-Taiwan-Mountains-Honey-Gift-Pack-700-g-X-2-Pack/p/307304",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h56/h00/361386815160350.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Charmnap 女性漏尿墊 3 cc X 160片",
-      "price": "$159",
-      "original_price": "$205",
-      "discount_amount": "$46",
-      "promotion": "商品已折價$46 含運",
-      "url": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Adult-Diapers-Incontinence/Charmnap-Incontinence-Pad-3-cc-X-160-Piece/p/118786",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hca/hed/308411236679710.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "紅龍 冷凍雞肉捲 220公克 X 6入",
-      "price": "$399",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "指定夏日涼感商品：買2件享8.5折，買3件享8折（結帳時依活動條件計算）",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Red-Dragon-Frozen-Chicken-Bakes-220-g-X-6-Count/p/68068",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hbd/hb0/33857915387934.jpg",
-      "category": "食品飲料"
-    }
-  ],
-  "removed": [
     {
       "name": "天地合補 玫瑰四物飲葡萄籽配方 120毫升 X 18入",
       "price": "$639",
@@ -44,91 +12,66 @@
       "url": "https://www.costco.com.tw/Health-Beauty/Elderly-Care/Supplements/Essence-of-Herbs-Grape-Seed-Rose-Flavor-120-ml-X-18-Count/p/83091",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h1c/h77/26784627982366.jpg",
       "category": "保健美容"
-    },
-    {
-      "name": "Chevron SN 5W-40 Euro 全合成機油 946毫升 X 6瓶",
-      "price": "$1,319",
-      "original_price": "$1,659",
-      "discount_amount": "$340",
-      "promotion": "商品已折價$340 含運",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Automotive/Car-Oils-Fluids/Chevron-Supreme-SN-5W-40-Euro-Synthetic-Motor-Oil-946-ml-X-6-Count/p/1034335",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h36/hac/167144459927582.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "蜜唇之吻迪士尼系列潤唇膏",
-      "price": "$297",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Makeup-Beauty-Accessories/LIP-SMACKER-LIP-BALM/p/8521030",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd6/h0d/399197064855582.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "Thinkbaby 新寶貝純物理防曬霜 SPF 50 89毫升 X 2入",
-      "price": "$397",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/Thinkbaby-Sunscreen-SPF-50-89-ml-X-2-Pack/p/117096",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h5a/h67/138405416140830.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "Thinksport 新寶貝 純物理防曬霜 SPF 50 (運動款) 89毫升 X 2入",
-      "price": "$397",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/Thinksport-Sunscreen-SPF-50-for-Sports-89-ml-X-2-Pack/p/145875",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb6/h35/238946522071070.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "Thinksport 新寶貝 純物理防曬霜 SPF 50 (兒童款) 89毫升 X 2入",
-      "price": "$397",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/Thinksport-Sunscreen-SPF-50-for-Kids-89-ml-X-2-Pack/p/145877",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hdd/hd1/238946525741086.jpg",
-      "category": "保健美容"
     }
   ],
+  "removed": [],
   "price_changes": [
     {
+      "name": "Berkemann Allegra 女休閒鞋",
+      "price": "$3,759",
+      "original_price": "$5,059",
+      "discount_amount": "$1,300",
+      "promotion": "商品已折價$1,300 含運",
+      "old_price": "$1,139",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Berkemann-Allegra-Ladies-Casual-Shoe/p/1846422",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0c/hf6/488918753673246.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Camper 男皮革休閒鞋",
+      "price": "$2,599",
+      "original_price": "$3,259",
+      "discount_amount": "$660",
+      "promotion": "商品已折價$660 含運",
+      "old_price": "$1,299",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Camper-Mens-Leather-Touring-Shoe/p/1846399",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h64/h40/485751259430942.jpg",
+      "category": "服飾配件"
+    },
+    {
       "name": "GAP 女九分褲",
-      "price": "$1,159",
+      "price": "$379",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
-      "old_price": "$799",
-      "direction": "漲價",
+      "old_price": "$1,159",
+      "direction": "降價",
       "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/GAP-Ladies-Ankle-Trouser/p/1971848",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h8f/451293719953438.jpg",
       "category": "服飾配件"
     },
     {
       "name": "GAP 女鬆緊腰短褲",
-      "price": "$397",
+      "price": "$1,159",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
-      "old_price": "$1,159",
-      "direction": "降價",
+      "old_price": "$397",
+      "direction": "漲價",
       "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/GAP-Elastic-Waist-Short/p/1959301",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hc0/h5c/451293697409054.jpg",
       "category": "服飾配件"
     },
     {
       "name": "Polo Ralph Lauren 男短袖Polo衫",
-      "price": "$1,159",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "old_price": "$2,949",
-      "direction": "降價",
+      "price": "$2,349",
+      "original_price": "$2,949",
+      "discount_amount": "$600",
+      "promotion": "商品已折價$600 含運",
+      "old_price": "$1,159",
+      "direction": "漲價",
       "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Polo-Ralph-Lauren-Short-Sleeve-Polo-Shirt/p/1846551",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h27/ha7/484307084345374.jpg",
       "category": "服飾配件"
