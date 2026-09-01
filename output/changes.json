@@ -1,80 +1,200 @@
 {
-  "date": "2026-09-01",
-  "generated_at": "2026-09-01 23:02",
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02 05:55",
   "has_previous": true,
   "added": [
     {
-      "name": "天地合補 玫瑰四物飲葡萄籽配方 120毫升 X 18入",
-      "price": "$639",
-      "original_price": "$799",
-      "discount_amount": "$160",
-      "promotion": "商品已折價 $160 含運",
-      "url": "https://www.costco.com.tw/Health-Beauty/Elderly-Care/Supplements/Essence-of-Herbs-Grape-Seed-Rose-Flavor-120-ml-X-18-Count/p/83091",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h1c/h77/26784627982366.jpg",
-      "category": "保健美容"
-    }
-  ],
-  "removed": [],
-  "price_changes": [
-    {
-      "name": "Berkemann Allegra 女休閒鞋",
-      "price": "$3,759",
-      "original_price": "$5,059",
-      "discount_amount": "$1,300",
-      "promotion": "商品已折價$1,300 含運",
-      "old_price": "$1,139",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Berkemann-Allegra-Ladies-Casual-Shoe/p/1846422",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h0c/hf6/488918753673246.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Camper 男皮革休閒鞋",
-      "price": "$2,599",
-      "original_price": "$3,259",
-      "discount_amount": "$660",
-      "promotion": "商品已折價$660 含運",
-      "old_price": "$1,299",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Camper-Mens-Leather-Touring-Shoe/p/1846399",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h64/h40/485751259430942.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "GAP 女九分褲",
-      "price": "$379",
+      "name": "Lilfant 三麗鷗 兒童餐具 6件組",
+      "price": "$727",
       "original_price": "",
       "discount_amount": "",
-      "promotion": "",
-      "old_price": "$1,159",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/GAP-Ladies-Ankle-Trouser/p/1971848",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h8f/451293719953438.jpg",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/Lilfant-SANRIO-Kids-Utensil-6-Piece-Set/p/674962",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf5/h36/418236902342686.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Camper 男Pelotas XLF休閒鞋",
+      "price": "$2,997",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Camper-Mens-Pelotas-XLF-Sneaker/p/1719434",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h92/h0d/277970988662814.jpg",
       "category": "服飾配件"
     },
     {
-      "name": "GAP 女鬆緊腰短褲",
+      "name": "Ted Baker 經典款女用香水 200毫升 X 2入",
+      "price": "$647",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Makeup-Beauty-Accessories/Ted-Baker-Woman-Original-200-ml-X-2-Pack/p/591977",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb9/h16/420197449498654.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "Ray-Ban 太陽眼鏡 RB3267 003/8G 銀色",
       "price": "$1,159",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
-      "old_price": "$397",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/GAP-Elastic-Waist-Short/p/1959301",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hc0/h5c/451293697409054.jpg",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/Ray-Ban-Sunglasses-RB3267-0038G-Silver/p/251212",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb1/h79/384789278720030.jpg",
       "category": "服飾配件"
     },
     {
-      "name": "Polo Ralph Lauren 男短袖Polo衫",
-      "price": "$2,349",
-      "original_price": "$2,949",
-      "discount_amount": "$600",
-      "promotion": "商品已折價$600 含運",
-      "old_price": "$1,159",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Polo-Ralph-Lauren-Short-Sleeve-Polo-Shirt/p/1846551",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h27/ha7/484307084345374.jpg",
+      "name": "Jachs 男彈性短褲",
+      "price": "$347",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/Jachs-Mens-Flex-Short/p/157232",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h40/h08/472591344926750.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Tommy Hilfiger 男短袖上衣",
+      "price": "$347",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Tommy-Hilfiger-Mens-Short-Sleeve-Tee/p/141714",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h2d/h41/469716638400542.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Lacoste 男休閒鞋",
+      "price": "$1,457",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Lacoste-Mens-Shoe/p/154492",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h50/hcb/438875884486686.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Copper & Oak 男工裝短褲",
+      "price": "$397",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/Copper-Oak-Mens-Cargo-Short/p/1854952",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h24/h97/471216504078366.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "米森 膠原搖搖 無調味+C 5.5公克 X 38包",
+      "price": "$797",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Vilson-Collagen-Vitamin-C-Plus-55-g-X-38-Pack/p/156083",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h92/hc0/400499430096926.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "Lacoste 女休閒鞋",
+      "price": "$1,457",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Lacoste-Ladies-Shoe/p/154493",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h68/h77/451293254418462.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Nautica 防曬漁夫帽",
+      "price": "$347",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Accessories/Nautica-UV-Protection-Hat/p/156355",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h90/h27/452308882128926.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Tailor Vintage 男長褲",
+      "price": "$497",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/Tailor-Vintage-Mens-Ewaist-Surplus-Pant/p/1956433",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h48/h0c/438876310011934.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Oh Sunny 女戶外休閒雙面遮陽帽",
+      "price": "$447",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Accessories/Oh-Sunny-Ladies-Reversible-Sunscreen-Hat/p/8522876",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc5/hbf/437687805116446.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Character 兒童上衣四件組",
+      "price": "$447",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Clothing-Sets-Accessories/Character-Kids-Short-Sleeve-Tee-4-Pack-Set/p/1956441",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h36/h33/454001926733854.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Smiley World 兒童上衣兩件組",
+      "price": "$347",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Clothing-Sets-Accessories/Smiley-World-Kids-Top-2-Pack-Set/p/1977016",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4d/h18/450045519560734.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Unionbay 兒童彈性長褲",
+      "price": "$247",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Bottoms-Dresses/Unionbay-Kids-Stretch-Pants/p/1956458",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hd1/h6f/438876324429854.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Ferragamo 太陽眼鏡 SF131S 736 紫色",
+      "price": "$139",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/Ferragamo-Sunglasses-SF131S-736-Purple/p/250568",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc4/he3/384789269348382.jpg",
       "category": "服飾配件"
     }
-  ]
+  ],
+  "removed": [
+    {
+      "name": "G.U.M 牙周護理牙刷 #166軟毛 X 12入",
+      "price": "$675",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Oral-Care/GUM-Toothbrush-166-Soft-X-12-Pack/p/153744",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h93/h1a/398741508653086.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "California Board Company 41吋 沙板",
+      "price": "$447",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Water-Sports/California-Board-Company-41-inch-Skimboard/p/1872087",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h8f/hcf/454769529028638.jpg",
+      "category": "其他"
+    }
+  ],
+  "price_changes": []
 }
