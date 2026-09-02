@@ -1,316 +1,120 @@
 {
   "date": "2026-09-02",
-  "generated_at": "2026-09-02 12:51",
+  "generated_at": "2026-09-02 17:47",
   "has_previous": true,
   "added": [
     {
-      "name": "Palladium 女橘標防水鯊齒鞋",
-      "price": "$2,259",
-      "original_price": "$2,859",
-      "discount_amount": "$600",
-      "promotion": "商品已折價$600 含運",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Palladium-Ladies-Vibram-Traction-Lug-Shoe/p/156947",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h5b/h67/422090923868190.jpg",
-      "category": "服飾配件"
+      "name": "百奇 巧克力棒 40公克 X 12入",
+      "price": "$325",
+      "original_price": "$399",
+      "discount_amount": "$74",
+      "promotion": "商品已折價$74 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/103454",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h33/hc0/69511096762398.jpg",
+      "category": "食品飲料"
     },
     {
-      "name": "Palladium 男橘標防水鯊齒鞋",
-      "price": "$2,259",
-      "original_price": "$2,859",
-      "discount_amount": "$600",
-      "promotion": "商品已折價$600 含運",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Palladium-Mens-Vibram-Traction-Lug-Shoe/p/156946",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h8c/h87/422090912497694.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Champion 男運動短褲",
-      "price": "$379",
-      "original_price": "$499",
-      "discount_amount": "$120",
-      "promotion": "商品已折價$120 含運",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/Champion-Mens-Active-Short/p/159691",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h42/he3/484306816237598.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Champion 女童運動鞋",
-      "price": "$689",
-      "original_price": "$859",
-      "discount_amount": "$170",
-      "promotion": "商品已折價$170 含運",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Childrens-Shoes/Champion-Girls-Athletic-Sneaker/p/156492",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h9d/h66/472952384225310.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Body Blue 女內褲五入組 L",
-      "price": "$679",
-      "original_price": "$849",
-      "discount_amount": "$170",
-      "promotion": "商品已折價$170 含運",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Body-Blue-Ladies-Panty-5-Pack-L/p/591320",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h94/h7e/366002104336414.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Body Blue 女內褲五入組 XL",
-      "price": "$679",
-      "original_price": "$849",
-      "discount_amount": "$170",
-      "promotion": "商品已折價$170 含運",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Body-Blue-Ladies-Panty-5-Pack-XL/p/591330",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h07/h0b/366002107842590.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "NFL 男短袖上衣",
-      "price": "$429",
-      "original_price": "$549",
-      "discount_amount": "$120",
-      "promotion": "商品已折價$120 含運",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/NFL-Mens-Short-Sleeve-Tee/p/160760",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/hd8/488918689415198.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Panasonic Eneloop Pro 8槽充電組套裝 K-KJ63HC80TW",
-      "price": "$2,799",
+      "name": "1.09克拉 鉑金 圓形鑽石戒指 VVS1/F",
+      "price": "$456,997",
       "original_price": "",
       "discount_amount": "",
       "promotion": "含運",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/Panasonic-Eneloop-Pro-8-Charger-Kit-K-KJ63HC80TW/p/147386",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf3/h9a/296816270016542.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Aiden & Ivy 三人座布面模組沙發 深藍",
-      "price": "$22,999",
-      "original_price": "$28,999",
-      "discount_amount": "$6,000",
-      "promotion": "商品已折價 $6,000；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Aiden-Ivy-Fabric-3-Seater-Modular-Sofa-Dark-Blue/p/161352",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7a/h12/492247693099038.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Aiden & Ivy 三人座布面沙發 米",
-      "price": "$22,999",
-      "original_price": "$28,999",
-      "discount_amount": "$6,000",
-      "promotion": "商品已折價 $6,000；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Aiden-Ivy-Fabric-3-Seater-Sofa-Beige/p/161547",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7a/h12/492247693099038.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Aiden & Ivy 三人座布面沙發 灰",
-      "price": "$22,999",
-      "original_price": "$28,999",
-      "discount_amount": "$6,000",
-      "promotion": "商品已折價 $6,000；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Aiden-Ivy-Fabric-3-Seater-Sofa-Gray/p/161549",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7a/h12/492247693099038.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "AIDEN & IVY 布面模組沙發4件組",
-      "price": "$22,999",
-      "original_price": "$28,999",
-      "discount_amount": "$6,000",
-      "promotion": "商品已折價 $6,000；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Aiden-Ivy-Fabric-Modular-Sectional-4-Piece-Set/p/1861745",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7a/h12/492247693099038.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Gilman Creek 牛皮電動躺椅 棕",
-      "price": "$22,999",
-      "original_price": "$28,999",
-      "discount_amount": "$6,000",
-      "promotion": "商品已折價 $6,000；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Gilman-Creek-Leather-Power-Recliner-with-Power-Headrest-with-Cloud-Zero-Brown/p/1987471",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7a/h12/492247693099038.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Gilman Creek 牛皮電動躺椅",
-      "price": "$22,999",
-      "original_price": "$28,999",
-      "discount_amount": "$6,000",
-      "promotion": "商品已折價 $6,000；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Gilman-Creek-Leather-Power-Recliner/p/1987610",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7a/h12/492247693099038.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Thomasville 布面模塊沙發六件組",
-      "price": "$22,999",
-      "original_price": "$28,999",
-      "discount_amount": "$6,000",
-      "promotion": "商品已折價 $6,000；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Thomasville-6-Piece-Fabric-Modular-Sectional-Sofa/p/1782907",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7a/h12/492247693099038.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Thomasville L型布面沙發床 淺米色",
-      "price": "$22,999",
-      "original_price": "$28,999",
-      "discount_amount": "$6,000",
-      "promotion": "商品已折價 $6,000；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Thomasville-Fabric-Sectional-Light-Beige/p/1812576",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7a/h12/492247693099038.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Thomasville 布面模塊沙發六件組",
-      "price": "$22,999",
-      "original_price": "$28,999",
-      "discount_amount": "$6,000",
-      "promotion": "商品已折價 $6,000；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Thomasville-6-Piece-Fabric-Modular-Sectional-Sofa/p/1861704",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7a/h12/492247693099038.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Henredon 布面弧形沙發 3件組 含躺椅",
-      "price": "$22,999",
-      "original_price": "$28,999",
-      "discount_amount": "$6,000",
-      "promotion": "商品已折價 $6,000；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Henredon-Curved-Fabric-Sectional-3-Piece-Set-with-Chaise/p/1987576",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7a/h12/492247693099038.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Broyhill 布面L型組合沙發 含收納腳凳",
-      "price": "$22,999",
-      "original_price": "$28,999",
-      "discount_amount": "$6,000",
-      "promotion": "商品已折價 $6,000；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Broyhill-Fabric-Sectional-Sofa-with-Storage-Ottoman/p/1987706",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7a/h12/492247693099038.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Simon Li 三人牛皮電動沙發 黑",
-      "price": "$22,999",
-      "original_price": "$28,999",
-      "discount_amount": "$6,000",
-      "promotion": "商品已折價 $6,000；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Simon-Li-3-Seater-Leather-Power-Reclining-Sofa-Black/p/1862002",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7a/h12/492247693099038.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Simon Li 三人牛皮沙發 咖啡",
-      "price": "$22,999",
-      "original_price": "$28,999",
-      "discount_amount": "$6,000",
-      "promotion": "商品已折價 $6,000；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Simon-Li-3-Seater-Leather-Sofa-Brown/p/1999351",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7a/h12/492247693099038.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Tresanti 電動升降桌",
-      "price": "$22,999",
-      "original_price": "$28,999",
-      "discount_amount": "$6,000",
-      "promotion": "商品已折價 $6,000；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Tresanti-Adjustable-Desk/p/1646074",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7a/h12/492247693099038.jpg",
-      "category": "家具家居"
+      "url": "https://www.costco.com.tw/p/651049",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h7d/h96/30241880211486.jpg",
+      "category": "其他"
     }
   ],
   "removed": [
     {
-      "name": "Trinity 多功能三層置物架",
-      "price": "$1,649",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Trinity-3-Tier-Wire-Cart/p/403516",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hac/hd0/9955561111582.jpg",
-      "category": "家具家居"
+      "name": "百奇 巧克力棒 40公克 X 12入",
+      "price": "$325",
+      "original_price": "$399",
+      "discount_amount": "$74",
+      "promotion": "商品已折價$74 含運",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Pocky-Chocolate-Biscuit-Sticks-40-g-X-12-Pack/p/103454",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h33/hc0/69511096762398.jpg",
+      "category": "食品飲料"
     },
     {
-      "name": "Trinity 移動式雙面多功能收納架",
-      "price": "$4,599",
+      "name": "1.09克拉 鉑金 圓形鑽石戒指 VVS1/F",
+      "price": "$456,997",
       "original_price": "",
       "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Trinity-Mobile-Double-Sided-Bin-Rack/p/910051",
-      "image": "https://www.costco.com.tw/medias/sys_master/products/h44/h6e/8827467235358.jpg",
-      "category": "家具家居"
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Jewelry-Gold/Diamond/Diamond-Rings/109-ct-Platinum-Round-Diamond-Ring-VVS1F/p/651049",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h7d/h96/30241880211486.jpg",
+      "category": "其他"
     },
     {
-      "name": "Trinity 五層多功能大型置物架 黑色",
-      "price": "$3,429",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Trinity-5-Tier-NSF-Wire-Rack-with-Wheels-Black/p/106816",
-      "image": "https://www.costco.com.tw/medias/sys_master/products/h8f/hc2/8825996050462.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Trinity 六層多功能置物架 黑色",
-      "price": "$2,949",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Trinity-6-Tier-NSF-Wire-Rack-With-Wheels-Black/p/106817",
-      "image": "https://www.costco.com.tw/medias/sys_master/products/hea/ha8/8825997951006.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Trinity 五層多功能置物架 黑色",
-      "price": "$1,415",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Trinity-5-Tier-NSF-Wire-Rack-With-Wheels-Black/p/106818",
-      "image": "https://www.costco.com.tw/medias/sys_master/products/h5e/h2a/8825999327262.jpg",
-      "category": "家具家居"
+      "name": "飛利浦 65吋 4K Google TV 顯示器 65PUH7650/96",
+      "price": "$16,399",
+      "original_price": "$19,999",
+      "discount_amount": "$3,600",
+      "promotion": "含運",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/60-69-TVs/Philips-65-inch-4K-Google-TV-Monitor-65PUH765096/p/153543",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h36/h3b/438072177950750.jpg",
+      "category": "家電 3C"
     }
   ],
   "price_changes": [
     {
-      "name": "Berkemann Allegra 女休閒鞋",
-      "price": "$1,139",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "old_price": "$3,759",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Berkemann-Allegra-Ladies-Casual-Shoe/p/1846422",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h0c/hf6/488918753673246.jpg",
-      "category": "服飾配件"
-    },
-    {
       "name": "Camper 男皮革休閒鞋",
-      "price": "$1,299",
+      "price": "$725",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
-      "old_price": "$2,599",
+      "old_price": "$1,299",
       "direction": "降價",
       "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Camper-Mens-Leather-Touring-Shoe/p/1846399",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h64/h40/485751259430942.jpg",
       "category": "服飾配件"
     },
     {
-      "name": "Polo Ralph Lauren 男短袖Polo衫",
-      "price": "$2,949",
+      "name": "Canada Goose 男連帽外套",
+      "price": "$39,997",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
-      "old_price": "$2,349",
+      "old_price": "$1,159",
       "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Polo-Ralph-Lauren-Short-Sleeve-Polo-Shirt/p/1846551",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h27/ha7/484307084345374.jpg",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/Canada-Goose-Mens-Expedition-Parka/p/772994",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he7/ha0/418530817572894.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "GAP 女九分褲",
+      "price": "$799",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "old_price": "$379",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/GAP-Ladies-Ankle-Trouser/p/1971848",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h8f/451293719953438.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Nike 女圓領短袖上衣",
+      "price": "$849",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "old_price": "$1,159",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Nike-Ladies-Crew-Neck-Short-Sleeve-Tee/p/1846414",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hd7/h5f/484307072942110.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Ray-Ban 太陽眼鏡 RB3267 003/8G 銀色",
+      "price": "$1,297",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "old_price": "$1,159",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/Ray-Ban-Sunglasses-RB3267-0038G-Silver/p/251212",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb1/h79/384789278720030.jpg",
       "category": "服飾配件"
     }
   ]
