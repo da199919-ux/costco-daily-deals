@@ -1,6 +1,6 @@
 {
   "date": "2026-09-02",
-  "generated_at": "2026-09-02 17:47",
+  "generated_at": "2026-09-02 20:26",
   "has_previous": true,
   "added": [
     {
@@ -9,19 +9,10 @@
       "original_price": "$399",
       "discount_amount": "$74",
       "promotion": "商品已折價$74 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/103454",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Pocky-Chocolate-Biscuit-Sticks-40-g-X-12-Pack/p/103454",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h33/hc0/69511096762398.jpg",
       "category": "食品飲料"
-    },
-    {
-      "name": "1.09克拉 鉑金 圓形鑽石戒指 VVS1/F",
-      "price": "$456,997",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/p/651049",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7d/h96/30241880211486.jpg",
-      "category": "其他"
     }
   ],
   "removed": [
@@ -31,90 +22,50 @@
       "original_price": "$399",
       "discount_amount": "$74",
       "promotion": "商品已折價$74 含運",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Pocky-Chocolate-Biscuit-Sticks-40-g-X-12-Pack/p/103454",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/103454",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h33/hc0/69511096762398.jpg",
       "category": "食品飲料"
-    },
-    {
-      "name": "1.09克拉 鉑金 圓形鑽石戒指 VVS1/F",
-      "price": "$456,997",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Jewelry-Gold/Diamond/Diamond-Rings/109-ct-Platinum-Round-Diamond-Ring-VVS1F/p/651049",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7d/h96/30241880211486.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "飛利浦 65吋 4K Google TV 顯示器 65PUH7650/96",
-      "price": "$16,399",
-      "original_price": "$19,999",
-      "discount_amount": "$3,600",
-      "promotion": "含運",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/60-69-TVs/Philips-65-inch-4K-Google-TV-Monitor-65PUH765096/p/153543",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h36/h3b/438072177950750.jpg",
-      "category": "家電 3C"
     }
   ],
   "price_changes": [
     {
-      "name": "Camper 男皮革休閒鞋",
-      "price": "$725",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "old_price": "$1,299",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Camper-Mens-Leather-Touring-Shoe/p/1846399",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h64/h40/485751259430942.jpg",
+      "name": "Berkemann Allegra 女休閒鞋",
+      "price": "$3,759",
+      "original_price": "$5,059",
+      "discount_amount": "$1,300",
+      "promotion": "商品已折價$1,300 含運",
+      "stock_status": "狀態未知",
+      "old_price": "$1,139",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Berkemann-Allegra-Ladies-Casual-Shoe/p/1846422",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0c/hf6/488918753673246.jpg",
       "category": "服飾配件"
     },
     {
       "name": "Canada Goose 男連帽外套",
-      "price": "$39,997",
+      "price": "$1,159",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
-      "old_price": "$1,159",
-      "direction": "漲價",
+      "stock_status": "狀態未知",
+      "old_price": "$39,997",
+      "direction": "降價",
       "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/Canada-Goose-Mens-Expedition-Parka/p/772994",
       "image": "https://www.costco.com.tw/medias/sys_master/images/he7/ha0/418530817572894.jpg",
       "category": "服飾配件"
     },
     {
-      "name": "GAP 女九分褲",
-      "price": "$799",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "old_price": "$379",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/GAP-Ladies-Ankle-Trouser/p/1971848",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h8f/451293719953438.jpg",
-      "category": "服飾配件"
-    },
-    {
       "name": "Nike 女圓領短袖上衣",
-      "price": "$849",
+      "price": "$1,379",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
-      "old_price": "$1,159",
-      "direction": "降價",
+      "stock_status": "狀態未知",
+      "old_price": "$849",
+      "direction": "漲價",
       "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Nike-Ladies-Crew-Neck-Short-Sleeve-Tee/p/1846414",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hd7/h5f/484307072942110.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Ray-Ban 太陽眼鏡 RB3267 003/8G 銀色",
-      "price": "$1,297",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "old_price": "$1,159",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/Ray-Ban-Sunglasses-RB3267-0038G-Silver/p/251212",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb1/h79/384789278720030.jpg",
       "category": "服飾配件"
     }
   ]
