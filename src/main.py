@@ -79,6 +79,7 @@ class Deal:
     original_price: str = ""
     discount_amount: str = ""
     promotion: str = ""
+    stock_status: str = "狀態未知"
 
 
 @dataclass(frozen=True)
@@ -324,6 +325,36 @@ def parse_product_detail(html: str, deal: Deal) -> Deal:
     soup = BeautifulSoup(html, "html.parser")
     detail_text = clean(soup.get_text(" ", strip=True))
 
+    # 商品頁底部也會列出推薦商品，因此庫存判斷必須綁定網址中的
+    # 商品編號，不能只搜尋整頁的「缺貨」字樣。
+    stock_status = "狀態未知"
+    code_match = re.search(r"/p/([^/?#]+)", deal.url)
+    if code_match:
+        product_code = code_match.group(1)
+        product_input = soup.find(
+            "input",
+            attrs={"name": "productCodePost", "value": product_code},
+        )
+        product_form = product_input.find_parent("form") if product_input else None
+        if product_form:
+            form_text = clean(product_form.get_text(" ", strip=True))
+            out_of_stock = product_form.select_one(
+                "button.outOfStock, button.out-of-stock, "
+                "[data-cy*='out-of-stock'], .out-of-stock-message"
+            )
+            add_to_cart = product_form.select_one(
+                f"button[data-cy='addtocart-button-{product_code}'], "
+                "button.add-to-cart__btn[type='submit']"
+            )
+            if out_of_stock or re.search(
+                r"(?:暫時)?缺貨|已售完|無庫存|out\s*of\s*stock",
+                form_text,
+                re.IGNORECASE,
+            ):
+                stock_status = "缺貨"
+            elif add_to_cart and not add_to_cart.has_attr("disabled"):
+                stock_status = "有貨"
+
     explicit_original = re.search(
         r"商品原價\s*(?:NT\$|\$)\s*([\d,]+)", detail_text
     )
@@ -404,6 +435,7 @@ def parse_product_detail(html: str, deal: Deal) -> Deal:
         original_price=original_price,
         discount_amount=discount_amount,
         promotion=promotion,
+        stock_status=stock_status,
     )
 
 
@@ -608,6 +640,7 @@ def load_deals(csv_path: Path) -> list[Deal]:
                 original_price=row.get("原價", ""),
                 discount_amount=row.get("折價金額", ""),
                 promotion=row.get("優惠說明", ""),
+                stock_status=row.get("庫存狀態", "狀態未知") or "狀態未知",
             )
             for row in csv.DictReader(handle)
         ]
@@ -626,6 +659,7 @@ def write_csv(csv_path: Path, deals: Iterable[Deal], date_text: str) -> None:
                 "原價",
                 "折價金額",
                 "優惠說明",
+                "庫存狀態",
                 "商品網址",
                 "圖片網址",
                 "資料來源",
@@ -641,6 +675,7 @@ def write_csv(csv_path: Path, deals: Iterable[Deal], date_text: str) -> None:
                     deal.original_price,
                     deal.discount_amount,
                     deal.promotion,
+                    deal.stock_status,
                     deal.url,
                     deal.image_url,
                     deal.source,
@@ -650,7 +685,8 @@ def write_csv(csv_path: Path, deals: Iterable[Deal], date_text: str) -> None:
 
 def deal_lines(deals: Iterable[Deal]) -> list[str]:
     return [
-        f"- [{deal.name.replace('|', '｜')}]({deal.url})（{deal.price}）"
+        f"- [{deal.name.replace('|', '｜')}]({deal.url})"
+        f"（{deal.price}；庫存：{deal.stock_status}）"
         for deal in deals
     ]
 
@@ -704,6 +740,8 @@ def write_outputs(
     price_changes = compare_prices(deals, previous_deals)
     watched = find_watchlist_matches(deals, keywords)
     category_counts = Counter(categorize(deal) for deal in deals)
+    stock_counts = Counter(deal.stock_status for deal in deals)
+    out_of_stock = [deal for deal in deals if deal.stock_status == "缺貨"]
 
     write_csv(csv_path, deals, date_text)
     write_csv(history_path, deals, date_text)
@@ -721,6 +759,7 @@ def write_outputs(
                         "original_price": deal.original_price,
                         "discount_amount": deal.discount_amount,
                         "promotion": deal.promotion,
+                        "stock_status": deal.stock_status,
                         "url": deal.url,
                         "image": deal.image_url,
                         "category": categorize(deal),
@@ -734,6 +773,7 @@ def write_outputs(
                         "original_price": deal.original_price,
                         "discount_amount": deal.discount_amount,
                         "promotion": deal.promotion,
+                        "stock_status": deal.stock_status,
                         "url": deal.url,
                         "image": deal.image_url,
                         "category": categorize(deal),
@@ -747,6 +787,7 @@ def write_outputs(
                         "original_price": change.deal.original_price,
                         "discount_amount": change.deal.discount_amount,
                         "promotion": change.deal.promotion,
+                        "stock_status": change.deal.stock_status,
                         "old_price": change.old_price,
                         "direction": change.direction,
                         "url": change.deal.url,
@@ -769,6 +810,11 @@ def write_outputs(
         f"更新時間：{time_text}（台灣時間）",
         f"共整理出 **{len(deals)}** 項官方線上優惠。",
         f"本次共讀取 **{pages_read}** 個官方商品頁面。",
+        (
+            f"庫存狀態：有貨 **{stock_counts['有貨']}** 項、"
+            f"缺貨 **{stock_counts['缺貨']}** 項、"
+            f"待確認 **{stock_counts['狀態未知']}** 項。"
+        ),
         "",
         "> 價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。",
         "",
@@ -794,6 +840,10 @@ def write_outputs(
     )
     summary_lines.extend(
         deal_lines(watched) or ["- 今天的優惠清單沒有符合追蹤關鍵字的商品。"]
+    )
+    summary_lines.extend(["", "## 缺貨商品", ""])
+    summary_lines.extend(
+        deal_lines(out_of_stock) or ["- 本次沒有偵測到明確標示缺貨的優惠商品。"]
     )
     summary_lines.extend(["", "## 今日變化", ""])
     if has_previous:
@@ -838,14 +888,15 @@ def write_outputs(
             "",
             "## 全部優惠",
             "",
-        "| 分類 | 商品 | 價格 |",
-        "|---|---|---:|",
+        "| 分類 | 商品 | 價格 | 庫存狀態 |",
+        "|---|---|---:|---|",
         ]
     )
     lines.extend(
         (
             f"| {categorize(deal)} | "
-            f"[{deal.name.replace('|', '｜')}]({deal.url}) | {deal.price} |"
+            f"[{deal.name.replace('|', '｜')}]({deal.url}) | {deal.price} | "
+            f"{deal.stock_status} |"
         )
         for deal in deals
     )

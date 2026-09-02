@@ -96,6 +96,38 @@ LOWER_PRICE_DETAIL_HTML = """
 </main>
 """
 
+IN_STOCK_DETAIL_HTML = """
+<main>
+  <form>
+    <input type="hidden" name="productCodePost" value="12345">
+    <button type="submit" class="add-to-cart__btn"
+            data-cy="addtocart-button-12345">加入購物車</button>
+  </form>
+  <section class="recommendations">
+    <form>
+      <input type="hidden" name="productCodePost" value="99999">
+      <button class="outOfStock" disabled>缺貨</button>
+    </form>
+  </section>
+</main>
+"""
+
+OUT_OF_STOCK_DETAIL_HTML = """
+<main>
+  <form>
+    <input type="hidden" name="productCodePost" value="12345">
+    <button class="btn outOfStock" disabled>缺貨</button>
+  </form>
+  <section class="recommendations">
+    <form>
+      <input type="hidden" name="productCodePost" value="99999">
+      <button type="submit" class="add-to-cart__btn"
+              data-cy="addtocart-button-99999">加入購物車</button>
+    </form>
+  </section>
+</main>
+"""
+
 VOUCHER_HTML = """
 <sip-product-carousel-item>
   <div class="custom-card">
@@ -211,6 +243,36 @@ class CostcoDealsTest(unittest.TestCase):
         self.assertEqual(updated.price, "$399")
         self.assertIn("優惠售價", updated.promotion)
 
+    def test_parse_product_detail_detects_matching_product_in_stock(self):
+        deal = Deal(
+            "有貨商品",
+            "$399",
+            "https://www.costco.com.tw/Food/p/12345",
+            "測試",
+        )
+        updated = parse_product_detail(IN_STOCK_DETAIL_HTML, deal)
+        self.assertEqual(updated.stock_status, "有貨")
+
+    def test_parse_product_detail_detects_matching_product_out_of_stock(self):
+        deal = Deal(
+            "缺貨商品",
+            "$399",
+            "https://www.costco.com.tw/Food/p/12345",
+            "測試",
+        )
+        updated = parse_product_detail(OUT_OF_STOCK_DETAIL_HTML, deal)
+        self.assertEqual(updated.stock_status, "缺貨")
+
+    def test_parse_product_detail_does_not_use_recommendation_stock(self):
+        deal = Deal(
+            "查不到庫存商品",
+            "$399",
+            "https://www.costco.com.tw/Food/p/77777",
+            "測試",
+        )
+        updated = parse_product_detail(OUT_OF_STOCK_DETAIL_HTML, deal)
+        self.assertEqual(updated.stock_status, "狀態未知")
+
     def test_parse_voucher_custom_product_card(self):
         deals = parse_voucher_products(
             VOUCHER_HTML, "https://www.costco.com.tw/voucher4"
@@ -309,7 +371,13 @@ class CostcoDealsTest(unittest.TestCase):
         self.assertEqual(removed, [old])
 
     def test_csv_history_can_be_loaded(self):
-        deal = Deal("測試商品", "$99", "https://example.test/item", "測試")
+        deal = Deal(
+            "測試商品",
+            "$99",
+            "https://example.test/item",
+            "測試",
+            stock_status="缺貨",
+        )
         with tempfile.TemporaryDirectory() as directory:
             path = Path(directory) / "deals.csv"
             write_csv(path, [deal], "2026-07-26")
