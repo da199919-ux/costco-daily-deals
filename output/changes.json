@@ -1,8 +1,65 @@
 {
   "date": "2026-09-03",
-  "generated_at": "2026-09-03 12:51",
+  "generated_at": "2026-09-03 18:00",
   "has_previous": true,
   "added": [
+    {
+      "name": "SHOKZ OpenSwim Pro S710 水陸兩用專業藍牙運動耳機 頁岩灰",
+      "price": "$3,729",
+      "original_price": "$4,669",
+      "discount_amount": "$940",
+      "promotion": "商品已折價$940 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Digital-Mobile/Wearables-Audio/Headphones-Audio-Devices/SHOKZ-OpenSwim-Pro-S710-Waterproof-and-Land-Compatible-Bluetooth-Sport-Headphones-Grey/p/150874",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hef/hd0/312616231993374.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "艾美特 12吋 AC桌扇 FD30247",
+      "price": "$979",
+      "original_price": "$1,229",
+      "discount_amount": "$250",
+      "promotion": "商品已折價$250 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Airmate-12-inch-AC-Table-Fan-FD30247/p/149658",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb5/h44/333377658519582.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "ASUS Vivobook Go 15 15.6吋 筆記型電腦",
+      "price": "$15,999",
+      "original_price": "$18,999",
+      "discount_amount": "$3,000",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Digital-Mobile/Laptops-Computers/Laptops/ASUS-Vivobook-Go-15-156-inch-Laptop/p/161254",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h7c/h8d/467794329665566.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "米森 膠原搖搖 無調味+C 5.5公克 X 38包",
+      "price": "$797",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Vilson-Collagen-Vitamin-C-Plus-55-g-X-38-Pack/p/156083",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h92/hc0/400499430096926.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "聲寶 16吋 機械式立扇 SK-GF16X",
+      "price": "$1,359",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/SAMPO-16-inch-Mechanical-Fan-SK-GF16X/p/158738",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h97/h2d/454769487413278.jpg",
+      "category": "家電 3C"
+    }
+  ],
+  "removed": [
     {
       "name": "來復易 輕快活力褲 內褲型成人紙尿褲 M號 88片",
       "price": "$1,119",
@@ -48,28 +105,6 @@
       "category": "其他"
     },
     {
-      "name": "Igloo 18.9公升 保冷桶",
-      "price": "$1,099",
-      "original_price": "$1,759",
-      "discount_amount": "$660",
-      "promotion": "商品已折價$660 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Coolers/Igloo-Sport-5-Gallon-Roller/p/1872201",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hca/h9f/454001921064990.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "SOLE S77+ 智能跑步機",
-      "price": "$59,989",
-      "original_price": "$79,989",
-      "discount_amount": "$20,000",
-      "promotion": "商品已折價$20,000 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Fitness-Equipment-Accessories/SOLE-S77-Smart-Treadmill/p/144929",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h73/hf8/243378210144286.jpg",
-      "category": "其他"
-    },
-    {
       "name": "ASUS Vivobook Go 15 15.6吋 筆記型電腦",
       "price": "$15,999",
       "original_price": "$18,999",
@@ -92,15 +127,48 @@
       "category": "其他"
     },
     {
-      "name": "樂司科 熊黑皮數位陶瓷電暖器 CC23630TW",
-      "price": "$2,799",
+      "name": "麗聲鐘自動夜燈掛鐘 #CMG633BR03",
+      "price": "$899",
+      "original_price": "$1,099",
+      "discount_amount": "$200",
+      "promotion": "商品已折價$200 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Home-Decor/RHYTHM-Wall-Clock-CMG633BR03/p/155791",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha8/haa/397422723235870.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Over & Back 彩繪花紋馬克杯 414毫升 X 6件組",
+      "price": "$457",
       "original_price": "",
       "discount_amount": "",
       "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Lasko-Ceramic-Heater-CC23630TW/p/153259",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h5a/h69/383022574370846.jpg",
-      "category": "家電 3C"
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Over-Back-Floral-Mugs-414-ml-X-6-Piece-Set/p/1324688",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h18/he9/433249360478238.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Tommy Hilfiger 男短袖上衣",
+      "price": "$347",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Tommy-Hilfiger-Mens-Short-Sleeve-Tee/p/141714",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h2d/h41/469716638400542.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Fila 兒童毛圈布長褲",
+      "price": "$197",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Bottoms-Dresses/Fila-Kids-French-Terry-Jogger/p/152413",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he4/had/400499317571614.jpg",
+      "category": "服飾配件"
     },
     {
       "name": "克寧 銀養高鈣全效奶粉 呵護配方 1.9公斤",
@@ -156,85 +224,6 @@
       "url": "https://www.costco.com.tw/Cooling-Heating-Air-Treatment/Heating-Cooling/p/158738",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h97/h2d/454769487413278.jpg",
       "category": "其他"
-    }
-  ],
-  "removed": [
-    {
-      "name": "SHOKZ OpenSwim Pro S710 水陸兩用專業藍牙運動耳機 頁岩灰",
-      "price": "$3,729",
-      "original_price": "$4,669",
-      "discount_amount": "$940",
-      "promotion": "商品已折價$940 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Wearables-Audio/Headphones-Audio-Devices/SHOKZ-OpenSwim-Pro-S710-Waterproof-and-Land-Compatible-Bluetooth-Sport-Headphones-Grey/p/150874",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hef/hd0/312616231993374.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "艾美特 12吋 AC桌扇 FD30247",
-      "price": "$979",
-      "original_price": "$1,229",
-      "discount_amount": "$250",
-      "promotion": "商品已折價$250 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Airmate-12-inch-AC-Table-Fan-FD30247/p/149658",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb5/h44/333377658519582.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "ASUS Vivobook Go 15 15.6吋 筆記型電腦",
-      "price": "$15,999",
-      "original_price": "$18,999",
-      "discount_amount": "$3,000",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Laptops-Computers/Laptops/ASUS-Vivobook-Go-15-156-inch-Laptop/p/161254",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7c/h8d/467794329665566.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "TP-Link Tapo D210 智慧門鈴",
-      "price": "$1,599",
-      "original_price": "$1,869",
-      "discount_amount": "$270",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/TP-Link-Tapo-D210-Video-Doorbell-Camera/p/158484",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h79/h36/448868347772958.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "米森 膠原搖搖 無調味+C 5.5公克 X 38包",
-      "price": "$797",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Vilson-Collagen-Vitamin-C-Plus-55-g-X-38-Pack/p/156083",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h92/hc0/400499430096926.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "TP-Link Tapo C510W 戶外旋轉式防護 WiFi 攝影機",
-      "price": "$1,299",
-      "original_price": "$1,499",
-      "discount_amount": "$200",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/TP-Link-Tapo-C510W-Pan-Tilt-Security-Wi-Fi-Camera/p/158487",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h72/h49/448868354719774.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "聲寶 16吋 機械式立扇 SK-GF16X",
-      "price": "$1,359",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/SAMPO-16-inch-Mechanical-Fan-SK-GF16X/p/158738",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h97/h2d/454769487413278.jpg",
-      "category": "家電 3C"
     }
   ],
   "price_changes": []
