@@ -1,32 +1,8 @@
 {
   "date": "2026-09-03",
-  "generated_at": "2026-09-03 02:51",
+  "generated_at": "2026-09-03 08:26",
   "has_previous": true,
   "added": [
-    {
-      "name": "百奇 巧克力棒 40公克 X 12入",
-      "price": "$325",
-      "original_price": "$399",
-      "discount_amount": "$74",
-      "promotion": "商品已折價$74 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/103454",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h33/hc0/69511096762398.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "1.09克拉 鉑金 圓形鑽石戒指 VVS1/F",
-      "price": "$456,997",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Jewelry-Gold/Diamond/Diamond-Rings/109-ct-Platinum-Round-Diamond-Ring-VVS1F/p/651049",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7d/h96/30241880211486.jpg",
-      "category": "其他"
-    }
-  ],
-  "removed": [
     {
       "name": "百奇 巧克力棒 40公克 X 12入",
       "price": "$325",
@@ -37,234 +13,20 @@
       "url": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Pocky-Chocolate-Biscuit-Sticks-40-g-X-12-Pack/p/103454",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h33/hc0/69511096762398.jpg",
       "category": "食品飲料"
-    },
-    {
-      "name": "1.09克拉 鉑金 圓形鑽石戒指 VVS1/F",
-      "price": "$456,997",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/651049",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7d/h96/30241880211486.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "伊萊克斯 700系列 346公升 AI變頻獨立式上冷藏下冷凍雙門冰箱 EBM3402L-W",
-      "price": "$22,999",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Fridges-Freezers/Overall-Capacity-350-500-L/Electrolux-346-L-700-Series-AI-CoolAssist-2-Door-Fridge-EBM3402L-W/p/160928",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hec/h2b/470130459672606.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "Glad 佳能 PE 保鮮膜 300公尺 X 33公分 X 2入",
-      "price": "$599",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Food-Preservation/Glad-PE-Food-Wrap-Caterer-300-m-X-33-cm-X-2-Pack/p/210732",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/he0/h08/454002078842910.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "五月花 極萃厚棒抽取式衛生紙 100抽 X 60入",
-      "price": "$1,149",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/MayFlower-Interfold-Tissue-100-Sheet-X-60-Count/p/154795",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd7/h90/432345221234718.jpg",
-      "category": "日用品／母嬰／玩具"
     }
   ],
-  "price_changes": [
+  "removed": [
     {
-      "name": "Aiden & Ivy 布面單人椅",
-      "price": "$5,997",
-      "original_price": "$7,999",
-      "discount_amount": "$2,002",
-      "promotion": "含運",
+      "name": "百奇 巧克力棒 40公克 X 12入",
+      "price": "$325",
+      "original_price": "$399",
+      "discount_amount": "$74",
+      "promotion": "商品已折價$74 含運",
       "stock_status": "有貨",
-      "old_price": "$7,499",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Aiden-Ivy-Fabric-Accent-Chair/p/1862170",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha7/h8b/449275418738718.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Bentley Designs Athena 咖啡桌 114公分",
-      "price": "$3,997",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "old_price": "$5,997",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Bentley-Designs-Athena-Fumed-Oak-Coffee-Table-114-cm/p/157435",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h4a/h4b/401755900674078.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Bentley Designs Indus Rustic 橡木 & 胡椒色 電視櫃 133公分",
-      "price": "$6,997",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "old_price": "$9,997",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Bentley-Designs-Indus-Rustic-Oak-Peppercorn-Entertainment-Unit-133-cm/p/152773",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf8/h0c/362804824768542.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Berkemann Allegra 女休閒鞋",
-      "price": "$1,139",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$3,759",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Berkemann-Allegra-Ladies-Casual-Shoe/p/1846422",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h0c/hf6/488918753673246.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Camper 男Pelotas XLF休閒鞋",
-      "price": "$3,399",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "old_price": "$2,997",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Camper-Mens-Pelotas-XLF-Sneaker/p/1719434",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h92/h0d/277970988662814.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Disney 萌萌抱枕",
-      "price": "$247",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "old_price": "$297",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/Disney-Cute-Cushion/p/152481",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h11/hff/421140480393246.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Duralex 玻璃餐碗盤 6件組",
-      "price": "$397",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "old_price": "$447",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Dinnerware-Flatware/Duralex-Glass-Dinnerware-6-Piece-Set/p/169311",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h16/h3c/332442820509726.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "FIFA 足球造型抱枕 周長 124.4公分",
-      "price": "$297",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "old_price": "$347",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/FIFA-Soccer-Deco-Pillow-Around-1244-cm/p/1991360",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h49/hf5/451293833920542.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Hunter 可攜式萬用墊 152公分 X 183公分",
-      "price": "$597",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "old_price": "$657",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Rugs-Mats/Hunter-Outdoor-Blanket-152-cm-X-183-cm/p/1909192",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hc2/h62/437687435264030.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Nautica 女休閒短褲",
-      "price": "$397",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "old_price": "$497",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Nautica-Ladies-Casual-Short/p/142040",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h05/h13/448868221681694.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Polo Ralph Lauren 男短袖Polo衫",
-      "price": "$1,159",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$2,949",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Polo-Ralph-Lauren-Short-Sleeve-Polo-Shirt/p/1846551",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h27/ha7/484307084345374.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Ray-Ban 太陽眼鏡 RB3267 003/8G 銀色",
-      "price": "$1,159",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$1,297",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/Ray-Ban-Sunglasses-RB3267-0038G-Silver/p/251212",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb1/h79/384789278720030.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Signature 動物圖案馬克杯 503毫升 X 6件組",
-      "price": "$397",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "old_price": "$447",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Signature-Animal-Mugs-503-ml-X-6-Piece-Set/p/157177",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h63/hb7/403520140345374.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "三麗鷗 兒童不鏽鋼保冷保溫瓶 700毫升",
-      "price": "$297",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "old_price": "$377",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/Sanrio-Kids-Stainless-Steel-Water-Bottle-700-ml/p/8524812",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h86/h63/382254260322334.jpg",
-      "category": "家具家居"
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/103454",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h33/hc0/69511096762398.jpg",
+      "category": "食品飲料"
     }
-  ]
+  ],
+  "price_changes": []
 }
