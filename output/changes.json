@@ -1,6 +1,6 @@
 {
   "date": "2026-09-04",
-  "generated_at": "2026-09-04 17:48",
+  "generated_at": "2026-09-04 22:29",
   "has_previous": true,
   "added": [
     {
@@ -10,7 +10,7 @@
       "discount_amount": "$144",
       "promotion": "商品已折價 $144 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/p/398703",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/UCC-Drip-Coffee-7-g-X-75-Count/p/398703",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hd0/h0b/328848187523102.jpg",
       "category": "食品飲料"
     }
@@ -23,69 +23,23 @@
       "discount_amount": "$144",
       "promotion": "商品已折價 $144 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/UCC-Drip-Coffee-7-g-X-75-Count/p/398703",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/p/398703",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hd0/h0b/328848187523102.jpg",
       "category": "食品飲料"
-    },
-    {
-      "name": "Playgo 玩沙樂園 18件組 / 18個月以上",
-      "price": "$347",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Outdoor-Play/Playgo-Sand-Bucket-18-Piece-Set-Ages-18-Months-and-Up/p/689192",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h64/h83/466559007359006.jpg",
-      "category": "日用品／母嬰／玩具"
-    },
-    {
-      "name": "Signature 動物圖案馬克杯 503毫升 X 6件組",
-      "price": "$397",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Signature-Animal-Mugs-503-ml-X-6-Piece-Set/p/157177",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h63/hb7/403520140345374.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Aeropostale 女短袖上衣",
-      "price": "$247",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Aeropostale-Ladies-Short-Sleeve-Tee/p/520715",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hea/h29/453636935254046.jpg",
-      "category": "服飾配件"
     }
   ],
   "price_changes": [
     {
-      "name": "Banana Republic 女長袖襯衫",
+      "name": "GAP 女九分褲",
       "price": "$1,379",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
       "stock_status": "狀態未知",
-      "old_price": "$447",
+      "old_price": "$785",
       "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Banana-Republic-Ladies-Long-Sleeve-Shirt/p/1974301",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd6/he7/453636849991710.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Camper 男皮革休閒鞋",
-      "price": "$725",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$949",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Camper-Mens-Leather-Touring-Shoe/p/1846399",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h64/h40/485751259430942.jpg",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/GAP-Ladies-Ankle-Trouser/p/1971848",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h8f/451293719953438.jpg",
       "category": "服飾配件"
     }
   ]
