@@ -1,8 +1,87 @@
 {
   "date": "2026-09-04",
-  "generated_at": "2026-09-04 02:50",
+  "generated_at": "2026-09-04 08:14",
   "has_previous": true,
   "added": [
+    {
+      "name": "SHOKZ OpenSwim Pro S710 水陸兩用專業藍牙運動耳機 頁岩灰",
+      "price": "$3,729",
+      "original_price": "$4,669",
+      "discount_amount": "$940",
+      "promotion": "商品已折價$940 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Digital-Mobile/Wearables-Audio/Headphones-Audio-Devices/SHOKZ-OpenSwim-Pro-S710-Waterproof-and-Land-Compatible-Bluetooth-Sport-Headphones-Grey/p/150874",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hef/hd0/312616231993374.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "Blackstone 36吋鐵板烤肉爐 附上蓋及折疊側架",
+      "price": "$10,399",
+      "original_price": "$12,999",
+      "discount_amount": "$2,600",
+      "promotion": "商品已折價$2,600 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/1934226",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0a/h07/502266482130974.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Don Home 萊賽爾雙人加大兩用被套六件組 182公分 X 190公分 羅森",
+      "price": "$2,339",
+      "original_price": "$2,925",
+      "discount_amount": "$586",
+      "promotion": "商品已折價$586 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Bedding/p/158954",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h01/h31/451293294526494.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Igloo 18.9公升 保冷桶",
+      "price": "$1,099",
+      "original_price": "$1,759",
+      "discount_amount": "$660",
+      "promotion": "商品已折價$660 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/1872201",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hca/h9f/454001921064990.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "飛利浦 50吋 4K QLED Google TV 顯示器 50PQT8530/96",
+      "price": "$11,999",
+      "original_price": "$13,699",
+      "discount_amount": "$1,700",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-TV-Accessories/p/153544",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h77/hcd/438072214323230.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Downlite 涼感舒眠枕 2入 51公分 X 71公分",
+      "price": "$669",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Downlite-Ultimate-Freeze-Sleep-Pillow-2-Pack-51-cm-X-71-cm/p/688672",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h6b/he5/450418277122078.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "LAV 土耳其製玻璃杯 16件組",
+      "price": "$659",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/1933543",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h60/h04/380918085189662.jpg",
+      "category": "其他"
+    }
+  ],
+  "removed": [
     {
       "name": "來復易 輕快活力褲 內褲型成人紙尿褲 L號 80片",
       "price": "$1,169",
@@ -13,17 +92,6 @@
       "url": "https://www.costco.com.tw/c/p/200967",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h8a/hee/97209112821790.jpg",
       "category": "其他"
-    },
-    {
-      "name": "大成 冷凍十三香烤雞翅 2公斤",
-      "price": "$445",
-      "original_price": "$559",
-      "discount_amount": "$114",
-      "promotion": "商品已折價 $114 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/p/152230",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h77/h0f/368495166652446.jpg",
-      "category": "食品飲料"
     },
     {
       "name": "SHOKZ OpenSwim Pro S710 水陸兩用專業藍牙運動耳機 頁岩灰",
@@ -37,38 +105,47 @@
       "category": "家電 3C"
     },
     {
-      "name": "Downlite 涼感舒眠枕 2入 51公分 X 71公分",
-      "price": "$669",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
+      "name": "Blackstone 36吋鐵板烤肉爐 附上蓋及折疊側架",
+      "price": "$10,399",
+      "original_price": "$12,999",
+      "discount_amount": "$2,600",
+      "promotion": "商品已折價$2,600 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Bedding/p/688672",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h6b/he5/450418277122078.jpg",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Camp-Kitchen-Cooking-Gear/Blackstone-36-inch-Griddle-with-Hood-and-Soft-Cover/p/1934226",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0a/h07/502266482130974.jpg",
       "category": "其他"
-    }
-  ],
-  "removed": [
-    {
-      "name": "大成 冷凍十三香烤雞翅 2公斤",
-      "price": "$445",
-      "original_price": "$559",
-      "discount_amount": "$114",
-      "promotion": "商品已折價 $114 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Dachan-Frozen-BBQ-Chicken-Wings-with-13-Spices-2-kg/p/152230",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h77/h0f/368495166652446.jpg",
-      "category": "食品飲料"
     },
     {
-      "name": "SHOKZ OpenSwim Pro S710 水陸兩用專業藍牙運動耳機 頁岩灰",
-      "price": "$3,729",
-      "original_price": "$4,669",
-      "discount_amount": "$940",
-      "promotion": "商品已折價$940 含運",
+      "name": "Don Home 萊賽爾雙人加大兩用被套六件組 182公分 X 190公分 羅森",
+      "price": "$2,339",
+      "original_price": "$2,925",
+      "discount_amount": "$586",
+      "promotion": "商品已折價$586 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Wearables-Audio/Headphones-Audio-Devices/SHOKZ-OpenSwim-Pro-S710-Waterproof-and-Land-Compatible-Bluetooth-Sport-Headphones-Grey/p/150874",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hef/hd0/312616231993374.jpg",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Don-Home-300-Thread-Count-Lyocell-Quilted-Duvet-6-Piece-Set-182-cm-X-190-cm-Rosen/p/158954",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h01/h31/451293294526494.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Igloo 18.9公升 保冷桶",
+      "price": "$1,099",
+      "original_price": "$1,759",
+      "discount_amount": "$660",
+      "promotion": "商品已折價$660 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Coolers/Igloo-Sport-5-Gallon-Roller/p/1872201",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hca/h9f/454001921064990.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "飛利浦 50吋 4K QLED Google TV 顯示器 50PQT8530/96",
+      "price": "$11,999",
+      "original_price": "$13,699",
+      "discount_amount": "$1,700",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/50-59-TVs/Philips-50-inch-4K-QLED-Google-TV-Monitor-50PQT853096/p/153544",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h77/hcd/438072214323230.jpg",
       "category": "家電 3C"
     },
     {
@@ -78,24 +155,61 @@
       "discount_amount": "",
       "promotion": "含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Downlite-Ultimate-Freeze-Sleep-Pillow-2-Pack-51-cm-X-71-cm/p/688672",
+      "url": "https://www.costco.com.tw/Bedding/p/688672",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h6b/he5/450418277122078.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "LAV 土耳其製玻璃杯 16件組",
+      "price": "$659",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/LAV-Glass-Tumbler-16-Piece-Set/p/1933543",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h60/h04/380918085189662.jpg",
       "category": "家具家居"
     }
   ],
   "price_changes": [
     {
-      "name": "科克蘭 無籽加州李乾 1.58公斤",
-      "price": "$339",
-      "original_price": "$369",
-      "discount_amount": "",
-      "promotion": "需一次購買活動組數才可享受此優惠 含運",
-      "stock_status": "有貨",
-      "old_price": "$329",
+      "name": "Camper 男皮革休閒鞋",
+      "price": "$2,599",
+      "original_price": "$3,259",
+      "discount_amount": "$660",
+      "promotion": "商品已折價$660 含運",
+      "stock_status": "狀態未知",
+      "old_price": "$949",
       "direction": "漲價",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Kirkland-Signature-Sunsweet-Dried-Plums-158-kg/p/583577",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hc2/h94/167692471894046.jpg",
-      "category": "食品飲料"
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Camper-Mens-Leather-Touring-Shoe/p/1846399",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h64/h40/485751259430942.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "GAP 女九分褲",
+      "price": "$785",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "old_price": "$799",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/GAP-Ladies-Ankle-Trouser/p/1971848",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h8f/451293719953438.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Polo Ralph Lauren 男短袖Polo衫",
+      "price": "$2,349",
+      "original_price": "$2,949",
+      "discount_amount": "$600",
+      "promotion": "商品已折價$600 含運",
+      "stock_status": "狀態未知",
+      "old_price": "$1,159",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Polo-Ralph-Lauren-Short-Sleeve-Polo-Shirt/p/1846551",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h27/ha7/484307084345374.jpg",
+      "category": "服飾配件"
     }
   ]
 }
