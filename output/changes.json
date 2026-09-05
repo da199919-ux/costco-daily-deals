@@ -1,47 +1,8 @@
 {
   "date": "2026-09-05",
-  "generated_at": "2026-09-05 02:33",
+  "generated_at": "2026-09-05 08:15",
   "has_previous": true,
   "added": [],
-  "removed": [
-    {
-      "name": "AQUAGEN 奢華果香三部曲 沁樣氣泡飲組 330毫升 X 9瓶",
-      "price": "$399",
-      "original_price": "$489",
-      "discount_amount": "$90",
-      "promotion": "商品已折價$90 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/AQUAGEN-Deep-Ocean-Sparkling-Juice-330-ml-X-9-Count/p/158555",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h25/h97/438875972567070.jpg",
-      "category": "食品飲料"
-    }
-  ],
-  "price_changes": [
-    {
-      "name": "Harbour 戶外休閒沙發四件組",
-      "price": "$54,997",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "old_price": "$59,997",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Harbour-Deep-Seating-4-Piece-Set/p/1768196",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/he2/h57/206972366389278.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "緊急救援機動玩具車 多種款式選擇 / 3歲以上",
-      "price": "$297",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "old_price": "$397",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Outdoor-Play/Mighty-Fleet-Motorized-Vehecles-Various-Styles-Available-Ages-3-and-Up/p/146995",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd7/h5c/273678039744542.jpg",
-      "category": "日用品／母嬰／玩具"
-    }
-  ]
+  "removed": [],
+  "price_changes": []
 }
