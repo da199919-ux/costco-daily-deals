@@ -1,9 +1,9 @@
 # Costco 每日優惠摘要（2026-09-05）
 
-更新時間：2026-09-05 12:44（台灣時間）
-共整理出 **398** 項官方線上優惠。
-本次共讀取 **417** 個官方商品頁面。
-庫存狀態：有貨 **254** 項、缺貨 **128** 項、待確認 **16** 項。
+更新時間：2026-09-05 17:13（台灣時間）
+共整理出 **394** 項官方線上優惠。
+本次共讀取 **413** 個官方商品頁面。
+庫存狀態：有貨 **252** 項、缺貨 **126** 項、待確認 **16** 項。
 
 > 價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。
 
@@ -14,9 +14,9 @@
 | 家具家居 | 115 |
 | 服飾配件 | 75 |
 | 食品飲料 | 61 |
-| 家電 3C | 58 |
-| 其他 | 47 |
-| 保健美容 | 28 |
+| 家電 3C | 57 |
+| 其他 | 42 |
+| 保健美容 | 30 |
 | 日用品／母嬰／玩具 | 14 |
 
 ## 我的追蹤商品
@@ -27,11 +27,9 @@
 
 ## 缺貨商品
 
-- [橘子工坊 除臭酵素洗衣精 4公升 X 2入](https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Laundry-Care/Orange-House-Odor-Remover-Enzyme-Laundry-Detergent-4-L-X-2-Count/p/218559)（$859；庫存：缺貨）
 - [徠芬 高速吹風機 SE](https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Hair-Skin-Care-Tools/Laifen-High-Speed-Hair-Dryer-SE/p/156484)（$2,119；庫存：缺貨）
 - [Cole Haan 男短襪十入組](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Cole-Haan-Mens-Dress-Socks-10-Pack-Set/p/926341)（$439；庫存：缺貨）
 - [SWISS MILITARY 24吋行李箱](https://www.costco.com.tw/Clothing-Accessories/Luggage-Backpacks/Luggage/SWISS-MILITARY-24-inch-Luggage/p/615812)（$2,399；庫存：缺貨）
-- [千成堂 咖哩脆皮腰果 208公克](https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Sennarido-Curry-Cashew-208-g/p/154990)（$235；庫存：缺貨）
 - [JBL Clip 5 超可攜式防水藍牙喇叭](https://www.costco.com.tw/Digital-Mobile/Wearables-Audio/Bluetooth-Speakers-Landline-Phones/JBL-Clip-5-Ultra-Portable-and-Waterproof-Speaker/p/151419)（$1,659；庫存：缺貨）
 - [Riviera Home 浴室地墊 2入 40公分 X 60公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Rugs-Mats/Riviera-Home-Microfiber-Bath-Mat-2-Piece-40-cm-X-60-cm/p/1909188)（$439；庫存：缺貨）
 - [Ello 不鏽鋼保冷保溫瓶 946毫升 X 2件組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/Ello-Stainless-Steel-Thermal-Bottle-946-ml-X-2-Piece-Set/p/153155)（$519；庫存：缺貨）
@@ -41,6 +39,7 @@
 - [Berkemann Allexis 女休閒運動鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Berkemann-Allexis-Ladies-Sneaker-White/p/1846415)（$3,759；庫存：缺貨）
 - [Teva 男戶外機能涼鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Teva-Mens-Outdoor-Sandal/p/157325)（$1,149；庫存：缺貨）
 - [Jeep 男短袖Polo衫](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Jeep-Mens-Short-Sleeve-Polo-Shirt/p/147310)（$519；庫存：缺貨）
+- [Native 雷諾男休閒鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Native-Wanderfoam-Mens-Casual-Shoe/p/160518)（$1,155；庫存：缺貨）
 - [旅行記憶頸枕 24公分 X 23公分 X 12公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/Easy-to-Carry-Memory-Foam-Neck-Pillow-24-cm-X-23-cm-X-12-cm/p/665028)（$269；庫存：缺貨）
 - [Thermatec 涼感被 180公分 X 210公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Thermatec-Cooling-Comforter-180-cm-X-210-cm/p/159001)（$749；庫存：缺貨）
 - [Champion 男運動短褲](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/Champion-Mens-Active-Short/p/159691)（$379；庫存：缺貨）
@@ -123,7 +122,6 @@
 - [味好美 大蒜黑胡椒調味料 620公克](https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/McCormick-Garlic-Pepper-Seasoning-620-g/p/150605)（$289；庫存：缺貨）
 - [TCL 65吋 C8L 頂級 SQD-Mini LED 量子智能連網液晶顯示器 不含視訊盒 65C8L](https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/60-69-TVs/TCL-65-inch-C8L-Premium-SQD-Mini-LED-Smart-Monitor-without-Tuner-Box-65C8L/p/161707)（$39,999；庫存：缺貨）
 - [Backbone Hippo 兒童成長椅](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Backbone-Hippo-Kids-Chair/p/152649)（$2,699；庫存：缺貨）
-- [Native 雷諾男休閒鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Native-Wanderfoam-Mens-Casual-Shoe/p/160518)（$1,155；庫存：缺貨）
 - [Don Home 萊賽爾沁涼被 150公分 X 200公分 四季](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Don-Home-Lyocell-Cooling-Quilt-150-cm-X-200-cm-Four-Seasons/p/158958)（$875；庫存：缺貨）
 - [Don Home 萊賽爾沁涼被 150公分 X 200公分 同頻](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Don-Home-Lyocell-Cooling-Quilt-150-cm-X-200-cm-Frequency/p/158959)（$875；庫存：缺貨）
 - [Backbone Nook desk 兒童成長調節桌 奶油色](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Backbone-Nook-desk-Kids-Adjustable-Desk-Cream/p/152653)（$1,899；庫存：缺貨）
@@ -158,16 +156,23 @@
 
 ## 今日變化
 
-- 新增優惠：**7** 項
-- 本次未收錄：**3** 項（不代表優惠已結束）
+- 新增優惠：**4** 項
+- 本次未收錄：**8** 項（不代表優惠已結束）
 - 價格變動：**2** 項
 
 ### 價格變動
 
-- **漲價**：[Berkemann Allegra 女休閒鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Berkemann-Allegra-Ladies-Casual-Shoe/p/1846422) $1,379 → $3,759
-- **降價**：[Nike 女圓領短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Nike-Ladies-Crew-Neck-Short-Sleeve-Tee/p/1846414) $1,379 → $679
+- **降價**：[Berkemann Allegra 女休閒鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Berkemann-Allegra-Ladies-Casual-Shoe/p/1846422) $3,759 → $1,379
+- **漲價**：[Nike 女圓領短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Nike-Ladies-Crew-Neck-Short-Sleeve-Tee/p/1846414) $679 → $1,379
 
 ### 今日新增
+
+- [老協珍 人蔘精 GABA Plus 麥蘆卡蜂蜜口味 70毫升 X 33入](https://www.costco.com.tw/Health-Beauty/Elderly-Care/Supplements/Lao-Xie-Zhen-Ginseng-Essence-GABA-Plus-with-Manuka-Honey-70-ml-X-33-Count/p/241835)（$1,125；庫存：有貨）
+- [正官庄 28D高麗蔘活力飲 100毫升 X 20瓶](https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/CKJ-Korean-Ginseng-Essence-100-ml-X-20-Bottle/p/86999)（$769；庫存：有貨）
+- [普利司通 215/60 R17 96H ALENZA 001 輪胎](https://www.costco.com.tw/Tire/Bridgestone-21560-R17-96H-ALENZA-001-Tire/tire/p/163252)（$3,498；庫存：狀態未知）
+- [艾美特 7吋DC直流遙控循環扇 FB1861R](https://www.costco.com.tw/Cooling-Heating-Air-Treatment/Heating-Cooling/p/138212)（$2,499；庫存：有貨）
+
+### 本次未收錄（不代表優惠已結束）
 
 - [來復易 輕快活力褲 內褲型成人紙尿褲 LL號 72片](https://www.costco.com.tw/c/p/200970)（$1,169；庫存：有貨）
 - [老協珍 人蔘精 GABA Plus 麥蘆卡蜂蜜口味 70毫升 X 33入](https://www.costco.com.tw/Elderly-Care/p/241835)（$1,125；庫存：有貨）
@@ -176,11 +181,6 @@
 - [Don Home 萊賽爾沁涼被 150公分 X 200公分 協奏](https://www.costco.com.tw/Bedding/p/158961)（$875；庫存：有貨）
 - [Anda Seat 布面電競椅 黑](https://www.costco.com.tw/p/151432)（$5,199；庫存：有貨）
 - [普利司通 215/60 R17 96H ALENZA 001 輪胎](https://www.costco.com.tw/tire/p/163252)（$3,498；庫存：狀態未知）
-
-### 本次未收錄（不代表優惠已結束）
-
-- [老協珍 人蔘精 GABA Plus 麥蘆卡蜂蜜口味 70毫升 X 33入](https://www.costco.com.tw/Health-Beauty/Elderly-Care/Supplements/Lao-Xie-Zhen-Ginseng-Essence-GABA-Plus-with-Manuka-Honey-70-ml-X-33-Count/p/241835)（$1,125；庫存：有貨）
-- [正官庄 28D高麗蔘活力飲 100毫升 X 20瓶](https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/CKJ-Korean-Ginseng-Essence-100-ml-X-20-Bottle/p/86999)（$769；庫存：有貨）
-- [普利司通 215/60 R17 96H ALENZA 001 輪胎](https://www.costco.com.tw/Tire/Bridgestone-21560-R17-96H-ALENZA-001-Tire/tire/p/163252)（$3,498；庫存：狀態未知）
+- [艾美特 7吋DC直流遙控循環扇 FB1861R](https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Airmate-7-inch-DC-Inverter-Circulator-Fan-FB1861R/p/138212)（$2,499；庫存：有貨）
 
 完整清單請查看專案中的 `output/latest.md`。
