@@ -1,8 +1,147 @@
 {
   "date": "2026-09-05",
-  "generated_at": "2026-09-05 08:15",
+  "generated_at": "2026-09-05 12:44",
   "has_previous": true,
-  "added": [],
-  "removed": [],
-  "price_changes": []
+  "added": [
+    {
+      "name": "來復易 輕快活力褲 內褲型成人紙尿褲 LL號 72片",
+      "price": "$1,169",
+      "original_price": "$1,469",
+      "discount_amount": "$300",
+      "promotion": "商品已折價$300 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/c/p/200970",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hd3/h11/97209114394654.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "老協珍 人蔘精 GABA Plus 麥蘆卡蜂蜜口味 70毫升 X 33入",
+      "price": "$1,125",
+      "original_price": "$1,399",
+      "discount_amount": "$274",
+      "promotion": "商品已折價 $274 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Elderly-Care/p/241835",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h22/hb0/261774602469406.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "正官庄 28D高麗蔘活力飲 100毫升 X 20瓶",
+      "price": "$769",
+      "original_price": "$969",
+      "discount_amount": "$200",
+      "promotion": "商品已折價 $200 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/86999",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h90/h83/156752514383902.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Don Home 萊賽爾沁涼被 150公分 X 200公分 微光",
+      "price": "$875",
+      "original_price": "$1,099",
+      "discount_amount": "$224",
+      "promotion": "商品已折價$224 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Bedding/p/158960",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h44/h4e/450418095423518.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Don Home 萊賽爾沁涼被 150公分 X 200公分 協奏",
+      "price": "$875",
+      "original_price": "$1,099",
+      "discount_amount": "$224",
+      "promotion": "商品已折價$224 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Bedding/p/158961",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4a/h57/450418099683358.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Anda Seat 布面電競椅 黑",
+      "price": "$5,199",
+      "original_price": "$6,599",
+      "discount_amount": "$1,400",
+      "promotion": "商品已折價$1,400 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/151432",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h23/h95/344500474445854.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "普利司通 215/60 R17 96H ALENZA 001 輪胎",
+      "price": "$3,498",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/tire/p/163252",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h53/h92/34195790299166.jpg",
+      "category": "其他"
+    }
+  ],
+  "removed": [
+    {
+      "name": "老協珍 人蔘精 GABA Plus 麥蘆卡蜂蜜口味 70毫升 X 33入",
+      "price": "$1,125",
+      "original_price": "$1,399",
+      "discount_amount": "$274",
+      "promotion": "商品已折價 $274 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Health-Beauty/Elderly-Care/Supplements/Lao-Xie-Zhen-Ginseng-Essence-GABA-Plus-with-Manuka-Honey-70-ml-X-33-Count/p/241835",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h22/hb0/261774602469406.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "正官庄 28D高麗蔘活力飲 100毫升 X 20瓶",
+      "price": "$769",
+      "original_price": "$969",
+      "discount_amount": "$200",
+      "promotion": "商品已折價 $200 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/CKJ-Korean-Ginseng-Essence-100-ml-X-20-Bottle/p/86999",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h90/h83/156752514383902.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "普利司通 215/60 R17 96H ALENZA 001 輪胎",
+      "price": "$3,498",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Tire/Bridgestone-21560-R17-96H-ALENZA-001-Tire/tire/p/163252",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h53/h92/34195790299166.jpg",
+      "category": "其他"
+    }
+  ],
+  "price_changes": [
+    {
+      "name": "Berkemann Allegra 女休閒鞋",
+      "price": "$3,759",
+      "original_price": "$5,059",
+      "discount_amount": "$1,300",
+      "promotion": "商品已折價$1,300 含運",
+      "stock_status": "狀態未知",
+      "old_price": "$1,379",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Berkemann-Allegra-Ladies-Casual-Shoe/p/1846422",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0c/hf6/488918753673246.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Nike 女圓領短袖上衣",
+      "price": "$679",
+      "original_price": "$849",
+      "discount_amount": "$170",
+      "promotion": "商品已折價$170 含運",
+      "stock_status": "狀態未知",
+      "old_price": "$1,379",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Nike-Ladies-Crew-Neck-Short-Sleeve-Tee/p/1846414",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hd7/h5f/484307072942110.jpg",
+      "category": "服飾配件"
+    }
+  ]
 }
