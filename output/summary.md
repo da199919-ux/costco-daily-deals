@@ -1,9 +1,9 @@
 # Costco 每日優惠摘要（2026-09-06）
 
-更新時間：2026-09-06 14:07（台灣時間）
+更新時間：2026-09-06 19:10（台灣時間）
 共整理出 **394** 項官方線上優惠。
 本次共讀取 **413** 個官方商品頁面。
-庫存狀態：有貨 **243** 項、缺貨 **135** 項、待確認 **16** 項。
+庫存狀態：有貨 **242** 項、缺貨 **136** 項、待確認 **16** 項。
 
 > 價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。
 
@@ -29,7 +29,6 @@
 
 - [橘子工坊 除臭酵素洗衣精 4公升 X 2入](https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Laundry-Care/Orange-House-Odor-Remover-Enzyme-Laundry-Detergent-4-L-X-2-Count/p/218559)（$859；庫存：缺貨）
 - [冷凍薄鹽白腹鯖魚片 800公克](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Frozen-Lightly-Salted-Mackerel-800-g/p/463663)（$425；庫存：缺貨）
-- [Sports Research Omega-3 濃縮魚油 1250mg 150粒](https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Sports-Research-Omega-3-Fish-Oil-Triple-Strength-1250mg-150-Softgel/p/240666)（$1,109；庫存：缺貨）
 - [徠芬 高速吹風機 SE](https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Hair-Skin-Care-Tools/Laifen-High-Speed-Hair-Dryer-SE/p/156484)（$2,119；庫存：缺貨）
 - [Cole Haan 男短襪十入組](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Cole-Haan-Mens-Dress-Socks-10-Pack-Set/p/926341)（$439；庫存：缺貨）
 - [SWISS MILITARY 24吋行李箱](https://www.costco.com.tw/Clothing-Accessories/Luggage-Backpacks/Luggage/SWISS-MILITARY-24-inch-Luggage/p/615812)（$2,399；庫存：缺貨）
@@ -65,7 +64,6 @@
 - [Soundcore Liberty 4 主動降噪真無線藍牙耳機](https://www.costco.com.tw/Digital-Mobile/Wearables-Audio/Headphones-Audio-Devices/Soundcore-Liberty-4-True-Wireless-Earbuds/p/146926)（$2,049；庫存：缺貨）
 - [Puma 女性內褲五入組](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Puma-Ladies-Comfort-Hipster-5-Pack-Set/p/156903)（$629；庫存：缺貨）
 - [CAT 泡芙兩用側背包](https://www.costco.com.tw/Clothing-Accessories/Luggage-Backpacks/Totes-Backpacks/CAT-Puffy-Sling-Bag-with-Mini-Pouch-Bag/p/160502)（$759；庫存：缺貨）
-- [Roots 後背包](https://www.costco.com.tw/Clothing-Accessories/Luggage-Backpacks/Totes-Backpacks/Roots-Backpack/p/160670)（$749；庫存：缺貨）
 - [Tommy Hilfiger 女踝襪 5入組](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Tommy-Hilfiger-Ladies-Low-Cut-Socks-5-Pack/p/157487)（$469；庫存：缺貨）
 - [NFL 男短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/NFL-Mens-Short-Sleeve-Tee/p/160760)（$429；庫存：缺貨）
 - [歐司朗 朗德萬斯 20W 4呎 星皓LED支架燈 8入](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-LEDVANCE-20W-4-ft-LED-Batten-8-Pack/p/146853-B)（$1,519；庫存：缺貨）
@@ -114,6 +112,7 @@
 - [三麗鷗 抱抱球 / 3歲以上](https://www.costco.com.tw/Household-Baby-Toys/Toys/Dolls-Pretend-Play/Sanrio-Biggies-Ages-3-and-Up/p/151564)（$687；庫存：缺貨）
 - [Buffalo 女短丹寧洋裝](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Buffalo-Ladies-Soft-Denim-Dress/p/2046573)（$547；庫存：缺貨）
 - [Tailor Vintage 男短褲](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/Tailor-Vintage-Mens-Ewaist-Surplus-Short/p/1956454)（$397；庫存：缺貨）
+- [科克蘭 超細纖維擦拭布藍色 36入](https://www.costco.com.tw/Sports-Lifestyle/Automotive/Exterior-Car-Care/Kirkland-Signature-Microfiber-Towels-Blue-36-Count/p/133839)（$389；庫存：缺貨）
 - [樂歌 人體工學智慧電動升降桌 原木桌面 ET200-C](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Loctek-Adjustable-Desk-Wood-ET200-C/p/154977)（$6,399；庫存：缺貨）
 - [ASC 冷凍吳郭魚片 1.3公斤](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/ASC-Frozen-Tilapia-Fillet-13KG/p/484596)（$599；庫存：缺貨）
 - [Xterra 跑步機 TRX4500](https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Fitness-Equipment-Accessories/Xterra-Treadmill-TRX4500/p/132978)（$24,799；庫存：缺貨）
@@ -131,6 +130,8 @@
 - [Don Home 萊賽爾沁涼被 150公分 X 200公分 四季](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Don-Home-Lyocell-Cooling-Quilt-150-cm-X-200-cm-Four-Seasons/p/158958)（$875；庫存：缺貨）
 - [Don Home 萊賽爾沁涼被 150公分 X 200公分 同頻](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Don-Home-Lyocell-Cooling-Quilt-150-cm-X-200-cm-Frequency/p/158959)（$875；庫存：缺貨）
 - [Backbone Nook desk 兒童成長調節桌 奶油色](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Backbone-Nook-desk-Kids-Adjustable-Desk-Cream/p/152653)（$1,899；庫存：缺貨）
+- [Roots 後背包](https://www.costco.com.tw/Clothing-Accessories/Luggage-Backpacks/Totes-Backpacks/Roots-Backpack/p/160670)（$749；庫存：缺貨）
+- [經典卡通涼感被附收納袋 150公分 X 180公分 吉伊卡哇 星夜款](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Licensed-Cooling-Quilt-with-Storage-Bag-150-cm-X-180-cm-Chiikawa/p/449366)（$1,029；庫存：缺貨）
 - [Alpine Mountain Gear 不鏽鋼咖啡杯壺組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Alpine-Mountain-Gear-Coffee-Set/p/1906999)（$769；庫存：缺貨）
 - [象印 土鍋風鐵板萬用鍋 3.7公升 EP-PXF20](https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Cookers-Oven-Microwaves-Food-Waste-Machine/ZOJIRUSHI-Grill-and-Hot-Pot-Set-37-L-EP-PXF20/p/129020)（$2,399；庫存：缺貨）
 - [Don Home 萊賽爾雙人加大兩用被套六件組 182公分 X 190公分 索瓦](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Don-Home-300-Thread-Count-Lyocell-Quilted-Duvet-6-Piece-Set-182-cm-X-190-cm-Sowa/p/158952)（$2,339；庫存：缺貨）
@@ -165,34 +166,21 @@
 
 ## 今日變化
 
-- 新增優惠：**7** 項
-- 本次未收錄：**7** 項（不代表優惠已結束）
-- 價格變動：**3** 項
+- 新增優惠：**0** 項
+- 本次未收錄：**0** 項（不代表優惠已結束）
+- 價格變動：**2** 項
 
 ### 價格變動
 
-- **漲價**：[Body Blue 女內褲五入組 L](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Body-Blue-Ladies-Panty-5-Pack-L/p/591320) $679 → $849
-- **漲價**：[Camper 男皮革休閒鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Camper-Mens-Leather-Touring-Shoe/p/1846399) $725 → $2,599
-- **漲價**：[Polo Ralph Lauren 男短袖Polo衫](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Polo-Ralph-Lauren-Short-Sleeve-Polo-Shirt/p/1846551) $1,159 → $2,349
+- **降價**：[Camper 男皮革休閒鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Camper-Mens-Leather-Touring-Shoe/p/1846399) $2,599 → $725
+- **降價**：[Polo Ralph Lauren 男短袖Polo衫](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Polo-Ralph-Lauren-Short-Sleeve-Polo-Shirt/p/1846551) $2,349 → $1,379
 
 ### 今日新增
 
-- [老協珍 人蔘精 GABA Plus 麥蘆卡蜂蜜口味 70毫升 X 33入](https://www.costco.com.tw/Health-Beauty/Elderly-Care/Supplements/Lao-Xie-Zhen-Ginseng-Essence-GABA-Plus-with-Manuka-Honey-70-ml-X-33-Count/p/241835)（$1,125；庫存：有貨）
-- [正官庄 28D高麗蔘活力飲 100毫升 X 20瓶](https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/CKJ-Korean-Ginseng-Essence-100-ml-X-20-Bottle/p/86999)（$769；庫存：有貨）
-- [A5 日本冷凍和牛肩胛火鍋片 200公克](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/A5-Japan-Frozen-Wagyu-Chuck-Roll-Hot-Pot-200-g/p/158783)（$549；庫存：有貨）
-- [鬼金棒 辣麻味噌拉麵 138公克 X 10入](https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/KIKANBO-Spicy-Miso-Ramen-138-g-X-10-Pack/p/158083)（$505；庫存：有貨）
-- [Don Home 萊賽爾雙人兩用被套六件組 152公分 X 190公分 迪南](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Don-Home-300-Thread-Count-Lyocell-Quilted-Duvet-6-Piece-Set-152-cm-X-190-cm-Dinan/p/158941)（$2,079；庫存：有貨）
-- [Don Home 萊賽爾雙人兩用被套六件組 152公分 X 190公分 靜水](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Don-Home-300-Thread-Count-Lyocell-Quilted-Duvet-6-Piece-Set-152-cm-X-190-cm-Tranquil-waters/p/158940)（$2,079；庫存：有貨）
-- [TP-Link Tapo C425 電池式戶外安全攝影機](https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/TP-Link-Tapo-C425-Smart-Wire-Free-Security-Camera/p/158488)（$2,289；庫存：有貨）
+- 今天沒有新增優惠。
 
 ### 本次未收錄（不代表優惠已結束）
 
-- [老協珍 人蔘精 GABA Plus 麥蘆卡蜂蜜口味 70毫升 X 33入](https://www.costco.com.tw/Elderly-Care/p/241835)（$1,125；庫存：有貨）
-- [正官庄 28D高麗蔘活力飲 100毫升 X 20瓶](https://www.costco.com.tw/p/86999)（$769；庫存：有貨）
-- [A5 日本冷凍和牛肩胛火鍋片 200公克](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/p/158783)（$549；庫存：有貨）
-- [鬼金棒 辣麻味噌拉麵 138公克 X 10入](https://www.costco.com.tw/Food-Dining/Groceries/p/158083)（$505；庫存：有貨）
-- [Don Home 萊賽爾雙人兩用被套六件組 152公分 X 190公分 迪南](https://www.costco.com.tw/Bedding/p/158941)（$2,079；庫存：有貨）
-- [Don Home 萊賽爾雙人兩用被套六件組 152公分 X 190公分 靜水](https://www.costco.com.tw/Bedding/p/158940)（$2,079；庫存：有貨）
-- [TP-Link Tapo C425 電池式戶外安全攝影機](https://www.costco.com.tw/Digital-Mobile/Cameras/p/158488)（$2,289；庫存：有貨）
+- 本次沒有商品離開抓取清單。
 
 完整清單請查看專案中的 `output/latest.md`。
