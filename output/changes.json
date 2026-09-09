@@ -1,99 +1,35 @@
 {
-  "date": "2026-09-09",
-  "generated_at": "2026-09-09 22:45",
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10 02:47",
   "has_previous": true,
   "added": [],
-  "removed": [
-    {
-      "name": "LG PuriCare 16公升 UV 抑菌 WiFi 雙變頻除濕機 粉藍色 MD161QBE0",
-      "price": "$15,799",
-      "original_price": "$16,599",
-      "discount_amount": "$800",
-      "promotion": "商品已折價 $800；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Dehumidifiers-Dry-Cabinets/LG-PuriCare-16-L-Dual-Inverter-Dehumidifier-with-UV-nano-WiFi-Blue-MD161QBE0/p/146161",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h65/h01/138405906481182.jpg",
-      "category": "家電 3C"
-    }
-  ],
+  "removed": [],
   "price_changes": [
     {
-      "name": "Beats Studio Pro 無線頭戴式耳機",
-      "price": "$50,299",
-      "original_price": "$51,099",
-      "discount_amount": "$800",
-      "promotion": "商品已折價 $800；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "name": "Pekkle 兒童圓領短袖上衣四件組",
+      "price": "$347",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
       "stock_status": "缺貨",
-      "old_price": "$15,799",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Wearables-Audio/Headphones-Audio-Devices/Beats-Studio-Pro-Wireless-Headphones/p/141447-B",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h34/h5e/87953865998366.jpg",
-      "category": "家電 3C"
+      "old_price": "$397",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Clothing-Sets-Accessories/Pekkle-Kids-Crew-Neck-Short-Sleeve-Top-4-Pack-Set/p/1664090",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h99/hd3/455933969891358.jpg",
+      "category": "服飾配件"
     },
     {
-      "name": "Ergoking 網布人體工學椅 171 S Plus系列",
-      "price": "$50,299",
-      "original_price": "$51,099",
-      "discount_amount": "$800",
-      "promotion": "商品已折價 $800；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "name": "健達 倍多 21公克 X 36條",
+      "price": "$459",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
       "stock_status": "缺貨",
-      "old_price": "$15,799",
+      "old_price": "$327",
       "direction": "漲價",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Ergoking-Mesh-Chair-171-S-Plus/p/132324",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h34/h5e/87953865998366.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "台達電子 多功能循環涼暖風機 標準型300系列 遙控型",
-      "price": "$50,299",
-      "original_price": "$51,099",
-      "discount_amount": "$800",
-      "promotion": "商品已折價 $800；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "缺貨",
-      "old_price": "$15,799",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/KitchenBathroom-Hardware/Delta-Fan-Heater-Classic-300-Series-Remote-Control/p/135409-B",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h34/h5e/87953865998366.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "席伊麗 美姿系列 Colorado雙人加大床墊 183公分 X 190公分",
-      "price": "$50,299",
-      "original_price": "$51,099",
-      "discount_amount": "$800",
-      "promotion": "商品已折價 $800；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "old_price": "$15,799",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Sealy-Colorado-Posturepedic-Mattress-183-X-190-cm/p/133225",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h34/h5e/87953865998366.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "席伊麗 護背系列 Sunshine 標準雙人床墊 152公分 X 190公分",
-      "price": "$50,299",
-      "original_price": "$51,099",
-      "discount_amount": "$800",
-      "promotion": "商品已折價 $800；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "old_price": "$15,799",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Sealy-Sunshine-Backsaver-Mattress-152-cm-X-190-cm/p/133226",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h34/h5e/87953865998366.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "幻知曲 R450 標準雙人睡眠系統 贈保潔墊 150公分 X 200公分",
-      "price": "$50,299",
-      "original_price": "$51,099",
-      "discount_amount": "$800",
-      "promotion": "商品已折價 $800；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "old_price": "$15,799",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Bedroom-Furniture-Sets/Reverie-R450-Sleep-System-with-Protector-150-cm-X-200-cm/p/141096",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h34/h5e/87953865998366.jpg",
-      "category": "家具家居"
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Kinder-Chocolate-Maxi-21-g-X-36-Count/p/106522",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb3/h36/65826714714142.jpg",
+      "category": "食品飲料"
     }
   ]
 }
