@@ -1,8 +1,197 @@
 {
   "date": "2026-09-10",
-  "generated_at": "2026-09-10 08:24",
+  "generated_at": "2026-09-10 13:00",
   "has_previous": true,
-  "added": [],
-  "removed": [],
+  "added": [
+    {
+      "name": "BOSCH 4系列 60公分 獨立式洗碗機 13人份",
+      "price": "$26,999",
+      "original_price": "$33,999",
+      "discount_amount": "$7,000",
+      "promotion": "商品已折價$7,000 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/159885",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfc/h3a/449275394326558.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "桂格 即沖即食大燕麥片隨身包 37.5公克 X 44入",
+      "price": "$459",
+      "original_price": "$569",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/c/p/204989",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hcf/h9a/362805000110110.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "百奇 巧克力棒 40公克 X 12入",
+      "price": "$325",
+      "original_price": "$399",
+      "discount_amount": "$74",
+      "promotion": "商品已折價$74 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/103454",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h33/hc0/69511096762398.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "味滋康 雞昆布鰹魚高湯 1.8公升",
+      "price": "$309",
+      "original_price": "$399",
+      "discount_amount": "$90",
+      "promotion": "商品已折價$90 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/p/132561",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0c/hf5/67984469950494.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "KASACA 專業級比賽用滾塑匹克球 18顆組",
+      "price": "$639",
+      "original_price": "$799",
+      "discount_amount": "$160",
+      "promotion": "商品已折價$160 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Team-Sports/KASACA-Premium-Pickleball-Balls-18-Pack-Set/p/161127",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h62/h25/455933817028638.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "哈根達斯 冰淇淋 473毫升 X 6入",
+      "price": "$1,059",
+      "original_price": "$1,299",
+      "discount_amount": "$240",
+      "promotion": "商品已折價$240 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Haagen-Dazs-Ice-Cream-473-ml-X-6-Count/p/326800",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h64/hfc/313983086788638.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "KASACA 火焰雙拍豪華九件組",
+      "price": "$1,679",
+      "original_price": "$2,099",
+      "discount_amount": "$420",
+      "promotion": "商品已折價$420 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Team-Sports/KASACA-Rapid-Fire-Pickleball-9-Piece-Set/p/161129",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h6e/h3a/455933817192478.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "SunnyFeel 山扉 可調節露營椅",
+      "price": "$489",
+      "original_price": "$719",
+      "discount_amount": "$230",
+      "promotion": "商品已折價$230 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Tents-Camping-Gear/SunnyFeel-Kermit-Chair/p/8527298",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h04/h17/487711295438878.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "科克蘭 冷藏無鹽奶油 1.81公斤 X 6入 X 14箱",
+      "price": "$31,499",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Chilled-Food/Kirkland-Signature-Chilled-Unsalted-Butter-181-kg-X-6-Pack-X-14-Case/p/1744110",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hbb/h13/87031506698270.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "舒熱佳 金屬及陶瓷全車貼 小型車 (不含天窗)",
+      "price": "$28,999",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Garden-Lifestyle/Tickets-Voucher/Solar-Gard-Metal-Ceramic-Full-Window-Tint-for-Small-Car-Sunroof-Not-Included/p/158991",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf2/h16/437687070490654.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "安永 鱸魚精 (原味) 65毫升 X 30入",
+      "price": "$3,189",
+      "original_price": "$3,969",
+      "discount_amount": "$780",
+      "promotion": "商品已折價$780 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/p/157118",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h73/h52/413801348562974.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Brita ON TAP Pro 5重濾菌龍頭式濾水器 附 3入 Maxtra Pro 濾芯",
+      "price": "$3,509",
+      "original_price": "$4,389",
+      "discount_amount": "$880",
+      "promotion": "商品已折價$880 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/144250",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h77/h30/433626063110174.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "刷樂 全效護理漱口水攜帶包 12毫升 X 90入",
+      "price": "$439",
+      "original_price": "$549",
+      "discount_amount": "",
+      "promotion": "需一次購買活動組數才可享受此優惠 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/157254",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hef/hc4/402145281966110.jpg",
+      "category": "其他"
+    }
+  ],
+  "removed": [
+    {
+      "name": "BOSCH 4系列 60公分 獨立式洗碗機 13人份",
+      "price": "$26,999",
+      "original_price": "$33,999",
+      "discount_amount": "$7,000",
+      "promotion": "商品已折價$7,000 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Dishwashers-Dish-Dryers/BOSCH-Series-4-60cm-Freestanding-Dishwasher-13-Persons/p/159885",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfc/h3a/449275394326558.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "桂格 即沖即食大燕麥片隨身包 37.5公克 X 44入",
+      "price": "$459",
+      "original_price": "$569",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/c/Quaker-Instant-Whole-Oats-375-g-X-44-Pack/p/204989",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hcf/h9a/362805000110110.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "百奇 巧克力棒 40公克 X 12入",
+      "price": "$325",
+      "original_price": "$399",
+      "discount_amount": "$74",
+      "promotion": "商品已折價$74 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Pocky-Chocolate-Biscuit-Sticks-40-g-X-12-Pack/p/103454",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h33/hc0/69511096762398.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "味滋康 雞昆布鰹魚高湯 1.8公升",
+      "price": "$309",
+      "original_price": "$399",
+      "discount_amount": "$90",
+      "promotion": "商品已折價$90 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Mizkan-Chicken-Stock-with-Kelp-and-Bonito-18-L/p/132561",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0c/hf5/67984469950494.jpg",
+      "category": "食品飲料"
+    }
+  ],
   "price_changes": []
 }
