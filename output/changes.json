@@ -1,35 +1,8 @@
 {
   "date": "2026-09-10",
-  "generated_at": "2026-09-10 02:47",
+  "generated_at": "2026-09-10 08:24",
   "has_previous": true,
   "added": [],
   "removed": [],
-  "price_changes": [
-    {
-      "name": "Pekkle 兒童圓領短袖上衣四件組",
-      "price": "$347",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "old_price": "$397",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Clothing-Sets-Accessories/Pekkle-Kids-Crew-Neck-Short-Sleeve-Top-4-Pack-Set/p/1664090",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h99/hd3/455933969891358.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "健達 倍多 21公克 X 36條",
-      "price": "$459",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "old_price": "$327",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Kinder-Chocolate-Maxi-21-g-X-36-Count/p/106522",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb3/h36/65826714714142.jpg",
-      "category": "食品飲料"
-    }
-  ]
+  "price_changes": []
 }
