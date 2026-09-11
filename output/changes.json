@@ -1,32 +1,8 @@
 {
   "date": "2026-09-11",
-  "generated_at": "2026-09-11 08:20",
+  "generated_at": "2026-09-11 12:55",
   "has_previous": true,
   "added": [
-    {
-      "name": "愛康 透芯涼感褲型棉 M號 48 片",
-      "price": "$1,069",
-      "original_price": "$1,285",
-      "discount_amount": "$216",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/143680",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h47/hb0/473819313274910.jpg",
-      "category": "其他"
-    }
-  ],
-  "removed": [
-    {
-      "name": "Richy 瑞奇 富裕蔬菜餅 960公克",
-      "price": "$329",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Richy-Kenju-Vegetable-Thin-Cracker-960-g/p/151283",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h28/h32/344500441415710.jpg",
-      "category": "食品飲料"
-    },
     {
       "name": "愛康 透芯涼感褲型棉 M號 48 片",
       "price": "$1,069",
@@ -39,32 +15,29 @@
       "category": "保健美容"
     }
   ],
-  "price_changes": [
+  "removed": [
     {
-      "name": "ellesse 男短袖上衣",
-      "price": "$300",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$419",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/ellesse-Mens-Short-Sleeve-Tee/p/1846550",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h45/h01/502266465157150.jpg",
-      "category": "服飾配件"
+      "name": "愛康 透芯涼感褲型棉 M號 48 片",
+      "price": "$1,069",
+      "original_price": "$1,285",
+      "discount_amount": "$216",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/143680",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h47/hb0/473819313274910.jpg",
+      "category": "其他"
     },
     {
-      "name": "Nike 女圓領短袖上衣",
-      "price": "$300",
+      "name": "百靈 5系列電鬍刀 5010S",
+      "price": "$3,779",
       "original_price": "",
       "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$679",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Nike-Ladies-Crew-Neck-Short-Sleeve-Tee/p/1846414",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd7/h5f/484307072942110.jpg",
-      "category": "服飾配件"
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Hair-Skin-Care-Tools/Braun-Series-5-Electric-Shaver-5010S/p/151116",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h14/hbd/332150606233630.jpg",
+      "category": "家電 3C"
     }
-  ]
+  ],
+  "price_changes": []
 }
