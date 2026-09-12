@@ -1,9 +1,9 @@
-# Costco 每日優惠摘要（2026-09-12）
+# Costco 每日優惠摘要（2026-09-13）
 
-更新時間：2026-09-12 21:43（台灣時間）
+更新時間：2026-09-13 03:31（台灣時間）
 共整理出 **433** 項官方線上優惠。
 本次共讀取 **453** 個官方商品頁面。
-庫存狀態：有貨 **271** 項、缺貨 **148** 項、待確認 **14** 項。
+庫存狀態：有貨 **270** 項、缺貨 **149** 項、待確認 **14** 項。
 
 > 價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。
 
@@ -144,6 +144,7 @@
 - [Alpine Mountain Gear 不鏽鋼咖啡杯壺組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Alpine-Mountain-Gear-Coffee-Set/p/1906999)（$769；庫存：缺貨）
 - [健達 倍多 21公克 X 36條](https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Kinder-Chocolate-Maxi-21-g-X-36-Count/p/106522)（$459；庫存：缺貨）
 - [米森 膠原搖搖 無調味+C 5.5公克 X 38包](https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Vilson-Collagen-Vitamin-C-Plus-55-g-X-38-Pack/p/156083)（$797；庫存：缺貨）
+- [TP-Link Tapo C425 電池式戶外安全攝影機](https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/TP-Link-Tapo-C425-Smart-Wire-Free-Security-Camera/p/158488)（$2,289；庫存：缺貨）
 - [Adidas 男短袖運動上衣](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Adidas-Mens-Short-Sleeve-Sports-Active-Tee/p/1960475)（$397；庫存：缺貨）
 - [HOTO 三合一露營燈](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/HOTO-3-in-1-Camping-Light/p/159269)（$597；庫存：缺貨）
 - [Apple MagSafe 充電器 1公尺](https://www.costco.com.tw/Digital-Mobile/Mobile-Tablets/Mobile-Tablets-Accessories/Apple-MagSafe-Charger-1-m/p/155889)（$1,029；庫存：缺貨）
@@ -178,23 +179,21 @@
 
 ## 今日變化
 
-- 新增優惠：**3** 項
-- 本次未收錄：**2** 項（不代表優惠已結束）
-- 價格變動：**0** 項
+- 新增優惠：**1** 項
+- 本次未收錄：**1** 項（不代表優惠已結束）
+- 價格變動：**2** 項
 
 ### 價格變動
 
-- 今天沒有偵測到價格變動。
+- **降價**：[ellesse 男短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/ellesse-Mens-Short-Sleeve-Tee/p/1846550) $419 → $300
+- **降價**：[Nike 女圓領短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Nike-Ladies-Crew-Neck-Short-Sleeve-Tee/p/1846414) $679 → $300
 
 ### 今日新增
 
-- [味滋康柑橘醋醬汁 1公升](https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/p/126820)（$145；庫存：有貨）
-- [Tommy Hilfiger 女圓領短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Tommy-Hilfiger-Ladies-Short-Sleeve-Crew-Neck-Tee/p/1956395)（$397；庫存：缺貨）
-- [Simon Li 三人牛皮沙發 咖啡](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Simon-Li-3-Seater-Leather-Sofa-Brown/p/1999351)（$22,999；庫存：有貨）
+- [味滋康柑橘醋醬汁 1公升](https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Mizkan-Ajipon-Citrus-Seasoned-Soy-Sauce-1-L/p/126820)（$145；庫存：有貨）
 
 ### 本次未收錄（不代表優惠已結束）
 
-- [味滋康柑橘醋醬汁 1公升](https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Mizkan-Ajipon-Citrus-Seasoned-Soy-Sauce-1-L/p/126820)（$145；庫存：有貨）
-- [Thomasville L型布面沙發床 淺米色](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Thomasville-Fabric-Sectional-Light-Beige/p/1812576)（$22,999；庫存：有貨）
+- [味滋康柑橘醋醬汁 1公升](https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/p/126820)（$145；庫存：有貨）
 
 完整清單請查看專案中的 `output/latest.md`。
