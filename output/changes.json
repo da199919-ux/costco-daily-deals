@@ -1,9 +1,8 @@
 {
   "date": "2026-09-12",
-  "generated_at": "2026-09-12 17:31",
+  "generated_at": "2026-09-12 21:43",
   "has_previous": true,
-  "added": [],
-  "removed": [
+  "added": [
     {
       "name": "味滋康柑橘醋醬汁 1公升",
       "price": "$145",
@@ -25,34 +24,42 @@
       "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Tommy-Hilfiger-Ladies-Short-Sleeve-Crew-Neck-Tee/p/1956395",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hee/h62/484307089752094.jpg",
       "category": "服飾配件"
-    }
-  ],
-  "price_changes": [
-    {
-      "name": "ellesse 男短袖上衣",
-      "price": "$419",
-      "original_price": "$549",
-      "discount_amount": "$130",
-      "promotion": "商品已折價$130 含運",
-      "stock_status": "狀態未知",
-      "old_price": "$300",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/ellesse-Mens-Short-Sleeve-Tee/p/1846550",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h45/h01/502266465157150.jpg",
-      "category": "服飾配件"
     },
     {
-      "name": "Nike 女圓領短袖上衣",
-      "price": "$679",
-      "original_price": "$849",
-      "discount_amount": "$170",
-      "promotion": "商品已折價$170 含運",
-      "stock_status": "狀態未知",
-      "old_price": "$300",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Nike-Ladies-Crew-Neck-Short-Sleeve-Tee/p/1846414",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd7/h5f/484307072942110.jpg",
-      "category": "服飾配件"
+      "name": "Simon Li 三人牛皮沙發 咖啡",
+      "price": "$22,999",
+      "original_price": "$28,999",
+      "discount_amount": "$6,000",
+      "promotion": "商品已折價 $6,000；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Simon-Li-3-Seater-Leather-Sofa-Brown/p/1999351",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h7a/h12/492247693099038.jpg",
+      "category": "家具家居"
     }
-  ]
+  ],
+  "removed": [
+    {
+      "name": "味滋康柑橘醋醬汁 1公升",
+      "price": "$145",
+      "original_price": "$185",
+      "discount_amount": "",
+      "promotion": "需一次購買活動組數才可享受此優惠 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Mizkan-Ajipon-Citrus-Seasoned-Soy-Sauce-1-L/p/126820",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h2d/h99/67984461299742.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Thomasville L型布面沙發床 淺米色",
+      "price": "$22,999",
+      "original_price": "$28,999",
+      "discount_amount": "$6,000",
+      "promotion": "商品已折價 $6,000；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Thomasville-Fabric-Sectional-Light-Beige/p/1812576",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h7a/h12/492247693099038.jpg",
+      "category": "家具家居"
+    }
+  ],
+  "price_changes": []
 }

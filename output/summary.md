@@ -1,9 +1,9 @@
 # Costco 每日優惠摘要（2026-09-12）
 
-更新時間：2026-09-12 17:31（台灣時間）
-共整理出 **432** 項官方線上優惠。
-本次共讀取 **452** 個官方商品頁面。
-庫存狀態：有貨 **272** 項、缺貨 **146** 項、待確認 **14** 項。
+更新時間：2026-09-12 21:43（台灣時間）
+共整理出 **433** 項官方線上優惠。
+本次共讀取 **453** 個官方商品頁面。
+庫存狀態：有貨 **271** 項、缺貨 **148** 項、待確認 **14** 項。
 
 > 價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。
 
@@ -12,7 +12,7 @@
 | 分類 | 商品數量 |
 |---|---:|
 | 家具家居 | 117 |
-| 服飾配件 | 85 |
+| 服飾配件 | 86 |
 | 家電 3C | 63 |
 | 食品飲料 | 59 |
 | 其他 | 53 |
@@ -73,6 +73,7 @@
 - [Lilfant 三麗鷗 兒童餐具 6件組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/Lilfant-SANRIO-Kids-Utensil-6-Piece-Set/p/674962)（$727；庫存：缺貨）
 - [Tommy Hilfiger 女刺繡Logo短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Tommy-Hilfiger-Ladies-Embroidered-Logo-Short-Sleeve-Tee/p/156540)（$447；庫存：缺貨）
 - [Unionbay 兒童彈性長褲](https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Bottoms-Dresses/Unionbay-Kids-Stretch-Pants/p/1956458)（$247；庫存：缺貨）
+- [Tommy Hilfiger 女圓領短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Tommy-Hilfiger-Ladies-Short-Sleeve-Crew-Neck-Tee/p/1956395)（$397；庫存：缺貨）
 - [Freeworld 男人字夾腳拖鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Freeworld-Mens-Flip-Flops/p/1660944)（$547；庫存：缺貨）
 - [寶可夢 兒童短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Tops/Pokemon-Kids-Short-Sleeve-Tee/p/159500)（$247；庫存：缺貨）
 - [Jachs 男彈性短褲](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/Jachs-Mens-Flex-Short/p/157232)（$347；庫存：缺貨）
@@ -133,6 +134,7 @@
 - [Body Blue 女內褲五入組 L](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Body-Blue-Ladies-Panty-5-Pack-L/p/591320)（$679；庫存：缺貨）
 - [Body Blue 女內褲五入組 XL](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Body-Blue-Ladies-Panty-5-Pack-XL/p/591330)（$679；庫存：缺貨）
 - [TCL 65吋 C8L 頂級 SQD-Mini LED 量子智能連網液晶顯示器 不含視訊盒 65C8L](https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/60-69-TVs/TCL-65-inch-C8L-Premium-SQD-Mini-LED-Smart-Monitor-without-Tuner-Box-65C8L/p/161707)（$39,999；庫存：缺貨）
+- [樂歌 Loctek 電動升降桌 ET200 白色](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Loctek-Adjustable-Desk-ET200-White/p/141578)（$7,199；庫存：缺貨）
 - [艾惟諾 嬰兒舒緩滋養2合1泡沫沐浴洗髮露 400毫升l X 2入](https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Bath-Care/Aveeno-Baby-Soothing-Relief-Foaming-Wash-400-ml-X-2-Pack/p/156129)（$639；庫存：缺貨）
 - [LG 21公斤 AI DD 蒸氣滾筒 蒸洗脫洗衣機 WD-S21VB](https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Washers-Dryers/LG-21-kg-Front-Load-Washer-with-AI-Direct-Drive-and-Steam-WD-S21VB/p/145619)（$30,599；庫存：缺貨）
 - [Don Home 萊賽爾沁涼被 150公分 X 200公分 協奏](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Don-Home-Lyocell-Cooling-Quilt-150-cm-X-200-cm-Concerto/p/158961)（$875；庫存：缺貨）
@@ -176,22 +178,23 @@
 
 ## 今日變化
 
-- 新增優惠：**0** 項
+- 新增優惠：**3** 項
 - 本次未收錄：**2** 項（不代表優惠已結束）
-- 價格變動：**2** 項
+- 價格變動：**0** 項
 
 ### 價格變動
 
-- **漲價**：[ellesse 男短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/ellesse-Mens-Short-Sleeve-Tee/p/1846550) $300 → $419
-- **漲價**：[Nike 女圓領短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Nike-Ladies-Crew-Neck-Short-Sleeve-Tee/p/1846414) $300 → $679
+- 今天沒有偵測到價格變動。
 
 ### 今日新增
 
-- 今天沒有新增優惠。
+- [味滋康柑橘醋醬汁 1公升](https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/p/126820)（$145；庫存：有貨）
+- [Tommy Hilfiger 女圓領短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Tommy-Hilfiger-Ladies-Short-Sleeve-Crew-Neck-Tee/p/1956395)（$397；庫存：缺貨）
+- [Simon Li 三人牛皮沙發 咖啡](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Simon-Li-3-Seater-Leather-Sofa-Brown/p/1999351)（$22,999；庫存：有貨）
 
 ### 本次未收錄（不代表優惠已結束）
 
-- [味滋康柑橘醋醬汁 1公升](https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/p/126820)（$145；庫存：有貨）
-- [Tommy Hilfiger 女圓領短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Tommy-Hilfiger-Ladies-Short-Sleeve-Crew-Neck-Tee/p/1956395)（$397；庫存：缺貨）
+- [味滋康柑橘醋醬汁 1公升](https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Mizkan-Ajipon-Citrus-Seasoned-Soy-Sauce-1-L/p/126820)（$145；庫存：有貨）
+- [Thomasville L型布面沙發床 淺米色](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Thomasville-Fabric-Sectional-Light-Beige/p/1812576)（$22,999；庫存：有貨）
 
 完整清單請查看專案中的 `output/latest.md`。
