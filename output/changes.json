@@ -1,59 +1,8 @@
 {
   "date": "2026-09-13",
-  "generated_at": "2026-09-13 03:31",
+  "generated_at": "2026-09-13 09:14",
   "has_previous": true,
-  "added": [
-    {
-      "name": "味滋康柑橘醋醬汁 1公升",
-      "price": "$145",
-      "original_price": "$185",
-      "discount_amount": "",
-      "promotion": "需一次購買活動組數才可享受此優惠 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Mizkan-Ajipon-Citrus-Seasoned-Soy-Sauce-1-L/p/126820",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h2d/h99/67984461299742.jpg",
-      "category": "食品飲料"
-    }
-  ],
-  "removed": [
-    {
-      "name": "味滋康柑橘醋醬汁 1公升",
-      "price": "$145",
-      "original_price": "$185",
-      "discount_amount": "",
-      "promotion": "需一次購買活動組數才可享受此優惠 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/p/126820",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h2d/h99/67984461299742.jpg",
-      "category": "食品飲料"
-    }
-  ],
-  "price_changes": [
-    {
-      "name": "ellesse 男短袖上衣",
-      "price": "$300",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$419",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/ellesse-Mens-Short-Sleeve-Tee/p/1846550",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h45/h01/502266465157150.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Nike 女圓領短袖上衣",
-      "price": "$300",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$679",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Nike-Ladies-Crew-Neck-Short-Sleeve-Tee/p/1846414",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd7/h5f/484307072942110.jpg",
-      "category": "服飾配件"
-    }
-  ]
+  "added": [],
+  "removed": [],
+  "price_changes": []
 }
