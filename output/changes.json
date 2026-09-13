@@ -1,8 +1,100 @@
 {
   "date": "2026-09-13",
-  "generated_at": "2026-09-13 09:14",
+  "generated_at": "2026-09-13 14:23",
   "has_previous": true,
   "added": [],
   "removed": [],
-  "price_changes": []
+  "price_changes": [
+    {
+      "name": "Banana Republic 女長袖襯衫",
+      "price": "$447",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "狀態未知",
+      "old_price": "$300",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Banana-Republic-Ladies-Long-Sleeve-Shirt/p/1974301",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hd6/he7/453636849991710.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Berkemann Allegra 女休閒鞋",
+      "price": "$3,759",
+      "original_price": "$5,059",
+      "discount_amount": "$1,300",
+      "promotion": "商品已折價$1,300 含運",
+      "stock_status": "狀態未知",
+      "old_price": "$300",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Berkemann-Allegra-Ladies-Casual-Shoe/p/1846422",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0c/hf6/488918753673246.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "ellesse 男短袖上衣",
+      "price": "$419",
+      "original_price": "$549",
+      "discount_amount": "$130",
+      "promotion": "商品已折價$130 含運",
+      "stock_status": "狀態未知",
+      "old_price": "$300",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/ellesse-Mens-Short-Sleeve-Tee/p/1846550",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h45/h01/502266465157150.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "GAP 女九分褲",
+      "price": "$447",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "狀態未知",
+      "old_price": "$300",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/GAP-Ladies-Ankle-Trouser/p/1971848",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h8f/451293719953438.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Lacoste 男純棉圓領短袖上衣",
+      "price": "$947",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "old_price": "$300",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Lacoste-Mens-Cotton-Crew-Neck-Short-Sleeve-Tee/p/3333325",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h82/hd7/486580544569374.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Nike 女圓領短袖上衣",
+      "price": "$679",
+      "original_price": "$849",
+      "discount_amount": "$170",
+      "promotion": "商品已折價$170 含運",
+      "stock_status": "狀態未知",
+      "old_price": "$300",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Nike-Ladies-Crew-Neck-Short-Sleeve-Tee/p/1846414",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hd7/h5f/484307072942110.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Polo Ralph Lauren 男短袖Polo衫",
+      "price": "$2,949",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "old_price": "$300",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Polo-Ralph-Lauren-Short-Sleeve-Polo-Shirt/p/1846551",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h27/ha7/484307084345374.jpg",
+      "category": "服飾配件"
+    }
+  ]
 }
