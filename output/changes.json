@@ -1,10 +1,21 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-15 03:32",
+  "generated_at": "2026-09-15 09:38",
   "has_previous": true,
-  "added": [],
-  "removed": [],
-  "price_changes": [
+  "added": [
+    {
+      "name": "LEGO 積木造型後背包",
+      "price": "$769",
+      "original_price": "$1,269",
+      "discount_amount": "$500",
+      "promotion": "商品已折價$500 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Luggage-Backpacks/Totes-Backpacks/LEGO-Brick-Backpack/p/157243",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/haa/h2d/433626072481822.jpg",
+      "category": "服飾配件"
+    }
+  ],
+  "removed": [
     {
       "name": "ARM & HAMMER 加強除臭貓砂 18.14公斤",
       "price": "$569",
@@ -12,50 +23,10 @@
       "discount_amount": "",
       "promotion": "含運",
       "stock_status": "有貨",
-      "old_price": "$459",
-      "direction": "漲價",
       "url": "https://www.costco.com.tw/Household-Baby-Toys/Pet-Supplies/Cat-Litter-Dog-Potty-Training/ARM-HAMMER-Double-Duty-Clumping-Cat-Litter-1814-kg/p/1790216",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h96/h56/28534422962206.jpg",
       "category": "日用品／母嬰／玩具"
-    },
-    {
-      "name": "Lacoste 男休閒鞋",
-      "price": "$1,257",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "old_price": "$1,457",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Lacoste-Mens-Shoe/p/154492",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h50/hcb/438875884486686.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "愛康 透芯涼感褲型棉 L號 48 片",
-      "price": "$1,285",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "old_price": "$1,069",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Feminine-Care/ICON-Cooling-Shorts-Shaped-Pad-Size-L-48-Piece/p/143906",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hef/h13/473819313635358.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "愛康 透芯涼感褲型棉 M號 48 片",
-      "price": "$1,285",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "old_price": "$1,069",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Feminine-Care/ICON-Cooling-Shorts-Shaped-Pad-Size-M-48-Piece/p/143680",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h47/hb0/473819313274910.jpg",
-      "category": "保健美容"
     }
-  ]
+  ],
+  "price_changes": []
 }
