@@ -1,21 +1,203 @@
 {
-  "date": "2026-09-15",
-  "generated_at": "2026-09-15 21:44",
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16 02:21",
   "has_previous": true,
-  "added": [],
-  "removed": [],
-  "price_changes": [
+  "added": [
     {
-      "name": "GAP 女九分褲",
-      "price": "$447",
+      "name": "丸米 減鹽綜合沖泡味噌湯 36入",
+      "price": "$197",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/Marukome-Miso-Soup-Less-Salt-36-Pack/p/156759",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc1/hca/416282369130526.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Apple AirPods 4 主動式降噪款",
+      "price": "$4,897",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Digital-Mobile/Wearables-Audio/Headphones-Audio-Devices/Apple-AirPods-4-With-Active-Noise-Cancellation/p/149120",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h3c/hb8/274499095429150.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "Apple AirPods 4",
+      "price": "$3,697",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Digital-Mobile/Wearables-Audio/Headphones-Audio-Devices/Apple-AirPods-4/p/149119",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h13/he1/274499095494686.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "日清 拉王豚骨味非油炸速食麵 89公克 X 15包",
+      "price": "$297",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Nissin-Raoh-Tonkotsu-Flavour-Non-Fried-Instant-Noodle-89-g-X-15-Pack/p/149884",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h09/h3a/312616142995486.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "SODE 成人泳鏡 3入組",
+      "price": "$347",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Water-Sports/SODE-Adult-Goggles-3-Pack-Set/p/8524759",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he2/h81/455116980191262.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "王品 冷凍三大名店冷凍火鍋料 1.1公斤",
+      "price": "$297",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Wowprime-Frozen-Hot-Pot-Variety-Pack-11-kg/p/131632",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf0/h87/81956503388190.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Adidas 兒童休閒鞋",
+      "price": "$657",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Childrens-Shoes/Adidas-Kids-Court-Shoe/p/1864508",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfd/h75/454001908776990.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Timberland 男短袖Polo衫",
+      "price": "$647",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Timberland-Mens-Short-Sleeve-Polo-Shirt/p/134126",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h74/h20/453375861850142.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Le Coq Sportif 男短袖純棉上衣",
+      "price": "$1,379",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Le-Coq-Sportif-Mens-Short-Sleeve-Cotton-Tee/p/240942",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha7/hc8/455934093852702.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Korhani Studio 條紋地墊 60公分 X 90公分 X 0.7公分",
+      "price": "$357",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Rugs-Mats/Korhani-Studio-Scraper-Loop-Mat-60-cm-X-90-cm-X-07-cm/p/1997002",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hcb/hd8/436453805293598.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Jezebel 女連身洋裝",
+      "price": "$597",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Jezebel-Ladies-Tiered-Midi-Dress/p/1912121",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h84/h35/451293688692766.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Ray-Ban 太陽眼鏡 RB3267 001/71 金色",
+      "price": "$12,499",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/Ray-Ban-Sunglasses-RB3267-00171-Gold/p/251210",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hbe/heb/384789273739294.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Ray-Ban 太陽眼鏡 RB3293 001/13 金色",
+      "price": "$1,297",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
       "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/Ray-Ban-Sunglasses-RB3293-00113-Gold/p/251214",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h85/h41/384789279768606.jpg",
+      "category": "服飾配件"
+    }
+  ],
+  "removed": [
+    {
+      "name": "健達 倍多 21公克 X 36條",
+      "price": "$459",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Kinder-Chocolate-Maxi-21-g-X-36-Count/p/106522",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb3/h36/65826714714142.jpg",
+      "category": "食品飲料"
+    }
+  ],
+  "price_changes": [
+    {
+      "name": "Berkemann Allegra 女休閒鞋",
+      "price": "$3,759",
+      "original_price": "$5,059",
+      "discount_amount": "$1,300",
+      "promotion": "商品已折價$1,300 含運",
+      "stock_status": "狀態未知",
+      "old_price": "$1,379",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Berkemann-Allegra-Ladies-Casual-Shoe/p/1846422",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0c/hf6/488918753673246.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "ellesse 男短袖上衣",
+      "price": "$419",
+      "original_price": "$549",
+      "discount_amount": "$130",
+      "promotion": "商品已折價$130 含運",
+      "stock_status": "狀態未知",
       "old_price": "$1,379",
       "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/GAP-Ladies-Ankle-Trouser/p/1971848",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h8f/451293719953438.jpg",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/ellesse-Mens-Short-Sleeve-Tee/p/1846550",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h45/h01/502266465157150.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "GAP 男短袖Logo上衣",
+      "price": "$299",
+      "original_price": "$399",
+      "discount_amount": "$100",
+      "promotion": "商品已折價$100 含運",
+      "stock_status": "狀態未知",
+      "old_price": "$1,379",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/GAP-Mens-Short-Sleeve-Logo-T-Shirt/p/1943125",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h90/h70/472591846277150.jpg",
       "category": "服飾配件"
     }
   ]
