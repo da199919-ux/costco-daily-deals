@@ -1,32 +1,199 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-15 09:38",
+  "generated_at": "2026-09-15 15:57",
   "has_previous": true,
   "added": [
     {
-      "name": "LEGO 積木造型後背包",
-      "price": "$769",
-      "original_price": "$1,269",
-      "discount_amount": "$500",
-      "promotion": "商品已折價$500 含運",
+      "name": "LG PuriCare 16公升 UV 抑菌 WiFi 雙變頻除濕機 粉藍色 MD161QBE0",
+      "price": "$15,799",
+      "original_price": "$16,599",
+      "discount_amount": "$800",
+      "promotion": "商品已折價 $800；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
       "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Luggage-Backpacks/Totes-Backpacks/LEGO-Brick-Backpack/p/157243",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/haa/h2d/433626072481822.jpg",
-      "category": "服飾配件"
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Dehumidifiers-Dry-Cabinets/LG-PuriCare-16-L-Dual-Inverter-Dehumidifier-with-UV-nano-WiFi-Blue-MD161QBE0/p/146161",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h65/h01/138405906481182.jpg",
+      "category": "家電 3C"
     }
   ],
   "removed": [
     {
-      "name": "ARM & HAMMER 加強除臭貓砂 18.14公斤",
-      "price": "$569",
+      "name": "Adidas 男短袖運動上衣",
+      "price": "$397",
       "original_price": "",
       "discount_amount": "",
       "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/Pet-Supplies/Cat-Litter-Dog-Potty-Training/ARM-HAMMER-Double-Duty-Clumping-Cat-Litter-1814-kg/p/1790216",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h96/h56/28534422962206.jpg",
-      "category": "日用品／母嬰／玩具"
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Adidas-Mens-Short-Sleeve-Sports-Active-Tee/p/1960475",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h68/h28/472591892250654.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Timberland 男短袖上衣",
+      "price": "$497",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Timberland-Mens-Short-Sleeve-Tee/p/134124",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc6/h03/449275115175966.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "NEPA 男短袖休閒上衣",
+      "price": "$447",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/NEPA-Mens-Woven-Short-Sleeve-Tee/p/667423",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h9b/hdf/449275474313246.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Duralex 玻璃餐碗盤 6件組",
+      "price": "$397",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Dinnerware-Flatware/Duralex-Glass-Dinnerware-6-Piece-Set/p/169311",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h16/h3c/332442820509726.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Well Worn 女牛仔休閒褲",
+      "price": "$587",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Well-Worn-Ladies-Casual-Denim-Jeans/p/1956376",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4a/haa/439234223702046.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Body Blue 女細肩帶背心2入組",
+      "price": "$697",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Body-Blue-Ladies-Bratop-2-Piece-Set/p/157012",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h84/h7e/449275355365406.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "米其林 HydroEdge 雨刷 14吋",
+      "price": "$297",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Automotive/Automotive/Michelin-HydroEdge-Hybrid-Wiper-Blade-14-inch/p/1426521",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb5/h5f/97634291548190.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Pekkle 兒童長褲二件組",
+      "price": "$297",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Bottoms-Dresses/Pekkle-Kids-Jogger-2-Pack-Set/p/140444",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb9/h04/190409097281566.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "得意的一天 蜆精蒜頭熬雞湯",
+      "price": "$517",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/Great-Day-Garlic-Chicken-Soup-with-Clam-Essence/p/152078",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h84/h2a/350052591206430.jpg",
+      "category": "食品飲料"
     }
   ],
-  "price_changes": []
+  "price_changes": [
+    {
+      "name": "Beats Studio Pro 無線頭戴式耳機",
+      "price": "$15,799",
+      "original_price": "$16,599",
+      "discount_amount": "$800",
+      "promotion": "商品已折價 $800；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "stock_status": "缺貨",
+      "old_price": "$50,299",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Digital-Mobile/Wearables-Audio/Headphones-Audio-Devices/Beats-Studio-Pro-Wireless-Headphones/p/141447-B",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h65/h01/138405906481182.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "Ergoking 網布人體工學椅 171 S Plus系列",
+      "price": "$15,799",
+      "original_price": "$16,599",
+      "discount_amount": "$800",
+      "promotion": "商品已折價 $800；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "stock_status": "缺貨",
+      "old_price": "$50,299",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Ergoking-Mesh-Chair-171-S-Plus/p/132324",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h65/h01/138405906481182.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "台達電子 多功能循環涼暖風機 標準型300系列 遙控型",
+      "price": "$15,799",
+      "original_price": "$16,599",
+      "discount_amount": "$800",
+      "promotion": "商品已折價 $800；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "stock_status": "缺貨",
+      "old_price": "$50,299",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/KitchenBathroom-Hardware/Delta-Fan-Heater-Classic-300-Series-Remote-Control/p/135409-B",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h65/h01/138405906481182.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "席伊麗 美姿系列 Colorado雙人加大床墊 183公分 X 190公分",
+      "price": "$15,799",
+      "original_price": "$16,599",
+      "discount_amount": "$800",
+      "promotion": "商品已折價 $800；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "stock_status": "有貨",
+      "old_price": "$50,299",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Sealy-Colorado-Posturepedic-Mattress-183-X-190-cm/p/133225",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h65/h01/138405906481182.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "席伊麗 護背系列 Sunshine 標準雙人床墊 152公分 X 190公分",
+      "price": "$15,799",
+      "original_price": "$16,599",
+      "discount_amount": "$800",
+      "promotion": "商品已折價 $800；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "stock_status": "有貨",
+      "old_price": "$50,299",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Sealy-Sunshine-Backsaver-Mattress-152-cm-X-190-cm/p/133226",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h65/h01/138405906481182.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "幻知曲 R450 標準雙人睡眠系統 贈保潔墊 150公分 X 200公分",
+      "price": "$15,799",
+      "original_price": "$16,599",
+      "discount_amount": "$800",
+      "promotion": "商品已折價 $800；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "stock_status": "有貨",
+      "old_price": "$50,299",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Bedroom-Furniture-Sets/Reverie-R450-Sleep-System-with-Protector-150-cm-X-200-cm/p/141096",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h65/h01/138405906481182.jpg",
+      "category": "家具家居"
+    }
+  ]
 }
