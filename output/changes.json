@@ -1,8 +1,87 @@
 {
   "date": "2026-09-16",
-  "generated_at": "2026-09-16 14:13",
+  "generated_at": "2026-09-16 19:53",
   "has_previous": true,
   "added": [
+    {
+      "name": "SHOKZ OpenSwim Pro S710 水陸兩用專業藍牙運動耳機 頁岩灰",
+      "price": "$3,729",
+      "original_price": "$4,669",
+      "discount_amount": "$940",
+      "promotion": "商品已折價$940 含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Digital-Mobile/Wearables-Audio/p/150874",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hef/hd0/312616231993374.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "安永 鱸魚精 (原味) 65毫升 X 30入",
+      "price": "$3,189",
+      "original_price": "$3,969",
+      "discount_amount": "$780",
+      "promotion": "商品已折價$780 含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/p/157118",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h73/h52/413801348562974.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "碧歐星球 初榨亞麻仁油 500毫升",
+      "price": "$299",
+      "original_price": "$369",
+      "discount_amount": "$70",
+      "promotion": "商品已折價$70 含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/p/153283",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hcd/h31/350741227143198.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "冷凍龍虎石斑下巴 3公斤",
+      "price": "$979",
+      "original_price": "$1,129",
+      "discount_amount": "$150",
+      "promotion": "商品已折價$150 含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/p/486793",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha4/hcd/61645677527070.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Tryall 分離大豆植物蛋白 2.5公斤",
+      "price": "$1,199",
+      "original_price": "$1,279",
+      "discount_amount": "$80",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Health-Beauty/Sports-Performance/Plant-Based-Protein/Tryall-Soy-Protein-Isolate-25-kg/p/151752",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h25/hf7/351315910426654.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "SUISAI 淨透酵素粉N 32顆 X 2入",
+      "price": "$759",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/158825",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h83/h74/432046532296734.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Annie’s Home Grown 有機起司通心粉 12入組合包",
+      "price": "$427",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/p/145777",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h51/h2a/383236912185374.jpg",
+      "category": "食品飲料"
+    }
+  ],
+  "removed": [
     {
       "name": "徠芬 高速吹風機 SE",
       "price": "$2,119",
@@ -13,6 +92,94 @@
       "url": "https://www.costco.com.tw/Hair-Skin-Care-Tools/p/156484",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h00/h6f/401755812266014.jpg",
       "category": "其他"
+    },
+    {
+      "name": "SHOKZ OpenSwim Pro S710 水陸兩用專業藍牙運動耳機 頁岩灰",
+      "price": "$3,729",
+      "original_price": "$4,669",
+      "discount_amount": "$940",
+      "promotion": "商品已折價$940 含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Digital-Mobile/Wearables-Audio/Headphones-Audio-Devices/SHOKZ-OpenSwim-Pro-S710-Waterproof-and-Land-Compatible-Bluetooth-Sport-Headphones-Grey/p/150874",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hef/hd0/312616231993374.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "安永 鱸魚精 (原味) 65毫升 X 30入",
+      "price": "$3,189",
+      "original_price": "$3,969",
+      "discount_amount": "$780",
+      "promotion": "商品已折價$780 含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/Anyoung-Sante-Premium-Perch-Essence-Original-65-ml-x-30-Pack/p/157118",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h73/h52/413801348562974.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "冷凍龍虎石斑下巴 3公斤",
+      "price": "$979",
+      "original_price": "$1,129",
+      "discount_amount": "$150",
+      "promotion": "商品已折價$150 含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Frozen-Tiger-Grouper-Jaw-3Kg/p/486793",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha4/hcd/61645677527070.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "曼秀雷敦 強效防蚊噴霧 120毫升 X 2入",
+      "price": "$660",
+      "original_price": "$825",
+      "discount_amount": "$165",
+      "promotion": "商品已折價$165 含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Pest-Control/Mentholatum-Insect-Repellent-Ultra-Strength-Spray-120-ml-X-2-Pack/p/138412",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h6f/he6/137650252546078.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "香蕉船 淨護系列運動防曬乳液 SPF 50+ PA++++ 90毫升 X 4入",
+      "price": "$515",
+      "original_price": "$655",
+      "discount_amount": "$140",
+      "promotion": "商品已折價$140 含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/Banana-Boat-Sport-Sensitive-Sunscreen-Lotion-SPF50-PA-90-ml-X-4-Pack/p/303699",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h15/h92/349175384539166.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "Tryall 分離大豆植物蛋白 2.5公斤",
+      "price": "$1,199",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Sports-Performance/Tryall-Soy-Protein-Isolate-25-kg/p/151752",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h25/hf7/351315910426654.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "SUISAI 淨透酵素粉N 32顆 X 2入",
+      "price": "$759",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Skin-Care/SUISAI-Beauty-Clear-Powder-Wash-32-Count-X-2-Pack/p/158825",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h83/h74/432046532296734.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "Annie’s Home Grown 有機起司通心粉 12入組合包",
+      "price": "$427",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/Annies-Home-Grown-Organic-Macaroni-Cheese-12-Pack-Assorted-Set/p/145777",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h51/h2a/383236912185374.jpg",
+      "category": "食品飲料"
     },
     {
       "name": "科克蘭 高爾夫球手套４入",
@@ -45,17 +212,6 @@
       "stock_status": "狀態未知",
       "url": "https://www.costco.com.tw/p/1872247",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hb4/h59/438876268855326.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "舒特膚 BHR 淨白無瑕精華液 30毫升 2入",
-      "price": "$1,495",
-      "original_price": "$1,869",
-      "discount_amount": "$374",
-      "promotion": "商品已折價$374 含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/p/144727",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h1c/hbc/418236324053022.jpg",
       "category": "其他"
     },
     {
@@ -112,17 +268,6 @@
       "url": "https://www.costco.com.tw/Clothing-Accessories/p/157326",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h10/h25/485750833971230.jpg",
       "category": "服飾配件"
-    },
-    {
-      "name": "高露潔 寶可夢直立式兒童牙膏 85公克 X 3入",
-      "price": "$355",
-      "original_price": "$445",
-      "discount_amount": "$90",
-      "promotion": "商品已折價$90 含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/p/158789",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hac/hbc/436453399953438.jpg",
-      "category": "其他"
     },
     {
       "name": "SunnyFeel 山扉 可調節露營椅",
@@ -290,17 +435,6 @@
       "category": "其他"
     },
     {
-      "name": "曼秀雷敦 強效防蚊噴霧 120毫升 X 2入",
-      "price": "$660",
-      "original_price": "$825",
-      "discount_amount": "$165",
-      "promotion": "商品已折價$165 含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/p/138412",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h6f/he6/137650252546078.jpg",
-      "category": "其他"
-    },
-    {
       "name": "Nepa 女休閒短褲",
       "price": "$679",
       "original_price": "$849",
@@ -365,17 +499,6 @@
       "url": "https://www.costco.com.tw/Clothing-Accessories/p/1846422",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h0c/hf6/488918753673246.jpg",
       "category": "服飾配件"
-    },
-    {
-      "name": "香蕉船 淨護系列運動防曬乳液 SPF 50+ PA++++ 90毫升 X 4入",
-      "price": "$515",
-      "original_price": "$655",
-      "discount_amount": "$140",
-      "promotion": "商品已折價$140 含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/p/303699",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h15/h92/349175384539166.jpg",
-      "category": "其他"
     },
     {
       "name": "ellesse 男短袖上衣",
@@ -606,107 +729,6 @@
       "stock_status": "缺貨",
       "url": "https://www.costco.com.tw/p/2738416",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h42/h90/399197041852446.jpg",
-      "category": "其他"
-    }
-  ],
-  "removed": [
-    {
-      "name": "愛康 透芯涼感褲型棉 L號 48 片",
-      "price": "$1,285",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Feminine-Care/ICON-Cooling-Shorts-Shaped-Pad-Size-L-48-Piece/p/143906",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hef/h13/473819313635358.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "愛康 透芯涼感褲型棉 M號 48 片",
-      "price": "$1,285",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Feminine-Care/ICON-Cooling-Shorts-Shaped-Pad-Size-M-48-Piece/p/143680",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h47/hb0/473819313274910.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "ASUS Vivobook Go 15 15.6吋 筆記型電腦",
-      "price": "$15,999",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Laptops-Computers/Laptops/ASUS-Vivobook-Go-15-156-inch-Laptop/p/161254",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7c/h8d/467794329665566.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "惠而浦 16公斤變頻蒸氣溫水洗衣機 VWHD1611BG",
-      "price": "$18,199",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Washers-Dryers/Whirlpool-16-kg-Inverter-Top-Load-Washer-VWHD1611BG/p/145751",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h80/h27/239550149591070.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "Samsung 655公升 美式對開 AI 冰箱 星空灰 RS70F65Q4TTW",
-      "price": "$43,999",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Fridges-Freezers/Overall-Capacity-500-L-Above/Samsung-655-L-French-Door-AI-Refrigerator-Starry-Gray-RS70F65Q4TTW/p/155431",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb6/hac/396189713563678.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "Samsung 85吋 4K 晶彩智慧顯示器 UA85U8500FXXZW",
-      "price": "$59,999",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/80-Above-TVs/Samsung-85-inch-4K-Smart-Monitor-UA85U8500FXXZW/p/153748",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h33/h67/438072218976286.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "Samsung Serif 55吋 智慧顯示器 QA55LS01DAXXZW",
-      "price": "$32,999",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/50-59-TVs/Samsung-Serif-55-inch-UHD-Smart-Monitor-QA55LS01DAXXZW/p/148435",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hc6/h60/438072151670814.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "Apple MagSafe 充電器 1公尺",
-      "price": "$1,029",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Mobile-Tablets/Mobile-Tablets-Accessories/Apple-MagSafe-Charger-1-m/p/155889",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h96/h39/489125933580318.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "Cascade Mountain Tech 水上浮力板",
-      "price": "$447",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Water-Sports/Cascade-Mountain-Tech-Water-Sports-Plank/p/1740616",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h2f/h5c/470130482610206.jpg",
       "category": "其他"
     }
   ],
