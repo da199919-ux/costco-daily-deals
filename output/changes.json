@@ -1,219 +1,182 @@
 {
   "date": "2026-09-18",
-  "generated_at": "2026-09-18 14:07",
+  "generated_at": "2026-09-18 19:32",
   "has_previous": true,
   "added": [
     {
-      "name": "英記餅家 原粒杏仁餅 20公克 X 28入",
-      "price": "$419",
-      "original_price": "$519",
-      "discount_amount": "$100",
-      "promotion": "商品已折價$100 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Pastelaria-Yeng-Kee-Almond-Cookie-20-g-X-28-Pack/p/124357",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h3c/h8b/397823850971166.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "奧利奧 迷你奧利奧巧克力夾心餅乾香草口味 20.4公克 X 60入",
-      "price": "$394",
-      "original_price": "$519",
-      "discount_amount": "",
-      "promotion": "需一次購買活動組數才可享受此優惠 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/OREO-Mini-Chocolate-Sandwich-Cookies-with-Vanilla-flavored-Cream-204-g-X-60-Count/p/426451",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h81/h17/351316711931934.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "刷樂 全效護理漱口水攜帶包 12毫升 X 90入",
-      "price": "$439",
-      "original_price": "$549",
-      "discount_amount": "",
-      "promotion": "需一次購買活動組數才可享受此優惠 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Oral-Care/Shallop-Pro-Care-Mouthwash-12-ml-X-90-Pack/p/157254",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hef/hc4/402145281966110.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "原萃 白毫烏龍茶 580毫升 X 24入",
-      "price": "$409",
-      "original_price": "$499",
-      "discount_amount": "$90",
-      "promotion": "商品已折價$90 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Tea/Real-Leaf-White-Tipped-Oolong-Tea-580-ml-X-24-Count/p/200892",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h40/h24/223927011311646.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "歐司朗 朗德萬斯 16W LED 恆星雙臂檯燈 座夾兩用",
-      "price": "$2,549",
-      "original_price": "$3,199",
-      "discount_amount": "$650",
-      "promotion": "商品已折價$650 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-LEDVANCE-16W-LED-Table-Lamp-Stellar/p/138356",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha1/he2/222184712667166.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "風倍清 織物除菌消臭噴霧 高效除臭 370毫升 + 補充包 320毫升 X 4入",
-      "price": "$425",
-      "original_price": "$525",
-      "discount_amount": "$100",
-      "promotion": "商品已折價$100 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Pest-Control-Air-Care/Febreze-Fabric-Refresher-Gold-370-ml-Refill-320-ml-X-4-Count/p/215928",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h51/hbc/505969141383198.jpg",
-      "category": "日用品／母嬰／玩具"
-    },
-    {
-      "name": "健達奇趣蛋 20公克 X 12顆",
-      "price": "$275",
-      "original_price": "$345",
-      "discount_amount": "$70",
-      "promotion": "商品已折價$70 含運",
+      "name": "Dr.Martens 中性經典八孔靴",
+      "price": "$3,249",
+      "original_price": "$4,059",
+      "discount_amount": "$810",
+      "promotion": "商品已折價$810 含運",
       "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Kinder-Joy-Eggs-20-g-X-12-Count/p/110333",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h18/ha4/491324167880734.jpg",
-      "category": "食品飲料"
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/DrMartens-Boot/p/1488055",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc1/hec/316046301003806.jpg",
+      "category": "服飾配件"
     },
     {
-      "name": "Preli 冷凍酥炸起司圈 1公斤",
-      "price": "$329",
-      "original_price": "$399",
-      "discount_amount": "$70",
-      "promotion": "商品已折價$70 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Preli-Frozen-Gouda-Cheese-Rings-1-kg/p/153215",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/had/h5d/450418073272350.jpg",
-      "category": "食品飲料"
+      "name": "Tommy Hilfiger 女圓領短袖上衣",
+      "price": "$397",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/1956395",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hee/h62/484307089752094.jpg",
+      "category": "服飾配件"
     },
     {
-      "name": "Advent 女寬直筒褲",
+      "name": "Smiley World 兒童上衣兩件組",
       "price": "$347",
       "original_price": "",
       "discount_amount": "",
       "promotion": "含運",
       "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Advent-Ladies-Advent-Draped-Pleated-Wide-Pant/p/156457",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/had/haf/422090897227806.jpg",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/1977016",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4d/h18/450045519560734.jpg",
       "category": "服飾配件"
     },
     {
-      "name": "IRIS Woozoo 空氣循環扇 PCF-SC15T-CT",
-      "price": "$1,269",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/IRIS-Woozoo-Circulator-Fan-PCF-SC15T-CT/p/2354207",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha5/h9d/329850798506014.jpg",
-      "category": "家電 3C"
-    }
-  ],
-  "removed": [
-    {
-      "name": "奧利奧 迷你奧利奧巧克力夾心餅乾香草口味 20.4公克 X 60入",
-      "price": "$394",
-      "original_price": "$519",
-      "discount_amount": "",
-      "promotion": "需一次購買活動組數才可享受此優惠 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/426451",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h81/h17/351316711931934.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "刷樂 全效護理漱口水攜帶包 12毫升 X 90入",
-      "price": "$439",
-      "original_price": "$549",
-      "discount_amount": "",
-      "promotion": "需一次購買活動組數才可享受此優惠 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/157254",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hef/hc4/402145281966110.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "歐司朗 朗德萬斯 16W LED 恆星雙臂檯燈 座夾兩用",
-      "price": "$2,549",
-      "original_price": "$3,199",
-      "discount_amount": "$650",
-      "promotion": "商品已折價$650 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/138356",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha1/he2/222184712667166.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Apple AirPods 4",
-      "price": "$3,697",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Wearables-Audio/Headphones-Audio-Devices/Apple-AirPods-4/p/149119",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h13/he1/274499095494686.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "飛利浦 65吋 4K Google TV 顯示器 65PUH7650/96",
-      "price": "$16,399",
-      "original_price": "$19,999",
-      "discount_amount": "$3,600",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/60-69-TVs/Philips-65-inch-4K-Google-TV-Monitor-65PUH765096/p/153543",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h36/h3b/438072177950750.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "Apple AirPods 4 主動式降噪款",
-      "price": "$4,087",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Wearables-Audio/Headphones-Audio-Devices/Apple-AirPods-4-With-Active-Noise-Cancellation/p/149120",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h3c/hb8/274499095429150.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "米森 膠原搖搖 無調味+C 5.5公克 X 38包",
-      "price": "$797",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Vilson-Collagen-Vitamin-C-Plus-55-g-X-38-Pack/p/156083",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h92/hc0/400499430096926.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "Riviera Home 花邊柔軟浴室地墊 2入 40公分 X 60公分",
+      "name": "Character 兒童上衣四件組",
       "price": "$447",
       "original_price": "",
       "discount_amount": "",
       "promotion": "含運",
       "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Rugs-Mats/Riviera-Home-Bath-Mat-2-Pack-40-cm-X-60-cm/p/669807",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h98/hb9/401756180119582.jpg",
-      "category": "家具家居"
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/1956441",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h8e/h77/454001928929310.jpg",
+      "category": "服飾配件"
     },
     {
-      "name": "IRIS Woozoo 空氣循環扇 PCF-SC15T-CT",
-      "price": "$1,269",
+      "name": "Timberland 男短袖Polo衫",
+      "price": "$647",
       "original_price": "",
       "discount_amount": "",
       "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Cooling-Heating-Air-Treatment/Heating-Cooling/p/2354207",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha5/h9d/329850798506014.jpg",
-      "category": "其他"
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/134126",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h74/h20/453375861850142.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Tailor Vintage 男長褲",
+      "price": "$497",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/1956433",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h48/h0c/438876310011934.jpg",
+      "category": "服飾配件"
     }
   ],
-  "price_changes": []
+  "removed": [
+    {
+      "name": "Dr.Martens 中性經典八孔靴",
+      "price": "$3,249",
+      "original_price": "$4,059",
+      "discount_amount": "$810",
+      "promotion": "商品已折價$810 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/DrMartens-Ladies-Boot/p/1488055",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc1/hec/316046301003806.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Tommy Hilfiger 女圓領短袖上衣",
+      "price": "$397",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Tommy-Hilfiger-Ladies-Short-Sleeve-Crew-Neck-Tee/p/1956395",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hee/h62/484307089752094.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Smiley World 兒童上衣兩件組",
+      "price": "$347",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Clothing-Sets-Accessories/Smiley-World-Kids-Top-2-Pack-Set/p/1977016",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4d/h18/450045519560734.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Character 兒童上衣四件組",
+      "price": "$447",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Clothing-Sets-Accessories/Character-Kids-Short-Sleeve-Tee-4-Pack-Set/p/1956441",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h8e/h77/454001928929310.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Timberland 男短袖Polo衫",
+      "price": "$647",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Timberland-Mens-Short-Sleeve-Polo-Shirt/p/134126",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h74/h20/453375861850142.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Tailor Vintage 男長褲",
+      "price": "$497",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/Tailor-Vintage-Mens-Ewaist-Surplus-Pant/p/1956433",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h48/h0c/438876310011934.jpg",
+      "category": "服飾配件"
+    }
+  ],
+  "price_changes": [
+    {
+      "name": "Berkemann Allegra 女休閒鞋",
+      "price": "$3,759",
+      "original_price": "$5,059",
+      "discount_amount": "$1,300",
+      "promotion": "商品已折價$1,300 含運",
+      "stock_status": "狀態未知",
+      "old_price": "$1,379",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Berkemann-Allegra-Ladies-Casual-Shoe/p/1846422",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0c/hf6/488918753673246.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "ellesse 男短袖上衣",
+      "price": "$419",
+      "original_price": "$549",
+      "discount_amount": "$130",
+      "promotion": "商品已折價$130 含運",
+      "stock_status": "狀態未知",
+      "old_price": "$1,379",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/ellesse-Mens-Short-Sleeve-Tee/p/1846550",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h45/h01/502266465157150.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "GAP 女九分褲",
+      "price": "$999",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "old_price": "$1,379",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/GAP-Ladies-Ankle-Trouser/p/1971848",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h8f/451293719953438.jpg",
+      "category": "服飾配件"
+    }
+  ]
 }
