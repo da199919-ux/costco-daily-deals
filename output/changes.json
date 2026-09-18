@@ -1,54 +1,19 @@
 {
   "date": "2026-09-19",
-  "generated_at": "2026-09-19 00:37",
+  "generated_at": "2026-09-19 06:43",
   "has_previous": true,
   "added": [
     {
-      "name": "Tommy Hilfiger 女圓領短袖上衣",
-      "price": "$397",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Tommy-Hilfiger-Ladies-Short-Sleeve-Crew-Neck-Tee/p/1956395",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hee/h62/484307089752094.jpg",
-      "category": "服飾配件"
+      "name": "Airwaves 極酷嗆涼無糖口香糖 462公克",
+      "price": "$389",
+      "original_price": "$489",
+      "discount_amount": "$100",
+      "promotion": "商品已折價$100 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/195827",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfa/h0e/118693302763550.jpg",
+      "category": "食品飲料"
     },
-    {
-      "name": "Smiley World 兒童上衣兩件組",
-      "price": "$347",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Clothing-Sets-Accessories/Smiley-World-Kids-Top-2-Pack-Set/p/1977016",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h4d/h18/450045519560734.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Character 兒童上衣四件組",
-      "price": "$447",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Clothing-Sets-Accessories/Character-Kids-Short-Sleeve-Tee-4-Pack-Set/p/1956441",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h8e/h77/454001928929310.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Timberland 男短袖Polo衫",
-      "price": "$647",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Timberland-Mens-Short-Sleeve-Polo-Shirt/p/134126",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h74/h20/453375861850142.jpg",
-      "category": "服飾配件"
-    }
-  ],
-  "removed": [
     {
       "name": "Tommy Hilfiger 女圓領短袖上衣",
       "price": "$397",
@@ -94,57 +59,99 @@
       "category": "服飾配件"
     }
   ],
-  "price_changes": [
+  "removed": [
     {
-      "name": "Banana Republic 女長袖襯衫",
-      "price": "$609",
+      "name": "Airwaves 極酷嗆涼無糖口香糖 462公克",
+      "price": "$389",
+      "original_price": "$489",
+      "discount_amount": "$100",
+      "promotion": "商品已折價$100 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Airwaves-Super-Menthol-Eucalyptus-Flavor-Sugarfree-Chewing-Gum-462-g/p/195827",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfa/h0e/118693302763550.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Tommy Hilfiger 女圓領短袖上衣",
+      "price": "$397",
       "original_price": "",
       "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$329",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Banana-Republic-Ladies-Long-Sleeve-Shirt/p/1974301",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd6/he7/453636849991710.jpg",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Tommy-Hilfiger-Ladies-Short-Sleeve-Crew-Neck-Tee/p/1956395",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hee/h62/484307089752094.jpg",
       "category": "服飾配件"
     },
     {
-      "name": "Berkemann Allegra 女休閒鞋",
-      "price": "$1,379",
+      "name": "Smiley World 兒童上衣兩件組",
+      "price": "$347",
       "original_price": "",
       "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$3,759",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Berkemann-Allegra-Ladies-Casual-Shoe/p/1846422",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h0c/hf6/488918753673246.jpg",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Clothing-Sets-Accessories/Smiley-World-Kids-Top-2-Pack-Set/p/1977016",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4d/h18/450045519560734.jpg",
       "category": "服飾配件"
     },
     {
-      "name": "ellesse 男短袖上衣",
-      "price": "$1,379",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$419",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/ellesse-Mens-Short-Sleeve-Tee/p/1846550",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h45/h01/502266465157150.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "GAP 女九分褲",
+      "name": "Character 兒童上衣四件組",
       "price": "$447",
       "original_price": "",
       "discount_amount": "",
-      "promotion": "",
+      "promotion": "含運",
       "stock_status": "缺貨",
-      "old_price": "$999",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Clothing-Sets-Accessories/Character-Kids-Short-Sleeve-Tee-4-Pack-Set/p/1956441",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h8e/h77/454001928929310.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Timberland 男短袖Polo衫",
+      "price": "$647",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Timberland-Mens-Short-Sleeve-Polo-Shirt/p/134126",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h74/h20/453375861850142.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "台畜肉鬆 1公斤",
+      "price": "$315",
+      "original_price": "$389",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/T-HAM-Fried-Pork-Floss-1-kg/p/1834",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h7e/hce/32150066823198.jpg",
+      "category": "食品飲料"
+    }
+  ],
+  "price_changes": [
+    {
+      "name": "Camper 男皮革休閒鞋",
+      "price": "$2,599",
+      "original_price": "$3,259",
+      "discount_amount": "$660",
+      "promotion": "商品已折價$660 含運",
+      "stock_status": "狀態未知",
+      "old_price": "$1,379",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Camper-Mens-Leather-Touring-Shoe/p/1846399",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h64/h40/485751259430942.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "GAP 男短袖Logo上衣",
+      "price": "$299",
+      "original_price": "$399",
+      "discount_amount": "$100",
+      "promotion": "商品已折價$100 含運",
+      "stock_status": "狀態未知",
+      "old_price": "$1,379",
       "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/GAP-Ladies-Ankle-Trouser/p/1971848",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h8f/451293719953438.jpg",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/GAP-Mens-Short-Sleeve-Logo-T-Shirt/p/1943125",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h90/h70/472591846277150.jpg",
       "category": "服飾配件"
     }
   ]
