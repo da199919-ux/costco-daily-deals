@@ -1,9 +1,9 @@
 # Costco 每日優惠摘要（2026-09-20）
 
-更新時間：2026-09-20 02:11（台灣時間）
-共整理出 **437** 項官方線上優惠。
-本次共讀取 **458** 個官方商品頁面。
-庫存狀態：有貨 **282** 項、缺貨 **137** 項、待確認 **18** 項。
+更新時間：2026-09-20 07:19（台灣時間）
+共整理出 **438** 項官方線上優惠。
+本次共讀取 **459** 個官方商品頁面。
+庫存狀態：有貨 **282** 項、缺貨 **138** 項、待確認 **18** 項。
 
 > 價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。
 
@@ -13,10 +13,10 @@
 |---|---:|
 | 家具家居 | 104 |
 | 服飾配件 | 83 |
-| 食品飲料 | 70 |
-| 其他 | 63 |
+| 食品飲料 | 71 |
+| 其他 | 64 |
 | 家電 3C | 62 |
-| 保健美容 | 35 |
+| 保健美容 | 34 |
 | 日用品／母嬰／玩具 | 20 |
 
 ## 我的追蹤商品
@@ -118,6 +118,7 @@
 - [RVCA 女無袖連身洋裝](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/RVCA-Womens-Sleeveless-Dress/p/1956389)（$347；庫存：缺貨）
 - [Jezebel 女連身洋裝](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Jezebel-Ladies-Tiered-Midi-Dress/p/1912121)（$597；庫存：缺貨）
 - [The Golden 大麥若葉粉末 3公克 X 176包](https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/The-Golden-Barley-Young-Leaves-3-g-X-176-Sachet/p/567872)（$749；庫存：缺貨）
+- [桂格 即沖即食大燕麥片隨身包 37.5公克 X 44入](https://www.costco.com.tw/c/Quaker-Instant-Whole-Oats-375-g-X-44-Pack/p/204989)（$459；庫存：缺貨）
 - [健達 繽紛樂 43公克 X 15入](https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Kinder-Bueno-43-g-X-15-Count/p/1168940)（$369；庫存：缺貨）
 - [飛利浦 A2S 軒恆全桌護眼檯燈](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/Philips-A2S-LED-Desk-Light/p/160725)（$2,729；庫存：缺貨）
 - [Sports Research Omega-3 濃縮魚油 1250mg 150粒](https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Sports-Research-Omega-3-Fish-Oil-Triple-Strength-1250mg-150-Softgel/p/240666)（$1,109；庫存：缺貨）
@@ -168,22 +169,24 @@
 ## 今日變化
 
 - 新增優惠：**2** 項
-- 本次未收錄：**3** 項（不代表優惠已結束）
-- 價格變動：**0** 項
+- 本次未收錄：**1** 項（不代表優惠已結束）
+- 價格變動：**5** 項
 
 ### 價格變動
 
-- 今天沒有偵測到價格變動。
+- **漲價**：[Berkemann Allegra 女休閒鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Berkemann-Allegra-Ladies-Casual-Shoe/p/1846422) $1,379 → $3,759
+- **漲價**：[Camper 男皮革休閒鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Camper-Mens-Leather-Touring-Shoe/p/1846399) $1,379 → $2,599
+- **降價**：[ellesse 男短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/ellesse-Mens-Short-Sleeve-Tee/p/1846550) $1,379 → $419
+- **降價**：[GAP 男短袖Logo上衣](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/GAP-Mens-Short-Sleeve-Logo-T-Shirt/p/1943125) $1,379 → $299
+- **降價**：[Le Coq Sportif 男短袖純棉上衣](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Le-Coq-Sportif-Mens-Short-Sleeve-Cotton-Tee/p/240942) $1,379 → $599
 
 ### 今日新增
 
-- [Ozi Choice A2牛奶鈣片咀嚼錠 288錠](https://www.costco.com.tw/Health-Beauty/Supplements/Kids-Health/Ozi-Choice-A2-Australian-Milky-Bites-Vanilla-288-Tablet/p/505050)（$629；庫存：有貨）
-- [鮮煮藝 冷凍清燉羊肉鍋 1.2 公斤 X 2 包](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Delicious-Idea-Frozen-Mutton-Stewed-Hot-Pot-12-kg-X-2-Pack/p/161487)（$799；庫存：有貨）
+- [IF 純椰子汁 1公升 X 6入](https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/p/145957)（$369；庫存：有貨）
+- [Ozi Choice A2牛奶鈣片咀嚼錠 288錠](https://www.costco.com.tw/p/505050)（$629；庫存：有貨）
 
 ### 本次未收錄（不代表優惠已結束）
 
-- [Ozi Choice A2牛奶鈣片咀嚼錠 288錠](https://www.costco.com.tw/p/505050)（$629；庫存：有貨）
-- [鮮煮藝 冷凍清燉羊肉鍋 1.2 公斤 X 2 包](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Delicious-Idea-Frozen-Stewed-Sheep-Pot-12-kg-X-2-Pack/p/161487)（$799；庫存：有貨）
-- [萬歲牌 綜合堅果乾優格風味 72公克 X 10入](https://www.costco.com.tw/Food-Dining/Snacks/p/132368)（$429；庫存：有貨）
+- [Ozi Choice A2牛奶鈣片咀嚼錠 288錠](https://www.costco.com.tw/Health-Beauty/Supplements/Kids-Health/Ozi-Choice-A2-Australian-Milky-Bites-Vanilla-288-Tablet/p/505050)（$629；庫存：有貨）
 
 完整清單請查看專案中的 `output/latest.md`。
