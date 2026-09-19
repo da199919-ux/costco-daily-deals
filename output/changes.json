@@ -1,18 +1,53 @@
 {
-  "date": "2026-09-19",
-  "generated_at": "2026-09-19 19:16",
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20 02:11",
   "has_previous": true,
   "added": [
     {
-      "name": "益節 加強型迷你錠 60錠",
-      "price": "$1,119",
-      "original_price": "$1,399",
-      "discount_amount": "$280",
-      "promotion": "商品已折價 $280 含運",
+      "name": "Ozi Choice A2牛奶鈣片咀嚼錠 288錠",
+      "price": "$629",
+      "original_price": "$779",
+      "discount_amount": "$150",
+      "promotion": "商品已折價 $150 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Bone-Joint-Support/Schiff-Move-Free-Ultra-with-UC-II-60-Tablet/p/363985",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/he4/hee/62314531160094.jpg",
+      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Kids-Health/Ozi-Choice-A2-Australian-Milky-Bites-Vanilla-288-Tablet/p/505050",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h5f/h28/298414611955742.jpg",
       "category": "保健美容"
+    },
+    {
+      "name": "鮮煮藝 冷凍清燉羊肉鍋 1.2 公斤 X 2 包",
+      "price": "$799",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "指定夏日涼感商品：買2件享8.5折，買3件享8折（結帳時依活動條件計算）",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Delicious-Idea-Frozen-Mutton-Stewed-Hot-Pot-12-kg-X-2-Pack/p/161487",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h33/ha2/434798808203294.jpg",
+      "category": "食品飲料"
+    }
+  ],
+  "removed": [
+    {
+      "name": "Ozi Choice A2牛奶鈣片咀嚼錠 288錠",
+      "price": "$629",
+      "original_price": "$779",
+      "discount_amount": "$150",
+      "promotion": "商品已折價 $150 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/505050",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h5f/h28/298414611955742.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "鮮煮藝 冷凍清燉羊肉鍋 1.2 公斤 X 2 包",
+      "price": "$799",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "指定夏日涼感商品：買2件享8.5折，買3件享8折（結帳時依活動條件計算）",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Delicious-Idea-Frozen-Stewed-Sheep-Pot-12-kg-X-2-Pack/p/161487",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h33/ha2/434798808203294.jpg",
+      "category": "食品飲料"
     },
     {
       "name": "萬歲牌 綜合堅果乾優格風味 72公克 X 10入",
@@ -21,81 +56,10 @@
       "discount_amount": "$100",
       "promotion": "商品已折價$100 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Viva-Yogurt-Flavored-Trail-Mix-72-g-X-10-Pack/p/132368",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/132368",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hb3/hf8/80074790207518.webp",
       "category": "食品飲料"
-    },
-    {
-      "name": "FIFA 世界盃 8吋 絨毛玩偶",
-      "price": "$357",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Dolls-Pretend-Play/FIFA-World-Cup-8-inch-Plush/p/1851571",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h42/hd0/467794339168286.jpg",
-      "category": "日用品／母嬰／玩具"
     }
   ],
-  "removed": [
-    {
-      "name": "IF 純椰子汁 1公升 X 6入",
-      "price": "$369",
-      "original_price": "$449",
-      "discount_amount": "$80",
-      "promotion": "商品已折價$80 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/p/145957",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h30/hcb/240433864802334.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "益節 加強型迷你錠 60錠",
-      "price": "$1,119",
-      "original_price": "$1,399",
-      "discount_amount": "$280",
-      "promotion": "商品已折價 $280 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/363985",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/he4/hee/62314531160094.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "曼秀雷敦 強效防蚊噴霧 120毫升 X 2入",
-      "price": "$660",
-      "original_price": "$825",
-      "discount_amount": "$165",
-      "promotion": "商品已折價$165 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/138412",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h6f/he6/137650252546078.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Totally Bamboo 竹製砧板 / 點心盤 高雄市地圖造型",
-      "price": "$739",
-      "original_price": "$929",
-      "discount_amount": "$190",
-      "promotion": "商品已折價$190 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/159886",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h9e/h11/439234020278302.jpg",
-      "category": "其他"
-    }
-  ],
-  "price_changes": [
-    {
-      "name": "GAP 女九分褲",
-      "price": "$999",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$447",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/GAP-Ladies-Ankle-Trouser/p/1971848",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h8f/451293719953438.jpg",
-      "category": "服飾配件"
-    }
-  ]
+  "price_changes": []
 }
