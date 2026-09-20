@@ -1,8 +1,9 @@
 {
   "date": "2026-09-20",
-  "generated_at": "2026-09-20 14:30",
+  "generated_at": "2026-09-20 20:34",
   "has_previous": true,
-  "added": [
+  "added": [],
+  "removed": [
     {
       "name": "橘子工坊 除臭酵素洗衣精 4公升 X 2入",
       "price": "$859",
@@ -13,127 +14,72 @@
       "url": "https://www.costco.com.tw/Household-Baby-Toys/p/218559",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hba/he7/260838176423966.jpg",
       "category": "日用品／母嬰／玩具"
-    },
-    {
-      "name": "Ozi Choice A2牛奶鈣片咀嚼錠 288錠",
-      "price": "$629",
-      "original_price": "$779",
-      "discount_amount": "$150",
-      "promotion": "商品已折價 $150 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Kids-Health/Ozi-Choice-A2-Australian-Milky-Bites-Vanilla-288-Tablet/p/505050",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h5f/h28/298414611955742.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "Thomasville 餐桌椅七件組",
-      "price": "$26,999",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Dining-Sets/Thomasville-Dining-Set-7-Piece-Set/p/1812516",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/he4/hf7/451293647339550.jpg",
-      "category": "家具家居"
-    }
-  ],
-  "removed": [
-    {
-      "name": "IF 純椰子汁 1公升 X 6入",
-      "price": "$369",
-      "original_price": "$449",
-      "discount_amount": "$80",
-      "promotion": "商品已折價$80 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/p/145957",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h30/hcb/240433864802334.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Ozi Choice A2牛奶鈣片咀嚼錠 288錠",
-      "price": "$629",
-      "original_price": "$779",
-      "discount_amount": "$150",
-      "promotion": "商品已折價 $150 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/505050",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h5f/h28/298414611955742.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "鮮煮藝 冷凍清燉羊肉鍋 1.2 公斤 X 2 包",
-      "price": "$799",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "指定夏日涼感商品：買2件享8.5折，買3件享8折（結帳時依活動條件計算）",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Delicious-Idea-Frozen-Mutton-Stewed-Hot-Pot-12-kg-X-2-Pack/p/161487",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h33/ha2/434798808203294.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Simon Li 全牛皮雙人沙發",
-      "price": "$23,999",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Simon-Li-Leather-Sofa/p/1752659",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h19/h19/361110334341150.jpg",
-      "category": "家具家居"
     }
   ],
   "price_changes": [
     {
-      "name": "Berkemann Allegra 女休閒鞋",
-      "price": "$1,379",
+      "name": "Banana Republic 女長袖襯衫",
+      "price": "$1,399",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
       "stock_status": "狀態未知",
-      "old_price": "$3,759",
-      "direction": "降價",
+      "old_price": "$609",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Banana-Republic-Ladies-Long-Sleeve-Shirt/p/1974301",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hd6/he7/453636849991710.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Berkemann Allegra 女休閒鞋",
+      "price": "$3,759",
+      "original_price": "$5,059",
+      "discount_amount": "$1,300",
+      "promotion": "商品已折價$1,300 含運",
+      "stock_status": "狀態未知",
+      "old_price": "$1,379",
+      "direction": "漲價",
       "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Berkemann-Allegra-Ladies-Casual-Shoe/p/1846422",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h0c/hf6/488918753673246.jpg",
       "category": "服飾配件"
     },
     {
-      "name": "Camper 男皮革休閒鞋",
-      "price": "$1,379",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$2,599",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Camper-Mens-Leather-Touring-Shoe/p/1846399",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h64/h40/485751259430942.jpg",
-      "category": "服飾配件"
-    },
-    {
       "name": "ellesse 男短袖上衣",
-      "price": "$1,379",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
+      "price": "$419",
+      "original_price": "$549",
+      "discount_amount": "$130",
+      "promotion": "商品已折價$130 含運",
       "stock_status": "狀態未知",
-      "old_price": "$419",
-      "direction": "漲價",
+      "old_price": "$1,379",
+      "direction": "降價",
       "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/ellesse-Mens-Short-Sleeve-Tee/p/1846550",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h45/h01/502266465157150.jpg",
       "category": "服飾配件"
     },
     {
-      "name": "GAP 男短袖Logo上衣",
-      "price": "$1,379",
+      "name": "Lacoste 男純棉圓領短袖上衣",
+      "price": "$947",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "缺貨",
+      "old_price": "$849",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Lacoste-Mens-Cotton-Crew-Neck-Short-Sleeve-Tee/p/3333325",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h82/hd7/486580544569374.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Le Coq Sportif 男短袖純棉上衣",
+      "price": "$2,899",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
       "stock_status": "狀態未知",
-      "old_price": "$299",
+      "old_price": "$599",
       "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/GAP-Mens-Short-Sleeve-Logo-T-Shirt/p/1943125",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h90/h70/472591846277150.jpg",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Le-Coq-Sportif-Mens-Short-Sleeve-Cotton-Tee/p/240942",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha7/hc8/455934093852702.jpg",
       "category": "服飾配件"
     }
   ]
