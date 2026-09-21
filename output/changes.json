@@ -1,32 +1,8 @@
 {
-  "date": "2026-09-21",
-  "generated_at": "2026-09-21 22:24",
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22 03:39",
   "has_previous": true,
   "added": [
-    {
-      "name": "GAP 男短袖Logo上衣",
-      "price": "$1,379",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/p/1943125",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h90/h70/472591846277150.jpg",
-      "category": "服飾配件"
-    }
-  ],
-  "removed": [
-    {
-      "name": "GAP 男短袖Logo上衣",
-      "price": "$1,379",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/GAP-Mens-Short-Sleeve-Logo-T-Shirt/p/1943125",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h90/h70/472591846277150.jpg",
-      "category": "服飾配件"
-    },
     {
       "name": "科克蘭 三層抽取衛生紙 120抽 X 72入",
       "price": "$1,159",
@@ -44,22 +20,12 @@
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
-      "stock_status": "有貨",
+      "stock_status": "狀態未知",
       "url": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Dish-Detergents/Fer-A-Cheval-Marseille-Soap-Dish-Liquid-500-ml-X-3-Count/p/556003",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hd6/hc9/501515260297246.jpg",
       "category": "日用品／母嬰／玩具"
-    },
-    {
-      "name": "席伊麗 護背系列 Sunshine 標準雙人床墊 152公分 X 190公分",
-      "price": "$15,799",
-      "original_price": "$16,599",
-      "discount_amount": "$800",
-      "promotion": "商品已折價 $800；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Sealy-Sunshine-Backsaver-Mattress-152-cm-X-190-cm/p/133226",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h65/h01/138405906481182.jpg",
-      "category": "家具家居"
     }
   ],
+  "removed": [],
   "price_changes": []
 }
