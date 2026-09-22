@@ -1,31 +1,173 @@
 {
   "date": "2026-09-22",
-  "generated_at": "2026-09-22 03:39",
+  "generated_at": "2026-09-22 09:46",
   "has_previous": true,
   "added": [
     {
-      "name": "科克蘭 三層抽取衛生紙 120抽 X 72入",
-      "price": "$1,159",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/c/Kirkland-Signature-3-Ply-Interfold-Bath-Tissue-120-Sheet-X-72-Count/p/189999",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf5/h5e/228120348950558.jpg",
-      "category": "其他"
+      "name": "Columbia 男防風防潑水外套",
+      "price": "$1,199",
+      "original_price": "$1,499",
+      "discount_amount": "$300",
+      "promotion": "商品已折價$300 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/Columbia-Mens-Shell-Jacket/p/159781",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he4/h01/488918674931742.jpg",
+      "category": "服飾配件"
     },
     {
-      "name": "法拉夏 馬賽皂洗碗精 500毫升 X 3入",
-      "price": "$725",
+      "name": "Tommy Hilfiger 男外套",
+      "price": "$1,379",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
       "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Dish-Detergents/Fer-A-Cheval-Marseille-Soap-Dish-Liquid-500-ml-X-3-Count/p/556003",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd6/hc9/501515260297246.jpg",
-      "category": "日用品／母嬰／玩具"
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/Tommy-Hilfiger-Mens-Jacket/p/1763788",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he2/hec/505969129586718.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Blackstone 36吋鐵板烤肉爐 附上蓋及折疊側架",
+      "price": "$9,399",
+      "original_price": "$12,999",
+      "discount_amount": "$3,600",
+      "promotion": "商品已折價$3,600 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Camp-Kitchen-Cooking-Gear/Blackstone-36-inch-Griddle-with-Hood-and-Soft-Cover/p/1934226",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0a/h07/502266482130974.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Banana Republic Luxe Touch 男短袖Polo衫",
+      "price": "$1,379",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Banana-Republic-Luxe-Touch-Mens-Short-Sleeve-Polo-Shirt/p/1588968",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hff/h83/471216340926494.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Adidas 男內褲三入組",
+      "price": "$549",
+      "original_price": "$689",
+      "discount_amount": "$140",
+      "promotion": "商品已折價$140 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Adidas-Mens-Active-Boxer-3-Pack-Set/p/158877",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf5/h14/452308882849822.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Columbia 男經典版型短袖上衣",
+      "price": "$599",
+      "original_price": "$749",
+      "discount_amount": "$150",
+      "promotion": "商品已折價$150 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Columbia-Mens-Short-Sleeve-Logo-Tee/p/154980",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h02/h61/470130291572766.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "OutdoorBase 羽絨睡袋",
+      "price": "$3,079",
+      "original_price": "$3,859",
+      "discount_amount": "$780",
+      "promotion": "商品已折價$780 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Tents-Camping-Gear/OutdoorBase-Down-Sleeping-Bag/p/141278",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h46/h59/188147623886878.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "GAP 男麻棉短袖襯衫",
+      "price": "$1,379",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/GAP-Mens-Short-Sleeve-Linen-Cotton-Shirt/p/1977560",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h96/ha2/471660432883742.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Simon Li 全牛皮L型沙發",
+      "price": "$39,999",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Simon-Li-Leather-Sectional-Sofa/p/1570178",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h28/h9d/278946188427294.jpg",
+      "category": "家具家居"
     }
   ],
-  "removed": [],
-  "price_changes": []
+  "removed": [
+    {
+      "name": "Simon Li 全牛皮L型沙發",
+      "price": "$39,999",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Simon-Li-Leather-Sectional/p/1570178",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h28/h9d/278946188427294.jpg",
+      "category": "家具家居"
+    }
+  ],
+  "price_changes": [
+    {
+      "name": "Insta360 X5 8K 全景運動相機套裝組",
+      "price": "$14,349",
+      "original_price": "$16,599",
+      "discount_amount": "$2,250",
+      "promotion": "商品已折價$2,250 含運",
+      "stock_status": "缺貨",
+      "old_price": "$14,099",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/Insta360-X5-8K-Action-Camera-Set/p/155141",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/haa/hae/403519810863134.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "Trinity 五層室外置物架",
+      "price": "$3,199",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "old_price": "$2,699",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Trinity-5-Tier-Outdoor-NSF-Rack-With-Wheels/p/488963",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfe/h01/64586576461854.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Trinity 六層多功能置物架 黑色",
+      "price": "$2,999",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "old_price": "$2,699",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Shelving/Trinity-6-Tier-NSF-Wire-Rack-With-Wheels-Black/p/106817",
+      "image": "https://www.costco.com.tw/medias/sys_master/products/hea/ha8/8825997951006.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "樂扣樂扣 Tritan 大容量彈蓋提帶冷水壺 2.2公升",
+      "price": "$499",
+      "original_price": "$649",
+      "discount_amount": "$150",
+      "promotion": "商品已折價$150 含運",
+      "stock_status": "缺貨",
+      "old_price": "$649",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/LocknLock-Tritan-Large-Capacity-Water-Bottle-22-L/p/159317",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc0/h86/433249572290590.jpg",
+      "category": "家具家居"
+    }
+  ]
 }
