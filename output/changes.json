@@ -1,43 +1,8 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-23 08:47",
+  "generated_at": "2026-09-23 14:10",
   "has_previous": true,
   "added": [
-    {
-      "name": "IRIS OHYAMA 富士山檸檬風味強氣泡水 環保無標籤款 500毫升 X 24瓶",
-      "price": "$359",
-      "original_price": "$459",
-      "discount_amount": "$100",
-      "promotion": "商品已折價 $100 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Water-Sparkling-Water/IRIS-OHYAMA-MtFuji-Lemon-Flavor-Strong-Sparkling-Water-ECO-Friendly-No-Label-500-ml-X-24-Count/p/150350",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h52/h58/350052579541022.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Tree Top 樹頂 柳橙氣泡飲 320毫升 X 24入",
-      "price": "$409",
-      "original_price": "$499",
-      "discount_amount": "$90",
-      "promotion": "商品已折價$90 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Tree-Top-Sparkling-Orange-320ml-X-24-Can/p/149152",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd9/h28/365472246136862.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "VIVISPA 摩洛哥全身精油舒壓 Spa",
-      "price": "$1,469",
-      "original_price": "$1,829",
-      "discount_amount": "$360",
-      "promotion": "商品已折價$360 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/153260",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h98/h6d/361110261235742.jpg",
-      "category": "其他"
-    }
-  ],
-  "removed": [
     {
       "name": "VIVISPA 摩洛哥全身精油舒壓 Spa",
       "price": "$1,469",
@@ -50,32 +15,29 @@
       "category": "其他"
     }
   ],
-  "price_changes": [
+  "removed": [
     {
-      "name": "Banana Republic Luxe Touch 男短袖Polo衫",
-      "price": "$1,379",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$399",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Banana-Republic-Luxe-Touch-Mens-Short-Sleeve-Polo-Shirt/p/1588968",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hff/h83/471216340926494.jpg",
-      "category": "服飾配件"
+      "name": "VIVISPA 摩洛哥全身精油舒壓 Spa",
+      "price": "$1,469",
+      "original_price": "$1,829",
+      "discount_amount": "$360",
+      "promotion": "商品已折價$360 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/153260",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h98/h6d/361110261235742.jpg",
+      "category": "其他"
     },
     {
-      "name": "GAP 男麻棉短袖襯衫",
-      "price": "$1,379",
+      "name": "Skechers 蜂巢涼感坐墊二入組",
+      "price": "$759",
       "original_price": "",
       "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$399",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/GAP-Mens-Short-Sleeve-Linen-Cotton-Shirt/p/1977560",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h96/ha2/471660432883742.jpg",
-      "category": "服飾配件"
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Automotive/Automotive/Skechers-Hex-Gel-Seat-Cushion-2-Pack-Set/p/159910",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h32/h11/468935615086622.jpg",
+      "category": "其他"
     }
-  ]
+  ],
+  "price_changes": []
 }
