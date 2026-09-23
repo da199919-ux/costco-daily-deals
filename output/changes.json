@@ -1,43 +1,257 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-23 14:10",
+  "generated_at": "2026-09-23 19:54",
   "has_previous": true,
   "added": [
     {
-      "name": "VIVISPA 摩洛哥全身精油舒壓 Spa",
-      "price": "$1,469",
-      "original_price": "$1,829",
-      "discount_amount": "$360",
-      "promotion": "商品已折價$360 含運",
+      "name": "BOSCH 4系列 60公分 獨立式洗碗機 13人份",
+      "price": "$26,999",
+      "original_price": "$33,999",
+      "discount_amount": "$7,000",
+      "promotion": "商品已折價$7,000 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Garden-Lifestyle/Tickets-Voucher/VIVISPA-Moroccan-Full-Body-Spa/p/153260",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h98/h6d/361110261235742.jpg",
+      "url": "https://www.costco.com.tw/p/159885",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfc/h3a/449275394326558.jpg",
       "category": "其他"
+    },
+    {
+      "name": "Tree Top 蘋果汁 320毫升 X 24入",
+      "price": "$404",
+      "original_price": "$499",
+      "discount_amount": "$95",
+      "promotion": "商品已折價$95 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/p/140770",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h02/hed/15234312437790.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "鱷魚 水性液體電蚊香 X6入 + 智能定時電蚊香器 X2入",
+      "price": "$559",
+      "original_price": "$699",
+      "discount_amount": "$140",
+      "promotion": "商品已折價$140 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/160721",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h2f/h2f/454001846386718.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "舒特膚 SPF50+ 高效防曬凝露 50毫升 X 2入",
+      "price": "$819",
+      "original_price": "$1,029",
+      "discount_amount": "$210",
+      "promotion": "商品已折價$210 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/142601",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h15/h77/450045165994014.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "九陽 沸萃溫控養生燉煮壺 TP15Q",
+      "price": "$1,599",
+      "original_price": "$1,999",
+      "discount_amount": "$400",
+      "promotion": "商品已折價$400 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/147020",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h5b/h44/330166853861406.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "芭緹絲 乾洗髮 淡雅花香 350毫升 X 3入",
+      "price": "$575",
+      "original_price": "$725",
+      "discount_amount": "$150",
+      "promotion": "商品已折價$150 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/144744",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h06/h38/239138119483422.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "席伊麗 護背系列金星單人床墊 107公分 X 190公分",
+      "price": "$16,995",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Sealy-Venus-Mattress-107-cm-X-190-cm/p/149914",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h8b/he7/313556122796062.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "盛香珍 蒜片青豆 760公克",
+      "price": "$209",
+      "original_price": "$259",
+      "discount_amount": "$50",
+      "promotion": "商品已折價$50 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/106657",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h56/h9b/65765251383326.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "風倍清 織物除菌消臭噴霧 高效除臭 370毫升 + 補充包 320毫升 X 4入",
+      "price": "$425",
+      "original_price": "$525",
+      "discount_amount": "$100",
+      "promotion": "商品已折價$100 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/215928",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h51/hbc/505969141383198.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "硬咖啡 濾掛咖啡禮盒組 10公克 X 30入",
+      "price": "$379",
+      "original_price": "$469",
+      "discount_amount": "$90",
+      "promotion": "商品已折價$90 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/p/449717",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h9c/hfe/491698201198622.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "陳稼莊 果汁吸凍飲 百香果+芭樂 220公克 X 12入",
+      "price": "$329",
+      "original_price": "$399",
+      "discount_amount": "$70",
+      "promotion": "商品已折價$70 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/p/130245",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h00/hb3/80074774478878.webp",
+      "category": "食品飲料"
     }
   ],
   "removed": [
     {
-      "name": "VIVISPA 摩洛哥全身精油舒壓 Spa",
-      "price": "$1,469",
-      "original_price": "$1,829",
-      "discount_amount": "$360",
-      "promotion": "商品已折價$360 含運",
+      "name": "BOSCH 4系列 60公分 獨立式洗碗機 13人份",
+      "price": "$26,999",
+      "original_price": "$33,999",
+      "discount_amount": "$7,000",
+      "promotion": "商品已折價$7,000 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/153260",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h98/h6d/361110261235742.jpg",
-      "category": "其他"
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Dishwashers-Dish-Dryers/BOSCH-Series-4-60cm-Freestanding-Dishwasher-13-Persons/p/159885",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfc/h3a/449275394326558.jpg",
+      "category": "家電 3C"
     },
     {
-      "name": "Skechers 蜂巢涼感坐墊二入組",
-      "price": "$759",
+      "name": "Tree Top 蘋果汁 320毫升 X 24入",
+      "price": "$404",
+      "original_price": "$499",
+      "discount_amount": "$95",
+      "promotion": "商品已折價$95 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Tree-Top-Apple-Juice-320-ml-X-24-Count/p/140770",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h02/hed/15234312437790.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "鱷魚 水性液體電蚊香 X6入 + 智能定時電蚊香器 X2入",
+      "price": "$559",
+      "original_price": "$699",
+      "discount_amount": "$140",
+      "promotion": "商品已折價$140 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Pest-Control-Air-Care/-X6-X2/p/160721",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h2f/h2f/454001846386718.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "舒特膚 SPF50+ 高效防曬凝露 50毫升 X 2入",
+      "price": "$819",
+      "original_price": "$1,029",
+      "discount_amount": "$210",
+      "promotion": "商品已折價$210 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/Cetaphil-Sun-SPF50-Light-Gel-50-ml-X-2-Pack/p/142601",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h15/h77/450045165994014.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "九陽 沸萃溫控養生燉煮壺 TP15Q",
+      "price": "$1,599",
+      "original_price": "$1,999",
+      "discount_amount": "$400",
+      "promotion": "商品已折價$400 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Water-Dispensers-Water-Purification/Joyoung-Temperature-Controlled-Stew-Pot-TP15Q/p/147020",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h5b/h44/330166853861406.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "芭緹絲 乾洗髮 淡雅花香 350毫升 X 3入",
+      "price": "$575",
+      "original_price": "$725",
+      "discount_amount": "$150",
+      "promotion": "商品已折價$150 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Shampoo-Conditioner/Batiste-Dry-Shampoo-Blush-350-ml-X-3-Count/p/144744",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h06/h38/239138119483422.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "Advent 女寬直筒褲",
+      "price": "$347",
       "original_price": "",
       "discount_amount": "",
       "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Automotive/Automotive/Skechers-Hex-Gel-Seat-Cushion-2-Pack-Set/p/159910",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h32/h11/468935615086622.jpg",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Advent-Ladies-Advent-Draped-Pleated-Wide-Pant/p/156457",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/had/haf/422090897227806.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "米其林 HydroEdge 雨刷 22吋",
+      "price": "$297",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Automotive/Automotive/Michelin-HydroEdge-Hybrid-Wiper-Blade-22-inch/p/1426568",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4a/h08/97634295480350.jpg",
       "category": "其他"
+    },
+    {
+      "name": "席伊麗 護背系列火星雙人加大床墊 183公分 X 190公分",
+      "price": "$21,999",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Sealy-Mars-Backsaver-Mattress-183-cm-X-190-cm/p/107874",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h62/h7c/81302953164830.jpg",
+      "category": "家具家居"
     }
   ],
-  "price_changes": []
+  "price_changes": [
+    {
+      "name": "Berkemann Allegra 女休閒鞋",
+      "price": "$5,059",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "缺貨",
+      "old_price": "$1,379",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Berkemann-Allegra-Ladies-Casual-Shoe/p/1846422",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0c/hf6/488918753673246.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "GAP 女九分褲",
+      "price": "$999",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "old_price": "$447",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/GAP-Ladies-Ankle-Trouser/p/1971848",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h8f/451293719953438.jpg",
+      "category": "服飾配件"
+    }
+  ]
 }
