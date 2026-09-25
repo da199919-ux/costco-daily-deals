@@ -1,75 +1,133 @@
 {
   "date": "2026-09-25",
-  "generated_at": "2026-09-25 16:03",
+  "generated_at": "2026-09-25 22:01",
   "has_previous": true,
-  "added": [],
+  "added": [
+    {
+      "name": "FoodSaver 食物真空保鮮機 VS2150",
+      "price": "$2,439",
+      "original_price": "$3,059",
+      "discount_amount": "$620",
+      "promotion": "商品已折價$620 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/142898",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hd1/hf9/209599786844190.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Panasonic Eneloop Pro 8槽充電組套裝 K-KJ63HC80TW",
+      "price": "$1,999",
+      "original_price": "$2,799",
+      "discount_amount": "$800",
+      "promotion": "商品已折價$800 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/147386",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf3/h9a/296816270016542.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "西莎 鮮肉主食碗 雞肉及蔬菜 85公克 X 10入",
+      "price": "$449",
+      "original_price": "$559",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/147503",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf7/hf4/295028597784606.jpg",
+      "category": "日用品／母嬰／玩具"
+    }
+  ],
   "removed": [
     {
-      "name": "白蘭氏 黑醋栗+金盞花葉黃素精華飲 60毫升 X 30入",
-      "price": "$1,149",
-      "original_price": "$1,429",
-      "discount_amount": "$280",
-      "promotion": "商品已折價$280 含運",
+      "name": "Panasonic Eneloop Pro 8槽充電組套裝 K-KJ63HC80TW",
+      "price": "$1,999",
+      "original_price": "$2,799",
+      "discount_amount": "$800",
+      "promotion": "商品已折價$800 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/130584",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h4c/h54/333377464500254.jpg",
-      "category": "其他"
-    },
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/Panasonic-Eneloop-Pro-8-Charger-Kit-K-KJ63HC80TW/p/147386",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf3/h9a/296816270016542.jpg",
+      "category": "家具家居"
+    }
+  ],
+  "price_changes": [
     {
-      "name": "健達奇趣蛋 20公克 X 12顆",
-      "price": "$275",
-      "original_price": "$345",
-      "discount_amount": "$70",
-      "promotion": "商品已折價$70 含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/110333",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h18/ha4/491324167880734.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "刷樂 全效護理漱口水攜帶包 12毫升 X 90入",
-      "price": "$439",
-      "original_price": "$549",
+      "name": "Banana Republic Luxe Touch 男短袖Polo衫",
+      "price": "$549",
+      "original_price": "",
       "discount_amount": "",
-      "promotion": "需一次購買活動組數才可享受此優惠 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/157254",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hef/hc4/402145281966110.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "USii優系 高效鎖鮮夾鏈袋組 57入",
-      "price": "$299",
-      "original_price": "$369",
-      "discount_amount": "$70",
-      "promotion": "商品已折價$70 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/122672",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hc8/hb2/379897716867102.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Puma 女性內褲五入組",
-      "price": "$629",
-      "original_price": "$789",
-      "discount_amount": "$160",
-      "promotion": "商品已折價$160 含運",
+      "promotion": "",
       "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/p/156903",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hc7/h72/451293261430814.jpg",
+      "old_price": "$1,379",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Banana-Republic-Luxe-Touch-Mens-Short-Sleeve-Polo-Shirt/p/1588968",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hff/h83/471216340926494.jpg",
       "category": "服飾配件"
     },
     {
-      "name": "九陽 多功能豆漿機 SMM55",
-      "price": "$2,349",
-      "original_price": "$2,959",
-      "discount_amount": "$610",
-      "promotion": "商品已折價$610 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/147018",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h6c/h2a/330166850682910.jpg",
-      "category": "其他"
+      "name": "Banana Republic 女長袖襯衫",
+      "price": "$1,379",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "old_price": "$609",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Banana-Republic-Ladies-Long-Sleeve-Shirt/p/1974301",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hd6/he7/453636849991710.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "GAP 女九分褲",
+      "price": "$447",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "缺貨",
+      "old_price": "$999",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/GAP-Ladies-Ankle-Trouser/p/1971848",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h8f/451293719953438.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "GAP 男彈性舒適休閒短褲",
+      "price": "$1,379",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "old_price": "$849",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/GAP-Mens-Stretch-Casual-Pull-On-Short/p/1983365",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h26/h90/472952482267166.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "GAP 男短袖Logo上衣",
+      "price": "$185",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "old_price": "$1,379",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/GAP-Mens-Short-Sleeve-Logo-T-Shirt/p/1943125",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h90/h70/472591846277150.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Lacoste 男純棉圓領短袖上衣",
+      "price": "$20,159",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "old_price": "$849",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Lacoste-Mens-Cotton-Crew-Neck-Short-Sleeve-Tee/p/3333325",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h82/hd7/486580544569374.jpg",
+      "category": "服飾配件"
     }
-  ],
-  "price_changes": []
+  ]
 }
