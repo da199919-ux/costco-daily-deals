@@ -1,9 +1,9 @@
-# Costco 每日優惠摘要（2026-09-25）
+# Costco 每日優惠摘要（2026-09-26）
 
-更新時間：2026-09-25 22:01（台灣時間）
-共整理出 **447** 項官方線上優惠。
-本次共讀取 **468** 個官方商品頁面。
-庫存狀態：有貨 **276** 項、缺貨 **152** 項、待確認 **19** 項。
+更新時間：2026-09-26 02:49（台灣時間）
+共整理出 **446** 項官方線上優惠。
+本次共讀取 **467** 個官方商品頁面。
+庫存狀態：有貨 **275** 項、缺貨 **152** 項、待確認 **19** 項。
 
 > 價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。
 
@@ -11,13 +11,13 @@
 
 | 分類 | 商品數量 |
 |---|---:|
-| 家具家居 | 95 |
+| 家具家居 | 96 |
 | 服飾配件 | 88 |
-| 其他 | 75 |
+| 其他 | 74 |
 | 食品飲料 | 74 |
 | 家電 3C | 65 |
 | 保健美容 | 29 |
-| 日用品／母嬰／玩具 | 21 |
+| 日用品／母嬰／玩具 | 20 |
 
 ## 我的追蹤商品
 
@@ -117,7 +117,6 @@
 - [三麗鷗 抱抱球 / 3歲以上](https://www.costco.com.tw/Household-Baby-Toys/Toys/Dolls-Pretend-Play/Sanrio-Biggies-Ages-3-and-Up/p/151564)（$687；庫存：缺貨）
 - [Beats Studio Pro 無線頭戴式耳機](https://www.costco.com.tw/Digital-Mobile/Wearables-Audio/Headphones-Audio-Devices/Beats-Studio-Pro-Wireless-Headphones/p/141447-B)（$15,799；庫存：缺貨）
 - [Water Buddies 20吋 浮板](https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Water-Sports/Water-Buddies-20-inch-Floating-Disc/p/678571)（$247；庫存：缺貨）
-- [Korhani Studio 編織質感地墊 60公分 X 90公分 X 1.8公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Rugs-Mats/Korhani-Studio-Rope-Mat-60-cm-X-90-cm-X-18-cm/p/1997001)（$697；庫存：缺貨）
 - [RVCA 女無袖連身洋裝](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/RVCA-Womens-Sleeveless-Dress/p/1956389)（$347；庫存：缺貨）
 - [Tommy Bahama 可調式海灘椅](https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Water-Sports/Tommy-Bahama-Beach-Chair/p/1819490)（$797；庫存：缺貨）
 - [Advent 女寬直筒褲](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Advent-Ladies-Advent-Draped-Pleated-Wide-Pant/p/156457)（$347；庫存：缺貨）
@@ -134,7 +133,7 @@
 - [飛利浦 A2S 軒恆全桌護眼檯燈](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/Philips-A2S-LED-Desk-Light/p/160725)（$2,729；庫存：缺貨）
 - [樂歌 人體工學智慧電動升降桌 原木桌面 ET200-C](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Loctek-Adjustable-Desk-Wood-ET200-C/p/154977)（$6,399；庫存：缺貨）
 - [Xterra 跑步機 TRX4500](https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Fitness-Equipment-Accessories/Xterra-Treadmill-TRX4500/p/132978)（$24,799；庫存：缺貨）
-- [Starbucks 秋季限定咖啡豆 1.13公斤](https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Starbucks-Fall-Blend-Coffee-Bean-113-kg/p/104770)（$835；庫存：缺貨）
+- [Starbucks 秋季限定咖啡豆 1.13公斤](https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Starbucks-Fall-Blend-Coffee-Bean-113-kg/p/104770)（$1,035；庫存：缺貨）
 - [Purely Indulgent 印度純棉浴巾 76公分 X 147公分 綠色](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Towels/Purely-Indulgent-100-Hygro-Cotton-Bath-Towel-76-cm-X-147-cm-Green/p/1851163)（$199；庫存：缺貨）
 - [產銷履歷文旦 6公斤 (10-12入)](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Chilled-Fresh-Food/Tap-Pomelo-6-kg-10-12-Count/p/184283)（$549；庫存：缺貨）
 - [桂格 冰沖堅果脆麥片 奇亞籽酥片 & 堅果顆粒 31公克 X 50包](https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Quaker-Cold-Crunchy-Nut-Chia-Seeds-Cereal-31-g-X-50-Pack/p/140611)（$379；庫存：缺貨）
@@ -161,6 +160,7 @@
 - [Unionbay 兒童彈性長褲](https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Bottoms-Dresses/Unionbay-Kids-Stretch-Pants/p/1956458)（$247；庫存：缺貨）
 - [Nepa 男休閒多口袋短褲](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/Nepa-Mens-Cargo-Shorts/p/658226)（$647；庫存：缺貨）
 - [Kate Spade 太陽眼鏡 FRIDA/G/S 8079O 黑色](https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/Kate-Spade-Sunglasses-FRIDAGS-8079O-Black/p/251674)（$1,297；庫存：缺貨）
+- [Korhani Studio 編織質感地墊 60公分 X 90公分 X 1.8公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Rugs-Mats/Korhani-Studio-Rope-Mat-60-cm-X-90-cm-X-18-cm/p/1997001)（$697；庫存：缺貨）
 - [樂天 巧克力派 北海道生焦糖乳酪蛋糕風味 30公克 X 6入 X 5盒](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Lotte-Choco-Pie-Hokkaido-Caramel-Cheese-Cake-30-g-X-6-Count-X-5-Pack/p/159840)（$297；庫存：缺貨）
 - [Ergoking 網布人體工學椅 171 S Plus系列](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Ergoking-Mesh-Chair-171-S-Plus/p/132324)（$15,799；庫存：缺貨）
 - [台達電子 多功能循環涼暖風機 標準型300系列 遙控型](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/KitchenBathroom-Hardware/Delta-Fan-Heater-Classic-300-Series-Remote-Control/p/135409-B)（$15,799；庫存：缺貨）
@@ -182,27 +182,24 @@
 
 ## 今日變化
 
-- 新增優惠：**3** 項
-- 本次未收錄：**1** 項（不代表優惠已結束）
-- 價格變動：**6** 項
+- 新增優惠：**2** 項
+- 本次未收錄：**3** 項（不代表優惠已結束）
+- 價格變動：**2** 項
 
 ### 價格變動
 
-- **降價**：[Banana Republic Luxe Touch 男短袖Polo衫](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Banana-Republic-Luxe-Touch-Mens-Short-Sleeve-Polo-Shirt/p/1588968) $1,379 → $549
-- **漲價**：[Banana Republic 女長袖襯衫](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Banana-Republic-Ladies-Long-Sleeve-Shirt/p/1974301) $609 → $1,379
-- **降價**：[GAP 女九分褲](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/GAP-Ladies-Ankle-Trouser/p/1971848) $999 → $447
-- **漲價**：[GAP 男彈性舒適休閒短褲](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/GAP-Mens-Stretch-Casual-Pull-On-Short/p/1983365) $849 → $1,379
-- **降價**：[GAP 男短袖Logo上衣](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/GAP-Mens-Short-Sleeve-Logo-T-Shirt/p/1943125) $1,379 → $185
-- **漲價**：[Lacoste 男純棉圓領短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Lacoste-Mens-Cotton-Crew-Neck-Short-Sleeve-Tee/p/3333325) $849 → $20,159
+- **漲價**：[Starbucks 秋季限定咖啡豆 1.13公斤](https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Starbucks-Fall-Blend-Coffee-Bean-113-kg/p/104770) $835 → $1,035
+- **漲價**：[哈根達斯 冰淇淋 473毫升 X 6入](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Haagen-Dazs-Ice-Cream-473-ml-X-6-Count/p/326800) $1,059 → $1,299
 
 ### 今日新增
+
+- [益節 加強型迷你錠 60錠](https://www.costco.com.tw/p/363985)（$1,119；庫存：有貨）
+- [Panasonic Eneloop Pro 8槽充電組套裝 K-KJ63HC80TW](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/Panasonic-Eneloop-Pro-8-Charger-Kit-K-KJ63HC80TW/p/147386)（$1,999；庫存：有貨）
+
+### 本次未收錄（不代表優惠已結束）
 
 - [FoodSaver 食物真空保鮮機 VS2150](https://www.costco.com.tw/p/142898)（$2,439；庫存：有貨）
 - [Panasonic Eneloop Pro 8槽充電組套裝 K-KJ63HC80TW](https://www.costco.com.tw/p/147386)（$1,999；庫存：有貨）
 - [西莎 鮮肉主食碗 雞肉及蔬菜 85公克 X 10入](https://www.costco.com.tw/Household-Baby-Toys/p/147503)（$449；庫存：有貨）
-
-### 本次未收錄（不代表優惠已結束）
-
-- [Panasonic Eneloop Pro 8槽充電組套裝 K-KJ63HC80TW](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/Panasonic-Eneloop-Pro-8-Charger-Kit-K-KJ63HC80TW/p/147386)（$1,999；庫存：有貨）
 
 完整清單請查看專案中的 `output/latest.md`。
