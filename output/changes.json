@@ -1,8 +1,9 @@
 {
   "date": "2026-09-26",
-  "generated_at": "2026-09-26 02:49",
+  "generated_at": "2026-09-26 09:45",
   "has_previous": true,
-  "added": [
+  "added": [],
+  "removed": [
     {
       "name": "益節 加強型迷你錠 60錠",
       "price": "$1,119",
@@ -13,80 +14,7 @@
       "url": "https://www.costco.com.tw/p/363985",
       "image": "https://www.costco.com.tw/medias/sys_master/images/he4/hee/62314531160094.jpg",
       "category": "其他"
-    },
-    {
-      "name": "Panasonic Eneloop Pro 8槽充電組套裝 K-KJ63HC80TW",
-      "price": "$1,999",
-      "original_price": "$2,799",
-      "discount_amount": "$800",
-      "promotion": "商品已折價$800 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/Panasonic-Eneloop-Pro-8-Charger-Kit-K-KJ63HC80TW/p/147386",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf3/h9a/296816270016542.jpg",
-      "category": "家具家居"
     }
   ],
-  "removed": [
-    {
-      "name": "FoodSaver 食物真空保鮮機 VS2150",
-      "price": "$2,439",
-      "original_price": "$3,059",
-      "discount_amount": "$620",
-      "promotion": "商品已折價$620 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/142898",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd1/hf9/209599786844190.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Panasonic Eneloop Pro 8槽充電組套裝 K-KJ63HC80TW",
-      "price": "$1,999",
-      "original_price": "$2,799",
-      "discount_amount": "$800",
-      "promotion": "商品已折價$800 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/147386",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf3/h9a/296816270016542.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "西莎 鮮肉主食碗 雞肉及蔬菜 85公克 X 10入",
-      "price": "$449",
-      "original_price": "$559",
-      "discount_amount": "$110",
-      "promotion": "商品已折價$110 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/147503",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf7/hf4/295028597784606.jpg",
-      "category": "日用品／母嬰／玩具"
-    }
-  ],
-  "price_changes": [
-    {
-      "name": "Starbucks 秋季限定咖啡豆 1.13公斤",
-      "price": "$1,035",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "old_price": "$835",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Starbucks-Fall-Blend-Coffee-Bean-113-kg/p/104770",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h25/h83/115904722501662.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "哈根達斯 冰淇淋 473毫升 X 6入",
-      "price": "$1,299",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "old_price": "$1,059",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Haagen-Dazs-Ice-Cream-473-ml-X-6-Count/p/326800",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h64/hfc/313983086788638.jpg",
-      "category": "食品飲料"
-    }
-  ]
+  "price_changes": []
 }
