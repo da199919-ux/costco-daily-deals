@@ -1,20 +1,20 @@
 {
   "date": "2026-09-26",
-  "generated_at": "2026-09-26 09:45",
+  "generated_at": "2026-09-26 15:55",
   "has_previous": true,
-  "added": [],
-  "removed": [
+  "added": [
     {
-      "name": "益節 加強型迷你錠 60錠",
-      "price": "$1,119",
-      "original_price": "$1,399",
-      "discount_amount": "$280",
-      "promotion": "商品已折價 $280 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/363985",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/he4/hee/62314531160094.jpg",
-      "category": "其他"
+      "name": "鮮煮藝 冷凍清燉羊肉鍋 1.2 公斤 X 2 包",
+      "price": "$799",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "指定夏日涼感商品：買2件享8.5折，買3件享8折（結帳時依活動條件計算）",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Delicious-Idea-Frozen-Mutton-Stewed-Hot-Pot-12-kg-X-2-Pack/p/161487",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h33/ha2/434798808203294.jpg",
+      "category": "食品飲料"
     }
   ],
+  "removed": [],
   "price_changes": []
 }
