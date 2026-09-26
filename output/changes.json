@@ -1,21 +1,21 @@
 {
   "date": "2026-09-27",
-  "generated_at": "2026-09-27 01:20",
+  "generated_at": "2026-09-27 07:02",
   "has_previous": true,
   "added": [],
   "removed": [],
   "price_changes": [
     {
-      "name": "Camper 男皮革休閒鞋",
-      "price": "$1,379",
+      "name": "GAP 男彈性舒適休閒短褲",
+      "price": "$347",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$2,599",
+      "stock_status": "缺貨",
+      "old_price": "$1,379",
       "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Camper-Mens-Leather-Touring-Shoe/p/1846399",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h64/h40/485751259430942.jpg",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/GAP-Mens-Stretch-Casual-Pull-On-Short/p/1983365",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h26/h90/472952482267166.jpg",
       "category": "服飾配件"
     }
   ]
