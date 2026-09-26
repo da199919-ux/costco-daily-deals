@@ -1,20 +1,48 @@
 {
   "date": "2026-09-26",
-  "generated_at": "2026-09-26 15:55",
+  "generated_at": "2026-09-26 21:17",
   "has_previous": true,
-  "added": [
+  "added": [],
+  "removed": [],
+  "price_changes": [
     {
-      "name": "鮮煮藝 冷凍清燉羊肉鍋 1.2 公斤 X 2 包",
-      "price": "$799",
+      "name": "Banana Republic Luxe Touch 男短袖Polo衫",
+      "price": "$1,379",
       "original_price": "",
       "discount_amount": "",
-      "promotion": "指定夏日涼感商品：買2件享8.5折，買3件享8折（結帳時依活動條件計算）",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Delicious-Idea-Frozen-Mutton-Stewed-Hot-Pot-12-kg-X-2-Pack/p/161487",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h33/ha2/434798808203294.jpg",
-      "category": "食品飲料"
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "old_price": "$549",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Banana-Republic-Luxe-Touch-Mens-Short-Sleeve-Polo-Shirt/p/1588968",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hff/h83/471216340926494.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Camper 男皮革休閒鞋",
+      "price": "$2,599",
+      "original_price": "$3,259",
+      "discount_amount": "$660",
+      "promotion": "商品已折價$660 含運",
+      "stock_status": "狀態未知",
+      "old_price": "$1,379",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Camper-Mens-Leather-Touring-Shoe/p/1846399",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h64/h40/485751259430942.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "GAP 女九分褲",
+      "price": "$559",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "old_price": "$447",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/GAP-Ladies-Ankle-Trouser/p/1971848",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h8f/451293719953438.jpg",
+      "category": "服飾配件"
     }
-  ],
-  "removed": [],
-  "price_changes": []
+  ]
 }
