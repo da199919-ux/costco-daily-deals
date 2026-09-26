@@ -1,47 +1,21 @@
 {
-  "date": "2026-09-26",
-  "generated_at": "2026-09-26 21:17",
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27 01:20",
   "has_previous": true,
   "added": [],
   "removed": [],
   "price_changes": [
     {
-      "name": "Banana Republic Luxe Touch 男短袖Polo衫",
+      "name": "Camper 男皮革休閒鞋",
       "price": "$1,379",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
       "stock_status": "狀態未知",
-      "old_price": "$549",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Banana-Republic-Luxe-Touch-Mens-Short-Sleeve-Polo-Shirt/p/1588968",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hff/h83/471216340926494.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Camper 男皮革休閒鞋",
-      "price": "$2,599",
-      "original_price": "$3,259",
-      "discount_amount": "$660",
-      "promotion": "商品已折價$660 含運",
-      "stock_status": "狀態未知",
-      "old_price": "$1,379",
-      "direction": "漲價",
+      "old_price": "$2,599",
+      "direction": "降價",
       "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Camper-Mens-Leather-Touring-Shoe/p/1846399",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h64/h40/485751259430942.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "GAP 女九分褲",
-      "price": "$559",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$447",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/GAP-Ladies-Ankle-Trouser/p/1971848",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h8f/451293719953438.jpg",
       "category": "服飾配件"
     }
   ]
