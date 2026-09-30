@@ -1,62 +1,130 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-09-30 04:56",
+  "generated_at": "2026-09-30 14:54",
   "has_previous": true,
   "added": [
     {
-      "name": "科克蘭 冷藏全脂牛乳 1.89公升 X 2瓶",
-      "price": "$257",
+      "name": "KidKraft Sunny Bluff 遊戲屋",
+      "price": "$10,899",
+      "original_price": "$14,999",
+      "discount_amount": "$4,100",
+      "promotion": "商品已折價$4,100 含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/KidKraft-Sunny-Bluff-Playhouse/p/1872206",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf7/h1f/471660421840926.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Samsung 655公升 美式對開 AI 冰箱 星空灰 RS70F65Q4TTW",
+      "price": "$39,999",
       "original_price": "",
       "discount_amount": "",
       "promotion": "含運",
       "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Chilled-Fresh-Food/Kirkland-Signature-Chilled-Whole-Milk-189-L-X-2-Pack/p/855679",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h5c/hf2/65826728214558.jpg",
-      "category": "食品飲料"
-    },
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Fridges-Freezers/Overall-Capacity-500-L-Above/Samsung-655-L-French-Door-AI-Refrigerator-Starry-Gray-RS70F65Q4TTW/p/155431",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb6/hac/396189713563678.jpg",
+      "category": "家電 3C"
+    }
+  ],
+  "removed": [
     {
-      "name": "Nepa 女休閒短褲",
-      "price": "$647",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Nepa-Ladies-Casual-Shorts/p/1956391",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h86/h63/466558838046750.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Comvita 蜂膠軟膠囊 250粒",
-      "price": "$927",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Comvita-Propolis-Capsules-Extra-Strength-250-Count/p/235500",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hc5/hc5/245391160016926.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "Benetton 純棉海灘巾 90公分 X 160公分",
-      "price": "$357",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Towels/Benetton-100-Cotton-Beach-Towel-90-cm-X-160-cm/p/2040372",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h52/h9e/455116932907038.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Biore UV 含水防曬保濕水凝乳樂易包 120公克 + 補充包 120公克",
+      "name": "Advent 女寬直筒褲",
       "price": "$347",
       "original_price": "",
       "discount_amount": "",
       "promotion": "含運",
       "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/Biore-UV-Aqua-Rich-Watery-Essence-Fresh-Pouch-120-g-Refill-120-g/p/149162",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb7/h66/327562411147294.jpg",
-      "category": "保健美容"
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Advent-Ladies-Advent-Draped-Pleated-Wide-Pant/p/156457",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/had/haf/422090897227806.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Nautica 女休閒短褲",
+      "price": "$397",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Nautica-Ladies-Casual-Short/p/142040",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h05/h13/448868221681694.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Tommy Hilfiger 女圓領短袖上衣",
+      "price": "$397",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Tommy-Hilfiger-Ladies-Short-Sleeve-Crew-Neck-Tee/p/1956395",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hee/h62/484307089752094.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Banana Republic 男彈性短褲",
+      "price": "$397",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/Banana-Republic-Mens-Stretch-Short/p/1951107",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h21/hc9/450045492953118.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Unionbay 兒童彈性長褲",
+      "price": "$247",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Bottoms-Dresses/Unionbay-Kids-Stretch-Pants/p/1956458",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hd1/h6f/438876324429854.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Pekkle 兒童圓領短袖上衣四件組",
+      "price": "$347",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Clothing-Sets-Accessories/Pekkle-Kids-Crew-Neck-Short-Sleeve-Top-4-Pack-Set/p/1664090",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h99/hd3/455933969891358.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Jachs 男彈性短褲",
+      "price": "$347",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/Jachs-Mens-Flex-Short/p/157232",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h40/h08/472591344926750.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Nepa 男休閒多口袋短褲",
+      "price": "$647",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/Nepa-Mens-Cargo-Shorts/p/658226",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h63/h13/467794425020446.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Lacoste 男純棉圓領短袖上衣",
+      "price": "請查看官網",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Lacoste-Mens-Cotton-Crew-Neck-Short-Sleeve-Tee/p/3333325",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h82/hd7/486580544569374.jpg",
+      "category": "服飾配件"
     },
     {
       "name": "Polo Ralph Lauren 男短袖Polo衫",
@@ -70,197 +138,69 @@
       "category": "服飾配件"
     },
     {
-      "name": "Bentley Designs Vega 布面吧檯椅",
-      "price": "$2,997",
+      "name": "妙管家 全自動極速製冰機 HKCV-22C",
+      "price": "$2,199",
       "original_price": "",
       "discount_amount": "",
       "promotion": "含運",
       "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Dining-Sets/Bentley-Designs-Vega-Fabric-Bar-Stool/p/159439",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7b/had/437687091658782.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Apple AirPods 4",
-      "price": "$3,697",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Wearables-Audio/Headphones-Audio-Devices/Apple-AirPods-4/p/149119",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h13/he1/274499095494686.jpg",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Water-Dispensers-Water-Purification/House-Keeper-Ice-Makers-HKCV-22C/p/151052",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h1f/h54/364686749138974.jpg",
       "category": "家電 3C"
-    },
-    {
-      "name": "席伊麗 護背系列 Sunshine 雙人加大床墊 183公分 X 190公分",
-      "price": "$27,799",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Sealy-Sunshine-Backsaver-Mattress-183-cm-X-190-cm/p/133227",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hde/h45/81302963421214.jpg",
-      "category": "家具家居"
-    }
-  ],
-  "removed": [
-    {
-      "name": "科克蘭 Terra Di Bari初榨橄欖油 1公升",
-      "price": "$469",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Kirkland-Signature-Terra-Di-Bari-Extra-Virgin-Olive-Oil-1-L/p/1236329",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hdf/he3/471660175097886.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "SUISAI 淨透酵素粉N 32顆 X 2入",
-      "price": "$759",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Skin-Care/SUISAI-Beauty-Clear-Powder-Wash-32-Count-X-2-Pack/p/158825",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h83/h74/432046532296734.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "蔬果絨毛玩偶 / 3歲以上",
-      "price": "$529",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Dolls-Pretend-Play/Palm-Pals-Plush-Ages-3-and-Up/p/679750",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd5/hb7/413801547563038.jpg",
-      "category": "日用品／母嬰／玩具"
-    },
-    {
-      "name": "紅龍 冷凍雞塊 3公斤",
-      "price": "$539",
-      "original_price": "$693",
-      "discount_amount": "$154",
-      "promotion": "商品已折價 $154；指定夏日涼感商品：買2件享8.5折，買3件享8折（結帳時依活動條件計算）",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Red-Dragon-Frozen-Chicken-Nuggets-3-kg/p/18382",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h3f/h3b/12693292253214.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "紅龍 冷凍雞肉捲 220公克 X 6入",
-      "price": "$539",
-      "original_price": "$693",
-      "discount_amount": "$154",
-      "promotion": "商品已折價 $154；指定夏日涼感商品：買2件享8.5折，買3件享8折（結帳時依活動條件計算）",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Red-Dragon-Frozen-Chicken-Bakes-220-g-X-6-Count/p/68068",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h3f/h3b/12693292253214.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "紅龍 冷凍紅燒牛肉麵 820公克 X 4入",
-      "price": "$539",
-      "original_price": "$693",
-      "discount_amount": "$154",
-      "promotion": "商品已折價 $154；指定夏日涼感商品：買2件享8.5折，買3件享8折（結帳時依活動條件計算）",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Red-Dragon-Frozen-Braised-Beef-Noodle-820-g-X-4-Pack/p/91855",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h3f/h3b/12693292253214.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "鮮煮藝 冷凍清燉羊肉鍋 1.2 公斤 X 2 包",
-      "price": "$539",
-      "original_price": "$693",
-      "discount_amount": "$154",
-      "promotion": "商品已折價 $154；指定夏日涼感商品：買2件享8.5折，買3件享8折（結帳時依活動條件計算）",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Delicious-Idea-Frozen-Mutton-Stewed-Hot-Pot-12-kg-X-2-Pack/p/161487",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h3f/h3b/12693292253214.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "席伊麗 護背系列火星標準雙人床墊 152公分 X 190公分",
-      "price": "$18,999",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Sealy-Mars-Backsaver-Mattress-152-cm-X-190-cm/p/107873",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h9b/hb2/81302953426974.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "LG PuriCare 16公升 UV 抑菌 WiFi 雙變頻除濕機 粉藍色 MD161QBE0",
-      "price": "$3,000",
-      "original_price": "$3,170",
-      "discount_amount": "$170",
-      "promotion": "商品已折價 $170；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Dehumidifiers-Dry-Cabinets/LG-PuriCare-16-L-Dual-Inverter-Dehumidifier-with-UV-nano-WiFi-Blue-MD161QBE0/p/146161",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h18/hc9/399197078355998.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "Ergoking 網布人體工學椅 171 S Plus系列",
-      "price": "$3,000",
-      "original_price": "$3,170",
-      "discount_amount": "$170",
-      "promotion": "商品已折價 $170；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Ergoking-Mesh-Chair-171-S-Plus/p/132324",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h18/hc9/399197078355998.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "幻知曲 R450 標準雙人睡眠系統 贈保潔墊 150公分 X 200公分",
-      "price": "$3,000",
-      "original_price": "$3,170",
-      "discount_amount": "$170",
-      "promotion": "商品已折價 $170；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Bedroom-Furniture-Sets/Reverie-R450-Sleep-System-with-Protector-150-cm-X-200-cm/p/141096",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h18/hc9/399197078355998.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "老協珍 冷凍熬雞精 68毫升 X 30入",
-      "price": "$3,000",
-      "original_price": "$3,170",
-      "discount_amount": "$170",
-      "promotion": "商品已折價 $170；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Health-Beauty/Elderly-Care/Supplements/Lao-Xie-Zhen-Frozen-Chicken-Essence-68-ml-X-30-Pack/p/118552",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h18/hc9/399197078355998.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "台達電子 多功能循環涼暖風機 標準型300系列 遙控型",
-      "price": "$3,000",
-      "original_price": "$3,170",
-      "discount_amount": "$170",
-      "promotion": "商品已折價 $170；2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/KitchenBathroom-Hardware/Delta-Fan-Heater-Classic-300-Series-Remote-Control/p/135409-B",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h18/hc9/399197078355998.jpg",
-      "category": "家具家居"
     }
   ],
   "price_changes": [
     {
-      "name": "Beats Studio Pro 無線頭戴式耳機",
-      "price": "$8,349",
+      "name": "Character 兒童上衣四件組",
+      "price": "$247",
       "original_price": "",
       "discount_amount": "",
       "promotion": "含運",
       "stock_status": "狀態未知",
-      "old_price": "$3,000",
+      "old_price": "$447",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Clothing-Sets-Accessories/Character-Kids-Short-Sleeve-Tee-4-Pack-Set/p/1956441",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h8e/h77/454001928929310.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Smiley World 兒童上衣兩件組",
+      "price": "$247",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "狀態未知",
+      "old_price": "$347",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Clothing-Sets-Accessories/Smiley-World-Kids-Top-2-Pack-Set/p/1977016",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4d/h18/450045519560734.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Sunday Afternoons 兒童抗UV遮陽帽",
+      "price": "$247",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "狀態未知",
+      "old_price": "$397",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Clothing-Sets-Accessories/Sunday-Afternoons-Kids-UPF-Sun-Protection-Hat/p/157456",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hd2/hc4/450045194567710.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "丸米 減鹽綜合沖泡味噌湯 36入",
+      "price": "$229",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "狀態未知",
+      "old_price": "$197",
       "direction": "漲價",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Wearables-Audio/Headphones-Audio-Devices/Beats-Studio-Pro-Wireless-Headphones/p/141447-B",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h31/h1a/186026054189086.jpg",
-      "category": "家電 3C"
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/Marukome-Miso-Soup-Less-Salt-36-Pack/p/156759",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc1/hca/416282369130526.jpg",
+      "category": "食品飲料"
     }
   ]
 }
