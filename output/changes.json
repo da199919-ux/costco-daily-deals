@@ -1,8 +1,54 @@
 {
-  "date": "2026-10-01",
-  "generated_at": "2026-10-01 21:36",
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02 03:41",
   "has_previous": true,
   "added": [
+    {
+      "name": "味好美 蒙特婁雞肉用調味料 620公克",
+      "price": "$259",
+      "original_price": "$319",
+      "discount_amount": "$60",
+      "promotion": "商品已折價$60 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/McCormick-Montreal-Chicken-Seasoning-620-g/p/150606",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha1/h78/332442432602142.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "收藏家 電子防潮箱 77 公升 CT-85",
+      "price": "$3,279",
+      "original_price": "$4,099",
+      "discount_amount": "$820",
+      "promotion": "商品已折價$820 含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/EUREKA/Dry-Tech-Auto-Dry-Box-77-L-CT-85/p/138927",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h29/h47/151071925796894.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "海倫仙度絲 經典清潔去屑洗髮乳 1000毫升",
+      "price": "$279",
+      "original_price": "$349",
+      "discount_amount": "$70",
+      "promotion": "商品已折價$70 含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Shampoo-Conditioner/Head-Shoulders-Classic-Clean-Anti-Dandruff-Shampoo-1000-ml/p/370438",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/hb7/294120929394718.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "象印 VE真空微電腦熱水瓶 CV-DXF40",
+      "price": "$3,809",
+      "original_price": "$4,769",
+      "discount_amount": "$960",
+      "promotion": "商品已折價$960 含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Water-Dispensers-Water-Purification/Zojirushi-VE-Hybrid-Water-Boiler-and-Warmer-CV-DXF40/p/122574",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h13/h8d/15809938259998.jpg",
+      "category": "家電 3C"
+    }
+  ],
+  "removed": [
     {
       "name": "味好美 蒙特婁雞肉用調味料 620公克",
       "price": "$259",
@@ -48,15 +94,15 @@
       "category": "其他"
     },
     {
-      "name": "席伊麗 護背系列 Sunshine 雙人加大床墊 183公分 X 190公分",
-      "price": "$27,799",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "name": "幫寶適 一級幫 護臀紙尿褲(黏貼型) M號 186片",
+      "price": "$1,079",
+      "original_price": "$1,349",
+      "discount_amount": "$270",
+      "promotion": "商品已折價$270 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Sealy-Sunshine-Backsaver-Mattress-183-cm-X-190-cm/p/133227",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hde/h45/81302963421214.jpg",
-      "category": "家具家居"
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/246570",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h13/hdf/466199225466910.jpg",
+      "category": "日用品／母嬰／玩具"
     },
     {
       "name": "Body Goals 全素多效豌豆蛋白飲 31公克 X 30入 杜拜巧克力",
@@ -70,73 +116,84 @@
       "category": "其他"
     }
   ],
-  "removed": [
+  "price_changes": [
     {
-      "name": "味好美 蒙特婁雞肉用調味料 620公克",
-      "price": "$259",
-      "original_price": "$319",
-      "discount_amount": "$60",
-      "promotion": "商品已折價$60 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/McCormick-Montreal-Chicken-Seasoning-620-g/p/150606",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha1/h78/332442432602142.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "收藏家 電子防潮箱 77 公升 CT-85",
-      "price": "$3,279",
-      "original_price": "$4,099",
-      "discount_amount": "$820",
-      "promotion": "商品已折價$820 含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/EUREKA/Dry-Tech-Auto-Dry-Box-77-L-CT-85/p/138927",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h29/h47/151071925796894.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "海倫仙度絲 經典清潔去屑洗髮乳 1000毫升",
-      "price": "$279",
-      "original_price": "$349",
-      "discount_amount": "$70",
-      "promotion": "商品已折價$70 含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Shampoo-Conditioner/Head-Shoulders-Classic-Clean-Anti-Dandruff-Shampoo-1000-ml/p/370438",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/hb7/294120929394718.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "象印 VE真空微電腦熱水瓶 CV-DXF40",
-      "price": "$3,809",
-      "original_price": "$4,769",
-      "discount_amount": "$960",
-      "promotion": "商品已折價$960 含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Water-Dispensers-Water-Purification/Zojirushi-VE-Hybrid-Water-Boiler-and-Warmer-CV-DXF40/p/122574",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h13/h8d/15809938259998.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "席伊麗 護背系列火星雙人加大床墊 X 1床 + 下墊 91.5公分 X 190公分 X 2床",
-      "price": "$37,199",
+      "name": "Berkemann Adam 男穆勒涼鞋",
+      "price": "$800",
       "original_price": "",
       "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Sealy-Mars-Backsaver-Mattress-X-1-Count-and-Box-Spring-Bed-915-cm-X-190-cm-X-2-Count/p/132106",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha1/h21/81302958735390.jpg",
-      "category": "家具家居"
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "old_price": "$3,119",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Berkemann-Adam-Mens-Mules-Sandals/p/1846424",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfd/h22/487296843808798.jpg",
+      "category": "服飾配件"
     },
     {
-      "name": "幻知曲 人體工學乳膠枕 60公分 X 40公分 X 10公分 / 12公分",
-      "price": "$899",
-      "original_price": "$1,139",
-      "discount_amount": "$240",
-      "promotion": "商品已折價$240 含運",
+      "name": "Berkemann Allegra 女休閒鞋",
+      "price": "$800",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "old_price": "$3,759",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Berkemann-Allegra-Ladies-Casual-Shoe/p/1846422",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0c/hf6/488918753673246.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "GAP 男麻棉短袖襯衫",
+      "price": "$800",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "old_price": "$399",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/GAP-Mens-Short-Sleeve-Linen-Cotton-Shirt/p/1977560",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h96/ha2/471660432883742.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Merrell Moab 3 女登山運動鞋",
+      "price": "$800",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "old_price": "$2,999",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Merrell-Moab-3-Ladies-Hiking-Shoe/p/1763686",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hee/h40/502597111971870.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Merrell Moab 3 男登山運動鞋",
+      "price": "$800",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "old_price": "$2,999",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Merrell-Moab-3-Mens-Hiking-Shoe/p/1846575",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4d/h53/502266469285918.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "科克蘭 冷藏全脂牛乳 1.89公升 X 2瓶",
+      "price": "$269",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Bedding/p/107720",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h39/h4a/11484394127390.jpg",
-      "category": "其他"
+      "old_price": "$257",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Chilled-Fresh-Food/Kirkland-Signature-Chilled-Whole-Milk-189-L-X-2-Pack/p/855679",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h5c/hf2/65826728214558.jpg",
+      "category": "食品飲料"
     }
-  ],
-  "price_changes": []
+  ]
 }
