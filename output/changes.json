@@ -1,8 +1,142 @@
 {
   "date": "2026-10-01",
-  "generated_at": "2026-10-01 08:02",
+  "generated_at": "2026-10-01 14:13",
   "has_previous": true,
   "added": [
+    {
+      "name": "桂格 減糖黑十穀 38公克 X 50入",
+      "price": "$299",
+      "original_price": "$369",
+      "discount_amount": "$70",
+      "promotion": "商品已折價 $70 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/c/Quaker-Herbs-Cereal-Beverage-with-Low-Sugar-Formula-38-g-X-50-Pack/p/184592",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha3/hc0/136797143597086.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Tidy Cats 高效清香凝結罐裝貓砂 6.35公斤 X 3罐",
+      "price": "$599",
+      "original_price": "$759",
+      "discount_amount": "$160",
+      "promotion": "商品已折價$160 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/c/Tidy-Cats-Instant-Action-Clumping-Cat-Litter-635-kg-X-3-Count/p/115777",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h50/h56/61939547766814.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Nature Made 萊萃美 全方位維生素B群加C 活力錠 300粒",
+      "price": "$869",
+      "original_price": "$1,079",
+      "discount_amount": "$210",
+      "promotion": "商品已折價 $210 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Nature-Made-Super-B-C-Support-300-Tablet/p/234845",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h76/hda/325606378045470.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "亞培安素 均衡營養 HMB 配方 原味 237毫升 X 32罐",
+      "price": "$2,079",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Health-Beauty/Elderly-Care/Nutritional-Drinks/Abbott-Ensure-HMB-Original-237-ml-X-32-Pack/p/145690",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h9f/h61/450418065080350.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "亞培安素 均衡營養 HMB 配方 香草減甜 237毫升 X 32罐",
+      "price": "$2,079",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Health-Beauty/Elderly-Care/Nutritional-Drinks/Abbott-Ensure-HMB-Vanilla-237-ml-X-32-Pack/p/145691",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h89/h33/450418064883742.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "Lifetime 6呎折疊桌 2入",
+      "price": "$3,399",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Lifetime-6-ft-Fold-in-Half-Table-2-Pack/p/1653325",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h6b/h27/386411491917854.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "空運日本山梨縣麝香葡萄 1.75公斤 / 5入裝",
+      "price": "$1,799",
+      "original_price": "$2,299",
+      "discount_amount": "$500",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Chilled-Fresh-Food/Air-Freighted-Japan-Yamanashi-Muscat-Grape-175-kg-5Pack/p/156434",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hed/hbb/380783691890718.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "The North Face Antora 男防風外套",
+      "price": "$800",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/The-North-Face-Mens-Antora-Jacket/p/1846566",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf3/h20/506938135478302.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "True Innovations 全網布辦公椅",
+      "price": "$3,399",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/True-Innovations-Task-Mesh-Chair/p/1812395",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4f/hd0/399197023043614.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Nautica 女休閒短褲",
+      "price": "$397",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Nautica-Ladies-Casual-Short/p/142040",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h05/h13/448868221681694.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "幫寶適 一級幫 護臀紙尿褲(黏貼型) M號 186片",
+      "price": "$1,079",
+      "original_price": "$1,349",
+      "discount_amount": "$270",
+      "promotion": "商品已折價$270 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/246570",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h13/hdf/466199225466910.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "幻知曲 人體工學乳膠枕 60公分 X 40公分 X 10公分 / 12公分",
+      "price": "$899",
+      "original_price": "$1,139",
+      "discount_amount": "$240",
+      "promotion": "商品已折價$240 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Bedding/p/107720",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h39/h4a/11484394127390.jpg",
+      "category": "其他"
+    }
+  ],
+  "removed": [
     {
       "name": "桂格 減糖黑十穀 38公克 X 50入",
       "price": "$299",
@@ -79,53 +213,117 @@
       "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Chilled-Fresh-Food/p/156434",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hed/hbb/380783691890718.jpg",
       "category": "食品飲料"
-    }
-  ],
-  "removed": [
-    {
-      "name": "桂格 減糖黑十穀 38公克 X 50入",
-      "price": "$299",
-      "original_price": "$369",
-      "discount_amount": "$70",
-      "promotion": "商品已折價 $70 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/c/Quaker-Herbs-Cereal-Beverage-with-Low-Sugar-Formula-38-g-X-50-Pack/p/184592",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha3/hc0/136797143597086.jpg",
-      "category": "其他"
     },
     {
-      "name": "Tidy Cats 高效清香凝結罐裝貓砂 6.35公斤 X 3罐",
-      "price": "$599",
-      "original_price": "$759",
-      "discount_amount": "$160",
-      "promotion": "商品已折價$160 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/c/Tidy-Cats-Instant-Action-Clumping-Cat-Litter-635-kg-X-3-Count/p/115777",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h50/h56/61939547766814.jpg",
-      "category": "其他"
+      "name": "Korhani KO2 可機洗埃及地毯 240公分 X 300公分",
+      "price": "$2,769",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Rugs-Mats/Korhani-KO2-Washable-Area-Rug-240-cm-X-300-cm/p/1996999",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hcd/h32/455934082220062.jpg",
+      "category": "家具家居"
     },
     {
-      "name": "Nature Made 萊萃美 全方位維生素B群加C 活力錠 300粒",
-      "price": "$869",
-      "original_price": "$1,079",
-      "discount_amount": "$210",
-      "promotion": "商品已折價 $210 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Nature-Made-Super-B-C-Support-300-Tablet/p/234845",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h76/hda/325606378045470.jpg",
+      "name": "Biore UV 含水防曬保濕水凝乳樂易包 120公克 + 補充包 120公克",
+      "price": "$347",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/Biore-UV-Aqua-Rich-Watery-Essence-Fresh-Pouch-120-g-Refill-120-g/p/149162",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb7/h66/327562411147294.jpg",
       "category": "保健美容"
     },
     {
-      "name": "空運日本山梨縣麝香葡萄 1.75公斤 / 5入裝",
-      "price": "$1,799",
-      "original_price": "$2,299",
-      "discount_amount": "$500",
+      "name": "Mon Chateau 仿動物毛圓形抱枕 30公分 X 30公分 X 30公分",
+      "price": "$247",
+      "original_price": "",
+      "discount_amount": "",
       "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Chilled-Fresh-Food/Air-Freighted-Japan-Yamanashi-Muscat-Grape-175-kg-5Pack/p/156434",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hed/hbb/380783691890718.jpg",
-      "category": "食品飲料"
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/Mon-Chateau-Faux-Fur-Round-Deco-Pillow-30-cm-X-30-cm-X-30-cm/p/1909180",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h22/h0c/378823389052958.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Bentley Designs Vega 布面吧檯椅",
+      "price": "$2,997",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Dining-Sets/Bentley-Designs-Vega-Fabric-Bar-Stool/p/159439",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h7b/had/437687091658782.jpg",
+      "category": "家具家居"
     }
   ],
-  "price_changes": []
+  "price_changes": [
+    {
+      "name": "Berkemann Adam 男穆勒涼鞋",
+      "price": "$3,119",
+      "original_price": "$3,899",
+      "discount_amount": "$780",
+      "promotion": "商品已折價$780 含運",
+      "stock_status": "狀態未知",
+      "old_price": "$800",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Berkemann-Adam-Mens-Mules-Sandals/p/1846424",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfd/h22/487296843808798.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Berkemann Allegra 女休閒鞋",
+      "price": "$3,759",
+      "original_price": "$5,059",
+      "discount_amount": "$1,300",
+      "promotion": "商品已折價$1,300 含運",
+      "stock_status": "狀態未知",
+      "old_price": "$800",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Berkemann-Allegra-Ladies-Casual-Shoe/p/1846422",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0c/hf6/488918753673246.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "GAP 男麻棉短袖襯衫",
+      "price": "$399",
+      "original_price": "$549",
+      "discount_amount": "$150",
+      "promotion": "商品已折價$150 含運",
+      "stock_status": "狀態未知",
+      "old_price": "$800",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/GAP-Mens-Short-Sleeve-Linen-Cotton-Shirt/p/1977560",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h96/ha2/471660432883742.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Merrell Moab 3 女登山運動鞋",
+      "price": "$2,999",
+      "original_price": "$3,749",
+      "discount_amount": "$750",
+      "promotion": "商品已折價$750 含運",
+      "stock_status": "狀態未知",
+      "old_price": "$800",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Merrell-Moab-3-Ladies-Hiking-Shoe/p/1763686",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hee/h40/502597111971870.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Merrell Moab 3 男登山運動鞋",
+      "price": "$2,999",
+      "original_price": "$3,749",
+      "discount_amount": "$750",
+      "promotion": "商品已折價$750 含運",
+      "stock_status": "狀態未知",
+      "old_price": "$800",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Merrell-Moab-3-Mens-Hiking-Shoe/p/1846575",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4d/h53/502266469285918.jpg",
+      "category": "服飾配件"
+    }
+  ]
 }
