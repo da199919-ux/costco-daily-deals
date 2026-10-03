@@ -1,9 +1,9 @@
-# Costco 每日優惠摘要（2026-10-03）
+# Costco 每日優惠摘要（2026-10-04）
 
-更新時間：2026-10-03 21:35（台灣時間）
+更新時間：2026-10-04 02:05（台灣時間）
 共整理出 **414** 項官方線上優惠。
 本次共讀取 **433** 個官方商品頁面。
-庫存狀態：有貨 **258** 項、缺貨 **133** 項、待確認 **23** 項。
+庫存狀態：有貨 **257** 項、缺貨 **134** 項、待確認 **23** 項。
 
 > 價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。
 
@@ -70,6 +70,7 @@
 - [New Balance 515 男復古慢跑鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/New-Balance-Mens-Running-Shoe/p/160814)（$1,419；庫存：缺貨）
 - [Brush Finch 女短袖毛衣](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Brush-Finch-Ladies-Short-Sleeve-Sweater/p/2010488)（$679；庫存：缺貨）
 - [3M 新絲舒眠單人涼透被 150公分 X 180公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/3M-Thinsulate-Comforter-150-cm-X-180-cm/p/111136)（$1,999；庫存：缺貨）
+- [Dr.Martens 中性經典八孔靴](https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/DrMartens-Boot/p/1488055)（$3,249；庫存：缺貨）
 - [Lucky Brand 女睡衣 3件組](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Pajamas/Lucky-Brand-Ladies-Sleepwear-3-Piece-Set/p/1961564)（$629；庫存：缺貨）
 - [AS 日本製男士U領上衣](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/AS-Mens-U-Neck-Tee-Made-in-Japan/p/160715)（$519；庫存：缺貨）
 - [Nautica 女休閒服兩件組](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Pajamas/Nautica-Ladies-Short-Sleeve-Lounge-Set/p/8518084)（$679；庫存：缺貨）
@@ -130,11 +131,11 @@
 - [舒特膚長效潤膚霜 550公克](https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/Cetaphil-Moisturising-Cream-550-g/p/137177)（$404；庫存：缺貨）
 - [海倫仙度絲 經典清潔去屑洗髮乳 1000毫升](https://www.costco.com.tw/Health-Beauty/Personal-Care/Shampoo-Conditioner/Head-Shoulders-Classic-Clean-Anti-Dandruff-Shampoo-1000-ml/p/370438)（$279；庫存：缺貨）
 - [CleverMade 摺疊購物車](https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Storage-Containers-Hooks/CleverMade-Foldable-Shopping-Cart/p/2796150)（$975；庫存：缺貨）
+- [Ssanggye 蘋果醋沖泡粉 5公克 X 40包](https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Ssanggye-Apple-Cider-Vinegar-Drink-Powder-5-g-X-40-Pack/p/159494)（$319；庫存：缺貨）
 - [象印 VE真空微電腦熱水瓶 CV-DXF40](https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Water-Dispensers-Water-Purification/Zojirushi-VE-Hybrid-Water-Boiler-and-Warmer-CV-DXF40/p/122574)（$3,809；庫存：缺貨）
 - [Calvin Klein 男純棉平口褲3入組 L](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Calvin-Klein-Mens-Woven-Boxer-3-Pack-Set-L/p/502289)（$639；庫存：缺貨）
 - [Samsung 75吋 Mini LED 4K AI 量子智慧顯示器 UA75M70HAXXZW](https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/70-79-TVs/Samsung-75-inch-Mini-LED-4K-AI-Smart-Monitor-UA75M70HAXXZW/p/161512)（$35,999；庫存：缺貨）
 - [Calvin Klein 男純棉平口褲3入組 M](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Calvin-Klein-Mens-Woven-Boxer-3-Pack-Set-M/p/502288)（$639；庫存：缺貨）
-- [Dr.Martens 中性經典八孔靴](https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/DrMartens-Boot/p/1488055)（$3,249；庫存：缺貨）
 - [Speedo 女連身平口泳裝](https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Water-Sports/Speedo-Ladies-Legsuit-Swimsuit/p/160820)（$1,199；庫存：缺貨）
 - [Speedo 女運動連身泳裝 Flex Band](https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Water-Sports/Speedo-Ladies-Athletic-One-Piece-Swimsuit-Flex-Band/p/160824)（$1,359；庫存：缺貨）
 - [科克蘭 冷藏全脂牛乳 1.89公升 X 2瓶](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Chilled-Fresh-Food/Kirkland-Signature-Chilled-Whole-Milk-189-L-X-2-Pack/p/855679)（$269；庫存：缺貨）
@@ -163,25 +164,32 @@
 
 ## 今日變化
 
-- 新增優惠：**1** 項
-- 本次未收錄：**1** 項（不代表優惠已結束）
-- 價格變動：**6** 項
+- 新增優惠：**2** 項
+- 本次未收錄：**2** 項（不代表優惠已結束）
+- 價格變動：**11** 項
 
 ### 價格變動
 
-- **降價**：[Banana Republic Luxe Touch 男短袖Polo衫](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Banana-Republic-Luxe-Touch-Mens-Short-Sleeve-Polo-Shirt/p/1588968) $800 → $399
-- **漲價**：[Berkemann Linus 男休閒鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Berkemann-Linus-Mens-Casual-Shoe/p/1846425) $800 → $5,119
-- **降價**：[Calvin Klein 男彈性內褲 3入組](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Calvin-Klein-Mens-Max-Mesh-Boxer-Brief-3-Pack/p/1259326) $800 → $709
-- **降價**：[GAP 男麻棉短袖襯衫](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/GAP-Mens-Short-Sleeve-Linen-Cotton-Shirt/p/1977560) $800 → $399
-- **漲價**：[Le Coq Sportif 男短袖Polo衫](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Le-Coq-Sportif-Mens-Short-Sleeve-Polo-Shirt/p/1846549) $800 → $1,299
-- **漲價**：[Tommy Hilfiger 男外套](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/Tommy-Hilfiger-Mens-Jacket/p/1763788) $800 → $1,399
+- **漲價**：[Banana Republic Luxe Touch 男短袖Polo衫](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Banana-Republic-Luxe-Touch-Mens-Short-Sleeve-Polo-Shirt/p/1588968) $399 → $800
+- **漲價**：[Berkemann Adam 男穆勒涼鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Berkemann-Adam-Mens-Mules-Sandals/p/1846424) $800 → $3,119
+- **漲價**：[Berkemann Allegra 女休閒鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Berkemann-Allegra-Ladies-Casual-Shoe/p/1846422) $800 → $3,759
+- **漲價**：[Berkemann Allegro 男休閒鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Berkemann-Allegro-Mens-Casual-Shoe/p/1846423) $800 → $5,519
+- **降價**：[Berkemann Linus 男休閒鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Berkemann-Linus-Mens-Casual-Shoe/p/1846425) $5,119 → $800
+- **漲價**：[Calvin Klein 男彈性內褲 3入組](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Calvin-Klein-Mens-Max-Mesh-Boxer-Brief-3-Pack/p/1259326) $709 → $800
+- **漲價**：[GAP 男麻棉短袖襯衫](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/GAP-Mens-Short-Sleeve-Linen-Cotton-Shirt/p/1977560) $399 → $800
+- **降價**：[Le Coq Sportif 男短袖Polo衫](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Le-Coq-Sportif-Mens-Short-Sleeve-Polo-Shirt/p/1846549) $1,299 → $800
+- **漲價**：[Merrell Moab 3 女登山運動鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Merrell-Moab-3-Ladies-Hiking-Shoe/p/1763686) $800 → $2,999
+- **漲價**：[Merrell Moab 3 男登山運動鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Merrell-Moab-3-Mens-Hiking-Shoe/p/1846575) $800 → $2,999
+- **降價**：[Tommy Hilfiger 男外套](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/Tommy-Hilfiger-Mens-Jacket/p/1763788) $1,399 → $800
 
 ### 今日新增
 
-- [KidKraft Sunny Bluff 遊戲屋](https://www.costco.com.tw/Patio-Furniture/p/1872206)（$10,899；庫存：有貨）
+- [KidKraft Sunny Bluff 遊戲屋](https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/KidKraft-Sunny-Bluff-Playhouse/p/1872206)（$10,899；庫存：有貨）
+- [席伊麗 護背系列金星雙人特大床墊 183公分 X 213公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Sealy-Venus-Mattress-183-cm-X-213-cm/p/150305)（$29,199；庫存：有貨）
 
 ### 本次未收錄（不代表優惠已結束）
 
-- [KidKraft Sunny Bluff 遊戲屋](https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/KidKraft-Sunny-Bluff-Playhouse/p/1872206)（$10,899；庫存：有貨）
+- [KidKraft Sunny Bluff 遊戲屋](https://www.costco.com.tw/Patio-Furniture/p/1872206)（$10,899；庫存：有貨）
+- [席伊麗 護背系列金星標準雙人床墊 X 1床 + 下墊 76公分 X 190公分 X 2床](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Sealy-Venus-Backsaver-Mattress-X-1-Count-and-Box-Spring-Bed-76-cm-X-190-cm-X-2-Count/p/131160)（$37,199；庫存：有貨）
 
 完整清單請查看專案中的 `output/latest.md`。
