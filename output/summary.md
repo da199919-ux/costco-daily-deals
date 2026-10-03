@@ -1,9 +1,9 @@
 # Costco 每日優惠摘要（2026-10-03）
 
-更新時間：2026-10-03 16:21（台灣時間）
+更新時間：2026-10-03 21:35（台灣時間）
 共整理出 **414** 項官方線上優惠。
 本次共讀取 **433** 個官方商品頁面。
-庫存狀態：有貨 **256** 項、缺貨 **135** 項、待確認 **23** 項。
+庫存狀態：有貨 **258** 項、缺貨 **133** 項、待確認 **23** 項。
 
 > 價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。
 
@@ -34,7 +34,6 @@
 - [32 Degrees 女羽絨外套](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Coats-Jackets/32-Degrees-Ladies-Down-Jacket/p/158599)（$899；庫存：缺貨）
 - [Neoflam 陶瓷不沾塗層鍋具 含玻璃上蓋 3件組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Cookware-Cutlery-Cutting-Boards/Neoflam-Ceramic-Non-Stick-Cookware-with-Glass-Lid-3-Piece-Set/p/158904)（$2,399；庫存：缺貨）
 - [32 Degrees 男羽絨外套](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/32-Degrees-Mens-Down-Jacket/p/1592680)（$1,049；庫存：缺貨）
-- [原萃 白毫烏龍茶 580毫升 X 24入](https://www.costco.com.tw/Food-Dining/Drinks/Tea/Real-Leaf-White-Tipped-Oolong-Tea-580-ml-X-24-Count/p/200892)（$409；庫存：缺貨）
 - [郡是 日本製快適工房男抗菌防臭背心](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Gunze-Mens-Antibacterial-Tank/p/133632)（$279；庫存：缺貨）
 - [Adidas Originals 男短袖上衣 2入組](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Adidas-Originals-Mens-Short-Sleeve-Tee-2-Pack-Set/p/159606)（$479；庫存：缺貨）
 - [郡是 日本製快適工房男抗菌防臭短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Gunze-Mens-Antibacterial-Short-Sleeve-Tee/p/133634)（$299；庫存：缺貨）
@@ -128,7 +127,6 @@
 - [FIFA 世界盃 8吋 絨毛玩偶](https://www.costco.com.tw/Household-Baby-Toys/Toys/Dolls-Pretend-Play/FIFA-World-Cup-8-inch-Plush/p/1851571)（$357；庫存：缺貨）
 - [Timberland 男短袖Polo衫](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Timberland-Mens-Short-Sleeve-Polo-Shirt/p/134126)（$647；庫存：缺貨）
 - [Orgain 有機植物性蛋白粉 香草口味 1.43公斤](https://www.costco.com.tw/Health-Beauty/Sports-Performance/Plant-Based-Protein/Orgain-Organic-Protein-Plant-Based-Powder-Vanilla-143-kg/p/1050700)（$949；庫存：缺貨）
-- [收藏家 電子防潮箱 77 公升 CT-85](https://www.costco.com.tw/EUREKA/Dry-Tech-Auto-Dry-Box-77-L-CT-85/p/138927)（$3,279；庫存：缺貨）
 - [舒特膚長效潤膚霜 550公克](https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/Cetaphil-Moisturising-Cream-550-g/p/137177)（$404；庫存：缺貨）
 - [海倫仙度絲 經典清潔去屑洗髮乳 1000毫升](https://www.costco.com.tw/Health-Beauty/Personal-Care/Shampoo-Conditioner/Head-Shoulders-Classic-Clean-Anti-Dandruff-Shampoo-1000-ml/p/370438)（$279；庫存：缺貨）
 - [CleverMade 摺疊購物車](https://www.costco.com.tw/Furniture-Kitchen/Storage-Organization/Storage-Containers-Hooks/CleverMade-Foldable-Shopping-Cart/p/2796150)（$975；庫存：缺貨）
@@ -165,20 +163,25 @@
 
 ## 今日變化
 
-- 新增優惠：**0** 項
-- 本次未收錄：**0** 項（不代表優惠已結束）
-- 價格變動：**0** 項
+- 新增優惠：**1** 項
+- 本次未收錄：**1** 項（不代表優惠已結束）
+- 價格變動：**6** 項
 
 ### 價格變動
 
-- 今天沒有偵測到價格變動。
+- **降價**：[Banana Republic Luxe Touch 男短袖Polo衫](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Banana-Republic-Luxe-Touch-Mens-Short-Sleeve-Polo-Shirt/p/1588968) $800 → $399
+- **漲價**：[Berkemann Linus 男休閒鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Berkemann-Linus-Mens-Casual-Shoe/p/1846425) $800 → $5,119
+- **降價**：[Calvin Klein 男彈性內褲 3入組](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Calvin-Klein-Mens-Max-Mesh-Boxer-Brief-3-Pack/p/1259326) $800 → $709
+- **降價**：[GAP 男麻棉短袖襯衫](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/GAP-Mens-Short-Sleeve-Linen-Cotton-Shirt/p/1977560) $800 → $399
+- **漲價**：[Le Coq Sportif 男短袖Polo衫](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Le-Coq-Sportif-Mens-Short-Sleeve-Polo-Shirt/p/1846549) $800 → $1,299
+- **漲價**：[Tommy Hilfiger 男外套](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/Tommy-Hilfiger-Mens-Jacket/p/1763788) $800 → $1,399
 
 ### 今日新增
 
-- 今天沒有新增優惠。
+- [KidKraft Sunny Bluff 遊戲屋](https://www.costco.com.tw/Patio-Furniture/p/1872206)（$10,899；庫存：有貨）
 
 ### 本次未收錄（不代表優惠已結束）
 
-- 本次沒有商品離開抓取清單。
+- [KidKraft Sunny Bluff 遊戲屋](https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/KidKraft-Sunny-Bluff-Playhouse/p/1872206)（$10,899；庫存：有貨）
 
 完整清單請查看專案中的 `output/latest.md`。

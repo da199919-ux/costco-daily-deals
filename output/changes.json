@@ -1,8 +1,111 @@
 {
   "date": "2026-10-03",
-  "generated_at": "2026-10-03 16:21",
+  "generated_at": "2026-10-03 21:35",
   "has_previous": true,
-  "added": [],
-  "removed": [],
-  "price_changes": []
+  "added": [
+    {
+      "name": "KidKraft Sunny Bluff 遊戲屋",
+      "price": "$10,899",
+      "original_price": "$14,999",
+      "discount_amount": "$4,100",
+      "promotion": "商品已折價$4,100 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Patio-Furniture/p/1872206",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf7/h1f/471660421840926.jpg",
+      "category": "其他"
+    }
+  ],
+  "removed": [
+    {
+      "name": "KidKraft Sunny Bluff 遊戲屋",
+      "price": "$10,899",
+      "original_price": "$14,999",
+      "discount_amount": "$4,100",
+      "promotion": "商品已折價$4,100 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/KidKraft-Sunny-Bluff-Playhouse/p/1872206",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf7/h1f/471660421840926.jpg",
+      "category": "其他"
+    }
+  ],
+  "price_changes": [
+    {
+      "name": "Banana Republic Luxe Touch 男短袖Polo衫",
+      "price": "$399",
+      "original_price": "$549",
+      "discount_amount": "$150",
+      "promotion": "商品已折價$150 含運",
+      "stock_status": "狀態未知",
+      "old_price": "$800",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Banana-Republic-Luxe-Touch-Mens-Short-Sleeve-Polo-Shirt/p/1588968",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hff/h83/471216340926494.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Berkemann Linus 男休閒鞋",
+      "price": "$5,119",
+      "original_price": "$6,399",
+      "discount_amount": "$1,280",
+      "promotion": "商品已折價$1,280 含運",
+      "stock_status": "狀態未知",
+      "old_price": "$800",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Berkemann-Linus-Mens-Casual-Shoe/p/1846425",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hdd/h0d/487296853147678.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Calvin Klein 男彈性內褲 3入組",
+      "price": "$709",
+      "original_price": "$889",
+      "discount_amount": "$180",
+      "promotion": "商品已折價 $180 含運",
+      "stock_status": "狀態未知",
+      "old_price": "$800",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Calvin-Klein-Mens-Max-Mesh-Boxer-Brief-3-Pack/p/1259326",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h6a/h34/64684741656606.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "GAP 男麻棉短袖襯衫",
+      "price": "$399",
+      "original_price": "$549",
+      "discount_amount": "$150",
+      "promotion": "商品已折價$150 含運",
+      "stock_status": "狀態未知",
+      "old_price": "$800",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/GAP-Mens-Short-Sleeve-Linen-Cotton-Shirt/p/1977560",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h96/ha2/471660432883742.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Le Coq Sportif 男短袖Polo衫",
+      "price": "$1,299",
+      "original_price": "$1,649",
+      "discount_amount": "$350",
+      "promotion": "商品已折價$350 含運",
+      "stock_status": "狀態未知",
+      "old_price": "$800",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Le-Coq-Sportif-Mens-Short-Sleeve-Polo-Shirt/p/1846549",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h02/h67/455934067474462.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Tommy Hilfiger 男外套",
+      "price": "$1,399",
+      "original_price": "$1,749",
+      "discount_amount": "$350",
+      "promotion": "商品已折價$350 含運",
+      "stock_status": "狀態未知",
+      "old_price": "$800",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/Tommy-Hilfiger-Mens-Jacket/p/1763788",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he2/hec/505969129586718.jpg",
+      "category": "服飾配件"
+    }
+  ]
 }
