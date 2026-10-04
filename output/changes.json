@@ -1,74 +1,31 @@
 {
   "date": "2026-10-04",
-  "generated_at": "2026-10-04 08:51",
+  "generated_at": "2026-10-04 15:06",
   "has_previous": true,
-  "added": [],
-  "removed": [],
-  "price_changes": [
+  "added": [
     {
-      "name": "Berkemann Adam 男穆勒涼鞋",
-      "price": "$800",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$3,119",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Berkemann-Adam-Mens-Mules-Sandals/p/1846424",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hfd/h22/487296843808798.jpg",
-      "category": "服飾配件"
+      "name": "幫寶適 一級幫 散熱拉拉褲 XXXL號 93片",
+      "price": "$1,079",
+      "original_price": "$1,349",
+      "discount_amount": "$270",
+      "promotion": "商品已折價$270 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/246576",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h42/h2f/466199227793438.jpg",
+      "category": "日用品／母嬰／玩具"
     },
     {
-      "name": "Berkemann Allegra 女休閒鞋",
-      "price": "$800",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$3,759",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Berkemann-Allegra-Ladies-Casual-Shoe/p/1846422",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h0c/hf6/488918753673246.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Berkemann Allegro 男休閒鞋",
-      "price": "$800",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$5,519",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Berkemann-Allegro-Mens-Casual-Shoe/p/1846423",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h09/h71/487296843939870.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Merrell Moab 3 女登山運動鞋",
-      "price": "$800",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$2,999",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Merrell-Moab-3-Ladies-Hiking-Shoe/p/1763686",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hee/h40/502597111971870.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Merrell Moab 3 男登山運動鞋",
-      "price": "$800",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$2,999",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Merrell-Moab-3-Mens-Hiking-Shoe/p/1846575",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h4d/h53/502266469285918.jpg",
-      "category": "服飾配件"
+      "name": "士力架 迷你花生巧克力隨手包 9公克 X 126條",
+      "price": "$449",
+      "original_price": "$559",
+      "discount_amount": "$110",
+      "promotion": "商品已折價$110 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/63005",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfb/h49/26606254719006.jpg",
+      "category": "食品飲料"
     }
-  ]
+  ],
+  "removed": [],
+  "price_changes": []
 }
