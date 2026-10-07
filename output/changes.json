@@ -1,152 +1,73 @@
 {
   "date": "2026-10-07",
-  "generated_at": "2026-10-07 09:47",
+  "generated_at": "2026-10-07 16:59",
   "has_previous": true,
   "added": [
     {
-      "name": "KASACA 無邊框碳纖維匹克球拍套組",
-      "price": "$1,749",
-      "original_price": "$2,189",
-      "discount_amount": "$440",
-      "promotion": "商品已折價$440 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Team-Sports/KASACA-Edgeless-Carbon-Fiber-Pickleball-Paddle-Set/p/156966",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h79/h9e/403520064815134.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "大成冷凍白玉烏骨雞切塊4公斤",
-      "price": "$979",
-      "original_price": "$1,119",
-      "discount_amount": "$140",
-      "promotion": "商品已折價$140 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/DaChanTaiwan-Frozen-Silky-Fowl-Chicken-Chopped-4kg/p/157714",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hff/h48/403085692174366.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "名廚美饌 冷凍什穀熟飯 200公克 X 12包 X 2盒",
-      "price": "$779",
-      "original_price": "$979",
-      "discount_amount": "$200",
-      "promotion": "商品已折價$200 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/PGI-Cuisine-De-Chef-Frozen-Mixed-Cooked-Grains-200-g-X-12-Pack-X-2-Box/p/158893",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hdb/h08/434798788608030.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Le Creuset 雙耳圓形鑄鐵鍋 含電木頭鍋蓋 26公分 櫻桃紅",
-      "price": "$6,359",
-      "original_price": "$7,959",
-      "discount_amount": "$1,600",
-      "promotion": "商品已折價$1,600 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Cookware-Cutlery-Cutting-Boards/Le-Creuset-Dutch-Oven-Cast-Iron-Pot-with-Lid-26-cm-Cerise/p/151299",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h6d/h23/315744016007198.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "費雪 滑動學習智慧型手機 / 9~36個月 + 美高建築工具組 / 2歲以上",
-      "price": "$739",
-      "original_price": "$929",
-      "discount_amount": "$190",
-      "promotion": "商品已折價$190 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Infant-Preschool/Fisher-Price-Laugh-Learn-2-in-1-Slide-to-Learn-Smartphone-Ages-936-Months-MEGA-BLOKS-Lil-Building-Toolkit-Ages-2-and-UP/p/156241",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hab/hb4/379898147373086.jpg",
-      "category": "日用品／母嬰／玩具"
-    },
-    {
-      "name": "戴森 手提無線吸塵器 #V8 SV25 Motorhead",
-      "price": "$7,999",
-      "original_price": "$8,799",
-      "discount_amount": "$800",
-      "promotion": "商品已折價$800 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/160796",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf1/h7a/490097853628446.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "IRIS Woozoo 空氣循環扇 PCF-SC15T-CT",
-      "price": "$1,269",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/IRIS-Woozoo-Circulator-Fan-PCF-SC15T-CT/p/2354207",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha5/h9d/329850798506014.jpg",
-      "category": "家電 3C"
-    }
-  ],
-  "removed": [
-    {
-      "name": "農心 安城湯麵 125公克 X 12包入",
-      "price": "$279",
-      "original_price": "$349",
+      "name": "Baby趣味學習貼貼書 (第二輯) : 我會ㄅㄆㄇ、我會ABC、認識顏色、有趣形狀",
+      "price": "$585",
+      "original_price": "$655",
       "discount_amount": "$70",
       "promotion": "商品已折價$70 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/p/144777",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/he3/hfa/115203688398878.jpg",
-      "category": "食品飲料"
+      "url": "https://www.costco.com.tw/Office-School/Books/Kids-Books/Kids-Interaction-Book-Set-Book-2/p/135687",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/had/hdb/87530387767326.jpg",
+      "category": "其他"
     },
     {
-      "name": "舒潔 Viva 三層廚房紙巾 60張 X 16卷",
-      "price": "$423",
-      "original_price": "$529",
-      "discount_amount": "$106",
-      "promotion": "商品已折價$106 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/127295",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h82/h57/120613024890910.jpg",
-      "category": "日用品／母嬰／玩具"
-    },
-    {
-      "name": "大成冷凍白玉烏骨雞切塊4公斤",
-      "price": "$979",
-      "original_price": "$1,119",
+      "name": "聲寶 USB二合一捕蚊燈拍",
+      "price": "$559",
+      "original_price": "$699",
       "discount_amount": "$140",
       "promotion": "商品已折價$140 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/p/157714",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hff/h48/403085692174366.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "KASACA 無邊框碳纖維匹克球拍套組",
-      "price": "$1,749",
-      "original_price": "$2,189",
-      "discount_amount": "$440",
-      "promotion": "商品已折價$440 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/156966",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h79/h9e/403520064815134.jpg",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Pest-Control/SAMPO-2-in-1-USB-Rechargeable-Mosquito-Lamp-and-Swatter/p/135620",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h1f/hd7/98985031925790.jpg",
       "category": "其他"
     },
     {
-      "name": "名廚美饌 冷凍什穀熟飯 200公克 X 12包 X 2盒",
-      "price": "$779",
-      "original_price": "$979",
-      "discount_amount": "$200",
-      "promotion": "商品已折價$200 含運",
+      "name": "Pro'sKit 寶工AI 鼓掌刺蝟 附手鉗 / 8歲以上",
+      "price": "$719",
+      "original_price": "$899",
+      "discount_amount": "$180",
+      "promotion": "商品已折價$180 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/p/158893",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hdb/h08/434798788608030.jpg",
-      "category": "食品飲料"
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Board-Games-Puzzles/ProsKit-AI-Robot-Hedgehog-with-Pliers-Ages-8-and-Up/p/125228",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0a/h94/138405420630046.jpg",
+      "category": "日用品／母嬰／玩具"
     },
     {
-      "name": "Le Creuset 雙耳圓形鑄鐵鍋 含電木頭鍋蓋 26公分 櫻桃紅",
-      "price": "$6,359",
-      "original_price": "$7,959",
-      "discount_amount": "$1,600",
-      "promotion": "商品已折價$1,600 含運",
+      "name": "Pro'sKit 寶工3合1變形坦克 附工具組 / 13歲以上",
+      "price": "$899",
+      "original_price": "$1,139",
+      "discount_amount": "$240",
+      "promotion": "商品已折價$240 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/151299",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h6d/h23/315744016007198.jpg",
-      "category": "其他"
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Board-Games-Puzzles/ProsKit-3-in-1-All-Terrain-Robot-With-Tools-Kit-Ages-13-and-Up/p/123946",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hdf/hce/13692464136222.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "Pro'sKit 寶工6合1搖擺陀螺組 附手鉗 / 8歲以上",
+      "price": "$465",
+      "original_price": "$585",
+      "discount_amount": "$120",
+      "promotion": "商品已折價$120 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Board-Games-Puzzles/ProsKit-6-In-1-Gyroscope-Science-Kit-With-Pliers-Ages-8-and-Up/p/135096",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf3/hb2/84575308283934.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "席伊麗 護背系列新銀河雙人加大床墊 183公分 X 190公分",
+      "price": "$18,599",
+      "original_price": "$21,999",
+      "discount_amount": "$3,400",
+      "promotion": "商品已折價$3,400 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Sealy-New-Galaxy-Mattress-183-cm-X-190-cm/p/125601",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf5/h4e/138558555815966.jpg",
+      "category": "家具家居"
     },
     {
       "name": "開利 7-9坪 5.1kW 智冷系列變頻冷暖一對一分離式冷氣 含運費及基本安裝",
@@ -182,72 +103,6 @@
       "category": "服飾配件"
     },
     {
-      "name": "Baby趣味學習貼貼書 (第二輯) : 我會ㄅㄆㄇ、我會ABC、認識顏色、有趣形狀",
-      "price": "$585",
-      "original_price": "$655",
-      "discount_amount": "$70",
-      "promotion": "商品已折價$70 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Office-School/Books/Kids-Books/Kids-Interaction-Book-Set-Book-2/p/135687",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/had/hdb/87530387767326.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "聲寶 USB二合一捕蚊燈拍",
-      "price": "$559",
-      "original_price": "$699",
-      "discount_amount": "$140",
-      "promotion": "商品已折價$140 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Pest-Control/SAMPO-2-in-1-USB-Rechargeable-Mosquito-Lamp-and-Swatter/p/135620",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h1f/hd7/98985031925790.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Pro'sKit 寶工6合1搖擺陀螺組 附手鉗 / 8歲以上",
-      "price": "$465",
-      "original_price": "$585",
-      "discount_amount": "$120",
-      "promotion": "商品已折價$120 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Board-Games-Puzzles/ProsKit-6-In-1-Gyroscope-Science-Kit-With-Pliers-Ages-8-and-Up/p/135096",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf3/hb2/84575308283934.jpg",
-      "category": "日用品／母嬰／玩具"
-    },
-    {
-      "name": "席伊麗 護背系列新銀河雙人加大床墊 183公分 X 190公分",
-      "price": "$18,599",
-      "original_price": "$21,999",
-      "discount_amount": "$3,400",
-      "promotion": "商品已折價$3,400 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/Sealy-New-Galaxy-Mattress-183-cm-X-190-cm/p/125601",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf5/h4e/138558555815966.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Pro'sKit 寶工AI 鼓掌刺蝟 附手鉗 / 8歲以上",
-      "price": "$719",
-      "original_price": "$899",
-      "discount_amount": "$180",
-      "promotion": "商品已折價$180 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Board-Games-Puzzles/ProsKit-AI-Robot-Hedgehog-with-Pliers-Ages-8-and-Up/p/125228",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h0a/h94/138405420630046.jpg",
-      "category": "日用品／母嬰／玩具"
-    },
-    {
-      "name": "Pro'sKit 寶工3合1變形坦克 附工具組 / 13歲以上",
-      "price": "$899",
-      "original_price": "$1,139",
-      "discount_amount": "$240",
-      "promotion": "商品已折價$240 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Board-Games-Puzzles/ProsKit-3-in-1-All-Terrain-Robot-With-Tools-Kit-Ages-13-and-Up/p/123946",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hdf/hce/13692464136222.jpg",
-      "category": "日用品／母嬰／玩具"
-    },
-    {
       "name": "Trinity 72吋不鏽鋼工作檯附掛板",
       "price": "$22,899",
       "original_price": "$28,699",
@@ -259,16 +114,265 @@
       "category": "家具家居"
     },
     {
-      "name": "IRIS Woozoo 空氣循環扇 PCF-SC15T-CT",
-      "price": "$1,269",
+      "name": "開利 10-12坪 7.4kW 智冷系列變頻冷暖一對一分離式冷氣 含運費及基本安裝",
+      "price": "$45,299",
+      "original_price": "$53,299",
+      "discount_amount": "$8,000",
+      "promotion": "商品已折價$8,000 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Air-Conditioners/Carrier-74kW-Split-DC-Inverter-Air-Conditioner-with-Heater-Includes-Shipment-and-Basic-Installation/p/157777",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h93/h55/327562463248414.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "農心 安城湯麵 125公克 X 12包入",
+      "price": "$279",
+      "original_price": "$349",
+      "discount_amount": "$70",
+      "promotion": "商品已折價$70 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Nongshim-Ansung-Noodle-125-g-X-12-Pack/p/144777",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he3/hfa/115203688398878.jpg",
+      "category": "食品飲料"
+    }
+  ],
+  "removed": [
+    {
+      "name": "開利 10-12坪 7.4kW 智冷系列變頻冷暖一對一分離式冷氣 含運費及基本安裝",
+      "price": "$45,299",
+      "original_price": "$53,299",
+      "discount_amount": "$8,000",
+      "promotion": "商品已折價$8,000 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Large-Appliances/p/157777",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h93/h55/327562463248414.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Boutique Living 400織萊賽爾床包 6件組 雙人尺寸",
+      "price": "$1,759",
       "original_price": "",
       "discount_amount": "",
       "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Cooling-Heating-Air-Treatment/Heating-Cooling/p/2354207",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha5/h9d/329850798506014.jpg",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Boutique-Living-400-Thread-Count-Tencel-Ice-Cooling-6-Piece-Duvet-Set-Queen/p/150460",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hd0/h4d/471660175360030.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "INFINITY X1 500流明 充電式串燈 2入",
+      "price": "$469",
+      "original_price": "$769",
+      "discount_amount": "$300",
+      "promotion": "商品已折價$300 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/INFINITY-X1-500-Lumens-String-Lights-2-Pack-Set/p/1872149",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h72/h4a/454001916543006.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "小鹿山丘 長效抗菌防蚊組",
+      "price": "$639",
+      "original_price": "$799",
+      "discount_amount": "$160",
+      "promotion": "商品已折價$160 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Pest-Control/eggshell-Verda-Deer-Hills-Mosquito-Repellent-Dual-Effect-Antibacterial-Set/p/143230",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0f/h50/205579831148574.jpg",
       "category": "其他"
+    },
+    {
+      "name": "LEGO 經典系列 創意拼砌玩樂百寶盒 11044 / 5歲以上",
+      "price": "$975",
+      "original_price": "$1,219",
+      "discount_amount": "$244",
+      "promotion": "商品已折價$244 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Building-Sets-Blocks/LEGO-Classic-Creative-Build-and-Play-11044-Ages-5-and-Up/p/160552",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc8/hb7/466558756880414.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "LEGO 城市系列 濱海港口和貨船 60422 / 8歲以上",
+      "price": "$2,199",
+      "original_price": "$2,759",
+      "discount_amount": "$560",
+      "promotion": "商品已折價$560 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Building-Sets-Blocks/LEGO-City-Seaside-Harbor-with-Cargo-Ship-60422-Ages-8-and-Up/p/156720",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hda/h81/382511717515294.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "Clementoni DIY 原子筆組",
+      "price": "$765",
+      "original_price": "$965",
+      "discount_amount": "$200",
+      "promotion": "商品已折價$200 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Dolls-Pretend-Play/Clementoni-Pen-Creator-Studio/p/1202872",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0f/h95/437686584737822.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "LEGO 花藝系列 野花花束 10313 / 花束 10280 / 18歲以上",
+      "price": "$855",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Building-Sets-Blocks/LEGO-Botanical-Wildflower-Bouquet-10313-Flower-Bouquet-10280-Ages-18-and-Up/p/160550",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h3c/h78/467458812543006.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "三麗鷗 兒童不鏽鋼保冷保溫瓶 700毫升",
+      "price": "$297",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/Sanrio-Kids-Stainless-Steel-Water-Bottle-700-ml/p/8524812",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h86/h63/382254260322334.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Juicy Couture 女短袖上衣",
+      "price": "$297",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Juicy-Couture-Ladies-Short-Sleeve-Tee/p/156551",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he7/h19/420739560636446.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Tobin Sports 11呎 2吋 充氣槳板",
+      "price": "$4,097",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Water-Sports/Tobin-Sports-11-ft-2-inch-Inflatable-Stand-Up-Paddle-Board/p/1819502",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4a/hac/361110414163998.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Mobi Garden 自動天幕",
+      "price": "$987",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Tents-Camping-Gear/Mobi-Garden-Auto-Trap/p/8523372",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h98/h65/378823413235742.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "LEGO Ideas 家族樹 21346 / 18歲以上",
+      "price": "$1,767",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Building-Sets-Blocks/LEGO-Ideas-Family-Tree-21346-Ages-18-and-Up/p/153156",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4c/h0e/361110047948830.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "Nautica 女休閒短褲",
+      "price": "$397",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Nautica-Ladies-Casual-Short/p/142040",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h05/h13/448868221681694.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "馬牌 255/45 R20 105W XL FR UX7 輪胎",
+      "price": "$1,379",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Tire/Continental-25545-R20-105W-XL-FR-UX7-Tire/tire/p/155376",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4f/h54/368528938565662.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "夏普 528公升 四門十字對開除菌冰箱 SJ-DF53F-SL",
+      "price": "$44,499",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Fridges-Freezers/SHARP-528-L-4-Door-Side-by-Side-Fridge-Refrigerator-SJ-DF53F-SL/p/147651",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h46/h0e/298052343234590.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "BOSCH 60公分 4系列獨立式洗碗機 SMS4ITW00X",
+      "price": "$33,999",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Dishwashers-Dish-Dryers/BOSCH-60-cm-Series-4-Freestanding-Dishwasher-SMS4ITW00X/p/143549",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h79/h2a/205293596016670.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "戴森 手提無線吸塵器 #V8 SV25 Motorhead",
+      "price": "$7,999",
+      "original_price": "$8,799",
+      "discount_amount": "$800",
+      "promotion": "商品已折價$800 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/160796",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf1/h7a/490097853628446.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "費雪 滑動學習智慧型手機 / 9~36個月 + 美高建築工具組 / 2歲以上",
+      "price": "$739",
+      "original_price": "$929",
+      "discount_amount": "$190",
+      "promotion": "商品已折價$190 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/p/156241",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hab/hb4/379898147373086.jpg",
+      "category": "日用品／母嬰／玩具"
     }
   ],
-  "price_changes": []
+  "price_changes": [
+    {
+      "name": "Berkemann Linus 男休閒鞋",
+      "price": "$1,379",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "old_price": "$1,599",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Berkemann-Linus-Mens-Casual-Shoe/p/1846425",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hdd/h0d/487296853147678.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "New Balance 男連帽軟殼外套",
+      "price": "$2,599",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "old_price": "$20,159",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/New-Balance-Mens-Hooded-Softshell-Jacket/p/1846532",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h61/h0e/487296856326174.jpg",
+      "category": "服飾配件"
+    }
+  ]
 }
