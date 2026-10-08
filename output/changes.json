@@ -1,120 +1,52 @@
 {
   "date": "2026-10-08",
-  "generated_at": "2026-10-08 10:11",
+  "generated_at": "2026-10-08 17:16",
   "has_previous": true,
   "added": [
     {
-      "name": "Ariel 極致雙效洗衣精補充包 1100公克 X 6 入",
-      "price": "$749",
-      "original_price": "$949",
-      "discount_amount": "$200",
-      "promotion": "商品已折價 $200 含運",
+      "name": "歐司朗 LED 護眼螢幕掛燈",
+      "price": "$995",
+      "original_price": "$1,275",
+      "discount_amount": "$280",
+      "promotion": "商品已折價$280 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Laundry-Care/Ariel-Laundry-Detergent-Liquid-Refill-1100-g-X-6-Count/p/417455",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h1a/hc8/438035520225310.jpg",
-      "category": "日用品／母嬰／玩具"
-    },
-    {
-      "name": "Banana Republic Luxe Touch 男短袖Polo衫",
-      "price": "$1,599",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Banana-Republic-Luxe-Touch-Mens-Short-Sleeve-Polo-Shirt/p/1588968",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hff/h83/471216340926494.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Banana Republic 男平織寬版內褲 3入組",
-      "price": "$1,379",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Banana-Republic-Mens-Woven-Boxers-3-Pack-Set/p/1965984",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h11/hcd/471216510304286.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "京都西川 支撐舒眠枕 WIDE 70公分 X 43公分",
-      "price": "$839",
-      "original_price": "$1,055",
-      "discount_amount": "$216",
-      "promotion": "商品已折價$216 含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Nishikawa-Sleep-Doctor-Pillow-WIDE-70-cm-X-43-cm/p/539045",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hc4/he8/473820344778782.jpg",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-LED-Screen-Light/p/146243",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h05/h47/509994875125790.jpg",
       "category": "家具家居"
     },
     {
-      "name": "GAP 男麻棉短袖襯衫",
-      "price": "$1,379",
+      "name": "普利司通 205/55 R17 95W TURANZA 6 輪胎",
+      "price": "$4,185",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
       "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/GAP-Mens-Short-Sleeve-Linen-Cotton-Shirt/p/1977560",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h96/ha2/471660432883742.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Glacier 男平織束口長褲",
-      "price": "$429",
-      "original_price": "$549",
-      "discount_amount": "$120",
-      "promotion": "商品已折價$120 含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/Glacier-Mens-Woven-Jogger/p/158209",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h66/h0a/471216324837406.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Timberland 男長袖襯衫",
-      "price": "$799",
-      "original_price": "$999",
-      "discount_amount": "$200",
-      "promotion": "商品已折價$200 含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Timberland-Mens-Long-Sleeve-Shirt/p/159917",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h80/h02/455933380853790.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "AG 男牛仔褲",
-      "price": "$1,379",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/AG-Mens-Modern-Jeans/p/1846554",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h43/h8a/485340880207902.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "True Innovations 辦公椅",
-      "price": "$2,299",
-      "original_price": "$2,899",
-      "discount_amount": "$600",
-      "promotion": "商品已折價$600 含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/True-Innovations-Office-Chair/p/1987669",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h6b/h76/488919000842270.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Freetown 成人自行車安全頭盔",
-      "price": "$899",
-      "original_price": "$1,149",
-      "discount_amount": "$250",
-      "promotion": "商品已折價$250 含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/p/152289",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf9/hd3/401755707179038.jpg",
+      "url": "https://www.costco.com.tw/Tire/Bridgestone-20555-R17-95W-TURANZA-6-Tire/tire/p/163238",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hbf/hf5/350548647477278.jpg",
       "category": "其他"
-    }
-  ],
-  "removed": [
+    },
+    {
+      "name": "飛利浦 85吋 4K MiniLED 144Hz Google TV 顯示器 85MLED800/96",
+      "price": "$49,999",
+      "original_price": "$65,999",
+      "discount_amount": "$16,000",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/80-Above-TVs/Philips-85-inch-4K-MiniLED-144Hz-Google-TV-Monitor-85MLED80096/p/153522",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h8f/h41/438072168448030.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "正負零 3D DC直流循環風扇 XQS-G630",
+      "price": "$4,599",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/0-3D-DC-Inverter-Air-Circulator-XQS-G630/p/138455",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h06/h12/132201976528926.jpg",
+      "category": "家電 3C"
+    },
     {
       "name": "Don Home 300織萊賽爾雙人兩用被套 6件組 152公分 X 190公分 協奏",
       "price": "$2,599",
@@ -136,18 +68,146 @@
       "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Don-Home-300-Thread-Count-Lyocell-Quilted-Duvet-6-Piece-Set-152-cm-X-190-cm-Shimmer/p/159770",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hb1/hb9/455116810223646.jpg",
       "category": "家具家居"
+    }
+  ],
+  "removed": [
+    {
+      "name": "TCL 65吋 P6L 4K Google TV 智慧連網液晶顯示器 不含視訊盒 65P6L",
+      "price": "$15,199",
+      "original_price": "$18,999",
+      "discount_amount": "$3,800",
+      "promotion": "商品已折價$3,800 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/60-69-TVs/TCL-65-inch-P6L-4K-Google-TV-Smart-Monitor-without-Tuner-Box-65P6L/p/161740",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb2/h9b/492247715905566.jpg",
+      "category": "家電 3C"
     },
     {
-      "name": "正負零 3D DC直流循環風扇 XQS-G630",
-      "price": "$4,599",
+      "name": "TCL 85吋 C8L 頂級 SQD-Mini LED 量子智能連網液晶顯示器 不含視訊盒 85C8L",
+      "price": "$71,999",
+      "original_price": "$89,999",
+      "discount_amount": "$18,000",
+      "promotion": "商品已折價$18,000 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/80-Above-TVs/TCL-85-inch-C8L-Premium-SQD-Mini-LED-Smart-Monitor-without-Tuner-Box-85C8L/p/161705",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4e/h53/490097878073374.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "TCL 75吋 P6L 4K Google TV 智慧連網液晶顯示器 不含視訊盒 75P6L",
+      "price": "$21,399",
+      "original_price": "$26,999",
+      "discount_amount": "$5,600",
+      "promotion": "商品已折價$5,600 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/70-79-TVs/TCL-75-inch-P6L-4K-Google-TV-Smart-Monitor-without-Tuner-Box-75P6L/p/161739",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hbf/h5b/492247714398238.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "歐司朗 朗德萬斯 LED 護眼螢幕掛燈",
+      "price": "$995",
+      "original_price": "$1,275",
+      "discount_amount": "$280",
+      "promotion": "商品已折價$280 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-LEDVANCE-LED-Screen-Light/p/146243",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h05/h47/509994875125790.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Kate Spade 太陽眼鏡 KS NAVY/G/S KTV9O 黑色",
+      "price": "$1,599",
+      "original_price": "$2,599",
+      "discount_amount": "$1,000",
+      "promotion": "商品已折價$1,000 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/Kate-Spade-Sunglasses-KS-NAVYGS-KTV9O-Black/p/251680",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/hd4/433626137657374.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Kate Spade 太陽眼鏡 VONNIE/F/S 807 黑色",
+      "price": "$1,599",
+      "original_price": "$2,599",
+      "discount_amount": "$1,000",
+      "promotion": "商品已折價$1,000 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/Kate-Spade-Sunglasses-VONNIEFS-807-Black/p/250014",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h29/hce/433626117046302.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Simon Li 三人座牛皮電動沙發",
+      "price": "$18,997",
       "original_price": "",
       "discount_amount": "",
       "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/0-3D-DC-Inverter-Air-Circulator-XQS-G630/p/138455",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h06/h12/132201976528926.jpg",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Simon-Li-Leather-Power-3-Seater-Reclining-Sofa/p/1812553",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h5c/hb1/278946242920478.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Coddle 布面多功能L型沙發床",
+      "price": "$16,997",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Coddle-Cameron-Sleeper-Sofa-Chaise/p/1987623",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfc/h76/449275449147422.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Apple 14 吋 MacBook Pro M5晶片 10核心CPU 10核心GPU 16GB 1TB SSD",
+      "price": "$60,029",
+      "original_price": "$60,399",
+      "discount_amount": "$370",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Digital-Mobile/Laptops-Computers/Laptops/Apple-14-inch-MacBook-Pro-M5-Chip-with-10-Core-CPU-and-10-Core-GPU-16GB-1TB-SSD/p/157310-B",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h82/h03/438478600241182.jpg",
       "category": "家電 3C"
+    },
+    {
+      "name": "Freetown 成人自行車安全頭盔",
+      "price": "$899",
+      "original_price": "$1,149",
+      "discount_amount": "$250",
+      "promotion": "商品已折價$250 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/p/152289",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf9/hd3/401755707179038.jpg",
+      "category": "其他"
     }
   ],
-  "price_changes": []
+  "price_changes": [
+    {
+      "name": "Banana Republic Luxe Touch 男短袖Polo衫",
+      "price": "$849",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "old_price": "$1,599",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Banana-Republic-Luxe-Touch-Mens-Short-Sleeve-Polo-Shirt/p/1588968",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hff/h83/471216340926494.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Merrell Moab 3 男登山運動鞋",
+      "price": "$719",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "old_price": "$1,599",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Merrell-Moab-3-Mens-Hiking-Shoe/p/1846575",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4d/h53/502266469285918.jpg",
+      "category": "服飾配件"
+    }
+  ]
 }
