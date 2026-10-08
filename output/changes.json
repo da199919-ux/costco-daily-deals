@@ -1,8 +1,153 @@
 {
   "date": "2026-10-08",
-  "generated_at": "2026-10-08 06:11",
+  "generated_at": "2026-10-08 10:11",
   "has_previous": true,
-  "added": [],
-  "removed": [],
+  "added": [
+    {
+      "name": "Ariel 極致雙效洗衣精補充包 1100公克 X 6 入",
+      "price": "$749",
+      "original_price": "$949",
+      "discount_amount": "$200",
+      "promotion": "商品已折價 $200 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Laundry-Care/Ariel-Laundry-Detergent-Liquid-Refill-1100-g-X-6-Count/p/417455",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h1a/hc8/438035520225310.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "Banana Republic Luxe Touch 男短袖Polo衫",
+      "price": "$1,599",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Banana-Republic-Luxe-Touch-Mens-Short-Sleeve-Polo-Shirt/p/1588968",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hff/h83/471216340926494.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Banana Republic 男平織寬版內褲 3入組",
+      "price": "$1,379",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Banana-Republic-Mens-Woven-Boxers-3-Pack-Set/p/1965984",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h11/hcd/471216510304286.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "京都西川 支撐舒眠枕 WIDE 70公分 X 43公分",
+      "price": "$839",
+      "original_price": "$1,055",
+      "discount_amount": "$216",
+      "promotion": "商品已折價$216 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Nishikawa-Sleep-Doctor-Pillow-WIDE-70-cm-X-43-cm/p/539045",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc4/he8/473820344778782.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "GAP 男麻棉短袖襯衫",
+      "price": "$1,379",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/GAP-Mens-Short-Sleeve-Linen-Cotton-Shirt/p/1977560",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h96/ha2/471660432883742.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Glacier 男平織束口長褲",
+      "price": "$429",
+      "original_price": "$549",
+      "discount_amount": "$120",
+      "promotion": "商品已折價$120 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/Glacier-Mens-Woven-Jogger/p/158209",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h66/h0a/471216324837406.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Timberland 男長袖襯衫",
+      "price": "$799",
+      "original_price": "$999",
+      "discount_amount": "$200",
+      "promotion": "商品已折價$200 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Timberland-Mens-Long-Sleeve-Shirt/p/159917",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h80/h02/455933380853790.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "AG 男牛仔褲",
+      "price": "$1,379",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/AG-Mens-Modern-Jeans/p/1846554",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h43/h8a/485340880207902.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "True Innovations 辦公椅",
+      "price": "$2,299",
+      "original_price": "$2,899",
+      "discount_amount": "$600",
+      "promotion": "商品已折價$600 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/True-Innovations-Office-Chair/p/1987669",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h6b/h76/488919000842270.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Freetown 成人自行車安全頭盔",
+      "price": "$899",
+      "original_price": "$1,149",
+      "discount_amount": "$250",
+      "promotion": "商品已折價$250 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/p/152289",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf9/hd3/401755707179038.jpg",
+      "category": "其他"
+    }
+  ],
+  "removed": [
+    {
+      "name": "Don Home 300織萊賽爾雙人兩用被套 6件組 152公分 X 190公分 協奏",
+      "price": "$2,599",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Don-Home-300-Thread-Count-Lyocell-Quilted-Duvet-6-Piece-Set-152-cm-X-190-cm-Concerto/p/159771",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h27/h2b/455116814090270.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Don Home 300織萊賽爾雙人兩用被套六件組 152公分 X 190公分 微光",
+      "price": "$2,599",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/Don-Home-300-Thread-Count-Lyocell-Quilted-Duvet-6-Piece-Set-152-cm-X-190-cm-Shimmer/p/159770",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb1/hb9/455116810223646.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "正負零 3D DC直流循環風扇 XQS-G630",
+      "price": "$4,599",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/0-3D-DC-Inverter-Air-Circulator-XQS-G630/p/138455",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h06/h12/132201976528926.jpg",
+      "category": "家電 3C"
+    }
+  ],
   "price_changes": []
 }
