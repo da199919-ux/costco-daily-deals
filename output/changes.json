@@ -1,61 +1,22 @@
 {
   "date": "2026-10-10",
-  "generated_at": "2026-10-10 00:27",
+  "generated_at": "2026-10-10 05:10",
   "has_previous": true,
   "added": [],
   "removed": [],
   "price_changes": [
     {
       "name": "GAP 男麻棉短袖襯衫",
-      "price": "$399",
-      "original_price": "$549",
-      "discount_amount": "$150",
-      "promotion": "商品已折價$150 含運",
-      "stock_status": "狀態未知",
-      "old_price": "$1,379",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/GAP-Mens-Short-Sleeve-Linen-Cotton-Shirt/p/1977560",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h96/ha2/471660432883742.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Leblon Snoopy Crown 迎賓公仔 65公分",
-      "price": "$459",
+      "price": "$1,379",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
       "stock_status": "狀態未知",
-      "old_price": "$689",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Holiday-Decor/Leblon-Snoopy-Crown-Figurine-65-cm/p/159734",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h09/he7/451293413212190.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Tree Top 樹頂 柳橙氣泡飲 320毫升 X 24入",
-      "price": "$499",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "old_price": "$409",
+      "old_price": "$399",
       "direction": "漲價",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Tree-Top-Sparkling-Orange-320ml-X-24-Can/p/149152",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd9/h28/365472246136862.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Vitakraft 貓快餐肉條雙口味單條包裝 6公克 X 70入",
-      "price": "$699",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "old_price": "$559",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/Pet-Supplies/Pet-Treats-Health/Vitakraft-Cat-Stick-Single-Pack-6-g-X-70-Count/p/231338",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hed/he1/224741895471134.jpg",
-      "category": "日用品／母嬰／玩具"
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/GAP-Mens-Short-Sleeve-Linen-Cotton-Shirt/p/1977560",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h96/ha2/471660432883742.jpg",
+      "category": "服飾配件"
     }
   ]
 }
