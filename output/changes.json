@@ -1,20 +1,8 @@
 {
   "date": "2026-10-09",
-  "generated_at": "2026-10-09 06:17",
+  "generated_at": "2026-10-09 10:23",
   "has_previous": true,
   "added": [],
-  "removed": [
-    {
-      "name": "宏裕行 冷凍花枝丸1公斤",
-      "price": "$495",
-      "original_price": "$615",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Hong-Yu-Frozen-Premium-Cuttlefish-Ball-1-kg/p/137594",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h76/h47/119755039375390.jpg",
-      "category": "食品飲料"
-    }
-  ],
+  "removed": [],
   "price_changes": []
 }
