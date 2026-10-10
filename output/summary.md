@@ -1,9 +1,9 @@
 # Costco 每日優惠摘要（2026-10-11）
 
-更新時間：2026-10-11 02:50（台灣時間）
+更新時間：2026-10-11 06:47（台灣時間）
 共整理出 **691** 項官方線上優惠。
 本次共讀取 **720** 個官方商品頁面。
-庫存狀態：有貨 **406** 項、缺貨 **244** 項、待確認 **41** 項。
+庫存狀態：有貨 **400** 項、缺貨 **250** 項、待確認 **41** 項。
 
 > 價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。
 
@@ -13,11 +13,11 @@
 |---|---:|
 | 家具家居 | 188 |
 | 服飾配件 | 151 |
-| 其他 | 103 |
+| 其他 | 99 |
 | 家電 3C | 85 |
-| 日用品／母嬰／玩具 | 75 |
-| 食品飲料 | 58 |
-| 保健美容 | 31 |
+| 日用品／母嬰／玩具 | 74 |
+| 食品飲料 | 59 |
+| 保健美容 | 35 |
 
 ## 我的追蹤商品
 
@@ -163,6 +163,7 @@
 - [Ariel 極致雙效洗衣精補充包 1100公克 X 6 入](https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Laundry-Care/Ariel-Laundry-Detergent-Liquid-Refill-1100-g-X-6-Count/p/417455)（$949；庫存：缺貨）
 - [Gemini 飯店毛巾 4入組 35公分 X 75公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Towels/Gemini-Hand-Towel-4-PC-35-cm-X-75-cm/p/128761)（$299；庫存：缺貨）
 - [Grandeur 快乾浴巾 3入組 76公分 X 137公分 金/綠/淺藍](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Towels/Grandeur-Quick-Dry-Bath-Towel-3-Piece-76-cm-X-137-cm-Light-Gold-Green-Light-Blue/p/297399)（$485；庫存：缺貨）
+- [桂格綜合高纖燕麥穀飯 1.25公斤 X 3包](https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Quaker-Multi-Grains-High-Fiber-Oat-Rice-125-kg-X-3-Pack/p/145270)（$349；庫存：缺貨）
 - [3M Scotch 事務剪刀三入組 鈦金屬剪刀 X 1 + 超銳利剪刀 X 2](https://www.costco.com.tw/Office-School/Office-Stationary/Tapes-Scissors/3M-Scotch-Percision-Ultra-Edge-Scissors-3-Count-Set-Titanium-Non-Stick-Scissors-X-1-Super-Sharp-Scissors-X-2/p/134182)（$269；庫存：缺貨）
 - [PLUS 智慧滾輪修正帶 8入 + 替換帶 28入](https://www.costco.com.tw/Office-School/Office-Stationary/Correction/PLUS-Correction-Tapes-8-Count-Refills-28-Count/p/226691)（$535；庫存：缺貨）
 - [黛絲恩髮根緊緊防斷護髮素 450毫升 X 2入](https://www.costco.com.tw/Health-Beauty/Personal-Care/Shampoo-Conditioner/Diane-Perfect-Beauty-Extra-Hair-Fall-Control-Treatment-450-ml-X-2-Pack/p/159493)（$339；庫存：缺貨）
@@ -183,19 +184,24 @@
 - [True Wellness 網布辦公椅](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/True-Wellness-Mesh-Office-Chair/p/1987488)（$2,699；庫存：缺貨）
 - [Soft99 ALAUNEN 洗車+鍍膜洗車精 700毫升 X 2入](https://www.costco.com.tw/Sports-Lifestyle/Automotive/Exterior-Car-Care/Soft99-Alaunen-Clean-and-Coat-700-ml-X-2-Pack/p/153948)（$789；庫存：缺貨）
 - [SodaStream Terra 自動扣瓶氣泡水機](https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Water-Dispensers-Water-Purification/SodaStream-Terra-Sparkling-Water-Maker/p/159693)（$2,799；庫存：缺貨）
+- [Gemini 純棉浴室地墊 6入組 72公分 X 50公分 白](https://www.costco.com.tw/Bedding/p/124245)（$799；庫存：缺貨）
 - [Buffalo 男針織平口內褲 5入組 L](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Buffalo-Mens-Knit-Boxers-5-Pack-Set-L/p/155497)（$575；庫存：缺貨）
 - [大成冷凍白玉烏骨雞切塊4公斤](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/DaChanTaiwan-Frozen-Silky-Fowl-Chicken-Chopped-4kg/p/157714)（$979；庫存：缺貨）
+- [Gemini 純棉浴室地墊 6入組 72公分 X 50公分 卡其](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Rugs-Mats/Gemini-100-Cotton-Bath-Mat-6-Count-72-cm-X-50-cm-Khaki/p/124246)（$799；庫存：缺貨）
 - [SunnyFeel 山扉 可調節露營椅](https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Tents-Camping-Gear/SunnyFeel-Kermit-Chair/p/8527298)（$489；庫存：缺貨）
 - [灣仔碼頭 冷凍鮮肉小籠湯包 2400公克](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Wanchai-Ferry-Frozen-Steamed-Dumplings-with-Pork-Meat-2400-g/p/163774)（$1,099；庫存：缺貨）
 - [Herschel 女刺繡短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Herschel-Ladies-Embroidered-Short-Sleeve-T-Shirt/p/160516)（$359；庫存：缺貨）
 - [Rollkitchen 不鏽鋼盆沙拉蔬果脫水器](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Cooking-Accessories/Rollkitchen-Stainless-Steel-Salad-Spinner/p/670475)（$439；庫存：缺貨）
+- [KASACA 專業級比賽用滾塑匹克球 12顆組](https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Team-Sports/KASACA-Premium-Pickleball-Balls-12-Pack-Set/p/161123)（$479；庫存：缺貨）
 - [LEGO 科技系列 卡車起重機 42242 / 11歲以上](https://www.costco.com.tw/Household-Baby-Toys/Toys/Building-Sets-Blocks/LEGO-Technic-Mercedes-Benz-Unimog-U-5023-With-Crane-42242-Ages-11-and-up/p/160559)（$2,449；庫存：缺貨）
 - [威滅衣物除蟲片 (T)-a (抽屜) X 120入](https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Pest-Control-Air-Care/Combat-moth-repellent-T-aroma-Drawer-X-120-Count/p/156161)（$1,119；庫存：缺貨）
 - [Buffalo 男針織平口內褲 5入組 M](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Buffalo-Mens-Knit-Boxers-5-Pack-Set-M/p/155496)（$575；庫存：缺貨）
 - [三星 32吋 FHD FollowMe 移動式智慧聯網螢幕組 S32FM501EC-FOLLOWME](https://www.costco.com.tw/Digital-Mobile/Laptops-Computers/Monitors/Samsung-32-inch-FHD-FollowMe-Smart-Display-S32FM501EC-FOLLOWME/p/154938)（$8,999；庫存：缺貨）
 - [味好美 蒙特婁雞肉用調味料 620公克](https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/McCormick-Montreal-Chicken-Seasoning-620-g/p/150606)（$259；庫存：缺貨）
+- [威滅衣物除蟲片 (T)-a (衣櫃) X 24入](https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Pest-Control-Air-Care/Combat-moth-repellent-T-aroma-Closet-X-24-Count/p/156159)（$1,119；庫存：缺貨）
 - [蓓蔓 寶可夢維他命護唇膏組 4.5公克 X 3入](https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Makeup-Beauty-Accessories/VEIMENT-Pokemon-Lip-Balm-Set-45-g-X-3-Pack/p/150377)（$469；庫存：缺貨）
 - [夏普 34公升微電腦觸控式變頻微波爐 R-TT34SS-S](https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Cookers-Oven-Microwaves-Food-Waste-Machine/SHARP-34-L-Microwave-R-TT34SS-S/p/157736)（$4,299；庫存：缺貨）
+- [La Belle 雙人冷暖雙面可水洗天天抱被 180公分 X 210公分 綠/灰](https://www.costco.com.tw/Bedding/p/163508)（$1,199；庫存：缺貨）
 - [HOUSUXI 舒希 迪士尼 兒童開學餐具 4件組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Cooking-Accessories/HOUSUXI-Disney-Kids-Back-To-School-Utensil-4-Piece-Set/p/163465)（$479；庫存：缺貨）
 - [京都西川 支撐舒眠枕 WIDE 70公分 X 43公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Nishikawa-Sleep-Doctor-Pillow-WIDE-70-cm-X-43-cm/p/539045)（$839；庫存：缺貨）
 - [Don Home 萊賽爾沁涼被 150公分 X 200公分 同頻](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Don-Home-Lyocell-Cooling-Quilt-150-cm-X-200-cm-Frequency/p/158959)（$875；庫存：缺貨）
@@ -277,73 +283,36 @@
 
 ## 今日變化
 
-- 新增優惠：**19** 項
-- 本次未收錄：**20** 項（不代表優惠已結束）
-- 價格變動：**17** 項
+- 新增優惠：**9** 項
+- 本次未收錄：**9** 項（不代表優惠已結束）
+- 價格變動：**0** 項
 
 ### 價格變動
 
-- **漲價**：[Ariel 極致雙效洗衣精補充包 1100公克 X 6 入](https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Laundry-Care/Ariel-Laundry-Detergent-Liquid-Refill-1100-g-X-6-Count/p/417455) $749 → $949
-- **降價**：[Baccarat Snoopy Heart 水晶擺飾](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Holiday-Decor/Baccarat-Snoopy-Heart-Figurine/p/159746) $9,599 → $1,379
-- **降價**：[Baccarat 奔馬 水晶擺件](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Home-Decor/Baccarat-Cheval-Marengo-Figurine/p/159749) $88,289 → $1,379
-- **降價**：[Baccarat 招財貓 水晶擺件](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Holiday-Decor/Baccarat-Cat-Maneki-Neko-Figurine/p/159744) $10,799 → $799
-- **降價**：[Diptyque 沙漏飄香座 75毫升 橙花](https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Scented-Candles-Diffusers/Diptyque-Hourglass-Diffuser-75ml-Orange-Blossom/p/160325) $4,499 → $1,379
-- **降價**：[Diptyque 沙漏飄香座 75毫升 無花果](https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Scented-Candles-Diffusers/Diptyque-Hourglass-Diffuser-75ml-Figuier-Fig-Tree/p/160323) $4,499 → $1,379
-- **降價**：[Diptyque 沙漏飄香座 75毫升 玫瑰](https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Scented-Candles-Diffusers/Diptyque-Hourglass-Diffuser-75ml-Roses/p/160326) $4,499 → $2,699
-- **降價**：[Leblon Batman 擺件 50公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Holiday-Decor/Leblon-Batman-Figurine-50-cm/p/159741) $79,199 → $15,999
-- **降價**：[Leblon Batmobile 擺件 58公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Holiday-Decor/Leblon-Batmobile-Figurine-58-cm/p/159740) $87,199 → $1,379
-- **降價**：[Leblon Hello Kitty Apple 迎賓公仔 54公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Holiday-Decor/Leblon-Hello-Kitty-Apple-Figurine-54-cm/p/159742) $79,199 → $3,199
-- **降價**：[Leblon Mickey with Love 迎賓公仔 60公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Holiday-Decor/Leblon-Mickey-with-Love-Figurine-60-cm/p/159739) $95,999 → $689
-- **降價**：[Leblon Pikachu 迎賓公仔 57公分 原色](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Home-Decor/Leblon-Pikachu-Figurine-57-cm-Original/p/159733) $74,689 → $1,379
-- **降價**：[Leblon Snoopy & Woodstock 迎賓公仔 68公分 原色](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Holiday-Decor/Leblon-Snoopy-Woodstock-Figurine-68-cm-Original/p/159738) $79,995 → $1,379
-- **降價**：[Leblon Snoopy & Woodstock 迎賓公仔 68公分 白金](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Holiday-Decor/Leblon-Snoopy-Woodstock-Figurine-68-cm-White-Gold/p/159737) $79,995 → $198
-- **降價**：[Leblon Snoopy Crown 迎賓公仔 65公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Holiday-Decor/Leblon-Snoopy-Crown-Figurine-65-cm/p/159734) $63,489 → $1,379
-- **降價**：[Leblon Snoopy Heart 迎賓公仔 55公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Holiday-Decor/Leblon-Snoopy-Heart-Figurine-55-cm/p/159735) $63,489 → $1,599
-- **漲價**：[灣仔碼頭 冷凍鮮肉小籠湯包 2400公克](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Wanchai-Ferry-Frozen-Steamed-Dumplings-with-Pork-Meat-2400-g/p/163774) $878 → $1,099
+- 今天沒有偵測到價格變動。
 
 ### 今日新增
 
-- [JLab Epic Lab Edition 降噪真無線藍牙耳機](https://www.costco.com.tw/Digital-Mobile/Wearables-Audio/Headphones-Audio-Devices/JLab-Epic-Lab-Edition-True-Wireless-Earbuds/p/153965)（$3,499；庫存：有貨）
-- [舒潔 濕式衛生紙 46張 X 32入](https://www.costco.com.tw/Household-Baby-Toys/p/123333)（$1,143；庫存：有貨）
-- [Natori 魚肉起司棒 957公克](https://www.costco.com.tw/Food-Dining/Snacks/p/168850)（$325；庫存：有貨）
-- [汪喵星球 寵物骰子牛凍乾零食 348公克](https://www.costco.com.tw/Household-Baby-Toys/p/151524)（$1,009；庫存：有貨）
-- [Meyer 鎧甲黑 IH 導磁陽極氧化不沾單柄深煎鍋 20公分](https://www.costco.com.tw/p/154673)（$875；庫存：有貨）
-- [新視紀 矯正鏡片(未滅菌) 300度 KYNE](https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Reading-Glasses/Design-Optics-Corrective-Spectacle-Lens-Non-Sterile-300-KYNE/p/146749)（$479；庫存：有貨）
-- [挺立高鈣強力錠 + K2配方 295錠](https://www.costco.com.tw/p/890908)（$1,469；庫存：有貨）
-- [Schiff 益節葡萄糖胺+軟骨素+MSM+維生素D+鈣錠(食品) 240錠](https://www.costco.com.tw/p/363984)（$1,129；庫存：有貨）
-- [銀寶善存50+ 女性綜合維他命錠 290錠](https://www.costco.com.tw/p/765268)（$1,469；庫存：有貨）
-- [Nature Made 萊萃美 全方位維生素B群加C 活力錠 300粒](https://www.costco.com.tw/p/234845)（$869；庫存：有貨）
-- [嘉實多極致 0W-20 全合成機油 946毫升 X 6入](https://www.costco.com.tw/Automotive/p/125480)（$1,279；庫存：有貨）
-- [Redoxon 力度伸 維他命C+D+鋅發泡錠(柳橙口味) 45錠 (15錠 X 3條)](https://www.costco.com.tw/p/200762)（$639；庫存：有貨）
-- [神戶風月堂 甜點交響曲禮盒 297.9公克](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Kobe-Fugetsudo-Sweet-Symphony-Gift-Box-2979-g/p/159839)（$497；庫存：有貨）
-- [Angie's 鹹甜爆米花 652公克](https://www.costco.com.tw/Food-Dining/Snacks/p/979885)（$289；庫存：有貨）
-- [飛利浦 50吋 4K QLED Google TV 顯示器 50PQT8530/96](https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/50-59-TVs/Philips-50-inch-4K-QLED-Google-TV-Monitor-50PQT853096/p/153544)（$11,999；庫存：有貨）
-- [DJI Osmo Pocket 3 旅拍套裝組 附續航手柄+收納包](https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/DJI-Osmo-Pocket-3-Bundle-Battery-Handle-X-1-Bag-X-1/p/159980)（$11,799；庫存：有貨）
-- [La Belle 雙人冷暖雙面可水洗天天抱被 180公分 X 210公分 綠/灰](https://www.costco.com.tw/Bedding/p/163508)（$1,199；庫存：有貨）
-- [24K黃金戒指 百福 173厘](https://www.costco.com.tw/Jewelry-Gold/22K-24k-Gold/22K-24K-Gold-Rings/24K-Gold-Ring-173-li/p/159007)（$37,399；庫存：缺貨）
-- [亨氏 番茄醬 1公升 X 3入](https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/p/201174)（$289；庫存：有貨）
-
-### 本次未收錄（不代表優惠已結束）
-
-- [JLab Epic Lab Edition 降噪真無線藍牙耳機](https://www.costco.com.tw/Digital-Mobile/Wearables-Audio/p/153965)（$3,499；庫存：有貨）
+- [KOH COCONUT 純椰子汁 1公升 X 6入](https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/p/75130)（$379；庫存：有貨）
 - [舒潔 濕式衛生紙 46張 X 32入](https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Kleenex-Flushable-Wipes-46-Sheet-X-32-Count/p/123333)（$1,143；庫存：有貨）
-- [Natori 魚肉起司棒 957公克](https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Natori-Cheese-Fish-Cake-957-g/p/168850)（$325；庫存：有貨）
-- [Gemini 純棉浴室地墊 6入組 72公分 X 50公分 白](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Rugs-Mats/Gemini-100-Cotton-Bath-Mat-6-Count-72-cm-X-50-cm-White/p/124245)（$799；庫存：有貨）
-- [La Belle 雙人冷暖雙面可水洗天天抱被 180公分 X 210公分 綠/灰](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/La-Belle-Everyday-Hug-Blanket-180-cm-X-210-cm-Green-Gray/p/163508)（$1,199；庫存：有貨）
 - [Meyer 鎧甲黑 IH 導磁陽極氧化不沾單柄深煎鍋 20公分](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Cookware-Cutlery-Cutting-Boards/Meyer-IH-Non-Stick-Saute-Pan-20-cm/p/154673)（$875；庫存：有貨）
-- [新視紀 矯正鏡片(未滅菌) 300度 KYNE](https://www.costco.com.tw/Clothing-Accessories/p/146749)（$479；庫存：有貨）
 - [挺立高鈣強力錠 + K2配方 295錠](https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Caltrate-High-Calcium-Plus-K2-formula-295-Tablet/p/890908)（$1,469；庫存：有貨）
 - [Schiff 益節葡萄糖胺+軟骨素+MSM+維生素D+鈣錠(食品) 240錠](https://www.costco.com.tw/Health-Beauty/Supplements/Bone-Joint-Support/Schiff-Move-Free-Glucosamine-Chondroitin-MSM-Vitamin-D-Calcium-240-Tablet/p/363984)（$1,129；庫存：有貨）
 - [銀寶善存50+ 女性綜合維他命錠 290錠](https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Centrum-Silver-50-for-Women-Multivitamin-290-Tablet/p/765268)（$1,469；庫存：有貨）
 - [Nature Made 萊萃美 全方位維生素B群加C 活力錠 300粒](https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Nature-Made-Super-B-C-Support-300-Tablet/p/234845)（$869；庫存：有貨）
 - [嘉實多極致 0W-20 全合成機油 946毫升 X 6入](https://www.costco.com.tw/Sports-Lifestyle/Automotive/Car-Oils-Fluids/Castrol-EDGE-0W-20-Full-Synthetic-Motor-Oil-946-ml-x-6-Pack/p/125480)（$1,279；庫存：有貨）
-- [Redoxon 力度伸 維他命C+D+鋅發泡錠(柳橙口味) 45錠 (15錠 X 3條)](https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Redoxon-CDZinc-Effervescent-Orange-Flavor-45-Tablet-15-Tablet-X-3-Pack/p/200762)（$639；庫存：有貨）
-- [神戶風月堂 甜點交響曲禮盒 297.9公克](https://www.costco.com.tw/Food-Dining/Snacks/p/159839)（$497；庫存：有貨）
-- [Angie's 鹹甜爆米花 652公克](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Angies-BoomChickaPop-Sweet-and-Salty-Kettle-Popcorn-652-g/p/979885)（$289；庫存：有貨）
-- [飛利浦 50吋 4K QLED Google TV 顯示器 50PQT8530/96](https://www.costco.com.tw/Televisions-TV-Accessories/p/153544)（$11,999；庫存：有貨）
-- [DJI Osmo Pocket 3 旅拍套裝組 附續航手柄+收納包](https://www.costco.com.tw/Digital-Mobile/Cameras/p/159980)（$11,799；庫存：有貨）
-- [24K黃金戒指 百福 173厘](https://www.costco.com.tw/p/159007)（$37,399；庫存：缺貨）
-- [Gilman Creek 牛皮電動躺椅](https://www.costco.com.tw/p/1646063)（$11,099；庫存：有貨）
-- [Don Home 萊賽爾沁涼被 150公分 X 200公分 微光](https://www.costco.com.tw/Bedding/p/158960)（$875；庫存：有貨）
+- [TETSU 日本製窒化鐵製炒鍋 28公分](https://www.costco.com.tw/p/125940)（$1,729；庫存：有貨）
+
+### 本次未收錄（不代表優惠已結束）
+
+- [舒潔 濕式衛生紙 46張 X 32入](https://www.costco.com.tw/Household-Baby-Toys/p/123333)（$1,143；庫存：有貨）
+- [汪喵星球 寵物骰子牛凍乾零食 348公克](https://www.costco.com.tw/Household-Baby-Toys/p/151524)（$1,009；庫存：有貨）
+- [Meyer 鎧甲黑 IH 導磁陽極氧化不沾單柄深煎鍋 20公分](https://www.costco.com.tw/p/154673)（$875；庫存：有貨）
+- [挺立高鈣強力錠 + K2配方 295錠](https://www.costco.com.tw/p/890908)（$1,469；庫存：有貨）
+- [Schiff 益節葡萄糖胺+軟骨素+MSM+維生素D+鈣錠(食品) 240錠](https://www.costco.com.tw/p/363984)（$1,129；庫存：有貨）
+- [銀寶善存50+ 女性綜合維他命錠 290錠](https://www.costco.com.tw/p/765268)（$1,469；庫存：有貨）
+- [Nature Made 萊萃美 全方位維生素B群加C 活力錠 300粒](https://www.costco.com.tw/p/234845)（$869；庫存：有貨）
+- [嘉實多極致 0W-20 全合成機油 946毫升 X 6入](https://www.costco.com.tw/Automotive/p/125480)（$1,279；庫存：有貨）
+- [TETSU 日本製窒化鐵製炒鍋 28公分](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Cookware-Cutlery-Cutting-Boards/TETSU-Nitriding-Iron-Wok-28-cm/p/125940)（$1,729；庫存：有貨）
 
 完整清單請查看專案中的 `output/latest.md`。
