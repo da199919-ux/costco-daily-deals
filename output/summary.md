@@ -1,9 +1,9 @@
 # Costco 每日優惠摘要（2026-10-10）
 
-更新時間：2026-10-10 05:10（台灣時間）
-共整理出 **689** 項官方線上優惠。
-本次共讀取 **718** 個官方商品頁面。
-庫存狀態：有貨 **417** 項、缺貨 **231** 項、待確認 **41** 項。
+更新時間：2026-10-10 09:07（台灣時間）
+共整理出 **701** 項官方線上優惠。
+本次共讀取 **730** 個官方商品頁面。
+庫存狀態：有貨 **429** 項、缺貨 **231** 項、待確認 **41** 項。
 
 > 價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。
 
@@ -11,13 +11,13 @@
 
 | 分類 | 商品數量 |
 |---|---:|
-| 家具家居 | 191 |
+| 家具家居 | 190 |
 | 服飾配件 | 151 |
-| 其他 | 95 |
-| 家電 3C | 85 |
-| 日用品／母嬰／玩具 | 74 |
-| 食品飲料 | 57 |
-| 保健美容 | 36 |
+| 其他 | 106 |
+| 家電 3C | 84 |
+| 日用品／母嬰／玩具 | 76 |
+| 食品飲料 | 62 |
+| 保健美容 | 32 |
 
 ## 我的追蹤商品
 
@@ -53,6 +53,7 @@
 - [Tommy Hilfiger 女踝襪 5入組](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Tommy-Hilfiger-Ladies-Low-Cut-Socks-5-Pack/p/157487)（$469；庫存：缺貨）
 - [旅行記憶頸枕 24公分 X 23公分 X 12公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Throw-Pillows-Cushions/Easy-to-Carry-Memory-Foam-Neck-Pillow-24-cm-X-23-cm-X-12-cm/p/665028)（$269；庫存：缺貨）
 - [Buffalo 男針織平口內褲 5入組 L](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Buffalo-Mens-Knit-Boxers-5-Pack-Set-L/p/155497)（$575；庫存：缺貨）
+- [Antiga 香氛噴霧 1公升](https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Scented-Candles-Diffusers/Antiga-Room-Spray-1-L/p/8550653)（$519；庫存：缺貨）
 - [Multy Home 門前腳踏墊](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Rugs-Mats/Multy-Home-Doormat/p/1510146)（$399；庫存：缺貨）
 - [Calvin Klein 男純棉平口褲3入組 S](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Calvin-Klein-Mens-Woven-Boxer-3-Pack-Set-S/p/502287)（$639；庫存：缺貨）
 - [Calvin Klein 女睡衣套組](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Pajamas/Calvin-Klein-Ladies-Lounger-Set/p/156476)（$749；庫存：缺貨）
@@ -61,7 +62,6 @@
 - [New Balance 515 男復古慢跑鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/New-Balance-Mens-Running-Shoe/p/160814)（$1,419；庫存：缺貨）
 - [Vornado 渦流空氣循環扇 STRATA 8 OMNI-TW](https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Vornado-Compact-Tower-Fan-STRATA-8-OMNI-TW/p/157119)（$1,969；庫存：缺貨）
 - [Calvin Klein 女運動內衣 2入組](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Calvin-Klein-Ladies-Sports-Bra-2-Pack-Set/p/1969790)（$679；庫存：缺貨）
-- [Antiga 香氛噴霧 1公升](https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Scented-Candles-Diffusers/Antiga-Room-Spray-1-L/p/8550653)（$519；庫存：缺貨）
 - [32 Degrees 兒童羽絨背心](https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Coats-Jackets/32-Degrees-Kids-Down-Vest/p/159699)（$599；庫存：缺貨）
 - [Gemini 飯店方巾 6入組 34公分 X 35公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Towels/Gemini-Wash-Towel-6-PC-34-cm-X-35-cm/p/128762)（$209；庫存：缺貨）
 - [Adidas BARREDA 男休閒鞋](https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Adidas-BARREDA-Mens-Casual-Shoe/p/2974608)（$999；庫存：缺貨）
@@ -172,10 +172,10 @@
 - [PLUS 智慧滾輪修正帶 8入 + 替換帶 28入](https://www.costco.com.tw/Office-School/Office-Stationary/Correction/PLUS-Correction-Tapes-8-Count-Refills-28-Count/p/226691)（$535；庫存：缺貨）
 - [Vitakraft 貓快餐肉條雙口味單條包裝 6公克 X 70入](https://www.costco.com.tw/Household-Baby-Toys/Pet-Supplies/Pet-Treats-Health/Vitakraft-Cat-Stick-Single-Pack-6-g-X-70-Count/p/231338)（$699；庫存：缺貨）
 - [妮維雅 極效嫩白水感身體乳 550毫升 X 2入](https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/Nivea-Extra-Bright-Radiant-Smooth-Body-Lotion-550-ml-X-2-Pack/p/291447)（$559；庫存：缺貨）
+- [HOTO Wand 無線電動清潔刷](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/KitchenBathroom-Hardware/HOTO-Wand-Cordless-Spin-Scrubber/p/1936026)（$579；庫存：缺貨）
 - [黛絲恩髮根緊緊防斷護髮素 450毫升 X 2入](https://www.costco.com.tw/Health-Beauty/Personal-Care/Shampoo-Conditioner/Diane-Perfect-Beauty-Extra-Hair-Fall-Control-Treatment-450-ml-X-2-Pack/p/159493)（$339；庫存：缺貨）
 - [ThermoFlask 不鏽鋼真空食物燜燒罐 591毫升 X 2件組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/Thermoflask-Insulated-Stainless-Steel-Food-Jar-591-ml-X-2-Piece-Set/p/1759351)（$519；庫存：缺貨）
 - [Riviera Home 純棉浴室地墊 2入組 40 X 60 公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Rugs-Mats/Riviera-Home-Bathmat-2-Piece-Set-40-cm-X-60-cm/p/1909228)（$399；庫存：缺貨）
-- [HOTO Wand 無線電動清潔刷](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/KitchenBathroom-Hardware/HOTO-Wand-Cordless-Spin-Scrubber/p/1936026)（$579；庫存：缺貨）
 - [National Geographic 防水袋 2入](https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Fitness-Equipment-Accessories/National-Geographic-Waterproof-Bag-2-Pack/p/681022)（$399；庫存：缺貨）
 - [True Wellness 網布辦公椅](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/True-Wellness-Mesh-Office-Chair/p/1987488)（$2,699；庫存：缺貨）
 - [SodaStream Terra 自動扣瓶氣泡水機](https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Water-Dispensers-Water-Purification/SodaStream-Terra-Sparkling-Water-Maker/p/159693)（$2,799；庫存：缺貨）
@@ -264,20 +264,56 @@
 
 ## 今日變化
 
-- 新增優惠：**0** 項
-- 本次未收錄：**0** 項（不代表優惠已結束）
-- 價格變動：**1** 項
+- 新增優惠：**24** 項
+- 本次未收錄：**12** 項（不代表優惠已結束）
+- 價格變動：**3** 項
 
 ### 價格變動
 
-- **漲價**：[GAP 男麻棉短袖襯衫](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/GAP-Mens-Short-Sleeve-Linen-Cotton-Shirt/p/1977560) $399 → $1,379
+- **漲價**：[Baccarat Snoopy Heart 水晶擺飾](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Holiday-Decor/Baccarat-Snoopy-Heart-Figurine/p/159746) $369 → $9,599
+- **漲價**：[Baccarat 招財貓 水晶擺件](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Holiday-Decor/Baccarat-Cat-Maneki-Neko-Figurine/p/159744) $799 → $10,799
+- **漲價**：[Leblon Snoopy Heart 迎賓公仔 55公分 原色](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Holiday-Decor/Leblon-Snoopy-Heart-Figurine-55-cm-Original/p/159736) $2,169 → $71,999
 
 ### 今日新增
 
-- 今天沒有新增優惠。
+- [亨氏 番茄醬 1公升 X 3入](https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/p/201174)（$289；庫存：有貨）
+- [HOUSUXI 舒希 超細纖維地墊 2入組 60公分 X 40公分 酷洛米 & 大耳狗](https://www.costco.com.tw/Bedding/p/161813)（$549；庫存：有貨）
+- [Gemini 純棉浴室地墊 6入組 72公分 X 50公分 白](https://www.costco.com.tw/Bedding/p/124245)（$799；庫存：有貨）
+- [象印 VE真空微電腦熱水瓶 CV-DXF40](https://www.costco.com.tw/p/122574)（$3,809；庫存：有貨）
+- [HOUSUXI 舒希 超細纖維地墊 2入組 60公分 X 40公分 三眼怪 & 史迪奇](https://www.costco.com.tw/Bedding/p/161819)（$549；庫存：有貨）
+- [Ssanggye 蘋果醋沖泡粉 5公克 X 40包](https://www.costco.com.tw/Food-Dining/Drinks/p/159494)（$319；庫存：有貨）
+- [名廚美饌 冷凍糙米多穀熟飯 200公克 X 12包 X 2盒](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/p/158892)（$779；庫存：有貨）
+- [Meyer 鎧甲黑 IH 導磁陽極氧化不沾單柄深煎鍋 20公分](https://www.costco.com.tw/p/154673)（$875；庫存：有貨）
+- [Carrera 1:50 迷你卡丁遙控車 瑪利歐 / 6歲以上](https://www.costco.com.tw/Household-Baby-Toys/Toys/p/162558)（$615；庫存：有貨）
+- [Ariel 4D 超強極淨洗衣膠囊 70顆 X 2袋入](https://www.costco.com.tw/Household-Baby-Toys/p/337700)（$859；庫存：有貨）
+- [美威 冷凍精選鮭魚菲力-法式香蒜口味 6入組](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/p/148196)（$1,179；庫存：有貨）
+- [Schiff 益節葡萄糖胺+軟骨素+MSM+維生素D+鈣錠(食品) 240錠](https://www.costco.com.tw/p/363984)（$1,129；庫存：有貨）
+- [蘇菲 超熟睡長時間吸收夜用衛生棉 28公分 16片 X 8入](https://www.costco.com.tw/p/140064)（$309；庫存：有貨）
+- [Redoxon 力度伸 維他命C+D+鋅發泡錠(柳橙口味) 45錠 (15錠 X 3條)](https://www.costco.com.tw/p/200762)（$639；庫存：有貨）
+- [TETSU 日本製窒化鐵製炒鍋 28公分](https://www.costco.com.tw/p/125940)（$1,729；庫存：有貨）
+- [五木 川味紅燒牛肉麵 216公克 X 6包](https://www.costco.com.tw/Food-Dining/Groceries/p/146442)（$315；庫存：有貨）
+- [曼秀雷敦 AD 溫和舒敏泡沫沐浴露 1000毫升 X 1入](https://www.costco.com.tw/p/146632)（$669；庫存：有貨）
+- [勝利 羽球拍 家庭組](https://www.costco.com.tw/p/149254)（$1,549；庫存：有貨）
+- [海爾 織物清潔機 R10](https://www.costco.com.tw/p/160452)（$2,999；庫存：有貨）
+- [Zuru X-Shot 全電動高速水槍 2入組 / 8歲以上](https://www.costco.com.tw/Household-Baby-Toys/Toys/p/1851471)（$627；庫存：有貨）
+- [KOH COCONUT 純椰子汁 1公升 X 6入](https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/p/75130)（$379；庫存：有貨）
+- [太和殿 私房麻辣火鍋湯底 1200公克 X 2包](https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/p/142965)（$269；庫存：有貨）
+- [雀巢 金牌冰萃濾袋雙口味組 10公克 X 40入](https://www.costco.com.tw/Food-Dining/Drinks/p/332545)（$319；庫存：有貨）
+- [桂格綜合高纖燕麥穀飯 1.25公斤 X 3包](https://www.costco.com.tw/Food-Dining/Groceries/p/145270)（$349；庫存：有貨）
 
 ### 本次未收錄（不代表優惠已結束）
 
-- 本次沒有商品離開抓取清單。
+- [亨氏 番茄醬 1公升 X 3入](https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Heinz-Tomato-Ketchup-1-L-X-3-Pack/p/201174)（$289；庫存：有貨）
+- [Ssanggye 蘋果醋沖泡粉 5公克 X 40包](https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Ssanggye-Apple-Cider-Vinegar-Drink-Powder-5-g-X-40-Pack/p/159494)（$319；庫存：有貨）
+- [美威 冷凍精選鮭魚菲力-法式香蒜口味 6入組](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Supreme-Salmon-Frozen-Signature-Salmon-Fillet-French-Garlic-Butter-Flavor-6-Pack-Set/p/148196)（$1,179；庫存：有貨）
+- [Schiff 益節葡萄糖胺+軟骨素+MSM+維生素D+鈣錠(食品) 240錠](https://www.costco.com.tw/Health-Beauty/Supplements/Bone-Joint-Support/Schiff-Move-Free-Glucosamine-Chondroitin-MSM-Vitamin-D-Calcium-240-Tablet/p/363984)（$1,129；庫存：有貨）
+- [蘇菲 超熟睡長時間吸收夜用衛生棉 28公分 16片 X 8入](https://www.costco.com.tw/Health-Beauty/Personal-Care/Feminine-Care/Sofy-Deep-Sleep-Night-Pad-28-cm-16-Piece-X-8-Pack/p/140064)（$309；庫存：有貨）
+- [Redoxon 力度伸 維他命C+D+鋅發泡錠(柳橙口味) 45錠 (15錠 X 3條)](https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Redoxon-CDZinc-Effervescent-Orange-Flavor-45-Tablet-15-Tablet-X-3-Pack/p/200762)（$639；庫存：有貨）
+- [TETSU 日本製窒化鐵製炒鍋 28公分](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Cookware-Cutlery-Cutting-Boards/TETSU-Nitriding-Iron-Wok-28-cm/p/125940)（$1,729；庫存：有貨）
+- [五木 川味紅燒牛肉麵 216公克 X 6包](https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Wu-mu-Sichuan-Braised-Beef-Noodle-Soup-216-g-X-6-Pack/p/146442)（$315；庫存：有貨）
+- [曼秀雷敦 AD 溫和舒敏泡沫沐浴露 1000毫升 X 1入](https://www.costco.com.tw/Health-Beauty/Personal-Care/Bath-Body/Mentholatum-AD-Mild-Skin-Wash-1000-ml-X-1-Pack/p/146632)（$669；庫存：有貨）
+- [勝利 羽球拍 家庭組](https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Team-Sports/Victor-Badminton-Set/p/149254)（$1,549；庫存：有貨）
+- [海爾 織物清潔機 R10](https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Vacuums-Floor-Care/Haier-Spot-Cleaner-R10/p/160452)（$2,999；庫存：有貨）
+- [Zuru X-Shot 全電動高速水槍 2入組 / 8歲以上](https://www.costco.com.tw/Household-Baby-Toys/Toys/Outdoor-Play/Zuru-X-Shot-Motor-Soakers-2-Pack-Set-Ages-8-and-up/p/1851471)（$627；庫存：有貨）
 
 完整清單請查看專案中的 `output/latest.md`。
