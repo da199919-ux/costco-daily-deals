@@ -1,8 +1,296 @@
 {
   "date": "2026-10-10",
-  "generated_at": "2026-10-10 09:07",
+  "generated_at": "2026-10-10 15:22",
   "has_previous": true,
   "added": [
+    {
+      "name": "亨氏 番茄醬 1公升 X 3入",
+      "price": "$289",
+      "original_price": "$359",
+      "discount_amount": "$70",
+      "promotion": "商品已折價$70 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Heinz-Tomato-Ketchup-1-L-X-3-Pack/p/201174",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h02/h05/382511787999262.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "盛香珍 拼圖小脆餅 韓式牛小排風味 1170公克",
+      "price": "$269",
+      "original_price": "$329",
+      "discount_amount": "$60",
+      "promotion": "商品已折價$60 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/161316",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hff/h9d/466558817140766.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "戴森 手提無線吸塵器 #V8 SV25 Motorhead",
+      "price": "$7,999",
+      "original_price": "$8,799",
+      "discount_amount": "$800",
+      "promotion": "商品已折價$800 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/160796",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf1/h7a/490097853628446.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "KASACA 無邊框碳纖維匹克球拍套組",
+      "price": "$1,749",
+      "original_price": "$2,189",
+      "discount_amount": "$440",
+      "promotion": "商品已折價$440 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/156966",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h79/h9e/403520064815134.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "慕之恬廊 高效全護防曬乳 100毫升 X 2入",
+      "price": "$929",
+      "original_price": "$1,169",
+      "discount_amount": "$240",
+      "promotion": "商品已折價$240 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/243227",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf8/h61/434451594051614.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Quasi 不沾單柄湯鍋 2 件組",
+      "price": "$639",
+      "original_price": "$799",
+      "discount_amount": "$160",
+      "promotion": "商品已折價$160 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/155267",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h1a/h9c/379632231120926.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "勳風 充電式二合一捕蚊燈拍 DHF-T7092",
+      "price": "$575",
+      "original_price": "$719",
+      "discount_amount": "$144",
+      "promotion": "商品已折價$144 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/151121",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h7d/h16/329850513555486.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Ssanggye 蘋果醋沖泡粉 5公克 X 40包",
+      "price": "$319",
+      "original_price": "$399",
+      "discount_amount": "$80",
+      "promotion": "商品已折價$80 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Ssanggye-Apple-Cider-Vinegar-Drink-Powder-5-g-X-40-Pack/p/159494",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h95/h73/452308888846366.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "6呎萬聖節聲光骷髏裝飾",
+      "price": "$4,949",
+      "original_price": "$6,199",
+      "discount_amount": "$1,250",
+      "promotion": "商品已折價$1,250 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Bedding/p/1851675",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h30/h03/488918895722526.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "美威 冷凍精選鮭魚菲力-法式香蒜口味 6入組",
+      "price": "$1,179",
+      "original_price": "$1,479",
+      "discount_amount": "$300",
+      "promotion": "商品已折價 $300 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Supreme-Salmon-Frozen-Signature-Salmon-Fillet-French-Garlic-Butter-Flavor-6-Pack-Set/p/148196",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb5/hbd/272955082244126.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Schiff 益節葡萄糖胺+軟骨素+MSM+維生素D+鈣錠(食品) 240錠",
+      "price": "$1,129",
+      "original_price": "$1,409",
+      "discount_amount": "$280",
+      "promotion": "商品已折價 $280 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Bone-Joint-Support/Schiff-Move-Free-Glucosamine-Chondroitin-MSM-Vitamin-D-Calcium-240-Tablet/p/363984",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hd2/h81/16466683363358.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "Tidy Cats 高效清香凝結罐裝貓砂 6.35公斤 X 3罐",
+      "price": "$599",
+      "original_price": "$759",
+      "discount_amount": "$160",
+      "promotion": "商品已折價$160 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/c/p/115777",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h50/h56/61939547766814.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "嘉實多極致 0W-20 全合成機油 946毫升 X 6入",
+      "price": "$1,279",
+      "original_price": "$1,599",
+      "discount_amount": "$320",
+      "promotion": "商品已折價$320 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Automotive/p/125480",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0a/h8d/473819313537054.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Redoxon 力度伸 維他命C+D+鋅發泡錠(柳橙口味) 45錠 (15錠 X 3條)",
+      "price": "$639",
+      "original_price": "$799",
+      "discount_amount": "$160",
+      "promotion": "商品已折價 $160 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Redoxon-CDZinc-Effervescent-Orange-Flavor-45-Tablet-15-Tablet-X-3-Pack/p/200762",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he5/hf8/386020539564062.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "TETSU 日本製窒化鐵製炒鍋 28公分",
+      "price": "$1,729",
+      "original_price": "$2,169",
+      "discount_amount": "$440",
+      "promotion": "商品已折價$440 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Cookware-Cutlery-Cutting-Boards/TETSU-Nitriding-Iron-Wok-28-cm/p/125940",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h30/hf5/30241753858078.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "五木 川味紅燒牛肉麵 216公克 X 6包",
+      "price": "$315",
+      "original_price": "$389",
+      "discount_amount": "$74",
+      "promotion": "商品已折價$74 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Wu-mu-Sichuan-Braised-Beef-Noodle-Soup-216-g-X-6-Pack/p/146442",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h2d/h36/257071284420638.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "飛利浦 Sonicare 充電式智能音波牙刷 2入 HX5292",
+      "price": "$4,759",
+      "original_price": "$6,059",
+      "discount_amount": "$1,300",
+      "promotion": "商品已折價$1,300 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Electric-Toothbrushes-Water-Flossers/p/151607",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hde/h9c/333377704787998.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "勝利 羽球拍 家庭組",
+      "price": "$1,549",
+      "original_price": "$1,939",
+      "discount_amount": "$390",
+      "promotion": "商品已折價$390 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Team-Sports/Victor-Badminton-Set/p/149254",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h04/h31/309921273905182.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "La Belle 雙人 300織天絲棉素色 被套床包四件組拼接款 藍",
+      "price": "$2,555",
+      "original_price": "$3,199",
+      "discount_amount": "$644",
+      "promotion": "商品已折價$644 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Bedding/p/449703",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4d/hd7/364687232303134.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "亞培安素 均衡營養 HMB 配方 原味 237毫升 X 32罐",
+      "price": "$2,079",
+      "original_price": "$2,159",
+      "discount_amount": "$80",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Elderly-Care/Nutritional-Drinks/p/145690",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h9f/h61/450418065080350.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "飛利浦 50吋 4K QLED Google TV 顯示器 50PQT8530/96",
+      "price": "$11,999",
+      "original_price": "$13,699",
+      "discount_amount": "$1,700",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-TV-Accessories/p/153544",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h77/hcd/438072214323230.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "海爾 織物清潔機 R10",
+      "price": "$2,999",
+      "original_price": "$3,339",
+      "discount_amount": "$340",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Vacuums-Floor-Care/Haier-Spot-Cleaner-R10/p/160452",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha1/h4a/473819879407646.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "Zuru X-Shot 全電動高速水槍 2入組 / 8歲以上",
+      "price": "$627",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Outdoor-Play/Zuru-X-Shot-Motor-Soakers-2-Pack-Set-Ages-8-and-up/p/1851471",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h63/h62/486580374896670.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "DJI Osmo Pocket 3 旅拍套裝組 附續航手柄+收納包",
+      "price": "$11,799",
+      "original_price": "$12,599",
+      "discount_amount": "$800",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Digital-Mobile/Cameras/p/159980",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc8/h3f/466558645567518.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "克寧 紐西蘭全脂奶粉 2.5公斤",
+      "price": "$575",
+      "original_price": "$719",
+      "discount_amount": "$144",
+      "promotion": "商品已折價$144 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/p/130352",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h5a/hfa/99114369974302.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "灣仔碼頭 冷凍干貝豬肉水餃 450公克 X 3包",
+      "price": "$575",
+      "original_price": "$719",
+      "discount_amount": "$144",
+      "promotion": "商品已折價$144 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/p/162403",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hca/he4/484307068059678.jpg",
+      "category": "食品飲料"
+    }
+  ],
+  "removed": [
     {
       "name": "亨氏 番茄醬 1公升 X 3入",
       "price": "$289",
@@ -103,15 +391,15 @@
       "category": "日用品／母嬰／玩具"
     },
     {
-      "name": "Ariel 4D 超強極淨洗衣膠囊 70顆 X 2袋入",
-      "price": "$859",
-      "original_price": "$1,059",
-      "discount_amount": "$200",
-      "promotion": "商品已折價 $200 含運",
+      "name": "6呎萬聖節聲光骷髏裝飾",
+      "price": "$4,949",
+      "original_price": "$6,199",
+      "discount_amount": "$1,250",
+      "promotion": "商品已折價$1,250 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/337700",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd7/h4a/434799001763870.jpg",
-      "category": "日用品／母嬰／玩具"
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Holiday-Decor/6-ft-Animated-Skeleton/p/1851675",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h30/h03/488918895722526.jpg",
+      "category": "家具家居"
     },
     {
       "name": "美威 冷凍精選鮭魚菲力-法式香蒜口味 6入組",
@@ -136,14 +424,25 @@
       "category": "其他"
     },
     {
-      "name": "蘇菲 超熟睡長時間吸收夜用衛生棉 28公分 16片 X 8入",
-      "price": "$309",
-      "original_price": "$389",
-      "discount_amount": "$80",
-      "promotion": "商品已折價 $80 含運",
+      "name": "Tidy Cats 高效清香凝結罐裝貓砂 6.35公斤 X 3罐",
+      "price": "$599",
+      "original_price": "$759",
+      "discount_amount": "$160",
+      "promotion": "商品已折價$160 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/140064",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h2b/h29/152907844780062.jpg",
+      "url": "https://www.costco.com.tw/c/Tidy-Cats-Instant-Action-Clumping-Cat-Litter-635-kg-X-3-Count/p/115777",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h50/h56/61939547766814.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "嘉實多極致 0W-20 全合成機油 946毫升 X 6入",
+      "price": "$1,279",
+      "original_price": "$1,599",
+      "discount_amount": "$320",
+      "promotion": "商品已折價$320 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Automotive/Car-Oils-Fluids/Castrol-EDGE-0W-20-Full-Synthetic-Motor-Oil-946-ml-x-6-Pack/p/125480",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0a/h8d/473819313537054.jpg",
       "category": "其他"
     },
     {
@@ -180,15 +479,15 @@
       "category": "食品飲料"
     },
     {
-      "name": "曼秀雷敦 AD 溫和舒敏泡沫沐浴露 1000毫升 X 1入",
-      "price": "$669",
-      "original_price": "$849",
-      "discount_amount": "$180",
-      "promotion": "商品已折價 $180 含運",
+      "name": "飛利浦 Sonicare 充電式智能音波牙刷 2入 HX5292",
+      "price": "$4,759",
+      "original_price": "$6,059",
+      "discount_amount": "$1,300",
+      "promotion": "商品已折價$1,300 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/146632",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h10/hef/291632788340766.jpg",
-      "category": "其他"
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Electric-Toothbrushes-Water-Flossers/Philips-Sonicare-Rechargeable-Toothbrush-2-Pack-HX529201/p/151607",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hde/h9c/333377704787998.jpg",
+      "category": "家電 3C"
     },
     {
       "name": "勝利 羽球拍 家庭組",
@@ -200,6 +499,39 @@
       "url": "https://www.costco.com.tw/p/149254",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h04/h31/309921273905182.jpg",
       "category": "其他"
+    },
+    {
+      "name": "La Belle 雙人 300織天絲棉素色 被套床包四件組拼接款 藍",
+      "price": "$2,555",
+      "original_price": "$3,199",
+      "discount_amount": "$644",
+      "promotion": "商品已折價$644 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Sheets-Pillowcases/La-Belle-Double-Size-300-Thread-65-Tencel-and-35-Cotton-Duvet-4-Piece-Set-Splicing-Blue/p/449703",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4d/hd7/364687232303134.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "亞培安素 均衡營養 HMB 配方 原味 237毫升 X 32罐",
+      "price": "$2,079",
+      "original_price": "$2,159",
+      "discount_amount": "$80",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Health-Beauty/Elderly-Care/Nutritional-Drinks/Abbott-Ensure-HMB-Original-237-ml-X-32-Pack/p/145690",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h9f/h61/450418065080350.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "飛利浦 50吋 4K QLED Google TV 顯示器 50PQT8530/96",
+      "price": "$11,999",
+      "original_price": "$13,699",
+      "discount_amount": "$1,700",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/50-59-TVs/Philips-50-inch-4K-QLED-Google-TV-Monitor-50PQT853096/p/153544",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h77/hcd/438072214323230.jpg",
+      "category": "家電 3C"
     },
     {
       "name": "海爾 織物清潔機 R10",
@@ -224,15 +556,15 @@
       "category": "日用品／母嬰／玩具"
     },
     {
-      "name": "KOH COCONUT 純椰子汁 1公升 X 6入",
-      "price": "$379",
-      "original_price": "$459",
-      "discount_amount": "$80",
-      "promotion": "商品已折價$80 含運",
+      "name": "DJI Osmo Pocket 3 旅拍套裝組 附續航手柄+收納包",
+      "price": "$11,799",
+      "original_price": "$12,599",
+      "discount_amount": "$800",
+      "promotion": "含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/p/75130",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h28/hd0/102276188930078.jpg",
-      "category": "食品飲料"
+      "url": "https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/DJI-Osmo-Pocket-3-Bundle-Battery-Handle-X-1-Bag-X-1/p/159980",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc8/h3f/466558645567518.jpg",
+      "category": "家電 3C"
     },
     {
       "name": "太和殿 私房麻辣火鍋湯底 1200公克 X 2包",
@@ -268,176 +600,42 @@
       "category": "食品飲料"
     }
   ],
-  "removed": [
-    {
-      "name": "亨氏 番茄醬 1公升 X 3入",
-      "price": "$289",
-      "original_price": "$359",
-      "discount_amount": "$70",
-      "promotion": "商品已折價$70 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Heinz-Tomato-Ketchup-1-L-X-3-Pack/p/201174",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h02/h05/382511787999262.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Ssanggye 蘋果醋沖泡粉 5公克 X 40包",
-      "price": "$319",
-      "original_price": "$399",
-      "discount_amount": "$80",
-      "promotion": "商品已折價$80 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Ssanggye-Apple-Cider-Vinegar-Drink-Powder-5-g-X-40-Pack/p/159494",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h95/h73/452308888846366.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "美威 冷凍精選鮭魚菲力-法式香蒜口味 6入組",
-      "price": "$1,179",
-      "original_price": "$1,479",
-      "discount_amount": "$300",
-      "promotion": "商品已折價 $300 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Supreme-Salmon-Frozen-Signature-Salmon-Fillet-French-Garlic-Butter-Flavor-6-Pack-Set/p/148196",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb5/hbd/272955082244126.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Schiff 益節葡萄糖胺+軟骨素+MSM+維生素D+鈣錠(食品) 240錠",
-      "price": "$1,129",
-      "original_price": "$1,409",
-      "discount_amount": "$280",
-      "promotion": "商品已折價 $280 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Bone-Joint-Support/Schiff-Move-Free-Glucosamine-Chondroitin-MSM-Vitamin-D-Calcium-240-Tablet/p/363984",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd2/h81/16466683363358.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "蘇菲 超熟睡長時間吸收夜用衛生棉 28公分 16片 X 8入",
-      "price": "$309",
-      "original_price": "$389",
-      "discount_amount": "$80",
-      "promotion": "商品已折價 $80 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Feminine-Care/Sofy-Deep-Sleep-Night-Pad-28-cm-16-Piece-X-8-Pack/p/140064",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h2b/h29/152907844780062.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "Redoxon 力度伸 維他命C+D+鋅發泡錠(柳橙口味) 45錠 (15錠 X 3條)",
-      "price": "$639",
-      "original_price": "$799",
-      "discount_amount": "$160",
-      "promotion": "商品已折價 $160 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Redoxon-CDZinc-Effervescent-Orange-Flavor-45-Tablet-15-Tablet-X-3-Pack/p/200762",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/he5/hf8/386020539564062.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "TETSU 日本製窒化鐵製炒鍋 28公分",
-      "price": "$1,729",
-      "original_price": "$2,169",
-      "discount_amount": "$440",
-      "promotion": "商品已折價$440 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Cookware-Cutlery-Cutting-Boards/TETSU-Nitriding-Iron-Wok-28-cm/p/125940",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h30/hf5/30241753858078.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "五木 川味紅燒牛肉麵 216公克 X 6包",
-      "price": "$315",
-      "original_price": "$389",
-      "discount_amount": "$74",
-      "promotion": "商品已折價$74 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Wu-mu-Sichuan-Braised-Beef-Noodle-Soup-216-g-X-6-Pack/p/146442",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h2d/h36/257071284420638.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "曼秀雷敦 AD 溫和舒敏泡沫沐浴露 1000毫升 X 1入",
-      "price": "$669",
-      "original_price": "$849",
-      "discount_amount": "$180",
-      "promotion": "商品已折價 $180 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Bath-Body/Mentholatum-AD-Mild-Skin-Wash-1000-ml-X-1-Pack/p/146632",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h10/hef/291632788340766.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "勝利 羽球拍 家庭組",
-      "price": "$1,549",
-      "original_price": "$1,939",
-      "discount_amount": "$390",
-      "promotion": "商品已折價$390 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Team-Sports/Victor-Badminton-Set/p/149254",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h04/h31/309921273905182.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "海爾 織物清潔機 R10",
-      "price": "$2,999",
-      "original_price": "$3,339",
-      "discount_amount": "$340",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Vacuums-Floor-Care/Haier-Spot-Cleaner-R10/p/160452",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha1/h4a/473819879407646.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "Zuru X-Shot 全電動高速水槍 2入組 / 8歲以上",
-      "price": "$627",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Outdoor-Play/Zuru-X-Shot-Motor-Soakers-2-Pack-Set-Ages-8-and-up/p/1851471",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h63/h62/486580374896670.jpg",
-      "category": "日用品／母嬰／玩具"
-    }
-  ],
   "price_changes": [
     {
       "name": "Baccarat Snoopy Heart 水晶擺飾",
-      "price": "$9,599",
-      "original_price": "$12,059",
-      "discount_amount": "$2,460",
-      "promotion": "商品已折價$2,460 含運",
+      "price": "$369",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
       "stock_status": "狀態未知",
-      "old_price": "$369",
-      "direction": "漲價",
+      "old_price": "$9,599",
+      "direction": "降價",
       "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Holiday-Decor/Baccarat-Snoopy-Heart-Figurine/p/159746",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hd8/h52/451293429366814.jpg",
       "category": "家具家居"
     },
     {
       "name": "Baccarat 招財貓 水晶擺件",
-      "price": "$10,799",
-      "original_price": "$13,559",
-      "discount_amount": "$2,760",
-      "promotion": "商品已折價$2,760 含運",
+      "price": "$799",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
       "stock_status": "狀態未知",
-      "old_price": "$799",
-      "direction": "漲價",
+      "old_price": "$10,799",
+      "direction": "降價",
       "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Holiday-Decor/Baccarat-Cat-Maneki-Neko-Figurine/p/159744",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h66/hd1/451293428809758.jpg",
       "category": "家具家居"
     },
     {
       "name": "Leblon Snoopy Heart 迎賓公仔 55公分 原色",
-      "price": "$71,999",
-      "original_price": "$89,999",
-      "discount_amount": "$18,000",
-      "promotion": "商品已折價$18,000 含運",
+      "price": "$2,169",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
       "stock_status": "狀態未知",
-      "old_price": "$2,169",
-      "direction": "漲價",
+      "old_price": "$71,999",
+      "direction": "降價",
       "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Holiday-Decor/Leblon-Snoopy-Heart-Figurine-55-cm-Original/p/159736",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h36/h97/434451536740382.jpg",
       "category": "家具家居"
