@@ -1,8 +1,76 @@
 {
   "date": "2026-10-11",
-  "generated_at": "2026-10-11 06:47",
+  "generated_at": "2026-10-11 17:11",
   "has_previous": true,
   "added": [
+    {
+      "name": "Natori 魚肉起司棒 957公克",
+      "price": "$325",
+      "original_price": "$399",
+      "discount_amount": "$74",
+      "promotion": "商品已折價$74 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Natori-Cheese-Fish-Cake-957-g/p/168850",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h08/h60/400800633913374.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "TETSU 日本製窒化鐵製炒鍋 28公分",
+      "price": "$1,729",
+      "original_price": "$2,169",
+      "discount_amount": "$440",
+      "promotion": "商品已折價$440 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Cookware-Cutlery-Cutting-Boards/TETSU-Nitriding-Iron-Wok-28-cm/p/125940",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h30/hf5/30241753858078.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Redoxon 力度伸 維他命C+D+鋅發泡錠(柳橙口味) 45錠 (15錠 X 3條)",
+      "price": "$639",
+      "original_price": "$799",
+      "discount_amount": "$160",
+      "promotion": "商品已折價 $160 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Redoxon-CDZinc-Effervescent-Orange-Flavor-45-Tablet-15-Tablet-X-3-Pack/p/200762",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he5/hf8/386020539564062.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "Angie's 鹹甜爆米花 652公克",
+      "price": "$289",
+      "original_price": "$319",
+      "discount_amount": "$30",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Angies-BoomChickaPop-Sweet-and-Salty-Kettle-Popcorn-652-g/p/979885",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha8/hb9/11953683595294.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Gemini 純棉浴室地墊 6入組 72公分 X 50公分 白",
+      "price": "$799",
+      "original_price": "$999",
+      "discount_amount": "$200",
+      "promotion": "商品已折價$200 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Rugs-Mats/Gemini-100-Cotton-Bath-Mat-6-Count-72-cm-X-50-cm-White/p/124245",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hac/h72/14264814895134.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "La Belle 雙人冷暖雙面可水洗天天抱被 180公分 X 210公分 綠/灰",
+      "price": "$1,199",
+      "original_price": "$1,499",
+      "discount_amount": "$300",
+      "promotion": "商品已折價$300 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/La-Belle-Everyday-Hug-Blanket-180-cm-X-210-cm-Green-Gray/p/163508",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h06/he7/505969113071646.jpg",
+      "category": "家具家居"
+    }
+  ],
+  "removed": [
     {
       "name": "KOH COCONUT 純椰子汁 1公升 X 6入",
       "price": "$379",
@@ -15,80 +83,25 @@
       "category": "食品飲料"
     },
     {
-      "name": "舒潔 濕式衛生紙 46張 X 32入",
-      "price": "$1,143",
-      "original_price": "$1,429",
-      "discount_amount": "$286",
-      "promotion": "商品已折價$286 含運",
+      "name": "Natori 魚肉起司棒 957公克",
+      "price": "$325",
+      "original_price": "$399",
+      "discount_amount": "$74",
+      "promotion": "商品已折價$74 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Kleenex-Flushable-Wipes-46-Sheet-X-32-Count/p/123333",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h62/h92/312615946485790.jpg",
-      "category": "日用品／母嬰／玩具"
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/168850",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h08/h60/400800633913374.jpg",
+      "category": "食品飲料"
     },
     {
-      "name": "Meyer 鎧甲黑 IH 導磁陽極氧化不沾單柄深煎鍋 20公分",
-      "price": "$875",
-      "original_price": "$1,099",
-      "discount_amount": "$224",
-      "promotion": "商品已折價$224 含運",
+      "name": "Redoxon 力度伸 維他命C+D+鋅發泡錠(柳橙口味) 45錠 (15錠 X 3條)",
+      "price": "$639",
+      "original_price": "$799",
+      "discount_amount": "$160",
+      "promotion": "商品已折價 $160 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Cookware-Cutlery-Cutting-Boards/Meyer-IH-Non-Stick-Saute-Pan-20-cm/p/154673",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h15/hac/365330398412830.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "挺立高鈣強力錠 + K2配方 295錠",
-      "price": "$1,469",
-      "original_price": "$1,829",
-      "discount_amount": "$360",
-      "promotion": "商品已折價 $360 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Caltrate-High-Calcium-Plus-K2-formula-295-Tablet/p/890908",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h6f/h9b/418236987211806.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "Schiff 益節葡萄糖胺+軟骨素+MSM+維生素D+鈣錠(食品) 240錠",
-      "price": "$1,129",
-      "original_price": "$1,409",
-      "discount_amount": "$280",
-      "promotion": "商品已折價 $280 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Bone-Joint-Support/Schiff-Move-Free-Glucosamine-Chondroitin-MSM-Vitamin-D-Calcium-240-Tablet/p/363984",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd2/h81/16466683363358.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "銀寶善存50+ 女性綜合維他命錠 290錠",
-      "price": "$1,469",
-      "original_price": "$1,829",
-      "discount_amount": "$360",
-      "promotion": "商品已折價 $360 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Centrum-Silver-50-for-Women-Multivitamin-290-Tablet/p/765268",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hba/h68/396189976035358.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "Nature Made 萊萃美 全方位維生素B群加C 活力錠 300粒",
-      "price": "$869",
-      "original_price": "$1,079",
-      "discount_amount": "$210",
-      "promotion": "商品已折價 $210 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Nature-Made-Super-B-C-Support-300-Tablet/p/234845",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h76/hda/325606378045470.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "嘉實多極致 0W-20 全合成機油 946毫升 X 6入",
-      "price": "$1,279",
-      "original_price": "$1,599",
-      "discount_amount": "$320",
-      "promotion": "商品已折價$320 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Automotive/Car-Oils-Fluids/Castrol-EDGE-0W-20-Full-Synthetic-Motor-Oil-946-ml-x-6-Pack/p/125480",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h0a/h8d/473819313537054.jpg",
+      "url": "https://www.costco.com.tw/p/200762",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he5/hf8/386020539564062.jpg",
       "category": "其他"
     },
     {
@@ -101,107 +114,50 @@
       "url": "https://www.costco.com.tw/p/125940",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h30/hf5/30241753858078.jpg",
       "category": "其他"
-    }
-  ],
-  "removed": [
-    {
-      "name": "舒潔 濕式衛生紙 46張 X 32入",
-      "price": "$1,143",
-      "original_price": "$1,429",
-      "discount_amount": "$286",
-      "promotion": "商品已折價$286 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/123333",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h62/h92/312615946485790.jpg",
-      "category": "日用品／母嬰／玩具"
     },
     {
-      "name": "汪喵星球 寵物骰子牛凍乾零食 348公克",
-      "price": "$1,009",
-      "original_price": "$1,289",
-      "discount_amount": "$280",
-      "promotion": "商品已折價$280 含運",
+      "name": "Angie's 鹹甜爆米花 652公克",
+      "price": "$289",
+      "original_price": "$319",
+      "discount_amount": "$30",
+      "promotion": "含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/151524",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h6c/h0c/350052589830174.jpg",
-      "category": "日用品／母嬰／玩具"
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/979885",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha8/hb9/11953683595294.jpg",
+      "category": "食品飲料"
     },
     {
-      "name": "Meyer 鎧甲黑 IH 導磁陽極氧化不沾單柄深煎鍋 20公分",
-      "price": "$875",
-      "original_price": "$1,099",
-      "discount_amount": "$224",
-      "promotion": "商品已折價$224 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/154673",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h15/hac/365330398412830.jpg",
+      "name": "Gemini 純棉浴室地墊 6入組 72公分 X 50公分 白",
+      "price": "$799",
+      "original_price": "$999",
+      "discount_amount": "$200",
+      "promotion": "商品已折價$200 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Bedding/p/124245",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hac/h72/14264814895134.jpg",
       "category": "其他"
     },
     {
-      "name": "挺立高鈣強力錠 + K2配方 295錠",
-      "price": "$1,469",
-      "original_price": "$1,829",
-      "discount_amount": "$360",
-      "promotion": "商品已折價 $360 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/890908",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h6f/h9b/418236987211806.jpg",
+      "name": "La Belle 雙人冷暖雙面可水洗天天抱被 180公分 X 210公分 綠/灰",
+      "price": "$1,199",
+      "original_price": "$1,499",
+      "discount_amount": "$300",
+      "promotion": "商品已折價$300 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Bedding/p/163508",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h06/he7/505969113071646.jpg",
       "category": "其他"
     },
     {
-      "name": "Schiff 益節葡萄糖胺+軟骨素+MSM+維生素D+鈣錠(食品) 240錠",
-      "price": "$1,129",
-      "original_price": "$1,409",
-      "discount_amount": "$280",
-      "promotion": "商品已折價 $280 含運",
+      "name": "亨氏 番茄醬 1公升 X 3入",
+      "price": "$289",
+      "original_price": "$359",
+      "discount_amount": "$70",
+      "promotion": "商品已折價$70 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/363984",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd2/h81/16466683363358.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "銀寶善存50+ 女性綜合維他命錠 290錠",
-      "price": "$1,469",
-      "original_price": "$1,829",
-      "discount_amount": "$360",
-      "promotion": "商品已折價 $360 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/765268",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hba/h68/396189976035358.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Nature Made 萊萃美 全方位維生素B群加C 活力錠 300粒",
-      "price": "$869",
-      "original_price": "$1,079",
-      "discount_amount": "$210",
-      "promotion": "商品已折價 $210 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/234845",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h76/hda/325606378045470.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "嘉實多極致 0W-20 全合成機油 946毫升 X 6入",
-      "price": "$1,279",
-      "original_price": "$1,599",
-      "discount_amount": "$320",
-      "promotion": "商品已折價$320 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Automotive/p/125480",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h0a/h8d/473819313537054.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "TETSU 日本製窒化鐵製炒鍋 28公分",
-      "price": "$1,729",
-      "original_price": "$2,169",
-      "discount_amount": "$440",
-      "promotion": "商品已折價$440 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Cookware-Cutlery-Cutting-Boards/TETSU-Nitriding-Iron-Wok-28-cm/p/125940",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h30/hf5/30241753858078.jpg",
-      "category": "家具家居"
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/p/201174",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h02/h05/382511787999262.jpg",
+      "category": "食品飲料"
     }
   ],
   "price_changes": []
