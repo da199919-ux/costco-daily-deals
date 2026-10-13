@@ -1,8 +1,87 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13 02:05",
+  "generated_at": "2026-10-13 08:54",
   "has_previous": true,
   "added": [
+    {
+      "name": "桂格 減糖黑十穀 38公克 X 50入",
+      "price": "$299",
+      "original_price": "$369",
+      "discount_amount": "$70",
+      "promotion": "商品已折價 $70 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/c/Quaker-Herbs-Cereal-Beverage-with-Low-Sugar-Formula-38-g-X-50-Pack/p/184592",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha3/hc0/136797143597086.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "北海 鱈魚香絲 600公克",
+      "price": "$269",
+      "original_price": "$319",
+      "discount_amount": "$50",
+      "promotion": "商品已折價$50 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/North-Sea-Fish-Snacks-600-g/p/78623",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h21/h0e/509996218056734.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "百奇 夏季雙享組 雙層抹茶+草莓粒粒 6盒入",
+      "price": "$349",
+      "original_price": "$429",
+      "discount_amount": "$80",
+      "promotion": "商品已折價$80 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/437561",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he2/h43/472592005759006.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "桂格 蔬果纖穀粉(綜合堅果風味) 30公克 X 40包",
+      "price": "$349",
+      "original_price": "$429",
+      "discount_amount": "$80",
+      "promotion": "商品已折價$80 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Quaker-Veggie-Cereal-Shake-Mixed-Nuts-Flavor-30-g-X-40-Pack/p/160956",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h73/h55/466199148658718.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Soft99 ALAUNEN 洗車+鍍膜洗車精 700毫升 X 2入",
+      "price": "$789",
+      "original_price": "$989",
+      "discount_amount": "$200",
+      "promotion": "商品已折價$200 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Automotive/p/153948",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h47/h54/362804916617246.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Igloo 18.9公升 保冷桶",
+      "price": "$899",
+      "original_price": "$1,759",
+      "discount_amount": "$860",
+      "promotion": "商品已折價$860 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Coolers/Igloo-Sport-5-Gallon-Roller/p/1872201",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hca/h9f/454001921064990.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "飛利浦 75吋 4K Google TV 顯示器聲霸組合 75PUH7890/96",
+      "price": "$23,999",
+      "original_price": "$29,999",
+      "discount_amount": "$6,000",
+      "promotion": "商品已折價$6,000 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-TV-Accessories/p/153515",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hac/hab/438072164974622.jpg",
+      "category": "其他"
+    }
+  ],
+  "removed": [
     {
       "name": "桂格 減糖黑十穀 38公克 X 50入",
       "price": "$299",
@@ -26,6 +105,17 @@
       "category": "食品飲料"
     },
     {
+      "name": "百奇 夏季雙享組 雙層抹茶+草莓粒粒 6盒入",
+      "price": "$349",
+      "original_price": "$429",
+      "discount_amount": "$80",
+      "promotion": "商品已折價$80 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Pocky-Seasonal-Limited-Edition-Matcha-Strawberry-6-Pack-Set/p/437561",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he2/h43/472592005759006.jpg",
+      "category": "食品飲料"
+    },
+    {
       "name": "桂格 蔬果纖穀粉(綜合堅果風味) 30公克 X 40包",
       "price": "$349",
       "original_price": "$429",
@@ -35,118 +125,64 @@
       "url": "https://www.costco.com.tw/Food-Dining/Drinks/p/160956",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h73/h55/466199148658718.jpg",
       "category": "食品飲料"
-    }
-  ],
-  "removed": [
+    },
     {
-      "name": "桂格 減糖黑十穀 38公克 X 50入",
-      "price": "$299",
-      "original_price": "$369",
-      "discount_amount": "$70",
-      "promotion": "商品已折價 $70 含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/c/Quaker-Herbs-Cereal-Beverage-with-Low-Sugar-Formula-38-g-X-50-Pack/p/184592",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha3/hc0/136797143597086.jpg",
+      "name": "Soft99 ALAUNEN 洗車+鍍膜洗車精 700毫升 X 2入",
+      "price": "$789",
+      "original_price": "$989",
+      "discount_amount": "$200",
+      "promotion": "商品已折價$200 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Automotive/Exterior-Car-Care/Soft99-Alaunen-Clean-and-Coat-700-ml-X-2-Pack/p/153948",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h47/h54/362804916617246.jpg",
       "category": "其他"
     },
     {
-      "name": "北海 鱈魚香絲 600公克",
-      "price": "$269",
+      "name": "Pril 小蘇打洗碗精清新檸檬香 1.5公升 X 2入",
+      "price": "$234",
+      "original_price": "$289",
+      "discount_amount": "$55",
+      "promotion": "商品已折價$55 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Dish-Detergents/Pril-Baking-Soda-Dish-Washing-Liquid-Lemon-Flavor-15-L-X-2-Count/p/177837",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hd5/h58/313983034228766.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "三立製菓 源氏派家庭包 240公克 X 3包",
+      "price": "$259",
       "original_price": "$319",
-      "discount_amount": "$50",
-      "promotion": "商品已折價$50 含運",
+      "discount_amount": "$60",
+      "promotion": "商品已折價$60 含運",
       "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/North-Sea-Fish-Snacks-600-g/p/78623",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h21/h0e/509996218056734.jpg",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Sanritsu-Seika-Family-Size-Genji-Pie-240-g-X-3-Pack/p/153830",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h13/hca/369281019215902.jpg",
       "category": "食品飲料"
     },
     {
-      "name": "桂格 蔬果纖穀粉(綜合堅果風味) 30公克 X 40包",
-      "price": "$349",
-      "original_price": "$429",
-      "discount_amount": "$80",
-      "promotion": "商品已折價$80 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Quaker-Veggie-Cereal-Shake-Mixed-Nuts-Flavor-30-g-X-40-Pack/p/160956",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h73/h55/466199148658718.jpg",
+      "name": "卡迪那 玉米糙米脆片原味 70公克 X 10包",
+      "price": "$269",
+      "original_price": "$339",
+      "discount_amount": "$70",
+      "promotion": "商品已折價$70 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Cadina-Popped-Corn-Rice-Chips-Original-Flavor-70-g-X-10-Pack/p/886600",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf2/h52/295029065154590.jpg",
       "category": "食品飲料"
-    },
-    {
-      "name": "Brita mypure pro X9 超微濾濾芯組 + 離子交換樹脂濾芯 X 1入",
-      "price": "$10,299",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/c/Brita-mypure-pro-X9-Filter-Cartridge-Set-mypure-pro-ION-X-Filter-X-1-Piece/p/162678",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h85/h03/504930900082718.jpg",
-      "category": "其他"
     }
   ],
   "price_changes": [
     {
-      "name": "Adidas 兒童休閒鞋",
-      "price": "$557",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "old_price": "$657",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Childrens-Shoes/Adidas-Kids-Court-Shoe/p/1864508",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hfd/h75/454001908776990.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Max & Mia 女無袖連身洋裝",
-      "price": "$347",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "old_price": "$447",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Max-Mia-Ladies-Sleeveless-Dress/p/1912115",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h19/h3f/379632630693918.jpg",
-      "category": "服飾配件"
-    },
-    {
       "name": "Merrell Moab 3 女登山運動鞋",
-      "price": "$2,999",
-      "original_price": "$3,749",
-      "discount_amount": "$750",
-      "promotion": "商品已折價$750 含運",
+      "price": "$1,379",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
       "stock_status": "狀態未知",
-      "old_price": "$1,379",
-      "direction": "漲價",
+      "old_price": "$2,999",
+      "direction": "降價",
       "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Merrell-Moab-3-Ladies-Hiking-Shoe/p/1763686",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hee/h40/502597111971870.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Oh Sunny 女戶外休閒雙面遮陽帽",
-      "price": "$247",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "old_price": "$347",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Accessories/Oh-Sunny-Ladies-Reversible-Sunscreen-Hat/p/8522876",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hc5/hbf/437687805116446.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Tailor Vintage 男長褲",
-      "price": "$347",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "old_price": "$497",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/Tailor-Vintage-Mens-Ewaist-Surplus-Pant/p/1956433",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h48/h0c/438876310011934.jpg",
       "category": "服飾配件"
     }
   ]
