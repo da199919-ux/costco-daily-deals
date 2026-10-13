@@ -1,8 +1,65 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-14 00:11",
+  "generated_at": "2026-10-14 05:24",
   "has_previous": true,
   "added": [
+    {
+      "name": "Nature Made 萊萃美 全方位維生素B群加C 活力錠 300粒",
+      "price": "$869",
+      "original_price": "$1,079",
+      "discount_amount": "$210",
+      "promotion": "商品已折價 $210 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Nature-Made-Super-B-C-Support-300-Tablet/p/234845",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h76/hda/325606378045470.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "桂格綜合高纖燕麥穀飯 1.25公斤 X 3包",
+      "price": "$349",
+      "original_price": "$429",
+      "discount_amount": "$80",
+      "promotion": "商品已折價$80 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/p/145270",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb9/h92/363073675296798.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Gilman Creek 牛皮電動躺椅",
+      "price": "$11,099",
+      "original_price": "$13,899",
+      "discount_amount": "$2,800",
+      "promotion": "商品已折價$2,800 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/1646063",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hab/he2/401756115107870.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Angie's 鹹甜爆米花 652公克",
+      "price": "$289",
+      "original_price": "$319",
+      "discount_amount": "$30",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Angies-BoomChickaPop-Sweet-and-Salty-Kettle-Popcorn-652-g/p/979885",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha8/hb9/11953683595294.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Iris Woozoo 空氣循環扇 STF-360DC-N",
+      "price": "$1,679",
+      "original_price": "$2,099",
+      "discount_amount": "$420",
+      "promotion": "商品已折價$420 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Cooling-Heating-Air-Treatment/Heating-Cooling/p/1747373",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h82/h5a/468568732925982.jpg",
+      "category": "其他"
+    }
+  ],
+  "removed": [
     {
       "name": "Nature Made 萊萃美 全方位維生素B群加C 活力錠 300粒",
       "price": "$869",
@@ -26,26 +83,15 @@
       "category": "食品飲料"
     },
     {
-      "name": "科克蘭有機燕麥飲 946毫升 X 6入",
-      "price": "$397",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
+      "name": "Gilman Creek 牛皮電動躺椅",
+      "price": "$11,099",
+      "original_price": "$13,899",
+      "discount_amount": "$2,800",
+      "promotion": "商品已折價$2,800 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Kirkland-Signature-Organic-Oat-Beverage-946-ml-X-6-Count/p/1272413",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf4/h99/61939550126110.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Nautica 女圓領短袖Logo上衣",
-      "price": "$447",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Nautica-Ladies-Crew-Neck-Short-Sleeve-Logo-T-Shirt/p/155246",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h80/hd3/485750824665118.jpg",
-      "category": "服飾配件"
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Gilman-Creek-Leather-Power-Recliner/p/1646063",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hab/he2/401756115107870.jpg",
+      "category": "家具家居"
     },
     {
       "name": "Angie's 鹹甜爆米花 652公克",
@@ -59,194 +105,43 @@
       "category": "食品飲料"
     },
     {
-      "name": "Champion 男短袖上衣",
-      "price": "$447",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
+      "name": "Iris Woozoo 空氣循環扇 STF-360DC-N",
+      "price": "$1,679",
+      "original_price": "$2,099",
+      "discount_amount": "$420",
+      "promotion": "商品已折價$420 含運",
       "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Champion-Mens-Short-Sleeve-Tee/p/148105",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/he0/he9/491697859067934.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Don Simon 100%柳橙汁 1公升 X 6入",
-      "price": "$447",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Don-Simon-Valencia-100-Orange-Juice-1-L-X-6-Pack/p/157405",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h29/h3b/472952388747294.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "ellesse 男短袖上衣",
-      "price": "$297",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/ellesse-Mens-Short-Sleeve-Tee/p/1846550",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h45/h01/502266465157150.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "妮維雅 煥亮止汗乳液 50毫升 X 3入",
-      "price": "$297",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/Nivea-Derma-Control-Deo-Rollon-50-ml-X-3-Pack/p/157106",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h16/h58/450045185851422.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "CAT 泡芙兩用側背包",
-      "price": "$747",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Luggage-Backpacks/Totes-Backpacks/CAT-Puffy-Sling-Bag-with-Mini-Pouch-Bag/p/160502",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h71/ha0/473819893825566.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "NFL 男短袖上衣",
-      "price": "$447",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/NFL-Mens-Short-Sleeve-Tee/p/160760",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/hd8/488918689415198.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Jeep 男短袖Polo衫",
-      "price": "$497",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Jeep-Mens-Short-Sleeve-Polo-Shirt/p/147310",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h30/hb8/366248877883422.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Biore 瞬感急凍噴霧 潔淨皂香 120毫升 X 3入組",
-      "price": "$427",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Health-Beauty/Beauty-Skin-Care/Sun-Care/Biore-Cooling-Body-Mist-120-ml-X-3-Pack-Set/p/158354",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h21/h95/454769478565918.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "Ray-Ban 太陽眼鏡 RB3293 003/8G 銀色",
-      "price": "$2,599",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/Ray-Ban-Sunglasses-RB3293-0038G-Silver/p/251215",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h84/hdb/384789282783262.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "JIMMY CHOO 太陽眼鏡 ALIANA/S RHLIR 金色",
-      "price": "$1,897",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/JIMMY-CHOO-Sunglasses-ALIANAS-RHLIR-Gold/p/250672",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hed/h6e/381684949123102.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Tommy Hilfiger 女短袖連身裙",
-      "price": "$647",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Tommy-Hilfiger-Ladies-Short-Sleeve-Dress/p/1956765",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h24/ha4/472591855910942.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "不二家 經典牛奶糖 520公克",
-      "price": "$197",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Fujiya-Peko-Milk-Soft-Candy-520-g/p/155247",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h2f/h79/381660478636062.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "三幸 雪宿米果 北海道濃厚牛奶卡士達風味 78公克 X 6包",
-      "price": "$229",
-      "original_price": "$329",
-      "discount_amount": "$100",
-      "promotion": "商品已折價$100 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/453830",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h57/hdd/454769551769630.jpg",
-      "category": "食品飲料"
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Iris-Woozoo-DC-Circulator-Fan-STF-360DC-N/p/1747373",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h82/h5a/468568732925982.jpg",
+      "category": "家電 3C"
     }
   ],
-  "removed": [
+  "price_changes": [
     {
-      "name": "Nature Made 萊萃美 全方位維生素B群加C 活力錠 300粒",
-      "price": "$869",
-      "original_price": "$1,079",
-      "discount_amount": "$210",
-      "promotion": "商品已折價 $210 含運",
+      "name": "True Innovations 全網布辦公椅",
+      "price": "$2,719",
+      "original_price": "$3,399",
+      "discount_amount": "$680",
+      "promotion": "商品已折價$680 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Nature-Made-Super-B-C-Support-300-Tablet/p/234845",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h76/hda/325606378045470.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "Angie's 鹹甜爆米花 652公克",
-      "price": "$289",
-      "original_price": "$319",
-      "discount_amount": "$30",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Angies-BoomChickaPop-Sweet-and-Salty-Kettle-Popcorn-652-g/p/979885",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha8/hb9/11953683595294.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Simon Li 三人座牛皮電動沙發",
-      "price": "$18,997",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Simon-Li-Leather-Power-3-Seater-Reclining-Sofa/p/1812553",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h5c/hb1/278946242920478.jpg",
+      "old_price": "$3,399",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/True-Innovations-Task-Mesh-Chair/p/1812395",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4f/hd0/399197023043614.jpg",
       "category": "家具家居"
     },
     {
-      "name": "Tobin Sports 11呎 2吋 充氣槳板",
-      "price": "$4,097",
+      "name": "老楊 鹹蛋黃餅 640公克 X 6盒",
+      "price": "$1,589",
       "original_price": "",
       "discount_amount": "",
       "promotion": "含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Water-Sports/Tobin-Sports-11-ft-2-inch-Inflatable-Stand-Up-Paddle-Board/p/1819502",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h4a/hac/361110414163998.jpg",
+      "stock_status": "有貨",
+      "old_price": "$1,197",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Grains-Nuts-Snacks/TK-Food-Salted-Egg-Yolk-Cookies-640-g-X-6-Case/p/315324",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h32/h75/133504920518686.jpg",
       "category": "其他"
     }
-  ],
-  "price_changes": []
+  ]
 }
