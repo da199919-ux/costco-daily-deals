@@ -1,8 +1,9 @@
 {
-  "date": "2026-10-14",
-  "generated_at": "2026-10-14 20:10",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15 01:23",
   "has_previous": true,
-  "added": [
+  "added": [],
+  "removed": [
     {
       "name": "美孚 合成科技機油 超級5w30 12入",
       "price": "$1,599",
@@ -15,29 +16,45 @@
       "category": "其他"
     }
   ],
-  "removed": [
+  "price_changes": [
     {
-      "name": "Sports Research Omega-3 濃縮魚油 1250mg 150粒",
-      "price": "$1,369",
+      "name": "Don Simon 100%柳橙汁 1公升 X 6入",
+      "price": "$297",
       "original_price": "",
       "discount_amount": "",
       "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Sports-Research-Omega-3-Fish-Oil-Triple-Strength-1250mg-150-Softgel/p/240666",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf2/h84/275802915995678.jpg",
-      "category": "保健美容"
+      "stock_status": "狀態未知",
+      "old_price": "$447",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Don-Simon-Valencia-100-Orange-Juice-1-L-X-6-Pack/p/157405",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h29/h3b/472952388747294.jpg",
+      "category": "食品飲料"
     },
     {
-      "name": "Pril 小蘇打洗碗精清新檸檬香 1.5公升 X 2入",
-      "price": "$234",
-      "original_price": "$289",
-      "discount_amount": "$55",
-      "promotion": "商品已折價$55 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/177837",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd5/h58/313983034228766.jpg",
-      "category": "日用品／母嬰／玩具"
+      "name": "Merrell Moab 3 女登山運動鞋",
+      "price": "$2,999",
+      "original_price": "$3,749",
+      "discount_amount": "$750",
+      "promotion": "商品已折價$750 含運",
+      "stock_status": "狀態未知",
+      "old_price": "$1,379",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Merrell-Moab-3-Ladies-Hiking-Shoe/p/1763686",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hee/h40/502597111971870.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "科克蘭有機燕麥飲 946毫升 X 6入",
+      "price": "$297",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "狀態未知",
+      "old_price": "$397",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Kirkland-Signature-Organic-Oat-Beverage-946-ml-X-6-Count/p/1272413",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf4/h99/61939550126110.jpg",
+      "category": "食品飲料"
     }
-  ],
-  "price_changes": []
+  ]
 }
