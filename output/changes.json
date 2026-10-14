@@ -1,41 +1,21 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-14 14:17",
+  "generated_at": "2026-10-14 20:10",
   "has_previous": true,
   "added": [
     {
-      "name": "Iris Woozoo 空氣循環扇 STF-360DC-N",
-      "price": "$1,679",
-      "original_price": "$2,099",
-      "discount_amount": "$420",
-      "promotion": "商品已折價$420 含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Iris-Woozoo-DC-Circulator-Fan-STF-360DC-N/p/1747373",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h82/h5a/468568732925982.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "Gilman Creek 牛皮電動躺椅",
-      "price": "$11,099",
-      "original_price": "$13,899",
-      "discount_amount": "$2,800",
-      "promotion": "商品已折價$2,800 含運",
+      "name": "美孚 合成科技機油 超級5w30 12入",
+      "price": "$1,599",
+      "original_price": "$1,999",
+      "discount_amount": "$400",
+      "promotion": "商品已折價$400 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Gilman-Creek-Leather-Power-Recliner/p/1646063",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hab/he2/401756115107870.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "LG 653公升 變頻對開冰箱 GL-BL62SV",
-      "price": "$39,399",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Fridges-Freezers/Overall-Capacity-500-L-Above/LG-653-L-Inverter-Side-by-Side-Refrigerator-GL-BL62SV/p/145617",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h1d/h21/260837935087646.jpg",
-      "category": "家電 3C"
-    },
+      "url": "https://www.costco.com.tw/Automotive/p/155596",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf8/he0/378303701516318.jpg",
+      "category": "其他"
+    }
+  ],
+  "removed": [
     {
       "name": "Sports Research Omega-3 濃縮魚油 1250mg 150粒",
       "price": "$1,369",
@@ -48,28 +28,6 @@
       "category": "保健美容"
     },
     {
-      "name": "克寧 紐西蘭全脂奶粉 2.5公斤",
-      "price": "$719",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/KLIM-New-Zealand-Full-Cream-Milk-Powder-25-kg/p/130352",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h5a/hfa/99114369974302.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Brita 桌上型濾水箱 8.2公升 + 木架 附八入 Maxtra Pro 濾芯",
-      "price": "$2,999",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Filtration/Brita-Flow-Tabletop-82-L-Wooden-Kit-with-Maxtra-Pro-Filters-X-8-Count/p/150309",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h3c/h81/295422741741598.jpg",
-      "category": "家具家居"
-    },
-    {
       "name": "Pril 小蘇打洗碗精清新檸檬香 1.5公升 X 2入",
       "price": "$234",
       "original_price": "$289",
@@ -79,52 +37,6 @@
       "url": "https://www.costco.com.tw/Household-Baby-Toys/p/177837",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hd5/h58/313983034228766.jpg",
       "category": "日用品／母嬰／玩具"
-    }
-  ],
-  "removed": [
-    {
-      "name": "三幸 雪宿米果 北海道濃厚牛奶卡士達風味 78公克 X 6包",
-      "price": "$229",
-      "original_price": "$329",
-      "discount_amount": "$100",
-      "promotion": "商品已折價$100 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/453830",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h57/hdd/454769551769630.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "桂格綜合高纖燕麥穀飯 1.25公斤 X 3包",
-      "price": "$349",
-      "original_price": "$429",
-      "discount_amount": "$80",
-      "promotion": "商品已折價$80 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/p/145270",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb9/h92/363073675296798.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Gilman Creek 牛皮電動躺椅",
-      "price": "$11,099",
-      "original_price": "$13,899",
-      "discount_amount": "$2,800",
-      "promotion": "商品已折價$2,800 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/1646063",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hab/he2/401756115107870.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Iris Woozoo 空氣循環扇 STF-360DC-N",
-      "price": "$1,679",
-      "original_price": "$2,099",
-      "discount_amount": "$420",
-      "promotion": "商品已折價$420 含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Cooling-Heating-Air-Treatment/Heating-Cooling/p/1747373",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h82/h5a/468568732925982.jpg",
-      "category": "其他"
     }
   ],
   "price_changes": []
