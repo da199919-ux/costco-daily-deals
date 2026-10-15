@@ -1,164 +1,42 @@
 {
   "date": "2026-10-15",
-  "generated_at": "2026-10-15 18:08",
+  "generated_at": "2026-10-15 23:11",
   "has_previous": true,
   "added": [
-    {
-      "name": "3M 淨呼吸 20公升雙效空氣清淨除濕機 FD-Y200L Plus",
-      "price": "$14,399",
-      "original_price": "$17,999",
-      "discount_amount": "$3,600",
-      "promotion": "商品已折價$3,600 含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Dehumidifiers-Dry-Cabinets/3M-Filtrete-20-L-Air-Purifier-Dehumidifier-FD-Y200L-Plus/p/157136",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h9c/hdc/421140990656542.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "科克蘭 冷凍阿拉斯加野生紅鮭魚 1.36公斤",
-      "price": "$1,799",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "指定夏日涼感商品：買2件享8.5折，買3件享8折（結帳時依活動條件計算）",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Kirkland-Signature-Frozen-Wild-Alaskan-Sockeye-Salmon-136Kg/p/221177",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd7/h77/116799636930590.jpg",
-      "category": "食品飲料"
-    }
-  ],
-  "removed": [
-    {
-      "name": "3M 淨呼吸 20公升雙效空氣清淨除濕機 FD-Y200L Plus",
-      "price": "$14,399",
-      "original_price": "$17,999",
-      "discount_amount": "$3,600",
-      "promotion": "商品已折價$3,600 含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Cooling-Heating-Air-Treatment/Dehumidifiers-Dry-Cabinets/p/157136",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h9c/hdc/421140990656542.jpg",
-      "category": "其他"
-    },
     {
       "name": "32 Degrees 男羽絨外套",
       "price": "$1,049",
       "original_price": "$1,349",
       "discount_amount": "$300",
       "promotion": "商品已折價$300 含運",
-      "stock_status": "狀態未知",
+      "stock_status": "缺貨",
       "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/32-Degrees-Mens-Down-Jacket/p/1592680",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h55/he3/502266071613470.jpg",
       "category": "服飾配件"
     },
     {
-      "name": "Grandeur 商用純棉大浴巾 6入組 76公分 X 137公分",
-      "price": "$669",
-      "original_price": "$839",
-      "discount_amount": "$170",
-      "promotion": "商品已折價$170 含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Home-Kitchen/Bathroom/p/1176954",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h59/h12/261465432490014.jpg",
+      "name": "陳品 冷凍迷你生煎包",
+      "price": "$319",
+      "original_price": "$389",
+      "discount_amount": "$70",
+      "promotion": "商品已折價$70 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/p/156338",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0d/hd8/386020417568798.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "樂司科 赤色風暴渦輪風扇 #X12900TW",
+      "price": "$2,719",
+      "original_price": "$3,399",
+      "discount_amount": "$680",
+      "promotion": "商品已折價$680 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Cooling-Heating-Air-Treatment/Heating-Cooling/p/137007",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hdb/h0b/115073010171934.jpg",
       "category": "其他"
-    },
-    {
-      "name": "Buffalo 男針織平口內褲 5入組 S",
-      "price": "$575",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Buffalo-Mens-Knit-Boxers-5-Pack-Set-S/p/155495",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hea/h51/470130291769374.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "飛利浦 50吋 4K QLED Google TV 顯示器 50PQT8530/96",
-      "price": "$11,999",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/50-59-TVs/Philips-50-inch-4K-QLED-Google-TV-Monitor-50PQT853096/p/153544",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h77/hcd/438072214323230.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "Ray-Ban 太陽眼鏡 RB3293 003/8G 銀色",
-      "price": "請查看官網",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/Ray-Ban-Sunglasses-RB3293-0038G-Silver/p/251215",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h84/hdb/384789282783262.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "JIMMY CHOO 太陽眼鏡 ALIANA/S RHLIR 金色",
-      "price": "$1,897",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/JIMMY-CHOO-Sunglasses-ALIANAS-RHLIR-Gold/p/250672",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hed/h6e/381684949123102.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "GAP 女鬆緊腰短褲",
-      "price": "請查看官網",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/GAP-Elastic-Waist-Short/p/1959301",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hc0/h5c/451293697409054.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Scotch & Soda 女無袖連身洋裝",
-      "price": "$447",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Scotch-Soda-Ladies-Sleeveless-Dress/p/1956396",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h53/h80/400800676511774.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Buffalo 女短丹寧洋裝",
-      "price": "$547",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Buffalo-Ladies-Soft-Denim-Dress/p/2046573",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7f/hc7/453636861952030.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Tommy Hilfiger 女短袖連身裙",
-      "price": "$647",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Tommy-Hilfiger-Ladies-Short-Sleeve-Dress/p/1956765",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h24/ha4/472591855910942.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Brita Flow 桌上型濾水箱 8.2公升 附6入 Maxtra Pro 濾芯",
-      "price": "$2,059",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Filtration/Brita-Flow-Tabletop-82-L-with-Maxtra-Pro-Filters-X-6-Count/p/146057",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h3c/h86/245391134031902.jpg",
-      "category": "家具家居"
     }
   ],
+  "removed": [],
   "price_changes": []
 }
