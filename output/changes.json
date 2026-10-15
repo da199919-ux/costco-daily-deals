@@ -1,8 +1,87 @@
 {
   "date": "2026-10-15",
-  "generated_at": "2026-10-15 08:01",
+  "generated_at": "2026-10-15 12:55",
   "has_previous": true,
-  "added": [],
-  "removed": [],
+  "added": [
+    {
+      "name": "3M 淨呼吸 20公升雙效空氣清淨除濕機 FD-Y200L Plus",
+      "price": "$14,399",
+      "original_price": "$17,999",
+      "discount_amount": "$3,600",
+      "promotion": "商品已折價$3,600 含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Cooling-Heating-Air-Treatment/Dehumidifiers-Dry-Cabinets/p/157136",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h9c/hdc/421140990656542.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Grandeur 商用純棉大浴巾 6入組 76公分 X 137公分",
+      "price": "$669",
+      "original_price": "$839",
+      "discount_amount": "$170",
+      "promotion": "商品已折價$170 含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Home-Kitchen/Bathroom/p/1176954",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h59/h12/261465432490014.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Grandeur 商用純棉毛巾 12入組 40公分 X 76公分",
+      "price": "$485",
+      "original_price": "$615",
+      "discount_amount": "$130",
+      "promotion": "商品已折價$130 含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Business-Delivery/Home-Kitchen/Bathroom/Grandeur-Commercial-Hand-Towel-12-Count-Set-40-cm-X-76-cm/p/1176955",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h52/hf3/261465432653854.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Grandeur 雙股紗純棉商用方巾 24入組 33公分 X 33公分",
+      "price": "$355",
+      "original_price": "$445",
+      "discount_amount": "$90",
+      "promotion": "商品已折價$90 含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Business-Delivery/Home-Kitchen/Bathroom/Grandeur-Commercial-Washcloth-24-Count-Set-33-cm-X-33-cm/p/1176956",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc6/hb4/261465432817694.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "日立 19公升 超變頻清淨除濕機 RD-380VC",
+      "price": "$20,499",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Dehumidifiers-Dry-Cabinets/Hitachi-19-L-Air-Purifying-Dehumidifier-RD-380VC/p/152925",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hbc/hcd/421140861354014.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "Grandeur 商用純棉大浴巾 6入組 76公分 X 137公分",
+      "price": "$669",
+      "original_price": "$839",
+      "discount_amount": "$170",
+      "promotion": "商品已折價$170 含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Business-Delivery/Home-Kitchen/Bathroom/Grandeur-Commercial-Bath-Towel-6-Count-Set-76-cm-X-137-cm/p/1176954",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h59/h12/261465432490014.jpg",
+      "category": "其他"
+    }
+  ],
+  "removed": [
+    {
+      "name": "3M 淨呼吸 20公升雙效空氣清淨除濕機 FD-Y200L Plus",
+      "price": "$14,399",
+      "original_price": "$17,999",
+      "discount_amount": "$3,600",
+      "promotion": "商品已折價$3,600 含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Dehumidifiers-Dry-Cabinets/3M-Filtrete-20-L-Air-Purifier-Dehumidifier-FD-Y200L-Plus/p/157136",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h9c/hdc/421140990656542.jpg",
+      "category": "家電 3C"
+    }
+  ],
   "price_changes": []
 }
