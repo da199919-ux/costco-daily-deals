@@ -1,60 +1,8 @@
 {
   "date": "2026-10-15",
-  "generated_at": "2026-10-15 01:23",
+  "generated_at": "2026-10-15 08:01",
   "has_previous": true,
   "added": [],
-  "removed": [
-    {
-      "name": "美孚 合成科技機油 超級5w30 12入",
-      "price": "$1,599",
-      "original_price": "$1,999",
-      "discount_amount": "$400",
-      "promotion": "商品已折價$400 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Automotive/p/155596",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf8/he0/378303701516318.jpg",
-      "category": "其他"
-    }
-  ],
-  "price_changes": [
-    {
-      "name": "Don Simon 100%柳橙汁 1公升 X 6入",
-      "price": "$297",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "狀態未知",
-      "old_price": "$447",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Don-Simon-Valencia-100-Orange-Juice-1-L-X-6-Pack/p/157405",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h29/h3b/472952388747294.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Merrell Moab 3 女登山運動鞋",
-      "price": "$2,999",
-      "original_price": "$3,749",
-      "discount_amount": "$750",
-      "promotion": "商品已折價$750 含運",
-      "stock_status": "狀態未知",
-      "old_price": "$1,379",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Merrell-Moab-3-Ladies-Hiking-Shoe/p/1763686",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hee/h40/502597111971870.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "科克蘭有機燕麥飲 946毫升 X 6入",
-      "price": "$297",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "狀態未知",
-      "old_price": "$397",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Kirkland-Signature-Organic-Oat-Beverage-946-ml-X-6-Count/p/1272413",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf4/h99/61939550126110.jpg",
-      "category": "食品飲料"
-    }
-  ]
+  "removed": [],
+  "price_changes": []
 }
