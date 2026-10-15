@@ -1,18 +1,42 @@
 {
-  "date": "2026-10-15",
-  "generated_at": "2026-10-15 23:11",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16 03:17",
   "has_previous": true,
   "added": [
     {
-      "name": "32 Degrees 男羽絨外套",
-      "price": "$1,049",
-      "original_price": "$1,349",
-      "discount_amount": "$300",
-      "promotion": "商品已折價$300 含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/32-Degrees-Mens-Down-Jacket/p/1592680",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h55/he3/502266071613470.jpg",
-      "category": "服飾配件"
+      "name": "Grandeur 商用純棉大浴巾 6入組 76公分 X 137公分",
+      "price": "$669",
+      "original_price": "$839",
+      "discount_amount": "$170",
+      "promotion": "商品已折價$170 含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Home-Kitchen/Bathroom/p/1176954",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h59/h12/261465432490014.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Attic & Base 日本製輕量陶瓷義大利麵碗 4件組",
+      "price": "$687",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/p/684891",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h72/h6f/448868566925342.jpg",
+      "category": "其他"
+    }
+  ],
+  "removed": [
+    {
+      "name": "Attic & Base 日本製輕量陶瓷義大利麵碗 4件組",
+      "price": "$687",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Dinnerware-Flatware/Attic-Base-Made-in-Japan-Light-Weight-Ceramic-Pasta-Bowl-4-Piece-Set/p/684891",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h72/h6f/448868566925342.jpg",
+      "category": "家具家居"
     },
     {
       "name": "陳品 冷凍迷你生煎包",
@@ -37,6 +61,19 @@
       "category": "其他"
     }
   ],
-  "removed": [],
-  "price_changes": []
+  "price_changes": [
+    {
+      "name": "三立製菓 源氏派家庭包 240公克 X 3包",
+      "price": "$319",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "狀態未知",
+      "old_price": "$259",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Sanritsu-Seika-Family-Size-Genji-Pie-240-g-X-3-Pack/p/153830",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h13/hca/369281019215902.jpg",
+      "category": "食品飲料"
+    }
+  ]
 }
