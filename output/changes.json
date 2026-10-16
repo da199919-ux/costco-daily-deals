@@ -1,9 +1,8 @@
 {
   "date": "2026-10-17",
-  "generated_at": "2026-10-17 01:36",
+  "generated_at": "2026-10-17 05:26",
   "has_previous": true,
-  "added": [],
-  "removed": [
+  "added": [
     {
       "name": "盛香珍 酵母覺醒 濃厚紫菜青蔥蘇打餅 1525公克",
       "price": "$289",
@@ -14,97 +13,34 @@
       "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/143895",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hb0/hb7/206032625500190.jpg",
       "category": "食品飲料"
-    },
+    }
+  ],
+  "removed": [
     {
-      "name": "Brita 櫥下型濾芯 2入組 P1000",
-      "price": "$5,399",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "name": "盛香珍 酵母覺醒 濃厚紫菜青蔥蘇打餅 1525公克",
+      "price": "$289",
+      "original_price": "$359",
+      "discount_amount": "$70",
+      "promotion": "商品已折價$70 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/c/Brita-Water-Filter-2-Pack-Set-P1000/p/162665",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h94/h9e/504930899296286.jpg",
-      "category": "其他"
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/SHJ-Seaweed-Green-Onion-Crackers-1525-g/p/143895",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb0/hb7/206032625500190.jpg",
+      "category": "食品飲料"
     }
   ],
   "price_changes": [
     {
-      "name": "Samsung 655公升 美式對開 AI 冰箱 星空灰 RS70F65Q4TTW",
-      "price": "$34,999",
-      "original_price": "$43,999",
-      "discount_amount": "$9,000",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "old_price": "$39,999",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Fridges-Freezers/Overall-Capacity-500-L-Above/Samsung-655-L-French-Door-AI-Refrigerator-Starry-Gray-RS70F65Q4TTW/p/155431",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb6/hac/396189713563678.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "Samsung Bespoke AI 智慧電子衣櫥 DF18CB8600WRTW",
-      "price": "$31,999",
-      "original_price": "$34,999",
-      "discount_amount": "$3,000",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "old_price": "$33,999",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Washers-Dryers/Samsung-Bespoke-AI-Airdresser-DF18CB8600WRTW/p/161275",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h2f/hcd/471660361416734.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "Scotch & Soda 女牛仔外套",
-      "price": "$849",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "old_price": "$679",
+      "name": "Merrell Moab 3 女登山運動鞋",
+      "price": "$2,999",
+      "original_price": "$3,749",
+      "discount_amount": "$750",
+      "promotion": "商品已折價$750 含運",
+      "stock_status": "狀態未知",
+      "old_price": "$1,379",
       "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Coats-Jackets/Scotch-Soda-Ladies-Denim-Jacket/p/158489",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/he1/h72/489268214923294.jpg",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Merrell-Moab-3-Ladies-Hiking-Shoe/p/1763686",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hee/h40/502597111971870.jpg",
       "category": "服飾配件"
-    },
-    {
-      "name": "三星 Bespoke 21公斤滾筒洗衣機 WF21B9600KV/TW",
-      "price": "$25,999",
-      "original_price": "$33,999",
-      "discount_amount": "$8,000",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "old_price": "$29,899",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Washers-Dryers/Washer-Size-20-kg-Above/Samsung-Bespoke-21-kg-Front-Load-Washer-WF21B9600KVTW/p/161273",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h19/hd4/471660354535454.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "米森 亮妍草莓C 3.5公克 X 18包",
-      "price": "$499",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "old_price": "$399",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Vilson-Strawberry-Vitamin-C-35-g-X-18-Pack/p/158981",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h4f/h23/437687067705374.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "陳品 冷凍迷你生煎包",
-      "price": "$389",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "old_price": "$319",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Chen-Pin-Frozen-Mini-Pan-Fried-Bun/p/156338",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h0d/hd8/386020417568798.jpg",
-      "category": "食品飲料"
     }
   ]
 }
