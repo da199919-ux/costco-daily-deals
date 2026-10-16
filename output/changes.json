@@ -1,8 +1,43 @@
 {
   "date": "2026-10-16",
-  "generated_at": "2026-10-16 03:17",
+  "generated_at": "2026-10-16 09:33",
   "has_previous": true,
   "added": [
+    {
+      "name": "日本大分日田梨禮盒 4-6入",
+      "price": "$1,899",
+      "original_price": "$2,099",
+      "discount_amount": "$200",
+      "promotion": "商品已折價$200 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Chilled-Fresh-Food/Japan-Onita-Pear-4-6-Count/p/92527",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h05/h72/11315568967710.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "日本大分日田梨禮盒 5公斤",
+      "price": "$1,699",
+      "original_price": "$1,899",
+      "discount_amount": "$200",
+      "promotion": "商品已折價$200 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Chilled-Fresh-Food/Japan-Oita-Pear-5-kg/p/44303",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hef/hc1/173234210799646.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Attic & Base 日本製輕量陶瓷義大利麵碗 4件組",
+      "price": "$687",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Dinnerware-Flatware/Attic-Base-Made-in-Japan-Light-Weight-Ceramic-Pasta-Bowl-4-Piece-Set/p/684891",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h72/h6f/448868566925342.jpg",
+      "category": "家具家居"
+    }
+  ],
+  "removed": [
     {
       "name": "Grandeur 商用純棉大浴巾 6入組 76公分 X 137公分",
       "price": "$669",
@@ -24,56 +59,18 @@
       "url": "https://www.costco.com.tw/p/684891",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h72/h6f/448868566925342.jpg",
       "category": "其他"
-    }
-  ],
-  "removed": [
-    {
-      "name": "Attic & Base 日本製輕量陶瓷義大利麵碗 4件組",
-      "price": "$687",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Dinnerware-Flatware/Attic-Base-Made-in-Japan-Light-Weight-Ceramic-Pasta-Bowl-4-Piece-Set/p/684891",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h72/h6f/448868566925342.jpg",
-      "category": "家具家居"
     },
     {
-      "name": "陳品 冷凍迷你生煎包",
-      "price": "$319",
+      "name": "五木 川味紅燒牛肉麵 216公克 X 6包",
+      "price": "$315",
       "original_price": "$389",
-      "discount_amount": "$70",
-      "promotion": "商品已折價$70 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/p/156338",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h0d/hd8/386020417568798.jpg",
+      "discount_amount": "$74",
+      "promotion": "商品已折價$74 含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Wu-mu-Sichuan-Braised-Beef-Noodle-Soup-216-g-X-6-Pack/p/146442",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h2d/h36/257071284420638.jpg",
       "category": "食品飲料"
-    },
-    {
-      "name": "樂司科 赤色風暴渦輪風扇 #X12900TW",
-      "price": "$2,719",
-      "original_price": "$3,399",
-      "discount_amount": "$680",
-      "promotion": "商品已折價$680 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Cooling-Heating-Air-Treatment/Heating-Cooling/p/137007",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hdb/h0b/115073010171934.jpg",
-      "category": "其他"
     }
   ],
-  "price_changes": [
-    {
-      "name": "三立製菓 源氏派家庭包 240公克 X 3包",
-      "price": "$319",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "狀態未知",
-      "old_price": "$259",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Sanritsu-Seika-Family-Size-Genji-Pie-240-g-X-3-Pack/p/153830",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h13/hca/369281019215902.jpg",
-      "category": "食品飲料"
-    }
-  ]
+  "price_changes": []
 }
