@@ -1,6 +1,6 @@
 # Costco 每日優惠摘要（2026-10-16）
 
-更新時間：2026-10-16 09:33（台灣時間）
+更新時間：2026-10-16 15:22（台灣時間）
 共整理出 **399** 項官方線上優惠。
 本次共讀取 **416** 個官方商品頁面。
 庫存狀態：有貨 **6** 項、缺貨 **2** 項、待確認 **391** 項。
@@ -11,10 +11,10 @@
 
 | 分類 | 商品數量 |
 |---|---:|
-| 家具家居 | 83 |
+| 家具家居 | 84 |
 | 其他 | 77 |
 | 家電 3C | 72 |
-| 食品飲料 | 72 |
+| 食品飲料 | 71 |
 | 服飾配件 | 56 |
 | 保健美容 | 24 |
 | 日用品／母嬰／玩具 | 15 |
@@ -34,8 +34,8 @@
 
 ## 今日變化
 
-- 新增優惠：**3** 項
-- 本次未收錄：**3** 項（不代表優惠已結束）
+- 新增優惠：**2** 項
+- 本次未收錄：**2** 項（不代表優惠已結束）
 - 價格變動：**0** 項
 
 ### 價格變動
@@ -44,14 +44,12 @@
 
 ### 今日新增
 
-- [日本大分日田梨禮盒 4-6入](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Chilled-Fresh-Food/Japan-Onita-Pear-4-6-Count/p/92527)（$1,899；庫存：有貨）
-- [日本大分日田梨禮盒 5公斤](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Chilled-Fresh-Food/Japan-Oita-Pear-5-kg/p/44303)（$1,699；庫存：有貨）
-- [Attic & Base 日本製輕量陶瓷義大利麵碗 4件組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Dinnerware-Flatware/Attic-Base-Made-in-Japan-Light-Weight-Ceramic-Pasta-Bowl-4-Piece-Set/p/684891)（$687；庫存：狀態未知）
+- [五木 川味紅燒牛肉麵 216公克 X 6包](https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Wu-mu-Sichuan-Braised-Beef-Noodle-Soup-216-g-X-6-Pack/p/146442)（$315；庫存：狀態未知）
+- [Brita Flow 桌上型濾水箱 8.2公升 附6入 Maxtra Pro 濾芯](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Filtration/Brita-Flow-Tabletop-82-L-with-Maxtra-Pro-Filters-X-6-Count/p/146057)（$2,059；庫存：狀態未知）
 
 ### 本次未收錄（不代表優惠已結束）
 
-- [Grandeur 商用純棉大浴巾 6入組 76公分 X 137公分](https://www.costco.com.tw/Home-Kitchen/Bathroom/p/1176954)（$669；庫存：狀態未知）
-- [Attic & Base 日本製輕量陶瓷義大利麵碗 4件組](https://www.costco.com.tw/p/684891)（$687；庫存：狀態未知）
-- [五木 川味紅燒牛肉麵 216公克 X 6包](https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Wu-mu-Sichuan-Braised-Beef-Noodle-Soup-216-g-X-6-Pack/p/146442)（$315；庫存：狀態未知）
+- [三立製菓 源氏派家庭包 240公克 X 3包](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Sanritsu-Seika-Family-Size-Genji-Pie-240-g-X-3-Pack/p/153830)（$319；庫存：狀態未知）
+- [空運日本山梨縣麝香葡萄 1.75公斤 / 5入裝](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Chilled-Fresh-Food/Air-Freighted-Japan-Yamanashi-Muscat-Grape-175-kg-5Pack/p/156434)（$1,799；庫存：狀態未知）
 
 完整清單請查看專案中的 `output/latest.md`。
