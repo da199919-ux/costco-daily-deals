@@ -1,21 +1,30 @@
 {
   "date": "2026-10-17",
-  "generated_at": "2026-10-17 05:26",
+  "generated_at": "2026-10-17 12:45",
   "has_previous": true,
   "added": [
     {
-      "name": "盛香珍 酵母覺醒 濃厚紫菜青蔥蘇打餅 1525公克",
-      "price": "$289",
-      "original_price": "$359",
-      "discount_amount": "$70",
-      "promotion": "商品已折價$70 含運",
+      "name": "亞細亞田園 冷凍薄鹽毛豆莢 500公克 X 6包",
+      "price": "$339",
+      "original_price": "$419",
+      "discount_amount": "$80",
+      "promotion": "商品已折價 $80 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/143895",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb0/hb7/206032625500190.jpg",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Fruits-Vegetables/p/86373",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h1e/h87/33857917288478.jpg",
       "category": "食品飲料"
-    }
-  ],
-  "removed": [
+    },
+    {
+      "name": "家樂氏 早餐穀物杯裝分享組 40公克 X 18入",
+      "price": "$465",
+      "original_price": "$579",
+      "discount_amount": "$114",
+      "promotion": "商品已折價$114 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/p/158557",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf6/h0c/449275367948318.jpg",
+      "category": "食品飲料"
+    },
     {
       "name": "盛香珍 酵母覺醒 濃厚紫菜青蔥蘇打餅 1525公克",
       "price": "$289",
@@ -26,18 +35,130 @@
       "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/SHJ-Seaweed-Green-Onion-Crackers-1525-g/p/143895",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hb0/hb7/206032625500190.jpg",
       "category": "食品飲料"
+    },
+    {
+      "name": "哈瑞寶 金熊Q軟糖 1公斤",
+      "price": "$379",
+      "original_price": "$469",
+      "discount_amount": "$90",
+      "promotion": "商品已折價$90 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/205303",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h46/h4b/452750400716830.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "TCL 65吋 C7L 頂級 SQD-Mini LED 量子智能連網液晶顯示器 不含視訊盒 65C7L",
+      "price": "$31,999",
+      "original_price": "$39,999",
+      "discount_amount": "$8,000",
+      "promotion": "商品已折價$8,000 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-TV-Accessories/p/161712",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h14/h96/490097896030238.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "亞培安素 均衡營養 HMB 配方 原味 237毫升 X 32罐",
+      "price": "$2,079",
+      "original_price": "$2,159",
+      "discount_amount": "$80",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Elderly-Care/Nutritional-Drinks/p/145690",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h9f/h61/450418065080350.jpg",
+      "category": "其他"
+    }
+  ],
+  "removed": [
+    {
+      "name": "亞細亞田園 冷凍薄鹽毛豆莢 500公克 X 6包",
+      "price": "$339",
+      "original_price": "$419",
+      "discount_amount": "$80",
+      "promotion": "商品已折價 $80 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Fruits-Vegetables/Asia-Farm-Frozen-Edamame-500-g-X-6-Pack/p/86373",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h1e/h87/33857917288478.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "家樂氏 早餐穀物杯裝分享組 40公克 X 18入",
+      "price": "$465",
+      "original_price": "$579",
+      "discount_amount": "$114",
+      "promotion": "商品已折價$114 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Kelloggs-Cup-Cereal-40-g-X-18-Pack/p/158557",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf6/h0c/449275367948318.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "盛香珍 酵母覺醒 濃厚紫菜青蔥蘇打餅 1525公克",
+      "price": "$289",
+      "original_price": "$359",
+      "discount_amount": "$70",
+      "promotion": "商品已折價$70 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/143895",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb0/hb7/206032625500190.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "哈瑞寶 金熊Q軟糖 1公斤",
+      "price": "$379",
+      "original_price": "$469",
+      "discount_amount": "$90",
+      "promotion": "商品已折價$90 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Haribo-Goldbaren-Minis-1-kg/p/205303",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h46/h4b/452750400716830.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "TCL 65吋 C7L 頂級 SQD-Mini LED 量子智能連網液晶顯示器 不含視訊盒 65C7L",
+      "price": "$31,999",
+      "original_price": "$39,999",
+      "discount_amount": "$8,000",
+      "promotion": "商品已折價$8,000 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/60-69-TVs/TCL-65-inch-C7L-Premium-SQD-Mini-LED-Smart-Monitor-without-Tuner-Box-65C7L/p/161712",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h14/h96/490097896030238.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "亞培安素 均衡營養 HMB 配方 原味 237毫升 X 32罐",
+      "price": "$2,079",
+      "original_price": "$2,159",
+      "discount_amount": "$80",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Health-Beauty/Elderly-Care/Nutritional-Drinks/Abbott-Ensure-HMB-Original-237-ml-X-32-Pack/p/145690",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h9f/h61/450418065080350.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "Brita mypure pro X6 超濾濾芯組 + 離子交換樹脂濾芯 X 1入",
+      "price": "$9,069",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/c/Brita-mypure-pro-X6-Filter-Cartridge-Set-mypure-pro-ION-X-Filter-X-1-Piece/p/162679",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h5b/hf7/504930902376478.jpg",
+      "category": "其他"
     }
   ],
   "price_changes": [
     {
       "name": "Merrell Moab 3 女登山運動鞋",
-      "price": "$2,999",
-      "original_price": "$3,749",
-      "discount_amount": "$750",
-      "promotion": "商品已折價$750 含運",
+      "price": "$1,379",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
       "stock_status": "狀態未知",
-      "old_price": "$1,379",
-      "direction": "漲價",
+      "old_price": "$2,999",
+      "direction": "降價",
       "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Merrell-Moab-3-Ladies-Hiking-Shoe/p/1763686",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hee/h40/502597111971870.jpg",
       "category": "服飾配件"
