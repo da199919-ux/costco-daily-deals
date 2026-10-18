@@ -1,19 +1,109 @@
 {
   "date": "2026-10-18",
-  "generated_at": "2026-10-18 14:08",
+  "generated_at": "2026-10-18 19:27",
   "has_previous": true,
   "added": [
     {
-      "name": "歐樂B 電動牙刷刷頭 8入",
-      "price": "$749",
-      "original_price": "$949",
+      "name": "Maruesu 芥末醬油海苔天婦羅 24公克 X 10入",
+      "price": "$259",
+      "original_price": "$319",
+      "discount_amount": "$60",
+      "promotion": "商品已折價$60 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/115139",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc6/h19/16127111757854.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Reynolds 雷諾茲 保鮮膜 30公分 X 300公尺",
+      "price": "$329",
+      "original_price": "$399",
+      "discount_amount": "$70",
+      "promotion": "商品已折價$70 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/68080",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h7b/he0/34958971404318.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "經典卡通涼感被附收納袋 150公分 X 180公分 吉伊卡哇 星夜款",
+      "price": "$1,029",
+      "original_price": "$1,289",
+      "discount_amount": "$260",
+      "promotion": "商品已折價$260 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Bedding/p/449366",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hd3/hbc/471216562765854.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "日本大分日田梨禮盒 5公斤",
+      "price": "$1,699",
+      "original_price": "$1,899",
       "discount_amount": "$200",
       "promotion": "商品已折價$200 含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Electric-Toothbrushes-Water-Flossers/Oral-B-Replacement-Toothbrush-Heads-8-Count/p/144120",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h5f/h74/239741816569886.jpg",
-      "category": "家電 3C"
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Chilled-Fresh-Food/p/44303",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hef/hc1/173234210799646.jpg",
+      "category": "食品飲料"
     },
+    {
+      "name": "Annie’s Home Grown 有機起司通心粉 12入組合包",
+      "price": "$397",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/p/145777",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h51/h2a/383236912185374.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "National Vita 顧可飛DHA魚油晶球膠囊 30包",
+      "price": "$509",
+      "original_price": "$629",
+      "discount_amount": "$120",
+      "promotion": "商品已折價 $120 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/c/p/328912",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h68/h33/133324530876446.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "桂格 主廚燕麥片 金黃玉米濃湯風味 47公克 X 30包",
+      "price": "$399",
+      "original_price": "$499",
+      "discount_amount": "$100",
+      "promotion": "商品已折價$100 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/p/158876",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc0/h53/418236575449118.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "TCL 65吋 C7L 頂級 SQD-Mini LED 量子智能連網液晶顯示器 不含視訊盒 65C7L",
+      "price": "$31,999",
+      "original_price": "$39,999",
+      "discount_amount": "$8,000",
+      "promotion": "商品已折價$8,000 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-TV-Accessories/p/161712",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h14/h96/490097896030238.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "聲寶 16吋 機械式立扇 SK-GF16X",
+      "price": "$1,359",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Cooling-Heating-Air-Treatment/Heating-Cooling/p/158738",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h97/h2d/454769487413278.jpg",
+      "category": "其他"
+    }
+  ],
+  "removed": [
     {
       "name": "舒潔 濕式衛生紙 46張 X 32入",
       "price": "$1,143",
@@ -21,9 +111,64 @@
       "discount_amount": "$286",
       "promotion": "商品已折價$286 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/123333",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Kleenex-Flushable-Wipes-46-Sheet-X-32-Count/p/123333",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h62/h92/312615946485790.jpg",
       "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "Maruesu 芥末醬油海苔天婦羅 24公克 X 10入",
+      "price": "$259",
+      "original_price": "$319",
+      "discount_amount": "$60",
+      "promotion": "商品已折價$60 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Maruesu-Wasabi-Soy-Sauce-Flavored-Seaweed-Cracker-24-g-X-10-Pack/p/115139",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc6/h19/16127111757854.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "日本大分日田梨禮盒 5公斤",
+      "price": "$1,699",
+      "original_price": "$1,899",
+      "discount_amount": "$200",
+      "promotion": "商品已折價$200 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Chilled-Fresh-Food/Japan-Oita-Pear-5-kg/p/44303",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hef/hc1/173234210799646.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Annie’s Home Grown 有機起司通心粉 12入組合包",
+      "price": "$397",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/Annies-Home-Grown-Organic-Macaroni-Cheese-12-Pack-Assorted-Set/p/145777",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h51/h2a/383236912185374.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Brita Maxtra Pro 濾水壺專用濾芯純淨全效型 8入組",
+      "price": "$1,659",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Filtration/Brita-Maxtra-Pro-Pure-Performance-Filter-8-Piece-Set/p/144345",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h30/hee/256217672712222.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Brita mypure P3000 硬水軟化長效型濾芯 X 1入",
+      "price": "$5,979",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/c/Brita-mypure-P3000-Water-Filter-Cartridge-X-1-Piece/p/162677",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h84/h71/504930899492894.jpg",
+      "category": "其他"
     },
     {
       "name": "旺旺 嚴選米菓 827公克",
@@ -81,72 +226,15 @@
       "category": "其他"
     },
     {
-      "name": "Allertect 涼感抱枕 20公分 X 100公分",
-      "price": "$859",
+      "name": "聲寶 16吋 機械式立扇 SK-GF16X",
+      "price": "$1,359",
       "original_price": "",
       "discount_amount": "",
       "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Allertect/Allertect-Ice-Body-Pillow-20-cm-X-100-cm/p/642617",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/he9/h71/467794401132574.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "IRIS OHYAMA 桌上迷你型空氣循環扇 TAF-MKM10N",
-      "price": "$589",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/IRIS-OHYAMA-Tabletop-Mini-Circulator-Fan-TAF-MKM10N/p/145560",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h11/h96/238306256551966.jpg",
-      "category": "家電 3C"
-    }
-  ],
-  "removed": [
-    {
-      "name": "歐樂B 電動牙刷刷頭 8入",
-      "price": "$749",
-      "original_price": "$949",
-      "discount_amount": "$200",
-      "promotion": "商品已折價$200 含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Electric-Toothbrushes-Water-Flossers/p/144120",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h5f/h74/239741816569886.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "奇美 冷凍港點三重奏 960公克",
-      "price": "$409",
-      "original_price": "$499",
-      "discount_amount": "$90",
-      "promotion": "商品已折價$90 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/p/246436",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha4/h2a/399197037658142.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "IRIS OHYAMA 桌上迷你型空氣循環扇 TAF-MKM10N",
-      "price": "$589",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Cooling-Heating-Air-Treatment/Heating-Cooling/p/145560",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h11/h96/238306256551966.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Allertect 涼感抱枕 20公分 X 100公分",
-      "price": "$859",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/p/642617",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/he9/h71/467794401132574.jpg",
-      "category": "其他"
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/SAMPO-16-inch-Mechanical-Fan-SK-GF16X/p/158738",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h97/h2d/454769487413278.jpg",
+      "category": "家電 3C"
     }
   ],
   "price_changes": []
