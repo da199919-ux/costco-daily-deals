@@ -1,307 +1,101 @@
 {
-  "date": "2026-10-20",
-  "generated_at": "2026-10-20 19:55",
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21 01:23",
   "has_previous": true,
   "added": [
     {
-      "name": "Apple 14 吋 MacBook Pro M5晶片 10核心CPU 10核心GPU 16GB 1TB SSD",
-      "price": "$60,029",
-      "original_price": "$60,399",
-      "discount_amount": "$370",
+      "name": "新東陽 原味小肉條 250公克 X 2包",
+      "price": "$297",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Hsin-Tung-Yang-Pork-Strips-250-g-X-2-Pack/p/157255",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h8a/h20/403085556645918.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "台酒 陳紹雞肉麵 205公克 X 6包",
+      "price": "$247",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/TTL-Aged-Shaoxing-Wine-Chicken-Noodles-205-g-X-6-Pack/p/149891",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf7/hd1/450418069667870.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Rodeo Joe's 冷凍綜合炸物組 1.14公斤",
+      "price": "$417",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Rodeo-Joes-Frozen-Party-Pack-114-kg/p/1786475",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h77/hac/432345291816990.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Adidas Breaknet Sleek 女休閒鞋",
+      "price": "$1,047",
+      "original_price": "",
+      "discount_amount": "",
       "promotion": "含運",
       "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Laptops-Computers/Laptops/Apple-14-inch-MacBook-Pro-M5-Chip-with-10-Core-CPU-and-10-Core-GPU-16GB-1TB-SSD/p/157310-B",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h82/h03/438478600241182.jpg",
-      "category": "家電 3C"
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Adidas-Breaknet-Sleek-Ladies-Casual-Shoe/p/1954886",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h46/hbd/489268508131358.jpg",
+      "category": "服飾配件"
     },
     {
-      "name": "Feit 7.5W LED 燈泡 5入",
-      "price": "$399",
+      "name": "王品 冷凍青花驕經典麻辣鍋 1.6公斤",
+      "price": "$397",
       "original_price": "",
       "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/Feit-75W-LED-Light-Bulb-5-Count/p/142186",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h72/h52/298052155146270.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "歐司朗 朗德萬斯 晶享 30W LED 壁切三段調色吸頂燈",
-      "price": "$1,279",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-LEDVANCE-Slim-30W-Adjustable-LED-Ceiling-Light/p/141531",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h68/hfa/175901014818846.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "歐司朗 LED燈絲燈泡 4.5W 拉尾型 E14 不可調光 X 4入",
-      "price": "$899",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-LED-Bulb-45W-E14-Non-Dimmable-X-4-Pack/p/146862",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h2c/h32/261465731072030.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "歐司朗 LED 燈絲燈泡 7W 調光型 E27 X 4入",
-      "price": "$899",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-LED-Bulb-7W-Dimmable-E27-X-4-Pack/p/146863",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha9/hc4/261465732022302.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "歐司朗 LED燈絲燈泡 4.5W 蠟燭型 E14 可調光 X 4入",
-      "price": "$825",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-LED-Bulb-45W-Dimmable-E14-X-4-Pack/p/146864",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h49/h8d/261465732743198.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "歐司朗 晶朗 15W 壁切三段調色 LED 嵌燈 2入",
-      "price": "$799",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/Osram-15W-LED-Downlight-Color-Temperature-Change-via-Wall-Switch-2-Pack/p/150331",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h95/h6e/315743915737118.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "歐司朗 60W 星空LED調光調色吸頂燈",
-      "price": "$4,269",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-60W-Star-Adjustable-LED-Ceiling-Light/p/151014",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h74/he5/330166881976350.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "歐司朗 晶燦 遙控LED吸頂燈 40W",
-      "price": "$2,899",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-40W-Ceiling-Light/p/155091",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h2c/ha6/367883528831006.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "歐司朗 60W LED 簡約吸頂燈",
-      "price": "$4,199",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-60W-LED-Ceiling-Light/p/155231",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h6d/ha7/439233897201694.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "OSRAM 7W LED 晶朗嵌燈 7.5公分 3入 黃光",
-      "price": "$679",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-7W-LED-Downlight-75-cm-3-Pack-Warm-Yellow/p/155549",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf4/he1/439233896972318.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "OSRAM 7W LED 晶朗嵌燈 7.5公分 3入 自然光",
-      "price": "$679",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-7W-LED-Downlight-75-cm-3-Pack-Neutral-White/p/155550",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h01/h7c/439233897463838.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "OSRAM 7W LED 晶朗嵌燈 7.5公分 3入 白光",
-      "price": "$679",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-7W-LED-Downlight-75-cm-3-Pack-Warm-White/p/155551",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h2e/h88/439233901592606.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "OSRAM 9W LED 晶朗嵌燈 9.5公分 3入 黃光",
-      "price": "$699",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-9W-LED-Downlight-95-cm-3-Pack-Warm-Yellow/p/155552",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hab/h17/439233901527070.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "OSRAM 9W LED 晶朗嵌燈 9.5公分 3入 自然光",
-      "price": "$699",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-9W-LED-Downlight-95-cm-3-Pack-Neutral-White/p/155553",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h93/h25/439234004615198.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "OSRAM 9W LED 晶朗嵌燈 9.5公分 3入 白光",
-      "price": "$699",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-9W-LED-Downlight-95-cm-3-Pack-Warm-White/p/155554",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h66/h98/439234004680734.jpg",
-      "category": "家具家居"
+      "promotion": "含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Wow-Prime/Wowprime-Frozen-Chin-Huajiao-Spicy-Hot-Pot-16-kg/p/133404",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4b/h7d/134010989772830.jpg",
+      "category": "其他"
     }
   ],
   "removed": [
     {
-      "name": "Brita ON TAP Pro 5重濾菌龍頭式濾水器 附 3入 5重濾菌濾芯",
-      "price": "$4,389",
+      "name": "老楊 鹹蛋黃餅 640公克 X 6盒",
+      "price": "$1,589",
       "original_price": "",
       "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "promotion": "含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Filtration/Brita-ON-TAP-Pro-Water-Filter-System-with-On-Tap-Water-Filter-3-Piece-Set/p/144250",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h77/h30/433626063110174.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Brita Flow 桌上型濾水箱 8.2公升 附6入 Maxtra Pro 濾芯",
-      "price": "$2,059",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Filtration/Brita-Flow-Tabletop-82-L-with-Maxtra-Pro-Filters-X-6-Count/p/146057",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h3c/h86/245391134031902.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Brita 桌上型濾水箱 8.2公升 + 木架 附八入 Maxtra Pro 濾芯",
-      "price": "$2,999",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Filtration/Brita-Flow-Tabletop-82-L-Wooden-Kit-with-Maxtra-Pro-Filters-X-8-Count/p/150309",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h3c/h81/295422741741598.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Brita 純淨玻璃濾水壺 2.5公升 附7入 Maxtra Pro 濾芯",
-      "price": "$2,399",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Filtration/Brita-Glass-Water-Filter-Jug-25-L-with-Maxtra-Pro-Filters-X-7-Count/p/147423",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/he2/h16/275802766213150.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Brita Liquelli Jug 日式簡約純淨濾水壺 2.2公升 附6入 Maxtra Pro 濾芯",
-      "price": "$1,639",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Filtration/Brita-Liquelli-Jug-22-L-with-Maxtra-Pro-Filters-X-6-Count/p/152142",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha1/h3a/333377819443230.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Brita X 三麗鷗 布丁狗 Pro 5重濾菌龍頭式濾水器 附 Maxtra Pro 濾芯 X 1入",
-      "price": "$2,759",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Filtration/Brita-X-SANRIO-Pompompurin-ON-TAP-Pro-Water-Filter-System-with-Maxtra-Pro-Filters-X-1-Count/p/158747",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h2a/h93/438035489292318.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Brita 櫥下型濾芯 2入組 A1000",
-      "price": "$5,399",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/c/Brita-Water-Filter-2-Pack-Set-A1000/p/162661",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h72/h5c/504930899099678.jpg",
+      "url": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Grains-Nuts-Snacks/TK-Food-Salted-Egg-Yolk-Cookies-640-g-X-6-Case/p/315324",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h32/h75/133504920518686.jpg",
       "category": "其他"
     },
     {
-      "name": "Brita 櫥下型濾芯 2入組 P1000",
-      "price": "$5,399",
+      "name": "Don Simon 100%柳橙汁 1公升 X 6入",
+      "price": "$639",
       "original_price": "",
       "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "promotion": "含運",
       "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/c/Brita-Water-Filter-2-Pack-Set-P1000/p/162665",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h94/h9e/504930899296286.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Brita mypure pro X9 超微濾濾芯組 + 離子交換樹脂濾芯 X 1入",
-      "price": "$10,299",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/c/Brita-mypure-pro-X9-Filter-Cartridge-Set-mypure-pro-ION-X-Filter-X-1-Piece/p/162678",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h85/h03/504930900082718.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Brita mypure pro X6 超濾濾芯組 + 離子交換樹脂濾芯 X 1入",
-      "price": "$9,069",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/c/Brita-mypure-pro-X6-Filter-Cartridge-Set-mypure-pro-ION-X-Filter-X-1-Piece/p/162679",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h5b/hf7/504930902376478.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Brita Style Eco 永續純淨濾水壺 3.6公升 附6入Maxtra Pro 濾芯",
-      "price": "$1,989",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Filtration/Brita-Style-Eco-Water-Filter-Jug-36-L-with-Maxtra-Pro-Filters-X-6-Count/p/158032",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hcc/h63/469716651704350.jpg",
-      "category": "家具家居"
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Don-Simon-Valencia-100-Orange-Juice-1-L-X-6-Pack/p/157405",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h29/h3b/472952388747294.jpg",
+      "category": "食品飲料"
     }
   ],
-  "price_changes": []
+  "price_changes": [
+    {
+      "name": "Tropical Maria 冷凍切片酪梨 500公克 X 2包",
+      "price": "$489",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "指定夏日涼感商品：買2件享8.5折，買3件享8折（結帳時依活動條件計算）",
+      "stock_status": "狀態未知",
+      "old_price": "$499",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Fruits-Vegetables/Tropical-Maria-Frozen-Avocado-Slices-500-g-X-2-Pack/p/593330",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h19/ha4/151072160088094.jpg",
+      "category": "食品飲料"
+    }
+  ]
 }
