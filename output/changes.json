@@ -1,31 +1,141 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21 13:04",
+  "generated_at": "2026-10-21 18:21",
   "has_previous": true,
   "added": [
     {
-      "name": "Sports Research Omega-3 濃縮魚油 1250mg 150粒",
-      "price": "$1,369",
+      "name": "蘇菲 超熟睡長時間吸收夜用衛生棉 28公分 16片 X 8入",
+      "price": "$309",
+      "original_price": "$389",
+      "discount_amount": "$80",
+      "promotion": "商品已折價 $80 含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/p/140064",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h2b/h29/152907844780062.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "桂格 蔬果纖穀粉(綜合堅果風味) 30公克 X 40包",
+      "price": "$349",
+      "original_price": "$429",
+      "discount_amount": "$80",
+      "promotion": "商品已折價$80 含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/p/160956",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h73/h55/466199148658718.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Hau 冷凍韓式雜菜粉絲拌飯 300公克 X 7包",
+      "price": "$439",
+      "original_price": "$539",
+      "discount_amount": "$100",
+      "promotion": "商品已折價$100 含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/p/608914",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h62/h4b/209600812646430.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Henckels Paradigm 陶瓷不沾平底鍋 3件組",
+      "price": "$2,239",
+      "original_price": "$2,799",
+      "discount_amount": "$560",
+      "promotion": "商品已折價$560 含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/p/1901726",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h47/ha1/439234216362014.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Lifetime 6呎折疊桌 2入",
+      "price": "$3,399",
       "original_price": "",
       "discount_amount": "",
-      "promotion": "",
+      "promotion": "含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Patio-Furniture/p/1653325",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h6b/h27/386411491917854.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "奇多 隨口脆玉米脆 28公克 X 25包 共700公克",
+      "price": "$255",
+      "original_price": "$275",
+      "discount_amount": "$20",
+      "promotion": "含運",
       "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Sports-Research-Omega-3-Fish-Oil-Triple-Strength-1250mg-150-Softgel/p/240666",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf2/h84/275802915995678.jpg",
-      "category": "保健美容"
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Cheetos-Shots-Multi-Pack-28-g-X-25-Pack/p/558988",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h93/h56/434799002255390.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "森永 嗨啾軟糖經典綜合水果口味 1000公克",
+      "price": "$245",
+      "original_price": "$299",
+      "discount_amount": "$54",
+      "promotion": "商品已折價$54 含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/77915",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h38/h40/431395552821278.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "盛香珍 酵母覺醒 濃厚紫菜青蔥蘇打餅 1525公克",
+      "price": "$289",
+      "original_price": "$359",
+      "discount_amount": "$70",
+      "promotion": "商品已折價$70 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/143895",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb0/hb7/206032625500190.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "大田海洋 十三香辣鱈魚寬片 250公克 X 3包",
+      "price": "$269",
+      "original_price": "$329",
+      "discount_amount": "$60",
+      "promotion": "商品已折價$60 含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/155744",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h8d/h60/386411411603486.jpg",
+      "category": "食品飲料"
     }
   ],
   "removed": [
     {
-      "name": "克寧 紐西蘭全脂奶粉 2.5公斤",
-      "price": "$719",
+      "name": "蘇菲 超熟睡長時間吸收夜用衛生棉 28公分 16片 X 8入",
+      "price": "$309",
+      "original_price": "$389",
+      "discount_amount": "$80",
+      "promotion": "商品已折價 $80 含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Feminine-Care/Sofy-Deep-Sleep-Night-Pad-28-cm-16-Piece-X-8-Pack/p/140064",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h2b/h29/152907844780062.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "桂格 蔬果纖穀粉(綜合堅果風味) 30公克 X 40包",
+      "price": "$349",
+      "original_price": "$429",
+      "discount_amount": "$80",
+      "promotion": "商品已折價$80 含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Quaker-Veggie-Cereal-Shake-Mixed-Nuts-Flavor-30-g-X-40-Pack/p/160956",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h73/h55/466199148658718.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Lifetime 6呎折疊桌 2入",
+      "price": "$3,399",
       "original_price": "",
       "discount_amount": "",
-      "promotion": "",
+      "promotion": "含運",
       "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/KLIM-New-Zealand-Full-Cream-Milk-Powder-25-kg/p/130352",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h5a/hfa/99114369974302.jpg",
-      "category": "食品飲料"
+      "url": "https://www.costco.com.tw/Lawn-Garden/Patio-Furniture/Outdoor-Patio-Furniture/Lifetime-6-ft-Fold-in-Half-Table-2-Pack/p/1653325",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h6b/h27/386411491917854.jpg",
+      "category": "其他"
     }
   ],
   "price_changes": []
