@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-22 03:30",
+  "generated_at": "2026-10-22 07:31",
   "has_previous": true,
   "added": [
     {
@@ -10,8 +10,54 @@
       "discount_amount": "$80",
       "promotion": "商品已折價 $80 含運",
       "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Feminine-Care/Sofy-Deep-Sleep-Night-Pad-28-cm-16-Piece-X-8-Pack/p/140064",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h2b/h29/152907844780062.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "嘉實多極致 0W-20 全合成機油 946毫升 X 6入",
+      "price": "$1,279",
+      "original_price": "$1,599",
+      "discount_amount": "$320",
+      "promotion": "商品已折價$320 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Automotive/p/125480",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0a/h8d/473819313537054.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "森永 嗨啾軟糖經典綜合水果口味 1000公克",
+      "price": "$245",
+      "original_price": "$299",
+      "discount_amount": "$54",
+      "promotion": "商品已折價$54 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/77915",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h38/h40/431395552821278.jpg",
+      "category": "食品飲料"
+    }
+  ],
+  "removed": [
+    {
+      "name": "蘇菲 超熟睡長時間吸收夜用衛生棉 28公分 16片 X 8入",
+      "price": "$309",
+      "original_price": "$389",
+      "discount_amount": "$80",
+      "promotion": "商品已折價 $80 含運",
+      "stock_status": "有貨",
       "url": "https://www.costco.com.tw/p/140064",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h2b/h29/152907844780062.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "嘉實多極致 0W-20 全合成機油 946毫升 X 6入",
+      "price": "$1,279",
+      "original_price": "$1,599",
+      "discount_amount": "$320",
+      "promotion": "商品已折價$320 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Automotive/Car-Oils-Fluids/Castrol-EDGE-0W-20-Full-Synthetic-Motor-Oil-946-ml-x-6-Pack/p/125480",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0a/h8d/473819313537054.jpg",
       "category": "其他"
     },
     {
@@ -35,71 +81,18 @@
       "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/155744",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h8d/h60/386411411603486.jpg",
       "category": "食品飲料"
-    }
-  ],
-  "removed": [
-    {
-      "name": "蘇菲 超熟睡長時間吸收夜用衛生棉 28公分 16片 X 8入",
-      "price": "$309",
-      "original_price": "$389",
-      "discount_amount": "$80",
-      "promotion": "商品已折價 $80 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Feminine-Care/Sofy-Deep-Sleep-Night-Pad-28-cm-16-Piece-X-8-Pack/p/140064",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h2b/h29/152907844780062.jpg",
-      "category": "保健美容"
     },
     {
-      "name": "森永 嗨啾軟糖經典綜合水果口味 1000公克",
-      "price": "$245",
-      "original_price": "$299",
-      "discount_amount": "$54",
-      "promotion": "商品已折價$54 含運",
+      "name": "華元 三角脆薯分享箱 36公克 X 28包",
+      "price": "$289",
+      "original_price": "$349",
+      "discount_amount": "$60",
+      "promotion": "商品已折價$60 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/77915",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h38/h40/431395552821278.jpg",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/136005",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf3/h20/101464523800606.jpg",
       "category": "食品飲料"
     }
   ],
-  "price_changes": [
-    {
-      "name": "台酒 陳紹雞肉麵 205公克 X 6包",
-      "price": "$299",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "old_price": "$247",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/TTL-Aged-Shaoxing-Wine-Chicken-Noodles-205-g-X-6-Pack/p/149891",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf7/hd1/450418069667870.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "新東陽 原味小肉條 250公克 X 2包",
-      "price": "$439",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "old_price": "$297",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Hsin-Tung-Yang-Pork-Strips-250-g-X-2-Pack/p/157255",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h8a/h20/403085556645918.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "桂格綜合高纖燕麥穀飯 1.25公斤 X 3包",
-      "price": "$429",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "old_price": "$349",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Quaker-Multi-Grains-High-Fiber-Oat-Rice-125-kg-X-3-Pack/p/145270",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb9/h92/363073675296798.jpg",
-      "category": "食品飲料"
-    }
-  ]
+  "price_changes": []
 }
