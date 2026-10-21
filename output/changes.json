@@ -1,8 +1,32 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21 08:01",
+  "generated_at": "2026-10-21 13:04",
   "has_previous": true,
-  "added": [],
-  "removed": [],
+  "added": [
+    {
+      "name": "Sports Research Omega-3 濃縮魚油 1250mg 150粒",
+      "price": "$1,369",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Sports-Research-Omega-3-Fish-Oil-Triple-Strength-1250mg-150-Softgel/p/240666",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf2/h84/275802915995678.jpg",
+      "category": "保健美容"
+    }
+  ],
+  "removed": [
+    {
+      "name": "克寧 紐西蘭全脂奶粉 2.5公斤",
+      "price": "$719",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/KLIM-New-Zealand-Full-Cream-Milk-Powder-25-kg/p/130352",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h5a/hfa/99114369974302.jpg",
+      "category": "食品飲料"
+    }
+  ],
   "price_changes": []
 }
