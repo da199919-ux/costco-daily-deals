@@ -1,9 +1,9 @@
-# Costco 每日優惠摘要（2026-10-23）
+# Costco 每日優惠摘要（2026-10-24）
 
-更新時間：2026-10-23 23:16（台灣時間）
+更新時間：2026-10-24 03:24（台灣時間）
 共整理出 **390** 項官方線上優惠。
-本次共讀取 **379** 個官方商品頁面。
-庫存狀態：有貨 **242** 項、缺貨 **110** 項、待確認 **38** 項。
+本次共讀取 **407** 個官方商品頁面。
+庫存狀態：有貨 **261** 項、缺貨 **119** 項、待確認 **10** 項。
 
 > 價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。
 
@@ -55,7 +55,6 @@
 - [Brush Finch 女短袖毛衣](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Brush-Finch-Ladies-Short-Sleeve-Sweater/p/2010488)（$679；庫存：缺貨）
 - [UCLA 男Logo長袖連帽上衣](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/UCLA-Mens-Logo-Long-Sleeve-Hoodie/p/1956446)（$709；庫存：缺貨）
 - [Teddi Rose 女休閒長褲](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Teddi-Rose-Ladies-Casual-Pant/p/2009094)（$519；庫存：缺貨）
-- [Speedo 女連身及膝泳裝](https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Water-Sports/Speedo-Ladies-Knee-Length-One-Piece-Swimsuit/p/160822)（$1,199；庫存：缺貨）
 - [科克蘭 女連帽外套](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Coats-Jackets/Kirkland-Signature-Ladies-Hoodie-Jacket/p/7771776)（$397；庫存：缺貨）
 - [Tommy Hilfiger 女刺繡Logo短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Tommy-Hilfiger-Ladies-Embroidered-Logo-Short-Sleeve-Tee/p/156540)（$397；庫存：缺貨）
 - [Jezebel 女無袖連身洋裝](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Jezebel-Ladies-Tiered-Dress/p/1982075)（$247；庫存：缺貨）
@@ -110,6 +109,7 @@
 - [飛利浦 75吋 4K Google TV 顯示器聲霸組合 75PUH7890/96](https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/70-79-TVs/Philips-75-inch-4K-Google-TV-Monitor-with-Soundbar-Set-75PUH789096/p/153515)（$23,999；庫存：缺貨）
 - [SunnyFeel 山扉 可調節露營椅](https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Tents-Camping-Gear/SunnyFeel-Kermit-Chair/p/8527298)（$489；庫存：缺貨）
 - [Samsonite Allston LTD 22吋 + 29吋 行李箱兩件組](https://www.costco.com.tw/Clothing-Accessories/Luggage-Backpacks/Luggage/Samsonite-Allston-LTD-22-inch-29-inch-Luggage-2-Piece-Set/p/154097)（$4,829；庫存：缺貨）
+- [Speedo 女連身及膝泳裝](https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Water-Sports/Speedo-Ladies-Knee-Length-One-Piece-Swimsuit/p/160822)（$1,199；庫存：缺貨）
 - [飛利浦 透視海星氣炸鍋 NA341](https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Cookers-Oven-Microwaves-Food-Waste-Machine/Philips-Airfryer-NA341/p/153312)（$5,599；庫存：缺貨）
 - [Speedo 女運動連身泳裝 Medalist](https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Water-Sports/Speedo-Ladies-Athletic-One-Piece-Swimsuit-Medalist/p/160823)（$1,199；庫存：缺貨）
 - [Speedo 女短袖連身泳裝](https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Water-Sports/Speedo-Ladies-Short-Sleeve-One-Piece-Swimsuit/p/160821)（$1,279；庫存：缺貨）
@@ -140,16 +140,25 @@
 - [Allertect 涼感抱枕 20公分 X 100公分](https://www.costco.com.tw/Allertect/Allertect-Ice-Body-Pillow-20-cm-X-100-cm/p/642617)（$859；庫存：缺貨）
 - [WOKY 沃廚 ECOZEN 純透渾圓隨行杯 880毫升 X 2件組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/WOKY-ECOZEN-Water-Bottle-880-ml-X-2-Piece-Set/p/150702)（$879；庫存：缺貨）
 - [樂扣樂扣 Tritan 彈蓋提帶冷水壺 650毫升 + 1000毫升](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/LocknLock-Tritan-Water-Bottle-650-ml-1000-ml/p/155277)（$849；庫存：缺貨）
+- [IRIS OHYAMA 桌上迷你型空氣循環扇 TAF-MKM10N](https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/IRIS-OHYAMA-Tabletop-Mini-Circulator-Fan-TAF-MKM10N/p/145560)（$589；庫存：缺貨）
+- [Caliphil PrimaLoft 長纖涼夏被 150公分 X 210公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Caliphil-PrimaLoft-Summer-Quilt-150-cm-X-210-cm/p/121518)（$1,499；庫存：缺貨）
+- [HOUSUXI 舒希 迪士尼 不鏽鋼保冷保溫瓶 1.2公升 X 2件組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/HOUSUXI-Disney-Stainless-Steel-Water-Bottle-12-L-X-2-Piece-Set/p/160483)（$1,229；庫存：缺貨）
+- [Thermoflask 不鏽鋼保冷保溫瓶 946毫升 X 2件組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/Thermoflask-Stainless-Steel-Water-Bottle-946-ml-X-2-Piece-Set/p/1901817)（$659；庫存：缺貨）
+- [艾美特 USB手持充電風扇 2入組 (UD802)](https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Airmate-USB-Handheld-Fan-2-Pack-UD802/p/133802)（$999；庫存：缺貨）
+- [向物 高速手持風扇 引擎PRO DSHJ-S-2324](https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/SOTHING-Handheld-Fan-Engine-Pro-DSHJ-S-2324/p/152999)（$969；庫存：缺貨）
+- [Don Home 萊賽爾素色雙人涼被 180公分 X 210公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Don-Home-300-Thread-Count-Lyocell-Quilt-180-cm-X-210-cm/p/136138)（$1,469；庫存：缺貨）
+- [經典卡通涼感被附收納袋 150公分 X 180公分 吉伊卡哇 星夜款](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Licensed-Cooling-Quilt-with-Storage-Bag-150-cm-X-180-cm-Chiikawa/p/449366)（$1,289；庫存：缺貨）
+- [經典卡通涼感被附收納袋 150公分 X 180公分 史努比 星際領航員](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Licensed-Cooling-Quilt-with-Storage-Bag-150-cm-X-180-cm-Snoopy/p/749366)（$1,289；庫存：缺貨）
 
 ## 今日變化
 
 - 新增優惠：**0** 項
 - 本次未收錄：**0** 項（不代表優惠已結束）
-- 價格變動：**0** 項
+- 價格變動：**1** 項
 
 ### 價格變動
 
-- 今天沒有偵測到價格變動。
+- **漲價**：[萬歲牌 綜合果分享包蒜香黑胡椒風味 40公克 X 18入](https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Viva-Trail-Mix-Share-Pack-Garlic-Black-Pepper-Flavor-40-g-X-18-Count/p/150726) $349 → $429
 
 ### 今日新增
 
