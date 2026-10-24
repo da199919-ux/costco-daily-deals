@@ -1,122 +1,19 @@
 {
   "date": "2026-10-25",
-  "generated_at": "2026-10-25 00:46",
+  "generated_at": "2026-10-25 06:38",
   "has_previous": true,
-  "added": [
-    {
-      "name": "LG 65吋 OLED evo AI 4K 智慧顯示器 B6經典系列 OLED65B6PTA",
-      "price": "$44,479",
-      "original_price": "$55,599",
-      "discount_amount": "$11,120",
-      "promotion": "商品已折價$11,120 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/60-69-TVs/LG-65-inch-Class-B6-Series-OLED-AI-4K-Smart-TV-OLED65B6PTA/p/162230",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hc7/h17/492247734714398.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "Panasonic 碳鋅2號電池 24入組",
-      "price": "$397",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Power-Tools-Electrical/Panasonic-Carbon-Zinc-C-Size-Battery-24-Pack/p/152790",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h2c/hf7/363341288079390.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Mabe 美寶 18公斤電能型美式直立式乾衣機 SME26N5XNBBT",
-      "price": "$21,999",
-      "original_price": "$22,299",
-      "discount_amount": "$300",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Washers-Dryers/Mabe-18-kg-American-Style-Electric-Vented-Dryer-SME26N5XNBBT/p/159195",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h67/h39/492247685627934.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "艾美特 14吋DC 直流遙控立扇 FS35150R",
-      "price": "$2,099",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Airmate-14-inch-DC-Inverter-Stand-Fan-FS35150R/p/149335",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h27/hee/333377589444638.jpg",
-      "category": "家電 3C"
-    }
-  ],
-  "removed": [
-    {
-      "name": "LG 65吋 OLED evo AI 4K 智慧顯示器 B6經典系列 OLED65B6PTA",
-      "price": "$44,479",
-      "original_price": "$55,599",
-      "discount_amount": "$11,120",
-      "promotion": "商品已折價$11,120 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Televisions-TV-Accessories/p/162230",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hc7/h17/492247734714398.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Panasonic 碳鋅2號電池 24入組",
-      "price": "$397",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/152790",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h2c/hf7/363341288079390.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Mabe 美寶 18公斤電能型美式直立式乾衣機 SME26N5XNBBT",
-      "price": "$21,999",
-      "original_price": "$22,299",
-      "discount_amount": "$300",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Large-Appliances/p/159195",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h67/h39/492247685627934.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "艾美特 14吋DC 直流遙控立扇 FS35150R",
-      "price": "$2,099",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Cooling-Heating-Air-Treatment/Heating-Cooling/p/149335",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h27/hee/333377589444638.jpg",
-      "category": "其他"
-    }
-  ],
+  "added": [],
+  "removed": [],
   "price_changes": [
     {
-      "name": "Kewpie 美奶滋 1公斤",
-      "price": "$259",
+      "name": "Merrell Moab 3 女登山運動鞋",
+      "price": "$1,379",
       "original_price": "",
       "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "old_price": "$209",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Kewpie-Mayonnaise-1-kg/p/217493",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd1/h13/434798989639710.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Merrell Moab 3 女登山運動鞋",
-      "price": "$2,999",
-      "original_price": "$3,749",
-      "discount_amount": "$750",
-      "promotion": "商品已折價$750 含運",
+      "promotion": "",
       "stock_status": "狀態未知",
-      "old_price": "$1,379",
-      "direction": "漲價",
+      "old_price": "$2,999",
+      "direction": "降價",
       "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Merrell-Moab-3-Ladies-Hiking-Shoe/p/1763686",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hee/h40/502597111971870.jpg",
       "category": "服飾配件"
