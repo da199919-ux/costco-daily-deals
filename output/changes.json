@@ -1,8 +1,103 @@
 {
   "date": "2026-10-25",
-  "generated_at": "2026-10-25 14:21",
+  "generated_at": "2026-10-25 19:50",
   "has_previous": true,
-  "added": [],
-  "removed": [],
-  "price_changes": []
+  "added": [
+    {
+      "name": "ASUS Vivobook AI Copilot+ PC 16吋筆記型電腦 M1607KA-0081B330",
+      "price": "$36,599",
+      "original_price": "$44,099",
+      "discount_amount": "$7,500",
+      "promotion": "商品已折價 $7,500 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Digital-Mobile/Laptops-Computers/p/161794",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h21/h44/489268303036446.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "Eastpoint 大型骰子組",
+      "price": "$549",
+      "original_price": "$749",
+      "discount_amount": "$200",
+      "promotion": "商品已折價$200 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/p/1872245",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h9b/h00/487711150800926.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "Annie’s Home Grown 有機起司通心粉 12入組合包",
+      "price": "$397",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/p/145777",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h51/h2a/383236912185374.jpg",
+      "category": "食品飲料"
+    }
+  ],
+  "removed": [
+    {
+      "name": "ASUS Vivobook AI Copilot+ PC 16吋筆記型電腦 M1607KA-0081B330",
+      "price": "$36,599",
+      "original_price": "$44,099",
+      "discount_amount": "$7,500",
+      "promotion": "商品已折價 $7,500 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Digital-Mobile/Laptops-Computers/Laptops/ASUS-Vivobook-AI-Copilot-PC-16-inch-Laptop-M1607KA-0081B330/p/161794",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h21/h44/489268303036446.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "Eastpoint 大型骰子組",
+      "price": "$549",
+      "original_price": "$749",
+      "discount_amount": "$200",
+      "promotion": "商品已折價$200 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Board-Games-Puzzles/Eastpoint-Giant-Yahtzee/p/1872245",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h9b/h00/487711150800926.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "Annie’s Home Grown 有機起司通心粉 12入組合包",
+      "price": "$397",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/Annies-Home-Grown-Organic-Macaroni-Cheese-12-Pack-Assorted-Set/p/145777",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h51/h2a/383236912185374.jpg",
+      "category": "食品飲料"
+    }
+  ],
+  "price_changes": [
+    {
+      "name": "ellesse 男短袖上衣",
+      "price": "$1,379",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "old_price": "$669",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/ellesse-Mens-Short-Sleeve-Tee/p/1846550",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h45/h01/502266465157150.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Le Coq Sportif 男短袖純棉上衣",
+      "price": "$2,169",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "old_price": "$1,379",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Le-Coq-Sportif-Mens-Short-Sleeve-Cotton-Tee/p/240942",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha7/hc8/455934093852702.jpg",
+      "category": "服飾配件"
+    }
+  ]
 }
