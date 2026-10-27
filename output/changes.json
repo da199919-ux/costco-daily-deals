@@ -1,18 +1,339 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-27 08:39",
+  "generated_at": "2026-10-27 14:28",
   "has_previous": true,
   "added": [
     {
-      "name": "Tryall 分離大豆植物蛋白 2.5公斤",
-      "price": "$1,199",
-      "original_price": "$1,279",
+      "name": "KOH COCONUT 純椰子汁 1公升 X 6入",
+      "price": "$379",
+      "original_price": "$459",
       "discount_amount": "$80",
+      "promotion": "商品已折價$80 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/KOH-COCONUT-100-Pure-Coconut-Water-1-L-X-6-Count/p/75130",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h28/hd0/102276188930078.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Tidy Cats 高效清香凝結罐裝貓砂 6.35公斤 X 3罐",
+      "price": "$599",
+      "original_price": "$759",
+      "discount_amount": "$160",
+      "promotion": "商品已折價$160 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/c/Tidy-Cats-Instant-Action-Clumping-Cat-Litter-635-kg-X-3-Count/p/115777",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h50/h56/61939547766814.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "一風堂 綜合博多拉麵 8入/973.6公克",
+      "price": "$389",
+      "original_price": "$479",
+      "discount_amount": "$90",
+      "promotion": "商品已折價$90 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Ippudo-Hakata-Ramen-Set-8-Pack-9736-g/p/160801",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h36/h99/455116839649310.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "森永 嗨啾軟糖經典綜合水果口味 1000公克",
+      "price": "$245",
+      "original_price": "$299",
+      "discount_amount": "$54",
+      "promotion": "商品已折價$54 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Morinaga-Hi-Chew-Candy-Stand-Up-Bag-Classic-Mixed-Fruits-1000-g/p/77915",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h38/h40/431395552821278.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Maruesu 芥末醬油海苔天婦羅 24公克 X 10入",
+      "price": "$259",
+      "original_price": "$319",
+      "discount_amount": "$60",
+      "promotion": "商品已折價$60 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Maruesu-Wasabi-Soy-Sauce-Flavored-Seaweed-Cracker-24-g-X-10-Pack/p/115139",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc6/h19/16127111757854.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "CJ Bibigo Plantable 冷凍高麗韭菜餃 1.4公斤",
+      "price": "$369",
+      "original_price": "$449",
+      "discount_amount": "$80",
+      "promotion": "商品已折價$80 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/CJ-Bibigo-Plantable-Frozen-Veggie-Dumpling-14-kg/p/658912",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb8/h3b/452750418182174.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "龍宮堂 干貝唇 250公克",
+      "price": "$299",
+      "original_price": "$369",
+      "discount_amount": "$70",
+      "promotion": "商品已折價$70 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Ryugudo-Grilled-scallop-Lips-250-g/p/147381",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0f/h47/310637988315166.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "明治 香菇造型巧克力餅乾 66 公克 X 8盒",
+      "price": "$339",
+      "original_price": "$419",
+      "discount_amount": "$80",
+      "promotion": "商品已折價$80 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Meiji-Kinoko-Chocolate-Biscuits-66-g-X-8-Pack/p/203565",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h24/h58/368528963076126.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "奇美 冷凍港點三重奏 960公克",
+      "price": "$409",
+      "original_price": "$499",
+      "discount_amount": "$90",
+      "promotion": "商品已折價$90 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Chi-Mei-Frozen-Dim-Sum-Set-960g/p/246436",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha4/h2a/399197037658142.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Reynolds 雷諾茲 保鮮膜 30公分 X 300公尺",
+      "price": "$329",
+      "original_price": "$399",
+      "discount_amount": "$70",
+      "promotion": "商品已折價$70 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Food-Preservation/Reynolds-Plastic-Food-Wrap-30-cm-X-300-m/p/68080",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h7b/he0/34958971404318.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "LG 65吋 OLED evo AI 4K 智慧顯示器 B6經典系列 OLED65B6PTA",
+      "price": "$44,479",
+      "original_price": "$55,599",
+      "discount_amount": "$11,120",
+      "promotion": "商品已折價$11,120 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/60-69-TVs/LG-65-inch-Class-B6-Series-OLED-AI-4K-Smart-TV-OLED65B6PTA/p/162230",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc7/h17/492247734714398.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "Merrell Moab 3 男登山運動鞋",
+      "price": "$1,999",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Merrell-Moab-3-Mens-Hiking-Shoe/p/1846575",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4d/h53/502266469285918.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Merrell Moab 3 女登山運動鞋",
+      "price": "$1,379",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Merrell-Moab-3-Ladies-Hiking-Shoe/p/1763686",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hee/h40/502597111971870.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Teddi Rose 女休閒長褲",
+      "price": "$519",
+      "original_price": "$649",
+      "discount_amount": "$130",
+      "promotion": "商品已折價$130 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Teddi-Rose-Ladies-Casual-Pant/p/2009094",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hbd/h85/487711259263006.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "莫凡彼餐廳 超值餐券 X 18張 加贈冰淇淋單球券 X 12張",
+      "price": "$7,939",
+      "original_price": "$8,989",
+      "discount_amount": "$1,050",
+      "promotion": "商品已折價$1,050 含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Garden-Lifestyle/Tickets-Voucher/Movenpick-MVP-Restaurant-18-Meal-Tickets-and-12-One-Scoop-of-Ice-Cream-Tickets/p/2026223",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h22/h75/401756162228254.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "科克蘭 杏仁粉 1.36公斤",
+      "price": "$629",
+      "original_price": "",
+      "discount_amount": "",
       "promotion": "含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Health-Beauty/Sports-Performance/Plant-Based-Protein/Tryall-Soy-Protein-Isolate-25-kg/p/151752",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h25/hf7/351315910426654.jpg",
-      "category": "保健美容"
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/Kirkland-Signature-Almond-Flour-136-kg/p/1178969",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hdb/h80/65582521581598.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Hau 冷凍韓式雜菜粉絲拌飯 300公克 X 7包",
+      "price": "$439",
+      "original_price": "$539",
+      "discount_amount": "$100",
+      "promotion": "商品已折價$100 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Hau-Frozen-Japchae-Fried-Rice-300-g-X-7-Pack/p/608914",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h62/h4b/209600812646430.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "桂格 主廚燕麥片 金黃玉米濃湯風味 47公克 X 30包",
+      "price": "$399",
+      "original_price": "$499",
+      "discount_amount": "$100",
+      "promotion": "商品已折價$100 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Quaker-Golden-Corn-Soup-Instant-Oatmeal-47-g-X-30-Pack/p/158876",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc0/h53/418236575449118.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Maruesu 芥末醬油海苔天婦羅 24公克 X 10入",
+      "price": "$259",
+      "original_price": "$319",
+      "discount_amount": "$60",
+      "promotion": "商品已折價$60 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/115139",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc6/h19/16127111757854.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "阿舍食堂 流星拌麵-炸醬口味 95公克 X 12包",
+      "price": "$239",
+      "original_price": "$299",
+      "discount_amount": "$60",
+      "promotion": "商品已折價$60 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/p/1460189",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h98/h7b/172714272030750.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "DJI Osmo 360 套裝組 雙電池+自拍棒+收納包",
+      "price": "$12,119",
+      "original_price": "$14,119",
+      "discount_amount": "$2,000",
+      "promotion": "商品已折價$2,000 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Digital-Mobile/Cameras/p/159985",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h1a/h3a/466558749507614.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "白蘭氏 萃鷄精 膠原蛋白菁萃 50毫升 X 18入",
+      "price": "$1,459",
+      "original_price": "$1,829",
+      "discount_amount": "$370",
+      "promotion": "商品已折價$370 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/147012",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he2/he7/491324178268190.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "大成跑跑雞 台灣冷凍放山雞切塊 0.8公斤 X 4入",
+      "price": "$1,299",
+      "original_price": "$1,499",
+      "discount_amount": "$200",
+      "promotion": "商品已折價$200 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/p/142792",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h63/h4c/187953472831518.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "艾美特 14吋DC 直流遙控立扇 FS35150R",
+      "price": "$2,099",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Airmate-14-inch-DC-Inverter-Stand-Fan-FS35150R/p/149335",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h27/hee/333377589444638.jpg",
+      "category": "家電 3C"
+    }
+  ],
+  "removed": [
+    {
+      "name": "五月花 三層抽取式廚房紙巾 80抽 X 24入",
+      "price": "$929",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Mayflower-3-Ply-Interfold-Kitchen-Towel-80-Sheet-X-24-Count/p/239289",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hdc/h50/151758801895454.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "維力 素飄香麻辣風味麵 105公克 X 9入",
+      "price": "$279",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Weilih-Veggie-Instant-Noodles-Spicy-Flavor-105-g-X-9-Pack/p/162542",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h6b/ha9/504582155206686.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "歐司朗 20W LED 燈泡 8入",
+      "price": "$1,259",
+      "original_price": "$1,599",
+      "discount_amount": "$340",
+      "promotion": "商品已折價$340 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/KitchenBathroom-Hardware/OSRAM-20W-LED-Bulb-8-Pack/p/147362-B",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h40/hb6/275511554703390.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Attic & Base 日本製輕量陶瓷義大利麵碗 4件組",
+      "price": "$687",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Dinnerware-Flatware/Attic-Base-Made-in-Japan-Light-Weight-Ceramic-Pasta-Bowl-4-Piece-Set/p/684891",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h72/h6f/448868566925342.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Zuru X-Shot 發泡水槍 6入組 / 6歲以上",
+      "price": "$347",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Outdoor-Play/Zuru-X-Shot-Foam-Water-Blaster-6-Pack-Set-Ages-6-and-up/p/1784848",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hd6/h6e/486580369588254.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "FIFA 世界盃 8吋 絨毛玩偶",
+      "price": "$357",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Dolls-Pretend-Play/FIFA-World-Cup-8-inch-Plush/p/1851571",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h42/hd0/467794339168286.jpg",
+      "category": "日用品／母嬰／玩具"
     },
     {
       "name": "艾美特 14吋DC 直流遙控立扇 FS35150R",
@@ -26,29 +347,19 @@
       "category": "其他"
     }
   ],
-  "removed": [
+  "price_changes": [
     {
-      "name": "Tryall 分離大豆植物蛋白 2.5公斤",
-      "price": "$1,199",
-      "original_price": "$1,279",
-      "discount_amount": "$80",
-      "promotion": "含運",
+      "name": "Magic Waffles 冷凍比利時巧克力鬆餅 80公克 X 16入",
+      "price": "$515",
+      "original_price": "$615",
+      "discount_amount": "$100",
+      "promotion": "商品已折價$100",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Sports-Performance/Plant-Based-Protein/p/151752",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h25/hf7/351315910426654.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "艾美特 14吋DC 直流遙控立扇 FS35150R",
-      "price": "$2,099",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Airmate-14-inch-DC-Inverter-Stand-Fan-FS35150R/p/149335",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h27/hee/333377589444638.jpg",
-      "category": "家電 3C"
+      "old_price": "$615",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Desserts-Ice-Cream/Magic-Waffles-Frozen-Belgian-Chocolate-Filled-Waffles-80G-X-16-Count/p/130843",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h7f/h83/52747090591774.jpg",
+      "category": "食品飲料"
     }
-  ],
-  "price_changes": []
+  ]
 }
