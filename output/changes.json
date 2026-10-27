@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-27 04:39",
+  "generated_at": "2026-10-27 08:39",
   "has_previous": true,
   "added": [
     {
@@ -10,8 +10,19 @@
       "discount_amount": "$80",
       "promotion": "含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Sports-Performance/Plant-Based-Protein/p/151752",
+      "url": "https://www.costco.com.tw/Health-Beauty/Sports-Performance/Plant-Based-Protein/Tryall-Soy-Protein-Isolate-25-kg/p/151752",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h25/hf7/351315910426654.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "艾美特 14吋DC 直流遙控立扇 FS35150R",
+      "price": "$2,099",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Cooling-Heating-Air-Treatment/Heating-Cooling/p/149335",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h27/hee/333377589444638.jpg",
       "category": "其他"
     }
   ],
@@ -23,37 +34,21 @@
       "discount_amount": "$80",
       "promotion": "含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Health-Beauty/Sports-Performance/Plant-Based-Protein/Tryall-Soy-Protein-Isolate-25-kg/p/151752",
+      "url": "https://www.costco.com.tw/Sports-Performance/Plant-Based-Protein/p/151752",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h25/hf7/351315910426654.jpg",
-      "category": "保健美容"
-    }
-  ],
-  "price_changes": [
-    {
-      "name": "Magic Waffles 冷凍比利時巧克力鬆餅 80公克 X 16入",
-      "price": "$615",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "有貨",
-      "old_price": "$515",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Desserts-Ice-Cream/Magic-Waffles-Frozen-Belgian-Chocolate-Filled-Waffles-80G-X-16-Count/p/130843",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7f/h83/52747090591774.jpg",
-      "category": "食品飲料"
+      "category": "其他"
     },
     {
-      "name": "維力 素飄香麻辣風味麵 105公克 X 9入",
-      "price": "$279",
+      "name": "艾美特 14吋DC 直流遙控立扇 FS35150R",
+      "price": "$2,099",
       "original_price": "",
       "discount_amount": "",
       "promotion": "含運",
-      "stock_status": "有貨",
-      "old_price": "$229",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Weilih-Veggie-Instant-Noodles-Spicy-Flavor-105-g-X-9-Pack/p/162542",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h6b/ha9/504582155206686.jpg",
-      "category": "食品飲料"
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Airmate-14-inch-DC-Inverter-Stand-Fan-FS35150R/p/149335",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h27/hee/333377589444638.jpg",
+      "category": "家電 3C"
     }
-  ]
+  ],
+  "price_changes": []
 }
