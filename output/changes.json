@@ -1,175 +1,8 @@
 {
   "date": "2026-10-28",
-  "generated_at": "2026-10-28 02:51",
+  "generated_at": "2026-10-28 07:03",
   "has_previous": true,
   "added": [
-    {
-      "name": "Samsung 65吋 Mini LED 4K AI 量子智慧顯示器 UA65M1EHAXXZW",
-      "price": "$19,999",
-      "original_price": "$24,999",
-      "discount_amount": "$5,000",
-      "promotion": "商品已折價$5,000 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/60-69-TVs/Samsung-65-inch-Mini-LED-4K-AI-Smart-Monitor-UA65M1EHAXXZW/p/161519",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h43/hb9/505969062051870.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "大成 冷凍椒鹽薄皮炸雞 1.55公斤",
-      "price": "$379",
-      "original_price": "$459",
-      "discount_amount": "$80",
-      "promotion": "商品已折價 $80 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Dachan-Frozen-Lightly-Breaded-Crispy-Fried-Chicken-155-kg/p/143877",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hce/h0e/203141682593822.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "滿意寶寶 哆啦A夢瞬潔乾爽紙尿褲 M號 228片",
-      "price": "$995",
-      "original_price": "$1,245",
-      "discount_amount": "$250",
-      "promotion": "商品已折價 $250 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Diapers-Wipes/MamyPoko-Baby-Extra-Dry-Diaper-Doraemon-Edition-Size-M-228-Piece/p/165002",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/haa/h9a/507674924384286.jpg",
-      "category": "日用品／母嬰／玩具"
-    },
-    {
-      "name": "CASA 雙人記憶釋壓床墊 152公分 X 190公分 X 5公分",
-      "price": "$3,199",
-      "original_price": "$3,999",
-      "discount_amount": "$800",
-      "promotion": "商品已折價$800 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/CASA-Full-Memory-Foam-Topper-152-cm-X-190-cm-X-5-cm/p/111405",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h30/h98/15712095600670.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Tidy Cats 高效清香凝結罐裝貓砂 6.35公斤 X 3罐",
-      "price": "$599",
-      "original_price": "$759",
-      "discount_amount": "$160",
-      "promotion": "商品已折價$160 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/c/Tidy-Cats-Instant-Action-Clumping-Cat-Litter-635-kg-X-3-Count/p/115777",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h50/h56/61939547766814.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "天地合補 微分子膠原美顏飲 50毫升 X 20入",
-      "price": "$1,199",
-      "original_price": "$1,499",
-      "discount_amount": "$300",
-      "promotion": "商品已折價$300 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Micromolecular-Collagen-Drink-50-ml-X-20-Pack/p/158885",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h31/h0c/434451473891358.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "老協珍 冷凍壽喜燒豬肉米漢堡 195公克 X 3入 X 20盒",
-      "price": "$2,549",
-      "original_price": "$3,199",
-      "discount_amount": "$650",
-      "promotion": "商品已折價$650 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Frozen-Food/Lao-Xie-Zhen-Frozen-Sukiyaki-Pork-Rice-Burger-195-g-X-3-Count-X-20-Case/p/124110",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb8/hd9/168536091066398.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "海爾 織物清潔機 R10",
-      "price": "$2,999",
-      "original_price": "$3,339",
-      "discount_amount": "$340",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Vacuums-Floor-Care/Haier-Spot-Cleaner-R10/p/160452",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha1/h4a/473819879407646.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "Town & Country 長型抗汙地墊 50公分 X 99公分",
-      "price": "$347",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Rugs-Mats/Town-Country-Shaped-Kitchen-Mat-50-cm-X-99-cm/p/1909218",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h84/h63/468935675576350.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Adidas 男經典Logo短袖上衣",
-      "price": "$397",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Adidas-Mens-Classic-Short-Sleeve-Logo-Tee/p/154988",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/haa/hd3/484306798247966.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Tommy Hilfiger 女無鋼圈內衣 2入組 M",
-      "price": "$647",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Tommy-Hilfiger-Ladies-Seamless-Bra-2-Pack-Set-M/p/1987632",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h6a/h71/472591903817758.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Tommy Hilfiger 女無鋼圈內衣 2入組 L",
-      "price": "$647",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Tommy-Hilfiger-Ladies-Seamless-Bra-2-Pack-Set-L/p/1987633",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7c/h71/472591910240286.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Tommy Hilfiger 女無鋼圈內衣 2入組 XL",
-      "price": "$647",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Tommy-Hilfiger-Ladies-Seamless-Bra-2-Pack-Set-XL/p/1987634",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7f/h92/472591917154334.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "GoPro MAX 360度多功能攝影機輕旅自拍組",
-      "price": "$8,997",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/GoPro-MAX-360-Multi-Function-Camera-Light-Travel-Selfie-Kit/p/156612",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd6/h6c/384281315147806.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "NEPA 男短袖上衣",
-      "price": "$447",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/NEPA-Mens-Short-Sleeve-Tee/p/658228",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7c/hed/449275468349470.jpg",
-      "category": "服飾配件"
-    }
-  ],
-  "removed": [
     {
       "name": "Samsung 65吋 Mini LED 4K AI 量子智慧顯示器 UA65M1EHAXXZW",
       "price": "$19,999",
@@ -182,230 +15,40 @@
       "category": "其他"
     },
     {
-      "name": "大成 冷凍椒鹽薄皮炸雞 1.55公斤",
-      "price": "$379",
-      "original_price": "$459",
-      "discount_amount": "$80",
-      "promotion": "商品已折價 $80 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/p/143877",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hce/h0e/203141682593822.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "滿意寶寶 哆啦A夢瞬潔乾爽紙尿褲 M號 228片",
-      "price": "$995",
-      "original_price": "$1,245",
-      "discount_amount": "$250",
-      "promotion": "商品已折價 $250 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/165002",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/haa/h9a/507674924384286.jpg",
-      "category": "日用品／母嬰／玩具"
-    },
-    {
-      "name": "CASA 雙人記憶釋壓床墊 152公分 X 190公分 X 5公分",
-      "price": "$3,199",
-      "original_price": "$3,999",
-      "discount_amount": "$800",
-      "promotion": "商品已折價$800 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Bedding/p/111405",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h30/h98/15712095600670.jpg",
+      "name": "IRIS Woozoo 空氣循環扇 PCF-SC15T-CT",
+      "price": "$1,269",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Cooling-Heating-Air-Treatment/Heating-Cooling/p/2354207",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha5/h9d/329850798506014.jpg",
       "category": "其他"
-    },
-    {
-      "name": "KOH COCONUT 純椰子汁 1公升 X 6入",
-      "price": "$379",
-      "original_price": "$459",
-      "discount_amount": "$80",
-      "promotion": "商品已折價$80 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/p/75130",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h28/hd0/102276188930078.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "高坑 高粱原味牛肉乾 + 高粱辣味牛肉乾 300公克 X 2入",
-      "price": "$519",
-      "original_price": "$649",
-      "discount_amount": "$130",
-      "promotion": "商品已折價$130 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/219930",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h1b/h51/153904728571934.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Tidy Cats 高效清香凝結罐裝貓砂 6.35公斤 X 3罐",
-      "price": "$599",
-      "original_price": "$759",
-      "discount_amount": "$160",
-      "promotion": "商品已折價$160 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/c/p/115777",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h50/h56/61939547766814.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "富果樂 可可草莓早餐麥片 1公斤",
-      "price": "$289",
-      "original_price": "$359",
-      "discount_amount": "$70",
-      "promotion": "商品已折價$70 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/p/424884",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf1/he2/452750414020638.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "泰山 低糖八寶粥 360公克 X 24入",
-      "price": "$515",
-      "original_price": "$629",
-      "discount_amount": "$114",
-      "promotion": "商品已折價$114 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/p/149327",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h55/h6e/291292251652126.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "天地合補 微分子膠原美顏飲 50毫升 X 20入",
-      "price": "$1,199",
-      "original_price": "$1,499",
-      "discount_amount": "$300",
-      "promotion": "商品已折價$300 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/158885",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h31/h0c/434451473891358.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "老協珍 冷凍壽喜燒豬肉米漢堡 195公克 X 3入 X 20盒",
-      "price": "$2,549",
-      "original_price": "$3,199",
-      "discount_amount": "$650",
-      "promotion": "商品已折價$650 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Frozen-Food/p/124110",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb8/hd9/168536091066398.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "日清 拉王豚骨味非油炸速食麵 89公克 X 15包",
-      "price": "$389",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Nissin-Raoh-Tonkotsu-Flavour-Non-Fried-Instant-Noodle-89-g-X-15-Pack/p/149884",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h09/h3a/312616142995486.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "新東陽 原味小肉條 250公克 X 2包",
-      "price": "$439",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Hsin-Tung-Yang-Pork-Strips-250-g-X-2-Pack/p/157255",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h8a/h20/403085556645918.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "海爾 織物清潔機 R10",
-      "price": "$2,999",
-      "original_price": "$3,339",
-      "discount_amount": "$340",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/160452",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha1/h4a/473819879407646.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Adidas 男戶外涼鞋",
-      "price": "$569",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Adidas-Mens-Outdoor-Sandals/p/154890",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h24/hae/466558437228574.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Adidas 女戶外涼鞋",
-      "price": "$569",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Adidas-Ladies-Outdoor-Sandals/p/154891",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h6e/h85/466558441881630.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Jezebel 女連身洋裝",
-      "price": "$495",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Jezebel-Ladies-Tiered-Midi-Dress/p/1912121",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h84/h35/451293688692766.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "台酒 陳紹雞肉麵 205公克 X 6包",
-      "price": "$299",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/TTL-Aged-Shaoxing-Wine-Chicken-Noodles-205-g-X-6-Pack/p/149891",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf7/hd1/450418069667870.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Maruesu 芥末醬油海苔天婦羅 24公克 X 10入",
-      "price": "$259",
-      "original_price": "$319",
-      "discount_amount": "$60",
-      "promotion": "商品已折價$60 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/115139",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hc6/h19/16127111757854.jpg",
-      "category": "食品飲料"
     }
   ],
-  "price_changes": [
+  "removed": [
     {
-      "name": "Hau 冷凍韓式雜菜粉絲拌飯 300公克 X 7包",
-      "price": "$539",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "old_price": "$439",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Hau-Frozen-Japchae-Fried-Rice-300-g-X-7-Pack/p/608914",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h62/h4b/209600812646430.jpg",
-      "category": "食品飲料"
+      "name": "Samsung 65吋 Mini LED 4K AI 量子智慧顯示器 UA65M1EHAXXZW",
+      "price": "$19,999",
+      "original_price": "$24,999",
+      "discount_amount": "$5,000",
+      "promotion": "商品已折價$5,000 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/60-69-TVs/Samsung-65-inch-Mini-LED-4K-AI-Smart-Monitor-UA65M1EHAXXZW/p/161519",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h43/hb9/505969062051870.jpg",
+      "category": "家電 3C"
     },
     {
-      "name": "星巴克 陽光典藏咖啡豆 1.13公斤",
-      "price": "$1,035",
+      "name": "IRIS Woozoo 空氣循環扇 PCF-SC15T-CT",
+      "price": "$1,269",
       "original_price": "",
       "discount_amount": "",
       "promotion": "含運",
       "stock_status": "有貨",
-      "old_price": "$835",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Starbucks-Blonde-Espresso-Roast-113-kg/p/145382",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h6a/he4/228120201560094.jpg",
-      "category": "食品飲料"
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/IRIS-Woozoo-Circulator-Fan-PCF-SC15T-CT/p/2354207",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha5/h9d/329850798506014.jpg",
+      "category": "家電 3C"
     }
-  ]
+  ],
+  "price_changes": []
 }
