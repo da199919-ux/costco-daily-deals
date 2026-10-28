@@ -1,87 +1,8 @@
 {
   "date": "2026-10-29",
-  "generated_at": "2026-10-29 00:47",
+  "generated_at": "2026-10-29 05:47",
   "has_previous": true,
   "added": [],
   "removed": [],
-  "price_changes": [
-    {
-      "name": "CJ Bibigo Plantable 冷凍高麗韭菜餃 1.4公斤",
-      "price": "$449",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "old_price": "$369",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/CJ-Bibigo-Plantable-Frozen-Veggie-Dumpling-14-kg/p/658912",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb8/h3b/452750418182174.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Huggies 嬰兒連身包屁衣五件組",
-      "price": "$347",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "old_price": "$447",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Clothing-Sets-Accessories/Huggies-Baby-Bodysuit-5-Piece-Set/p/1976255",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h32/h49/473820160819230.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Ocean Pier 冷凍調味龍蝦尾串 270公克",
-      "price": "$827",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "指定夏日涼感商品：買2件享8.5折，買3件享8折（結帳時依活動條件計算）",
-      "stock_status": "有貨",
-      "old_price": "$899",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Ocean-Pier-Frozen-Seasoned-Lobster-Tail-Skewers-270-g/p/491428",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h8e/h2f/438876396191774.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Realtree 男帆布工裝長褲",
-      "price": "$447",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "old_price": "$647",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/Realtree-Mens-Canvas-Cargo-Pants/p/1753314",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hfe/h16/468935633436702.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "美康雅 二合一手持式掛燙熨斗 GS308TW",
-      "price": "$1,379",
-      "original_price": "$1,999",
-      "discount_amount": "$620",
-      "promotion": "商品已折價$620 含運",
-      "stock_status": "缺貨",
-      "old_price": "$1,439",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Sewing-Garment-Care/Conair-2in1-Handheld-Fabric-Steamer-GS308TW/p/153085",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h29/hca/386020132945950.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "龍宮堂 干貝唇 250公克",
-      "price": "$369",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "old_price": "$299",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Ryugudo-Grilled-scallop-Lips-250-g/p/147381",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h0f/h47/310637988315166.jpg",
-      "category": "食品飲料"
-    }
-  ]
+  "price_changes": []
 }
