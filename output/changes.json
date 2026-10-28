@@ -1,32 +1,8 @@
 {
   "date": "2026-10-28",
-  "generated_at": "2026-10-28 07:03",
+  "generated_at": "2026-10-28 17:54",
   "has_previous": true,
   "added": [
-    {
-      "name": "Samsung 65吋 Mini LED 4K AI 量子智慧顯示器 UA65M1EHAXXZW",
-      "price": "$19,999",
-      "original_price": "$24,999",
-      "discount_amount": "$5,000",
-      "promotion": "商品已折價$5,000 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Televisions-TV-Accessories/p/161519",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h43/hb9/505969062051870.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "IRIS Woozoo 空氣循環扇 PCF-SC15T-CT",
-      "price": "$1,269",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Cooling-Heating-Air-Treatment/Heating-Cooling/p/2354207",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha5/h9d/329850798506014.jpg",
-      "category": "其他"
-    }
-  ],
-  "removed": [
     {
       "name": "Samsung 65吋 Mini LED 4K AI 量子智慧顯示器 UA65M1EHAXXZW",
       "price": "$19,999",
@@ -39,6 +15,50 @@
       "category": "家電 3C"
     },
     {
+      "name": "歐司朗 朗德萬斯 20W LED燈泡 4入 自然光",
+      "price": "$669",
+      "original_price": "$819",
+      "discount_amount": "$150",
+      "promotion": "商品已折價$150 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-LEDVANCE-20W-LED-Bulb-4-Pack-Warm-White/p/147361",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h5d/hbb/363073686798366.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "歐司朗 朗德萬斯 20W LED燈泡 4入 白光",
+      "price": "$669",
+      "original_price": "$819",
+      "discount_amount": "$150",
+      "promotion": "商品已折價$150 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-LEDVANCE-20W-LED-Bulb-4-Pack-Daylight/p/147360",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha0/hbf/363073681752094.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "威德 益生菌 顆粒 90包",
+      "price": "$815",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/WEIDER-Probiotics-Granule-90-Sachet/p/994049",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h67/h22/35130919387166.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "Moccona 中烘焙即溶咖啡粉 400公克",
+      "price": "$599",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Moccona-Medium-Roast-Instant-Coffee-400-g/p/128828",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he9/h50/52231579009054.jpg",
+      "category": "食品飲料"
+    },
+    {
       "name": "IRIS Woozoo 空氣循環扇 PCF-SC15T-CT",
       "price": "$1,269",
       "original_price": "",
@@ -48,6 +68,195 @@
       "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/IRIS-Woozoo-Circulator-Fan-PCF-SC15T-CT/p/2354207",
       "image": "https://www.costco.com.tw/medias/sys_master/images/ha5/h9d/329850798506014.jpg",
       "category": "家電 3C"
+    }
+  ],
+  "removed": [
+    {
+      "name": "Samsung 65吋 Mini LED 4K AI 量子智慧顯示器 UA65M1EHAXXZW",
+      "price": "$19,999",
+      "original_price": "$24,999",
+      "discount_amount": "$5,000",
+      "promotion": "商品已折價$5,000 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-TV-Accessories/p/161519",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h43/hb9/505969062051870.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "星巴克 陽光典藏咖啡豆 1.13公斤",
+      "price": "$1,035",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Starbucks-Blonde-Espresso-Roast-113-kg/p/145382",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h6a/he4/228120201560094.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "費列羅 金莎 48顆",
+      "price": "$499",
+      "original_price": "$569",
+      "discount_amount": "$70",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Ferrero-Rocher-600G-T48/p/14384",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfe/h22/362186392567838.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Hau 冷凍韓式雜菜粉絲拌飯 300公克 X 7包",
+      "price": "$539",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Hau-Frozen-Japchae-Fried-Rice-300-g-X-7-Pack/p/608914",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h62/h4b/209600812646430.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Monte & Jardin 印花舒適毯 152公分 X 177公分",
+      "price": "$279",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Monte-Jardin-Plush-Throw-152-cm-X-177-cm/p/186800",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he7/h55/492430038630430.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Rodeo Joe's 冷凍綜合炸物組 1.14公斤",
+      "price": "$197",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Rodeo-Joes-Frozen-Party-Pack-114-kg/p/1786475",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h77/hac/432345291816990.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Oh Sunny 女戶外休閒雙面遮陽帽",
+      "price": "$197",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Accessories/Oh-Sunny-Ladies-Reversible-Sunscreen-Hat/p/8522876",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc5/hbf/437687805116446.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "WildLand 速開帳篷",
+      "price": "$597",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Tents-Camping-Gear/WildLand-Quick-Set-Up-Shelter/p/1872089",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h1b/h9e/455116857606174.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Adidas Breaknet Sleek 女休閒鞋",
+      "price": "$1,047",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Adidas-Breaknet-Sleek-Ladies-Casual-Shoe/p/1954886",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h46/hbd/489268508131358.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Tommy Bahama 7.5呎 海灘遮陽傘",
+      "price": "$497",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Water-Sports/Tommy-Bahama-75-ft-Beach-Umbrella/p/1819570",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc9/hea/448868539596830.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Lacoste 男休閒鞋",
+      "price": "$1,047",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Lacoste-Mens-Shoe/p/154492",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h50/hcb/438875884486686.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Igloo 23.6公升 保冷野餐籃",
+      "price": "$697",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Coolers/Igloo-25QT-Modern-Picnic-Basket/p/1872096",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h85/h5f/454001915559966.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Barrington 10人撲克桌 含LED燈",
+      "price": "$4,997",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Board-Games-Puzzles/Barrington-10-Player-Poker-Table-with-LED-Lights/p/1740653",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he3/h16/413421503676446.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "La Española 西班牙特級初榨橄欖油 5公升",
+      "price": "$1,017",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/La-Espanola-Evoo-Oil-5-L/p/153839",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc9/hca/399196799369246.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Sports Research Omega-3 濃縮魚油 1250mg 150粒",
+      "price": "$1,369",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Sports-Research-Omega-3-Fish-Oil-Triple-Strength-1250mg-150-Softgel/p/240666",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf2/h84/275802915995678.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "IRIS Woozoo 空氣循環扇 PCF-SC15T-CT",
+      "price": "$1,269",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Cooling-Heating-Air-Treatment/Heating-Cooling/p/2354207",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha5/h9d/329850798506014.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Studio TU 玻璃飲料桶 8.3公升 含木製桶架 & 上蓋",
+      "price": "$715",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Studio-TU-Gallon-Glass-Drink-Dispenser-83-L-with-Acacia-Wood-Stand-Lid/p/1796162",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h1a/h6b/449275417952286.jpg",
+      "category": "家具家居"
     }
   ],
   "price_changes": []
