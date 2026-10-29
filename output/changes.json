@@ -1,8 +1,31 @@
 {
   "date": "2026-10-29",
-  "generated_at": "2026-10-29 05:47",
+  "generated_at": "2026-10-29 09:55",
   "has_previous": true,
   "added": [],
-  "removed": [],
+  "removed": [
+    {
+      "name": "CJ Bibigo Plantable 冷凍高麗韭菜餃 1.4公斤",
+      "price": "$449",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/CJ-Bibigo-Plantable-Frozen-Veggie-Dumpling-14-kg/p/658912",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb8/h3b/452750418182174.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "龍宮堂 干貝唇 250公克",
+      "price": "$369",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Ryugudo-Grilled-scallop-Lips-250-g/p/147381",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0f/h47/310637988315166.jpg",
+      "category": "食品飲料"
+    }
+  ],
   "price_changes": []
 }
