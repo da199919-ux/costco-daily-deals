@@ -1,31 +1,156 @@
 {
   "date": "2026-10-29",
-  "generated_at": "2026-10-29 09:55",
+  "generated_at": "2026-10-29 16:42",
   "has_previous": true,
-  "added": [],
-  "removed": [
+  "added": [
     {
-      "name": "CJ Bibigo Plantable 冷凍高麗韭菜餃 1.4公斤",
-      "price": "$449",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/CJ-Bibigo-Plantable-Frozen-Veggie-Dumpling-14-kg/p/658912",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb8/h3b/452750418182174.jpg",
-      "category": "食品飲料"
+      "name": "Skechers 電燈男童鞋",
+      "price": "$799",
+      "original_price": "$999",
+      "discount_amount": "$200",
+      "promotion": "商品已折價$200 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/158208",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h79/h39/503697345151006.jpg",
+      "category": "服飾配件"
     },
     {
-      "name": "龍宮堂 干貝唇 250公克",
-      "price": "$369",
+      "name": "Jezebel 女無袖連身洋裝",
+      "price": "$247",
       "original_price": "",
       "discount_amount": "",
       "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Ryugudo-Grilled-scallop-Lips-250-g/p/147381",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h0f/h47/310637988315166.jpg",
-      "category": "食品飲料"
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/1982075",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h5e/hbf/422091092099102.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Adidas Breaknet Sleek 女休閒鞋",
+      "price": "$1,047",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Adidas-Breaknet-Sleek-Ladies-Casual-Shoe/p/1954886",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h46/hbd/489268508131358.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Hotel Grand 雙人白鵝絨可水洗子母被 180公分 X 210公分",
+      "price": "$6,997",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Bedding/p/152368",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h99/hb8/379632076062750.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Town & Country 長型抗汙地墊 50公分 X 99公分",
+      "price": "$347",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Bedding/p/1909218",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h84/h63/468935675576350.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "東元 快速自動製冰塊機",
+      "price": "$2,899",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/p/146687",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h1d/hca/255087840395294.jpg",
+      "category": "其他"
     }
   ],
-  "price_changes": []
+  "removed": [
+    {
+      "name": "Skechers 電燈男童鞋",
+      "price": "$799",
+      "original_price": "$999",
+      "discount_amount": "$200",
+      "promotion": "商品已折價$200 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Childrens-Shoes/Skechers-Boys-Light-Shoe/p/158208",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h79/h39/503697345151006.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Jezebel 女無袖連身洋裝",
+      "price": "$247",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Jezebel-Ladies-Tiered-Dress/p/1982075",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h5e/hbf/422091092099102.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Hotel Grand 雙人白鵝絨可水洗子母被 180公分 X 210公分",
+      "price": "$6,997",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Hotel-Grand-Goose-Down-Comforter-180-cm-X-210-cm/p/152368",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h99/hb8/379632076062750.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Town & Country 長型抗汙地墊 50公分 X 99公分",
+      "price": "$347",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Rugs-Mats/Town-Country-Shaped-Kitchen-Mat-50-cm-X-99-cm/p/1909218",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h84/h63/468935675576350.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "Freeworld 男人字夾腳拖鞋",
+      "price": "$497",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Freeworld-Mens-Flip-Flops/p/1660944",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfd/h42/438876238774302.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "東元 快速自動製冰塊機",
+      "price": "$2,899",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Water-Dispensers-Water-Purification/TECO-Ice-Makers/p/146687",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h1d/hca/255087840395294.jpg",
+      "category": "家電 3C"
+    }
+  ],
+  "price_changes": [
+    {
+      "name": "Merrell Moab 3 男登山運動鞋",
+      "price": "$3,345",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "old_price": "$1,999",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Merrell-Moab-3-Mens-Hiking-Shoe/p/1846575",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4d/h53/502266469285918.jpg",
+      "category": "服飾配件"
+    }
+  ]
 }
