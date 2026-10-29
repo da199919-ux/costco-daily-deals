@@ -1,76 +1,8 @@
 {
-  "date": "2026-10-29",
-  "generated_at": "2026-10-29 16:42",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30 00:20",
   "has_previous": true,
   "added": [
-    {
-      "name": "Skechers 電燈男童鞋",
-      "price": "$799",
-      "original_price": "$999",
-      "discount_amount": "$200",
-      "promotion": "商品已折價$200 含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/p/158208",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h79/h39/503697345151006.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Jezebel 女無袖連身洋裝",
-      "price": "$247",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/p/1982075",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h5e/hbf/422091092099102.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Adidas Breaknet Sleek 女休閒鞋",
-      "price": "$1,047",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Adidas-Breaknet-Sleek-Ladies-Casual-Shoe/p/1954886",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h46/hbd/489268508131358.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Hotel Grand 雙人白鵝絨可水洗子母被 180公分 X 210公分",
-      "price": "$6,997",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Bedding/p/152368",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h99/hb8/379632076062750.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Town & Country 長型抗汙地墊 50公分 X 99公分",
-      "price": "$347",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Bedding/p/1909218",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h84/h63/468935675576350.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "東元 快速自動製冰塊機",
-      "price": "$2,899",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/p/146687",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h1d/hca/255087840395294.jpg",
-      "category": "其他"
-    }
-  ],
-  "removed": [
     {
       "name": "Skechers 電燈男童鞋",
       "price": "$799",
@@ -116,15 +48,15 @@
       "category": "家具家居"
     },
     {
-      "name": "Freeworld 男人字夾腳拖鞋",
-      "price": "$497",
+      "name": "Epoch LED感應輕巧燈 58公分 2入 白光",
+      "price": "$1,899",
       "original_price": "",
       "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Freeworld-Mens-Flip-Flops/p/1660944",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hfd/h42/438876238774302.jpg",
-      "category": "服飾配件"
+      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/Epoch-LED-Cabin-Light-58-cm-2-Piece-Daylight/p/124471",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h71/h3a/16600429297694.jpg",
+      "category": "家具家居"
     },
     {
       "name": "東元 快速自動製冰塊機",
@@ -138,19 +70,62 @@
       "category": "家電 3C"
     }
   ],
-  "price_changes": [
+  "removed": [
     {
-      "name": "Merrell Moab 3 男登山運動鞋",
-      "price": "$3,345",
+      "name": "Jezebel 女無袖連身洋裝",
+      "price": "$247",
       "original_price": "",
       "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$1,999",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Merrell-Moab-3-Mens-Hiking-Shoe/p/1846575",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h4d/h53/502266469285918.jpg",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/1982075",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h5e/hbf/422091092099102.jpg",
       "category": "服飾配件"
+    },
+    {
+      "name": "Hotel Grand 雙人白鵝絨可水洗子母被 180公分 X 210公分",
+      "price": "$6,997",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Bedding/p/152368",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h99/hb8/379632076062750.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Town & Country 長型抗汙地墊 50公分 X 99公分",
+      "price": "$347",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Bedding/p/1909218",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h84/h63/468935675576350.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "歐司朗 60W 星空LED調光調色吸頂燈",
+      "price": "$4,269",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-60W-Star-Adjustable-LED-Ceiling-Light/p/151014",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h74/he5/330166881976350.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "東元 快速自動製冰塊機",
+      "price": "$2,899",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/p/146687",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h1d/hca/255087840395294.jpg",
+      "category": "其他"
     }
-  ]
+  ],
+  "price_changes": []
 }
