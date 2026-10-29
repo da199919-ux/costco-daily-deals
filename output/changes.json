@@ -1,8 +1,9 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30 00:20",
+  "generated_at": "2026-10-30 05:16",
   "has_previous": true,
-  "added": [
+  "added": [],
+  "removed": [
     {
       "name": "Skechers 電燈男童鞋",
       "price": "$799",
@@ -10,122 +11,50 @@
       "discount_amount": "$200",
       "promotion": "商品已折價$200 含運",
       "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Childrens-Shoes/Skechers-Boys-Light-Shoe/p/158208",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/p/158208",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h79/h39/503697345151006.jpg",
       "category": "服飾配件"
-    },
-    {
-      "name": "Jezebel 女無袖連身洋裝",
-      "price": "$247",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Jezebel-Ladies-Tiered-Dress/p/1982075",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h5e/hbf/422091092099102.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Hotel Grand 雙人白鵝絨可水洗子母被 180公分 X 210公分",
-      "price": "$6,997",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Hotel-Grand-Goose-Down-Comforter-180-cm-X-210-cm/p/152368",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h99/hb8/379632076062750.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Town & Country 長型抗汙地墊 50公分 X 99公分",
-      "price": "$347",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Rugs-Mats/Town-Country-Shaped-Kitchen-Mat-50-cm-X-99-cm/p/1909218",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h84/h63/468935675576350.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Epoch LED感應輕巧燈 58公分 2入 白光",
-      "price": "$1,899",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/Epoch-LED-Cabin-Light-58-cm-2-Piece-Daylight/p/124471",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h71/h3a/16600429297694.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "東元 快速自動製冰塊機",
-      "price": "$2,899",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Water-Dispensers-Water-Purification/TECO-Ice-Makers/p/146687",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h1d/hca/255087840395294.jpg",
-      "category": "家電 3C"
     }
   ],
-  "removed": [
+  "price_changes": [
     {
-      "name": "Jezebel 女無袖連身洋裝",
-      "price": "$247",
+      "name": "一風堂 綜合博多拉麵 8入/973.6公克",
+      "price": "$479",
       "original_price": "",
       "discount_amount": "",
       "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/p/1982075",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h5e/hbf/422091092099102.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Hotel Grand 雙人白鵝絨可水洗子母被 180公分 X 210公分",
-      "price": "$6,997",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Bedding/p/152368",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h99/hb8/379632076062750.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Town & Country 長型抗汙地墊 50公分 X 99公分",
-      "price": "$347",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Bedding/p/1909218",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h84/h63/468935675576350.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "歐司朗 60W 星空LED調光調色吸頂燈",
-      "price": "$4,269",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-60W-Star-Adjustable-LED-Ceiling-Light/p/151014",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h74/he5/330166881976350.jpg",
-      "category": "家具家居"
+      "old_price": "$389",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Ippudo-Hakata-Ramen-Set-8-Pack-9736-g/p/160801",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h36/h99/455116839649310.jpg",
+      "category": "食品飲料"
     },
     {
-      "name": "東元 快速自動製冰塊機",
-      "price": "$2,899",
+      "name": "琣伯莉 綜合餅乾 X 3入/610公克",
+      "price": "$389",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "old_price": "$315",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Pepperidge-Farm-Distinctive-Cookies-X-3-Pack-610-g/p/316874",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hd0/h98/487711274008606.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "科克蘭有機燕麥飲 946毫升 X 6入",
+      "price": "$459",
       "original_price": "",
       "discount_amount": "",
       "promotion": "含運",
       "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/p/146687",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h1d/hca/255087840395294.jpg",
-      "category": "其他"
+      "old_price": "$297",
+      "direction": "漲價",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Kirkland-Signature-Organic-Oat-Beverage-946-ml-X-6-Count/p/1272413",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf4/h99/61939550126110.jpg",
+      "category": "食品飲料"
     }
-  ],
-  "price_changes": []
+  ]
 }
