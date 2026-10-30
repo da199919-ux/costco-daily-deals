@@ -1,9 +1,9 @@
-# Costco 每日優惠摘要（2026-10-30）
+# Costco 每日優惠摘要（2026-10-31）
 
-更新時間：2026-10-30 22:23（台灣時間）
-共整理出 **355** 項官方線上優惠。
-本次共讀取 **370** 個官方商品頁面。
-庫存狀態：有貨 **253** 項、缺貨 **93** 項、待確認 **9** 項。
+更新時間：2026-10-31 03:34（台灣時間）
+共整理出 **349** 項官方線上優惠。
+本次共讀取 **364** 個官方商品頁面。
+庫存狀態：有貨 **247** 項、缺貨 **93** 項、待確認 **9** 項。
 
 > 價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。
 
@@ -11,13 +11,13 @@
 
 | 分類 | 商品數量 |
 |---|---:|
-| 食品飲料 | 76 |
-| 家電 3C | 71 |
-| 家具家居 | 64 |
-| 其他 | 56 |
+| 家電 3C | 72 |
+| 食品飲料 | 72 |
+| 家具家居 | 66 |
+| 其他 | 51 |
 | 服飾配件 | 45 |
-| 保健美容 | 25 |
-| 日用品／母嬰／玩具 | 18 |
+| 保健美容 | 26 |
+| 日用品／母嬰／玩具 | 17 |
 
 ## 我的追蹤商品
 
@@ -50,7 +50,7 @@
 - [Lucky Brand 女睡衣 3件組](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Pajamas/Lucky-Brand-Ladies-Sleepwear-3-Piece-Set/p/1961564)（$629；庫存：缺貨）
 - [Adidas 女刺繡Logo長袖上衣](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Adidas-Ladies-Embroidered-Logo-Long-Sleeve-Tee/p/157954)（$749；庫存：缺貨）
 - [Puma 女運動內衣 X 2件組 S](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Puma-Ladies-Sport-Bra-X-2-Pack-S/p/2588670)（$509；庫存：缺貨）
-- [科克蘭 女連帽外套](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Coats-Jackets/Kirkland-Signature-Ladies-Hoodie-Jacket/p/7771776)（$397；庫存：缺貨）
+- [科克蘭 女連帽外套](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Coats-Jackets/Kirkland-Signature-Ladies-Hoodie-Jacket/p/7771776)（$297；庫存：缺貨）
 - [Tommy Hilfiger 女刺繡Logo短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Tommy-Hilfiger-Ladies-Embroidered-Logo-Short-Sleeve-Tee/p/156540)（$397；庫存：缺貨）
 - [Jezebel 女無袖連身洋裝](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Jezebel-Ladies-Tiered-Dress/p/1982075)（$247；庫存：缺貨）
 - [Adidas 男經典Logo短袖上衣](https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Adidas-Mens-Classic-Short-Sleeve-Logo-Tee/p/154988)（$397；庫存：缺貨）
@@ -124,37 +124,40 @@
 
 ## 今日變化
 
-- 新增優惠：**12** 項
-- 本次未收錄：**7** 項（不代表優惠已結束）
-- 價格變動：**0** 項
+- 新增優惠：**8** 項
+- 本次未收錄：**14** 項（不代表優惠已結束）
+- 價格變動：**1** 項
 
 ### 價格變動
 
-- 今天沒有偵測到價格變動。
+- **降價**：[科克蘭 女連帽外套](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Coats-Jackets/Kirkland-Signature-Ladies-Hoodie-Jacket/p/7771776) $397 → $297
 
 ### 今日新增
-
-- [補體素 鉻100糖尿病適用配方 1500公克](https://www.costco.com.tw/Elderly-Care/Nutritional-Drinks/p/993999)（$1,129；庫存：有貨）
-- [Backbone Mamba 人體工學全網椅](https://www.costco.com.tw/p/144129)（$4,599；庫存：有貨）
-- [Tresanti 電動升降桌](https://www.costco.com.tw/p/1646074)（$5,999；庫存：有貨）
-- [Cat Chow 貓乾糧完整均衡配方 6.8公斤](https://www.costco.com.tw/Household-Baby-Toys/p/126098)（$629；庫存：有貨）
-- [大田海洋 十三香辣鱈魚寬片 250公克 X 3包](https://www.costco.com.tw/Food-Dining/Snacks/p/155744)（$269；庫存：有貨）
-- [Maruesu 芥末醬油海苔天婦羅 24公克 X 10入](https://www.costco.com.tw/Food-Dining/Snacks/p/115139)（$259；庫存：有貨）
-- [龜甲萬 德用本釀造醬油 1800毫升](https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/p/150599)（$199；庫存：有貨）
-- [特趣 迷你焦糖夾心巧克力 1180 公克](https://www.costco.com.tw/Food-Dining/Snacks/p/87941)（$465；庫存：有貨）
-- [大成跑跑雞 台灣冷凍放山雞全雞2分切 0.9公斤X 4入](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/p/142793)（$1,419；庫存：有貨）
-- [Epoch LED感應輕巧燈 58公分 2入 黃光](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/Epoch-LED-Cabin-Light-58-cm-2-Piece-Warmwhite/p/124472)（$1,899；庫存：有貨）
-- [LG 65吋 OLED AI 4K 智慧顯示器 B6經典系列 OLED65B6PTA](https://www.costco.com.tw/Televisions-TV-Accessories/p/162230)（$44,479；庫存：有貨）
-- [艾美特 DC 遙控大廈扇 FT89R](https://www.costco.com.tw/Cooling-Heating-Air-Treatment/Heating-Cooling/p/150625)（$2,999；庫存：有貨）
-
-### 本次未收錄（不代表優惠已結束）
 
 - [補體素 鉻100糖尿病適用配方 1500公克](https://www.costco.com.tw/Health-Beauty/Elderly-Care/Nutritional-Drinks/Protison-Diabetic-Powder-1500-g/p/993999)（$1,129；庫存：有貨）
 - [Backbone Mamba 人體工學全網椅](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Backbone-Mamba-Mesh-Ergonomic-Chair/p/144129)（$4,599；庫存：有貨）
 - [Tresanti 電動升降桌](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Tresanti-Adjustable-Desk/p/1646074)（$5,999；庫存：有貨）
+- [華元 三角脆薯分享箱 36公克 X 28包](https://www.costco.com.tw/Food-Dining/Snacks/p/136005)（$289；庫存：有貨）
 - [特趣 迷你焦糖夾心巧克力 1180 公克](https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Twix-Minis-Chocolate-Bars-1180-g/p/87941)（$465；庫存：有貨）
 - [大成跑跑雞 台灣冷凍放山雞全雞2分切 0.9公斤X 4入](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Dachan-Running-Chicken-Taiwan-Frozen-Cage-Free-Half-Chicken-09KG4/p/142793)（$1,419；庫存：有貨）
-- [Feit 7.5W LED 燈泡 5入](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/Feit-75W-LED-Light-Bulb-5-Count/p/142186)（$399；庫存：有貨）
+- [Insta360 GO Ultra 運動攝影機套裝組](https://www.costco.com.tw/Digital-Mobile/Cameras/p/155144)（$10,699；庫存：有貨）
 - [艾美特 DC 遙控大廈扇 FT89R](https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Airmate-DC-Remote-Control-Tower-Fan-FT89R/p/150625)（$2,999；庫存：有貨）
+
+### 本次未收錄（不代表優惠已結束）
+
+- [補體素 鉻100糖尿病適用配方 1500公克](https://www.costco.com.tw/Elderly-Care/Nutritional-Drinks/p/993999)（$1,129；庫存：有貨）
+- [Backbone Mamba 人體工學全網椅](https://www.costco.com.tw/p/144129)（$4,599；庫存：有貨）
+- [Tresanti 電動升降桌](https://www.costco.com.tw/p/1646074)（$5,999；庫存：有貨）
+- [Nature's Earthly Choice 奇亞籽 鼠尾草籽 907公克](https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/Natures-Earthly-Choice-Chia-907-g/p/582057)（$255；庫存：有貨）
+- [Cat Chow 貓乾糧完整均衡配方 6.8公斤](https://www.costco.com.tw/Household-Baby-Toys/p/126098)（$629；庫存：有貨）
+- [大田海洋 十三香辣鱈魚寬片 250公克 X 3包](https://www.costco.com.tw/Food-Dining/Snacks/p/155744)（$269；庫存：有貨）
+- [華元 三角脆薯分享箱 36公克 X 28包](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Hwa-Yuan-Triangle-Chips-Variety-Pack-36-g-X-28-Pack/p/136005)（$289；庫存：有貨）
+- [Maruesu 芥末醬油海苔天婦羅 24公克 X 10入](https://www.costco.com.tw/Food-Dining/Snacks/p/115139)（$259；庫存：有貨）
+- [龜甲萬 德用本釀造醬油 1800毫升](https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/p/150599)（$199；庫存：有貨）
+- [特趣 迷你焦糖夾心巧克力 1180 公克](https://www.costco.com.tw/Food-Dining/Snacks/p/87941)（$465；庫存：有貨）
+- [大成跑跑雞 台灣冷凍放山雞全雞2分切 0.9公斤X 4入](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/p/142793)（$1,419；庫存：有貨）
+- [Insta360 GO Ultra 運動攝影機套裝組](https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/Insta360-GO-Ultra-Action-Camera-Set/p/155144)（$10,699；庫存：有貨）
+- [LG 65吋 OLED AI 4K 智慧顯示器 B6經典系列 OLED65B6PTA](https://www.costco.com.tw/Televisions-TV-Accessories/p/162230)（$44,479；庫存：有貨）
+- [艾美特 DC 遙控大廈扇 FT89R](https://www.costco.com.tw/Cooling-Heating-Air-Treatment/Heating-Cooling/p/150625)（$2,999；庫存：有貨）
 
 完整清單請查看專案中的 `output/latest.md`。
