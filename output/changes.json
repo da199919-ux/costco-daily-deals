@@ -1,60 +1,54 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30 05:16",
+  "generated_at": "2026-10-30 09:13",
   "has_previous": true,
-  "added": [],
-  "removed": [
+  "added": [
     {
-      "name": "Skechers 電燈男童鞋",
-      "price": "$799",
-      "original_price": "$999",
-      "discount_amount": "$200",
-      "promotion": "商品已折價$200 含運",
+      "name": "32 Degrees 女羽絨外套",
+      "price": "$899",
+      "original_price": "$1,149",
+      "discount_amount": "$250",
+      "promotion": "商品已折價$250 含運",
       "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/p/158208",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h79/h39/503697345151006.jpg",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Coats-Jackets/32-Degrees-Ladies-Down-Jacket/p/158599",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h60/h90/492430001078302.jpg",
       "category": "服飾配件"
+    },
+    {
+      "name": "Insta360 GO Ultra 運動攝影機套裝組",
+      "price": "$10,699",
+      "original_price": "$12,699",
+      "discount_amount": "$2,000",
+      "promotion": "商品已折價$2,000 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/Insta360-GO-Ultra-Action-Camera-Set/p/155144",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfe/hed/467458634678302.jpg",
+      "category": "家電 3C"
     }
   ],
-  "price_changes": [
+  "removed": [
     {
-      "name": "一風堂 綜合博多拉麵 8入/973.6公克",
-      "price": "$479",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
+      "name": "Backbone Mamba 人體工學全網椅",
+      "price": "$4,599",
+      "original_price": "$5,799",
+      "discount_amount": "$1,200",
+      "promotion": "商品已折價$1,200 含運",
       "stock_status": "有貨",
-      "old_price": "$389",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Ippudo-Hakata-Ramen-Set-8-Pack-9736-g/p/160801",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h36/h99/455116839649310.jpg",
-      "category": "食品飲料"
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Backbone-Mamba-Mesh-Ergonomic-Chair/p/144129",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0d/h9f/222915949592606.jpg",
+      "category": "家具家居"
     },
     {
-      "name": "琣伯莉 綜合餅乾 X 3入/610公克",
-      "price": "$389",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
+      "name": "王品 冷凍三大名店冷凍火鍋料 1.1公斤",
+      "price": "$349",
+      "original_price": "$439",
+      "discount_amount": "$90",
+      "promotion": "商品已折價 $90 含運",
       "stock_status": "有貨",
-      "old_price": "$315",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Pepperidge-Farm-Distinctive-Cookies-X-3-Pack-610-g/p/316874",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd0/h98/487711274008606.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "科克蘭有機燕麥飲 946毫升 X 6入",
-      "price": "$459",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "old_price": "$297",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Kirkland-Signature-Organic-Oat-Beverage-946-ml-X-6-Count/p/1272413",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf4/h99/61939550126110.jpg",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Wowprime-Frozen-Hot-Pot-Variety-Pack-11-kg/p/131632",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf0/h87/81956503388190.jpg",
       "category": "食品飲料"
     }
-  ]
+  ],
+  "price_changes": []
 }
