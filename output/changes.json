@@ -1,32 +1,8 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30 09:13",
+  "generated_at": "2026-10-30 15:20",
   "has_previous": true,
   "added": [
-    {
-      "name": "32 Degrees 女羽絨外套",
-      "price": "$899",
-      "original_price": "$1,149",
-      "discount_amount": "$250",
-      "promotion": "商品已折價$250 含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Coats-Jackets/32-Degrees-Ladies-Down-Jacket/p/158599",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h60/h90/492430001078302.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Insta360 GO Ultra 運動攝影機套裝組",
-      "price": "$10,699",
-      "original_price": "$12,699",
-      "discount_amount": "$2,000",
-      "promotion": "商品已折價$2,000 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/Insta360-GO-Ultra-Action-Camera-Set/p/155144",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hfe/hed/467458634678302.jpg",
-      "category": "家電 3C"
-    }
-  ],
-  "removed": [
     {
       "name": "Backbone Mamba 人體工學全網椅",
       "price": "$4,599",
@@ -48,7 +24,177 @@
       "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Wowprime-Frozen-Hot-Pot-Variety-Pack-11-kg/p/131632",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hf0/h87/81956503388190.jpg",
       "category": "食品飲料"
+    },
+    {
+      "name": "科克蘭 西班牙冷壓初榨橄欖油 3公升",
+      "price": "$679",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Kirkland-Signature-Spanish-Extra-Virgin-Olive-Oil-3-L/p/1310208",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h00/h34/471216296722462.jpg",
+      "category": "食品飲料"
     }
   ],
-  "price_changes": []
+  "removed": [
+    {
+      "name": "Tryall 分離大豆植物蛋白 2.5公斤",
+      "price": "$1,199",
+      "original_price": "$1,279",
+      "discount_amount": "$80",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Health-Beauty/Sports-Performance/Plant-Based-Protein/Tryall-Soy-Protein-Isolate-25-kg/p/151752",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h25/hf7/351315910426654.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "Angie's 鹹甜爆米花 652公克",
+      "price": "$289",
+      "original_price": "$319",
+      "discount_amount": "$30",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Angies-BoomChickaPop-Sweet-and-Salty-Kettle-Popcorn-652-g/p/979885",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha8/hb9/11953683595294.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "DJI Osmo Pocket 3 旅拍套裝組 附續航手柄+收納包",
+      "price": "$11,799",
+      "original_price": "$12,599",
+      "discount_amount": "$800",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/DJI-Osmo-Pocket-3-Bundle-Battery-Handle-X-1-Bag-X-1/p/159980",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc8/h3f/466558645567518.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "東芝 Regza 75型 4K QLED 144Hz 全陣列背光智慧顯示器 75Z670NT",
+      "price": "$38,299",
+      "original_price": "$39,999",
+      "discount_amount": "$1,700",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/70-79-TVs/Toshiba-Regza-75-inch-Full-Array-4K-QLED-144Hz-Smart-Monitor-75Z670NT/p/152535",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4d/h80/438072159993886.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "Le Coq Sportif 男短袖純棉上衣",
+      "price": "$2,169",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Le-Coq-Sportif-Mens-Short-Sleeve-Cotton-Tee/p/240942",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha7/hc8/455934093852702.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Zuru 加特林泡泡槍 / 3歲以上",
+      "price": "$527",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Outdoor-Play/Zuru-Gatling-Bubble-Blaster-Ages-3-and-up/p/1851658",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hca/hd6/486580381188126.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "Adidas Breaknet Sleek 女休閒鞋",
+      "price": "$1,047",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Adidas-Breaknet-Sleek-Ladies-Casual-Shoe/p/1954886",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h46/hbd/489268508131358.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "KANGOL 印花女短袖Logo上衣",
+      "price": "$297",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/KANGOL-Ladies-Print-Logo-Short-Sleeve-Tee/p/160488",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc8/h3f/473819884945438.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Zuru X-Shot 全電動高速水槍 2入組 / 8歲以上",
+      "price": "$627",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Toys/Outdoor-Play/Zuru-X-Shot-Motor-Soakers-2-Pack-Set-Ages-8-and-up/p/1851471",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h63/h62/486580374896670.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "NEPA 男短袖上衣",
+      "price": "$447",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/NEPA-Mens-Short-Sleeve-Tee/p/658228",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h7c/hed/449275468349470.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "Glacier 男短袖運動上衣",
+      "price": "$247",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Glacier-Mens-Short-Sleeve-Active-Tee/p/156166",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h22/h7a/472952371642398.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "一風堂 綜合博多拉麵 8入/973.6公克",
+      "price": "$479",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Ippudo-Hakata-Ramen-Set-8-Pack-9736-g/p/160801",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h36/h99/455116839649310.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "琣伯莉 綜合餅乾 X 3入/610公克",
+      "price": "$389",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Pepperidge-Farm-Distinctive-Cookies-X-3-Pack-610-g/p/316874",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hd0/h98/487711274008606.jpg",
+      "category": "食品飲料"
+    }
+  ],
+  "price_changes": [
+    {
+      "name": "Sunday Afternoons 兒童抗UV遮陽帽",
+      "price": "$197",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "old_price": "$247",
+      "direction": "降價",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Clothing-Sets-Accessories/Sunday-Afternoons-Kids-UPF-Sun-Protection-Hat/p/157456",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hd2/hc4/450045194567710.jpg",
+      "category": "服飾配件"
+    }
+  ]
 }
