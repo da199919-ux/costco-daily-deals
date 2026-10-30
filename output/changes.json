@@ -1,18 +1,97 @@
 {
   "date": "2026-10-31",
-  "generated_at": "2026-10-31 03:34",
+  "generated_at": "2026-10-31 07:57",
   "has_previous": true,
   "added": [
     {
-      "name": "補體素 鉻100糖尿病適用配方 1500公克",
-      "price": "$1,129",
-      "original_price": "$1,329",
-      "discount_amount": "$200",
-      "promotion": "商品已折價 $200 含運",
+      "name": "滿意寶寶 哆啦A夢輕巧褲 XXL號 104片",
+      "price": "$839",
+      "original_price": "$1,049",
+      "discount_amount": "$210",
+      "promotion": "商品已折價 $210 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Health-Beauty/Elderly-Care/Nutritional-Drinks/Protison-Diabetic-Powder-1500-g/p/993999",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd3/hea/431395560751134.jpg",
-      "category": "保健美容"
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/626088",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hab/h88/490098123145246.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "Backbone Mamba 人體工學全網椅",
+      "price": "$4,599",
+      "original_price": "$5,799",
+      "discount_amount": "$1,200",
+      "promotion": "商品已折價$1,200 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/144129",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0d/h9f/222915949592606.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "飛利浦 智能系列三刀頭電鬍刀 S6830/95",
+      "price": "$3,559",
+      "original_price": "$4,459",
+      "discount_amount": "$900",
+      "promotion": "商品已折價$900 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Hair-Skin-Care-Tools/p/157741",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h85/hf9/436453387698206.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "歐司朗 朗德萬斯 20W LED燈泡 4入 白光",
+      "price": "$669",
+      "original_price": "$819",
+      "discount_amount": "$150",
+      "promotion": "商品已折價$150 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/147360",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha0/hbf/363073681752094.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "華元 三角脆薯分享箱 36公克 X 28包",
+      "price": "$289",
+      "original_price": "$349",
+      "discount_amount": "$60",
+      "promotion": "商品已折價$60 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Hwa-Yuan-Triangle-Chips-Variety-Pack-36-g-X-28-Pack/p/136005",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf3/h20/101464523800606.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "健達 倍多 21公克 X 36條",
+      "price": "$369",
+      "original_price": "$459",
+      "discount_amount": "$90",
+      "promotion": "商品已折價$90 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/106522",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb3/h36/65826714714142.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "老協珍 冷凍壽喜燒豬肉米漢堡 195公克 X 3入 X 20盒",
+      "price": "$2,549",
+      "original_price": "$3,199",
+      "discount_amount": "$650",
+      "promotion": "商品已折價$650 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Frozen-Food/p/124110",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb8/hd9/168536091066398.jpg",
+      "category": "其他"
+    }
+  ],
+  "removed": [
+    {
+      "name": "滿意寶寶 哆啦A夢輕巧褲 XXL號 104片",
+      "price": "$839",
+      "original_price": "$1,049",
+      "discount_amount": "$210",
+      "promotion": "商品已折價 $210 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Diapers-Wipes/MamyPoko-Diaper-Pants-Doraemon-Edition-Size-XXL-104-Piece/p/626088",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hab/h88/490098123145246.jpg",
+      "category": "日用品／母嬰／玩具"
     },
     {
       "name": "Backbone Mamba 人體工學全網椅",
@@ -26,14 +105,25 @@
       "category": "家具家居"
     },
     {
-      "name": "Tresanti 電動升降桌",
-      "price": "$5,999",
-      "original_price": "$7,399",
-      "discount_amount": "$1,400",
-      "promotion": "商品已折價$1,400 含運",
+      "name": "飛利浦 智能系列三刀頭電鬍刀 S6830/95",
+      "price": "$3,559",
+      "original_price": "$4,459",
+      "discount_amount": "$900",
+      "promotion": "商品已折價$900 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Tresanti-Adjustable-Desk/p/1646074",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h9b/h55/329177256460318.jpg",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Hair-Skin-Care-Tools/Philips-AI-Series-Electric-Shaver-S683095/p/157741",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h85/hf9/436453387698206.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "歐司朗 朗德萬斯 20W LED燈泡 4入 白光",
+      "price": "$669",
+      "original_price": "$819",
+      "discount_amount": "$150",
+      "promotion": "商品已折價$150 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-LEDVANCE-20W-LED-Bulb-4-Pack-Daylight/p/147360",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha0/hbf/363073681752094.jpg",
       "category": "家具家居"
     },
     {
@@ -48,219 +138,27 @@
       "category": "食品飲料"
     },
     {
-      "name": "特趣 迷你焦糖夾心巧克力 1180 公克",
-      "price": "$465",
-      "original_price": "$579",
-      "discount_amount": "$114",
-      "promotion": "商品已折價$114 含運",
+      "name": "健達 倍多 21公克 X 36條",
+      "price": "$369",
+      "original_price": "$459",
+      "discount_amount": "$90",
+      "promotion": "商品已折價$90 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Twix-Minis-Chocolate-Bars-1180-g/p/87941",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h21/hf7/120322117238814.jpg",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Kinder-Chocolate-Maxi-21-g-X-36-Count/p/106522",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb3/h36/65826714714142.jpg",
       "category": "食品飲料"
     },
     {
-      "name": "大成跑跑雞 台灣冷凍放山雞全雞2分切 0.9公斤X 4入",
-      "price": "$1,419",
-      "original_price": "$1,649",
-      "discount_amount": "$230",
-      "promotion": "商品已折價$230 含運",
+      "name": "老協珍 冷凍壽喜燒豬肉米漢堡 195公克 X 3入 X 20盒",
+      "price": "$2,549",
+      "original_price": "$3,199",
+      "discount_amount": "$650",
+      "promotion": "商品已折價$650 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Dachan-Running-Chicken-Taiwan-Frozen-Cage-Free-Half-Chicken-09KG4/p/142793",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd2/h1d/187953473880094.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Insta360 GO Ultra 運動攝影機套裝組",
-      "price": "$10,699",
-      "original_price": "$12,699",
-      "discount_amount": "$2,000",
-      "promotion": "商品已折價$2,000 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Cameras/p/155144",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hfe/hed/467458634678302.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "艾美特 DC 遙控大廈扇 FT89R",
-      "price": "$2,999",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Airmate-DC-Remote-Control-Tower-Fan-FT89R/p/150625",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h07/hdc/361109992177694.jpg",
-      "category": "家電 3C"
-    }
-  ],
-  "removed": [
-    {
-      "name": "補體素 鉻100糖尿病適用配方 1500公克",
-      "price": "$1,129",
-      "original_price": "$1,329",
-      "discount_amount": "$200",
-      "promotion": "商品已折價 $200 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Elderly-Care/Nutritional-Drinks/p/993999",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd3/hea/431395560751134.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Backbone Mamba 人體工學全網椅",
-      "price": "$4,599",
-      "original_price": "$5,799",
-      "discount_amount": "$1,200",
-      "promotion": "商品已折價$1,200 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/144129",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h0d/h9f/222915949592606.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Tresanti 電動升降桌",
-      "price": "$5,999",
-      "original_price": "$7,399",
-      "discount_amount": "$1,400",
-      "promotion": "商品已折價$1,400 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/1646074",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h9b/h55/329177256460318.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Nature's Earthly Choice 奇亞籽 鼠尾草籽 907公克",
-      "price": "$255",
-      "original_price": "$319",
-      "discount_amount": "$64",
-      "promotion": "商品已折價$64 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/Natures-Earthly-Choice-Chia-907-g/p/582057",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h82/had/65979074871326.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Cat Chow 貓乾糧完整均衡配方 6.8公斤",
-      "price": "$629",
-      "original_price": "$779",
-      "discount_amount": "$150",
-      "promotion": "商品已折價$150 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/126098",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/he8/h75/419358172807198.jpg",
-      "category": "日用品／母嬰／玩具"
-    },
-    {
-      "name": "大田海洋 十三香辣鱈魚寬片 250公克 X 3包",
-      "price": "$269",
-      "original_price": "$329",
-      "discount_amount": "$60",
-      "promotion": "商品已折價$60 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/155744",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h8d/h60/386411411603486.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "華元 三角脆薯分享箱 36公克 X 28包",
-      "price": "$289",
-      "original_price": "$349",
-      "discount_amount": "$60",
-      "promotion": "商品已折價$60 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Hwa-Yuan-Triangle-Chips-Variety-Pack-36-g-X-28-Pack/p/136005",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf3/h20/101464523800606.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Maruesu 芥末醬油海苔天婦羅 24公克 X 10入",
-      "price": "$259",
-      "original_price": "$319",
-      "discount_amount": "$60",
-      "promotion": "商品已折價$60 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/115139",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hc6/h19/16127111757854.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "龜甲萬 德用本釀造醬油 1800毫升",
-      "price": "$199",
-      "original_price": "$249",
-      "discount_amount": "$50",
-      "promotion": "商品已折價$50 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/p/150599",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/he5/h99/313982911217694.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "特趣 迷你焦糖夾心巧克力 1180 公克",
-      "price": "$465",
-      "original_price": "$579",
-      "discount_amount": "$114",
-      "promotion": "商品已折價$114 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/87941",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h21/hf7/120322117238814.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "大成跑跑雞 台灣冷凍放山雞全雞2分切 0.9公斤X 4入",
-      "price": "$1,419",
-      "original_price": "$1,649",
-      "discount_amount": "$230",
-      "promotion": "商品已折價$230 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/p/142793",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd2/h1d/187953473880094.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Insta360 GO Ultra 運動攝影機套裝組",
-      "price": "$10,699",
-      "original_price": "$12,699",
-      "discount_amount": "$2,000",
-      "promotion": "商品已折價$2,000 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/Insta360-GO-Ultra-Action-Camera-Set/p/155144",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hfe/hed/467458634678302.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "LG 65吋 OLED AI 4K 智慧顯示器 B6經典系列 OLED65B6PTA",
-      "price": "$44,479",
-      "original_price": "$55,599",
-      "discount_amount": "$11,120",
-      "promotion": "商品已折價$11,120 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Televisions-TV-Accessories/p/162230",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hc7/h17/492247734714398.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "艾美特 DC 遙控大廈扇 FT89R",
-      "price": "$2,999",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Cooling-Heating-Air-Treatment/Heating-Cooling/p/150625",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h07/hdc/361109992177694.jpg",
+      "url": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Frozen-Food/Lao-Xie-Zhen-Frozen-Sukiyaki-Pork-Rice-Burger-195-g-X-3-Count-X-20-Case/p/124110",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb8/hd9/168536091066398.jpg",
       "category": "其他"
     }
   ],
-  "price_changes": [
-    {
-      "name": "科克蘭 女連帽外套",
-      "price": "$297",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "old_price": "$397",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Coats-Jackets/Kirkland-Signature-Ladies-Hoodie-Jacket/p/7771776",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h28/h0b/379898465910814.jpg",
-      "category": "服飾配件"
-    }
-  ]
+  "price_changes": []
 }

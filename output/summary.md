@@ -1,6 +1,6 @@
 # Costco 每日優惠摘要（2026-10-31）
 
-更新時間：2026-10-31 03:34（台灣時間）
+更新時間：2026-10-31 07:57（台灣時間）
 共整理出 **349** 項官方線上優惠。
 本次共讀取 **364** 個官方商品頁面。
 庫存狀態：有貨 **247** 項、缺貨 **93** 項、待確認 **9** 項。
@@ -11,10 +11,10 @@
 
 | 分類 | 商品數量 |
 |---|---:|
-| 家電 3C | 72 |
 | 食品飲料 | 72 |
-| 家具家居 | 66 |
-| 其他 | 51 |
+| 家電 3C | 71 |
+| 家具家居 | 64 |
+| 其他 | 54 |
 | 服飾配件 | 45 |
 | 保健美容 | 26 |
 | 日用品／母嬰／玩具 | 17 |
@@ -124,40 +124,32 @@
 
 ## 今日變化
 
-- 新增優惠：**8** 項
-- 本次未收錄：**14** 項（不代表優惠已結束）
-- 價格變動：**1** 項
+- 新增優惠：**7** 項
+- 本次未收錄：**7** 項（不代表優惠已結束）
+- 價格變動：**0** 項
 
 ### 價格變動
 
-- **降價**：[科克蘭 女連帽外套](https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Coats-Jackets/Kirkland-Signature-Ladies-Hoodie-Jacket/p/7771776) $397 → $297
+- 今天沒有偵測到價格變動。
 
 ### 今日新增
 
-- [補體素 鉻100糖尿病適用配方 1500公克](https://www.costco.com.tw/Health-Beauty/Elderly-Care/Nutritional-Drinks/Protison-Diabetic-Powder-1500-g/p/993999)（$1,129；庫存：有貨）
-- [Backbone Mamba 人體工學全網椅](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Backbone-Mamba-Mesh-Ergonomic-Chair/p/144129)（$4,599；庫存：有貨）
-- [Tresanti 電動升降桌](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Tresanti-Adjustable-Desk/p/1646074)（$5,999；庫存：有貨）
-- [華元 三角脆薯分享箱 36公克 X 28包](https://www.costco.com.tw/Food-Dining/Snacks/p/136005)（$289；庫存：有貨）
-- [特趣 迷你焦糖夾心巧克力 1180 公克](https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Twix-Minis-Chocolate-Bars-1180-g/p/87941)（$465；庫存：有貨）
-- [大成跑跑雞 台灣冷凍放山雞全雞2分切 0.9公斤X 4入](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Dachan-Running-Chicken-Taiwan-Frozen-Cage-Free-Half-Chicken-09KG4/p/142793)（$1,419；庫存：有貨）
-- [Insta360 GO Ultra 運動攝影機套裝組](https://www.costco.com.tw/Digital-Mobile/Cameras/p/155144)（$10,699；庫存：有貨）
-- [艾美特 DC 遙控大廈扇 FT89R](https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Airmate-DC-Remote-Control-Tower-Fan-FT89R/p/150625)（$2,999；庫存：有貨）
+- [滿意寶寶 哆啦A夢輕巧褲 XXL號 104片](https://www.costco.com.tw/Household-Baby-Toys/p/626088)（$839；庫存：有貨）
+- [Backbone Mamba 人體工學全網椅](https://www.costco.com.tw/p/144129)（$4,599；庫存：有貨）
+- [飛利浦 智能系列三刀頭電鬍刀 S6830/95](https://www.costco.com.tw/Hair-Skin-Care-Tools/p/157741)（$3,559；庫存：有貨）
+- [歐司朗 朗德萬斯 20W LED燈泡 4入 白光](https://www.costco.com.tw/p/147360)（$669；庫存：有貨）
+- [華元 三角脆薯分享箱 36公克 X 28包](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Hwa-Yuan-Triangle-Chips-Variety-Pack-36-g-X-28-Pack/p/136005)（$289；庫存：有貨）
+- [健達 倍多 21公克 X 36條](https://www.costco.com.tw/Food-Dining/Snacks/p/106522)（$369；庫存：有貨）
+- [老協珍 冷凍壽喜燒豬肉米漢堡 195公克 X 3入 X 20盒](https://www.costco.com.tw/Frozen-Food/p/124110)（$2,549；庫存：有貨）
 
 ### 本次未收錄（不代表優惠已結束）
 
-- [補體素 鉻100糖尿病適用配方 1500公克](https://www.costco.com.tw/Elderly-Care/Nutritional-Drinks/p/993999)（$1,129；庫存：有貨）
-- [Backbone Mamba 人體工學全網椅](https://www.costco.com.tw/p/144129)（$4,599；庫存：有貨）
-- [Tresanti 電動升降桌](https://www.costco.com.tw/p/1646074)（$5,999；庫存：有貨）
-- [Nature's Earthly Choice 奇亞籽 鼠尾草籽 907公克](https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/Natures-Earthly-Choice-Chia-907-g/p/582057)（$255；庫存：有貨）
-- [Cat Chow 貓乾糧完整均衡配方 6.8公斤](https://www.costco.com.tw/Household-Baby-Toys/p/126098)（$629；庫存：有貨）
-- [大田海洋 十三香辣鱈魚寬片 250公克 X 3包](https://www.costco.com.tw/Food-Dining/Snacks/p/155744)（$269；庫存：有貨）
-- [華元 三角脆薯分享箱 36公克 X 28包](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Hwa-Yuan-Triangle-Chips-Variety-Pack-36-g-X-28-Pack/p/136005)（$289；庫存：有貨）
-- [Maruesu 芥末醬油海苔天婦羅 24公克 X 10入](https://www.costco.com.tw/Food-Dining/Snacks/p/115139)（$259；庫存：有貨）
-- [龜甲萬 德用本釀造醬油 1800毫升](https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/p/150599)（$199；庫存：有貨）
-- [特趣 迷你焦糖夾心巧克力 1180 公克](https://www.costco.com.tw/Food-Dining/Snacks/p/87941)（$465；庫存：有貨）
-- [大成跑跑雞 台灣冷凍放山雞全雞2分切 0.9公斤X 4入](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/p/142793)（$1,419；庫存：有貨）
-- [Insta360 GO Ultra 運動攝影機套裝組](https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/Insta360-GO-Ultra-Action-Camera-Set/p/155144)（$10,699；庫存：有貨）
-- [LG 65吋 OLED AI 4K 智慧顯示器 B6經典系列 OLED65B6PTA](https://www.costco.com.tw/Televisions-TV-Accessories/p/162230)（$44,479；庫存：有貨）
-- [艾美特 DC 遙控大廈扇 FT89R](https://www.costco.com.tw/Cooling-Heating-Air-Treatment/Heating-Cooling/p/150625)（$2,999；庫存：有貨）
+- [滿意寶寶 哆啦A夢輕巧褲 XXL號 104片](https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Diapers-Wipes/MamyPoko-Diaper-Pants-Doraemon-Edition-Size-XXL-104-Piece/p/626088)（$839；庫存：有貨）
+- [Backbone Mamba 人體工學全網椅](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Backbone-Mamba-Mesh-Ergonomic-Chair/p/144129)（$4,599；庫存：有貨）
+- [飛利浦 智能系列三刀頭電鬍刀 S6830/95](https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Hair-Skin-Care-Tools/Philips-AI-Series-Electric-Shaver-S683095/p/157741)（$3,559；庫存：有貨）
+- [歐司朗 朗德萬斯 20W LED燈泡 4入 白光](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-LEDVANCE-20W-LED-Bulb-4-Pack-Daylight/p/147360)（$669；庫存：有貨）
+- [華元 三角脆薯分享箱 36公克 X 28包](https://www.costco.com.tw/Food-Dining/Snacks/p/136005)（$289；庫存：有貨）
+- [健達 倍多 21公克 X 36條](https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Kinder-Chocolate-Maxi-21-g-X-36-Count/p/106522)（$369；庫存：有貨）
+- [老協珍 冷凍壽喜燒豬肉米漢堡 195公克 X 3入 X 20盒](https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Frozen-Food/Lao-Xie-Zhen-Frozen-Sukiyaki-Pork-Rice-Burger-195-g-X-3-Count-X-20-Case/p/124110)（$2,549；庫存：有貨）
 
 完整清單請查看專案中的 `output/latest.md`。
