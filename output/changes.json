@@ -1,87 +1,8 @@
 {
   "date": "2026-10-31",
-  "generated_at": "2026-10-31 07:57",
+  "generated_at": "2026-10-31 14:01",
   "has_previous": true,
   "added": [
-    {
-      "name": "滿意寶寶 哆啦A夢輕巧褲 XXL號 104片",
-      "price": "$839",
-      "original_price": "$1,049",
-      "discount_amount": "$210",
-      "promotion": "商品已折價 $210 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/626088",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hab/h88/490098123145246.jpg",
-      "category": "日用品／母嬰／玩具"
-    },
-    {
-      "name": "Backbone Mamba 人體工學全網椅",
-      "price": "$4,599",
-      "original_price": "$5,799",
-      "discount_amount": "$1,200",
-      "promotion": "商品已折價$1,200 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/144129",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h0d/h9f/222915949592606.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "飛利浦 智能系列三刀頭電鬍刀 S6830/95",
-      "price": "$3,559",
-      "original_price": "$4,459",
-      "discount_amount": "$900",
-      "promotion": "商品已折價$900 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Hair-Skin-Care-Tools/p/157741",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h85/hf9/436453387698206.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "歐司朗 朗德萬斯 20W LED燈泡 4入 白光",
-      "price": "$669",
-      "original_price": "$819",
-      "discount_amount": "$150",
-      "promotion": "商品已折價$150 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/147360",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/ha0/hbf/363073681752094.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "華元 三角脆薯分享箱 36公克 X 28包",
-      "price": "$289",
-      "original_price": "$349",
-      "discount_amount": "$60",
-      "promotion": "商品已折價$60 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Hwa-Yuan-Triangle-Chips-Variety-Pack-36-g-X-28-Pack/p/136005",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf3/h20/101464523800606.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "健達 倍多 21公克 X 36條",
-      "price": "$369",
-      "original_price": "$459",
-      "discount_amount": "$90",
-      "promotion": "商品已折價$90 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/106522",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb3/h36/65826714714142.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "老協珍 冷凍壽喜燒豬肉米漢堡 195公克 X 3入 X 20盒",
-      "price": "$2,549",
-      "original_price": "$3,199",
-      "discount_amount": "$650",
-      "promotion": "商品已折價$650 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Frozen-Food/p/124110",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb8/hd9/168536091066398.jpg",
-      "category": "其他"
-    }
-  ],
-  "removed": [
     {
       "name": "滿意寶寶 哆啦A夢輕巧褲 XXL號 104片",
       "price": "$839",
@@ -127,17 +48,6 @@
       "category": "家具家居"
     },
     {
-      "name": "華元 三角脆薯分享箱 36公克 X 28包",
-      "price": "$289",
-      "original_price": "$349",
-      "discount_amount": "$60",
-      "promotion": "商品已折價$60 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/136005",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf3/h20/101464523800606.jpg",
-      "category": "食品飲料"
-    },
-    {
       "name": "健達 倍多 21公克 X 36條",
       "price": "$369",
       "original_price": "$459",
@@ -158,6 +68,118 @@
       "url": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Frozen-Food/Lao-Xie-Zhen-Frozen-Sukiyaki-Pork-Rice-Burger-195-g-X-3-Count-X-20-Case/p/124110",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hb8/hd9/168536091066398.jpg",
       "category": "其他"
+    },
+    {
+      "name": "Insta360 GO Ultra 運動攝影機套裝組",
+      "price": "$10,699",
+      "original_price": "$12,699",
+      "discount_amount": "$2,000",
+      "promotion": "商品已折價$2,000 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/Insta360-GO-Ultra-Action-Camera-Set/p/155144",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfe/hed/467458634678302.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "龜甲萬 德用本釀造醬油 1800毫升",
+      "price": "$199",
+      "original_price": "$249",
+      "discount_amount": "$50",
+      "promotion": "商品已折價$50 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/p/150599",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he5/h99/313982911217694.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "莫凡彼餐廳 超值餐券 X 18張 加贈冰淇淋單球券 X 12張",
+      "price": "$7,939",
+      "original_price": "$8,989",
+      "discount_amount": "$1,050",
+      "promotion": "商品已折價$1,050 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/2026223",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h22/h75/401756162228254.jpg",
+      "category": "其他"
+    }
+  ],
+  "removed": [
+    {
+      "name": "滿意寶寶 哆啦A夢輕巧褲 XXL號 104片",
+      "price": "$839",
+      "original_price": "$1,049",
+      "discount_amount": "$210",
+      "promotion": "商品已折價 $210 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/626088",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hab/h88/490098123145246.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "Backbone Mamba 人體工學全網椅",
+      "price": "$4,599",
+      "original_price": "$5,799",
+      "discount_amount": "$1,200",
+      "promotion": "商品已折價$1,200 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/144129",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0d/h9f/222915949592606.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "飛利浦 智能系列三刀頭電鬍刀 S6830/95",
+      "price": "$3,559",
+      "original_price": "$4,459",
+      "discount_amount": "$900",
+      "promotion": "商品已折價$900 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Hair-Skin-Care-Tools/p/157741",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h85/hf9/436453387698206.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "歐司朗 朗德萬斯 20W LED燈泡 4入 白光",
+      "price": "$669",
+      "original_price": "$819",
+      "discount_amount": "$150",
+      "promotion": "商品已折價$150 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/147360",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/ha0/hbf/363073681752094.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "健達 倍多 21公克 X 36條",
+      "price": "$369",
+      "original_price": "$459",
+      "discount_amount": "$90",
+      "promotion": "商品已折價$90 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/106522",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb3/h36/65826714714142.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "老協珍 冷凍壽喜燒豬肉米漢堡 195公克 X 3入 X 20盒",
+      "price": "$2,549",
+      "original_price": "$3,199",
+      "discount_amount": "$650",
+      "promotion": "商品已折價$650 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Frozen-Food/p/124110",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb8/hd9/168536091066398.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Insta360 GO Ultra 運動攝影機套裝組",
+      "price": "$10,699",
+      "original_price": "$12,699",
+      "discount_amount": "$2,000",
+      "promotion": "商品已折價$2,000 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Digital-Mobile/Cameras/p/155144",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfe/hed/467458634678302.jpg",
+      "category": "家電 3C"
     }
   ],
   "price_changes": []
