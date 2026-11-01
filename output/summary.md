@@ -1,9 +1,9 @@
 # Costco 每日優惠摘要（2026-11-01）
 
-更新時間：2026-11-01 15:43（台灣時間）
-共整理出 **349** 項官方線上優惠。
-本次共讀取 **364** 個官方商品頁面。
-庫存狀態：有貨 **246** 項、缺貨 **94** 項、待確認 **9** 項。
+更新時間：2026-11-01 23:21（台灣時間）
+共整理出 **371** 項官方線上優惠。
+本次共讀取 **386** 個官方商品頁面。
+庫存狀態：有貨 **248** 項、缺貨 **113** 項、待確認 **10** 項。
 
 > 價格、庫存與實體賣場活動可能隨時變動，購買前請以 Costco 官網或現場為準。
 
@@ -11,11 +11,11 @@
 
 | 分類 | 商品數量 |
 |---|---:|
-| 家電 3C | 72 |
-| 食品飲料 | 72 |
+| 食品飲料 | 76 |
+| 家電 3C | 73 |
 | 家具家居 | 66 |
-| 其他 | 51 |
-| 服飾配件 | 45 |
+| 其他 | 59 |
+| 服飾配件 | 54 |
 | 保健美容 | 26 |
 | 日用品／母嬰／玩具 | 17 |
 
@@ -82,7 +82,10 @@
 - [Water Buddies 20吋 浮板](https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Water-Sports/Water-Buddies-20-inch-Floating-Disc/p/678571)（$247；庫存：缺貨）
 - [滿意寶寶 哆啦A夢輕巧褲 XL號 152片](https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Diapers-Wipes/MamyPoko-Diaper-Pants-Doraemon-Edition-Size-XL-152-Piece/p/626087)（$839；庫存：缺貨）
 - [滿意寶寶 哆啦A夢輕巧褲 L號 176片](https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Diapers-Wipes/MamyPoko-Diaper-Pants-Doraemon-Edition-Size-L-176-Piece/p/626086)（$839；庫存：缺貨）
+- [舒酸定 長效抗敏牙膏 進階亮白配方 184公克 X 4入](https://www.costco.com.tw/Health-Beauty/Personal-Care/Oral-Care/Sensodyne-Toothpaste-Advanced-Whitening-184-g-X-4-Pack/p/1450843)（$605；庫存：缺貨）
 - [TCL 75吋 4K Mini LED Google TV 量子智能液晶顯示器 不含視訊盒 75C6K](https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/70-79-TVs/TCL-75-inch-4K-Mini-LED-Google-TV-Smart-Monitor-without-Tuner-Box-75C6K/p/153555)（$27,799；庫存：缺貨）
+- [Backbone Mamba 人體工學全網椅](https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Backbone-Mamba-Mesh-Ergonomic-Chair/p/144129)（$4,599；庫存：缺貨）
+- [盛香珍 酵母覺醒 濃厚紫菜青蔥蘇打餅 1525公克](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/SHJ-Seaweed-Green-Onion-Crackers-1525-g/p/143895)（$289；庫存：缺貨）
 - [野村煎豆 美樂圓餅 70公克 X 10袋](https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Nomura-Mire-Biscuit-70g-X-10-Pack/p/145475)（$269；庫存：缺貨）
 - [牛乳石鹼 自然派洗顏皂 (綠茶) 80公克 X 4入](https://www.costco.com.tw/Health-Beauty/Personal-Care/Bath-Body/Cow-Brand-Facial-Soap-Green-Tea-80-g-X-4-Pack/p/145242)（$469；庫存：缺貨）
 - [Premier Protein 巧克力風味蛋白飲 325毫升 X 12入](https://www.costco.com.tw/Health-Beauty/Sports-Performance/Ready-to-Drink-Protein/Premier-Protein-Milk-Protein-Drink-Chocolate-Flavor-325-ml-X-12-Pack/p/1454974)（$719；庫存：缺貨）
@@ -105,6 +108,22 @@
 - [Moccona 中烘焙即溶咖啡粉 400公克](https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Moccona-Medium-Roast-Instant-Coffee-400-g/p/128828)（$599；庫存：缺貨）
 - [Cavendish Farms 冷凍馬鈴薯條 4公斤](https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Frozen-Food/Cavendish-Farms-Frozen-Fries-French-Fries-4-kg/p/25258)（$539；庫存：缺貨）
 - [Galileo 冷凍迷你瑪格麗特披薩 30公克 X 24入](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Galileo-Frozen-Mini-Margherita-Pizza-30-g-X-24-Count/p/330303)（$389；庫存：缺貨）
+- [32 Degrees 女羽絨外套](https://www.costco.com.tw/Clothing-Accessories/p/158599)（$899；庫存：缺貨）
+- [Tailor Vintage 女工裝束口長褲](https://www.costco.com.tw/Clothing-Accessories/p/6618291)（$449；庫存：缺貨）
+- [樂扣樂扣 新美學玻璃保鮮盒 含蓋10件組](https://www.costco.com.tw/p/155268)（$949；庫存：缺貨）
+- [Vintage & Black 男棉麻休閒長褲](https://www.costco.com.tw/Clothing-Accessories/p/1868024)（$599；庫存：缺貨）
+- [LILI 女童紗裙3件組](https://www.costco.com.tw/Clothing-Accessories/p/247719)（$479；庫存：缺貨）
+- [Puma 女運動內衣 X 2件組 S](https://www.costco.com.tw/Clothing-Accessories/p/2588670)（$509；庫存：缺貨）
+- [Teddi Rose 女休閒長褲](https://www.costco.com.tw/Clothing-Accessories/p/2009094)（$519；庫存：缺貨）
+- [Lucky Brand 女睡衣 3件組](https://www.costco.com.tw/Clothing-Accessories/p/1961564)（$629；庫存：缺貨）
+- [Adidas 女刺繡Logo長袖上衣](https://www.costco.com.tw/Clothing-Accessories/p/157954)（$749；庫存：缺貨）
+- [野村煎豆 美樂圓餅 70公克 X 10袋](https://www.costco.com.tw/Food-Dining/Snacks/p/145475)（$269；庫存：缺貨）
+- [牛乳石鹼 自然派洗顏皂 (綠茶) 80公克 X 4入](https://www.costco.com.tw/p/145242)（$469；庫存：缺貨）
+- [農心 安城湯麵 125公克 X 20包](https://www.costco.com.tw/Food-Dining/Groceries/p/244777)（$449；庫存：缺貨）
+- [桂格 主廚燕麥片 金黃玉米濃湯風味 47公克 X 30包](https://www.costco.com.tw/Food-Dining/Drinks/p/158876)（$399；庫存：缺貨）
+- [San Pellegrino 聖沛黎洛 天然氣泡水 750毫升 X 12瓶 X 56入](https://www.costco.com.tw/Water-Beverages/p/156076)（$23,999；庫存：缺貨）
+- [愛之味 豆漿燕麥 340毫升 X 12入 X 154箱](https://www.costco.com.tw/Water-Beverages/p/1973134)（$35,499；庫存：缺貨）
+- [飛利浦 透視海星氣炸鍋 NA341](https://www.costco.com.tw/p/153312)（$5,599；庫存：缺貨）
 - [ThermoFlask 不鏽鋼保冷保溫瓶 1.2公升 X 2件組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/ThermoFlask-Stainless-Steel-Water-Bottle-12-L-X-2-Piece-Set/p/158977)（$759；庫存：缺貨）
 - [東元 快速自動製冰塊機](https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Water-Dispensers-Water-Purification/TECO-Ice-Makers/p/146687)（$2,899；庫存：缺貨）
 - [樂扣樂扣 Tritan 大容量彈蓋提帶冷水壺 2.2公升](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/LocknLock-Tritan-Large-Capacity-Water-Bottle-22-L/p/159317)（$649；庫存：缺貨）
@@ -125,8 +144,8 @@
 
 ## 今日變化
 
-- 新增優惠：**8** 項
-- 本次未收錄：**8** 項（不代表優惠已結束）
+- 新增優惠：**24** 項
+- 本次未收錄：**2** 項（不代表優惠已結束）
 - 價格變動：**0** 項
 
 ### 價格變動
@@ -135,24 +154,34 @@
 
 ### 今日新增
 
-- [滿意寶寶 哆啦A夢瞬潔乾爽紙尿褲 L號 192片](https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Diapers-Wipes/MamyPoko-Baby-Extra-Dry-Diaper-Doraemon-Edition-Size-L-192-Piece/p/165003)（$995；庫存：有貨）
-- [Neoflam 雙耳四格多功能煎鍋含蓋 28公分](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Cookware-Cutlery-Cutting-Boards/Neoflam-Steam-Plus-Two-Handle-Frying-Pan-with-4-Cooking-Holes-and-Lid-28-cm/p/124266)（$1,369；庫存：有貨）
-- [泰山 低糖八寶粥 360公克 X 24入](https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Tai-Sun-Low-Sugar-Mixed-Congee-360-g-X-24-Count/p/149327)（$515；庫存：有貨）
-- [滿意寶寶 瞬潔乾爽紙尿褲 XL號 168片](https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Diapers-Wipes/MamyPoko-Baby-Extra-Dry-Diaper-Size-XL-168-Piece/p/165004)（$1,079；庫存：有貨）
-- [Benetton 純棉海灘巾 90公分 X 160公分](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Towels/Benetton-100-Cotton-Beach-Towel-90-cm-X-160-cm/p/2040372)（$357；庫存：缺貨）
-- [TCL 75吋 4K Mini LED Google TV 量子智能液晶顯示器 不含視訊盒 75C6K](https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/70-79-TVs/TCL-75-inch-4K-Mini-LED-Google-TV-Smart-Monitor-without-Tuner-Box-75C6K/p/153555)（$27,799；庫存：缺貨）
-- [ThermoFlask 不鏽鋼保冷保溫瓶 1.2公升 X 2件組](https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/ThermoFlask-Stainless-Steel-Water-Bottle-12-L-X-2-Piece-Set/p/158977)（$759；庫存：缺貨）
-- [經典卡通涼感被附收納袋 150公分 X 180公分 布丁狗 X 大耳狗 一起做烘焙](https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Licensed-Cooling-Quilt-with-Storage-Bag-150-cm-X-180-cm-Pompompurin-X-Cinnamoroll/p/649366)（$1,289；庫存：缺貨）
+- [Epoch LED感應輕巧燈 43公分 2入 白光](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/Epoch-LED-Cabin-Light-43-cm-2-Piece-Daylight/p/124473)（$1,495；庫存：有貨）
+- [Epoch LED感應輕巧燈 43公分 2入 黃光](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/Epoch-LED-Cabin-Light-43-cm-2-Piece-Warmwhite/p/124474)（$1,495；庫存：有貨）
+- [32 Degrees 女羽絨外套](https://www.costco.com.tw/Clothing-Accessories/p/158599)（$899；庫存：缺貨）
+- [大成跑跑雞 台灣冷凍放山雞全雞2分切 0.9公斤X 4入](https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/p/142793)（$1,419；庫存：有貨）
+- [Tailor Vintage 女工裝束口長褲](https://www.costco.com.tw/Clothing-Accessories/p/6618291)（$449；庫存：缺貨）
+- [樂扣樂扣 新美學玻璃保鮮盒 含蓋10件組](https://www.costco.com.tw/p/155268)（$949；庫存：缺貨）
+- [Vintage & Black 男棉麻休閒長褲](https://www.costco.com.tw/Clothing-Accessories/p/1868024)（$599；庫存：缺貨）
+- [LILI 女童紗裙3件組](https://www.costco.com.tw/Clothing-Accessories/p/247719)（$479；庫存：缺貨）
+- [Puma 女運動內衣 X 2件組 S](https://www.costco.com.tw/Clothing-Accessories/p/2588670)（$509；庫存：缺貨）
+- [Teddi Rose 女休閒長褲](https://www.costco.com.tw/Clothing-Accessories/p/2009094)（$519；庫存：缺貨）
+- [Lucky Brand 女睡衣 3件組](https://www.costco.com.tw/Clothing-Accessories/p/1961564)（$629；庫存：缺貨）
+- [Samsung Serif 55吋 智慧顯示器 QA55LS01DAXXZW](https://www.costco.com.tw/Televisions-TV-Accessories/p/148435)（$26,399；庫存：有貨）
+- [DJI Osmo 360 套裝組 雙電池+自拍棒+收納包](https://www.costco.com.tw/Digital-Mobile/Cameras/p/159985)（$14,119；庫存：有貨）
+- [Adidas 女刺繡Logo長袖上衣](https://www.costco.com.tw/Clothing-Accessories/p/157954)（$749；庫存：缺貨）
+- [品客 洋芋片 MINIS 經典原味 19公克 X 30包 X 75箱](https://www.costco.com.tw/Grains-Nuts-Snacks/p/236011)（$19,249；庫存：有貨）
+- [KidKraft Sunny Bluff 遊戲屋](https://www.costco.com.tw/Patio-Furniture/p/1872206)（$10,899；庫存：有貨）
+- [野村煎豆 美樂圓餅 70公克 X 10袋](https://www.costco.com.tw/Food-Dining/Snacks/p/145475)（$269；庫存：缺貨）
+- [牛乳石鹼 自然派洗顏皂 (綠茶) 80公克 X 4入](https://www.costco.com.tw/p/145242)（$469；庫存：缺貨）
+- [農心 安城湯麵 125公克 X 20包](https://www.costco.com.tw/Food-Dining/Groceries/p/244777)（$449；庫存：缺貨）
+- [桂格 主廚燕麥片 金黃玉米濃湯風味 47公克 X 30包](https://www.costco.com.tw/Food-Dining/Drinks/p/158876)（$399；庫存：缺貨）
+- [Merrell Moab 3 男登山運動鞋](https://www.costco.com.tw/Clothing-Accessories/p/1846575)（$2,999；庫存：狀態未知）
+- [San Pellegrino 聖沛黎洛 天然氣泡水 750毫升 X 12瓶 X 56入](https://www.costco.com.tw/Water-Beverages/p/156076)（$23,999；庫存：缺貨）
+- [愛之味 豆漿燕麥 340毫升 X 12入 X 154箱](https://www.costco.com.tw/Water-Beverages/p/1973134)（$35,499；庫存：缺貨）
+- [飛利浦 透視海星氣炸鍋 NA341](https://www.costco.com.tw/p/153312)（$5,599；庫存：缺貨）
 
 ### 本次未收錄（不代表優惠已結束）
 
-- [滿意寶寶 哆啦A夢瞬潔乾爽紙尿褲 L號 192片](https://www.costco.com.tw/Household-Baby-Toys/p/165003)（$995；庫存：有貨）
-- [Neoflam 雙耳四格多功能煎鍋含蓋 28公分](https://www.costco.com.tw/p/124266)（$1,369；庫存：有貨）
-- [泰山 低糖八寶粥 360公克 X 24入](https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/p/149327)（$515；庫存：有貨）
-- [滿意寶寶 瞬潔乾爽紙尿褲 XL號 168片](https://www.costco.com.tw/Household-Baby-Toys/p/165004)（$1,079；庫存：有貨）
-- [Benetton 純棉海灘巾 90公分 X 160公分](https://www.costco.com.tw/Bedding/p/2040372)（$357；庫存：缺貨）
-- [TCL 75吋 4K Mini LED Google TV 量子智能液晶顯示器 不含視訊盒 75C6K](https://www.costco.com.tw/Televisions-TV-Accessories/p/153555)（$27,799；庫存：缺貨）
-- [ThermoFlask 不鏽鋼保冷保溫瓶 1.2公升 X 2件組](https://www.costco.com.tw/p/158977)（$759；庫存：缺貨）
-- [經典卡通涼感被附收納袋 150公分 X 180公分 布丁狗 X 大耳狗 一起做烘焙](https://www.costco.com.tw/Bedding/p/649366)（$1,289；庫存：缺貨）
+- [歐司朗 朗德萬斯 晶享 30W LED 壁切三段調色吸頂燈](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-LEDVANCE-Slim-30W-Adjustable-LED-Ceiling-Light/p/141531)（$1,279；庫存：有貨）
+- [OSRAM 9W LED 晶朗嵌燈 9.5公分 3入 自然光](https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-9W-LED-Downlight-95-cm-3-Pack-Neutral-White/p/155553)（$699；庫存：有貨）
 
 完整清單請查看專案中的 `output/latest.md`。
