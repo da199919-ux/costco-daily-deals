@@ -1,97 +1,18 @@
 {
   "date": "2026-11-01",
-  "generated_at": "2026-11-01 05:47",
+  "generated_at": "2026-11-01 15:43",
   "has_previous": true,
   "added": [
     {
-      "name": "明治 明倍適營養補充杯 草莓少甜 125毫升 X 36入",
-      "price": "$1,519",
-      "original_price": "$1,899",
-      "discount_amount": "$380",
-      "promotion": "商品已折價 $380 含運",
+      "name": "滿意寶寶 哆啦A夢瞬潔乾爽紙尿褲 L號 192片",
+      "price": "$995",
+      "original_price": "$1,245",
+      "discount_amount": "$250",
+      "promotion": "商品已折價 $250 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Health-Beauty/Elderly-Care/Nutritional-Drinks/Meiji-Mei-Balance-Mini-Cup-Strawberry-low-sugar-Flavor-125-ml-X-36-Count/p/244328",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h29/h51/439613357260830.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "可樂果 MiNi濃蒜口味 + 卡迪那 小德薯濃厚茄汁口味 MiNi經典美味雙享組 共18包",
-      "price": "$299",
-      "original_price": "$359",
-      "discount_amount": "$60",
-      "promotion": "商品已折價$60 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Koloko-Pea-Crackers-Cadina-Ketchup-Chips-MiNi-Crunchies-Pack-18-Pack/p/143951",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hc2/hb2/221944451825694.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Neoflam 雙耳四格多功能煎鍋含蓋 28公分",
-      "price": "$1,369",
-      "original_price": "$1,769",
-      "discount_amount": "$400",
-      "promotion": "商品已折價$400 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/p/124266",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h1c/h19/14169085018142.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "泰山 低糖八寶粥 360公克 X 24入",
-      "price": "$515",
-      "original_price": "$629",
-      "discount_amount": "$114",
-      "promotion": "商品已折價$114 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/p/149327",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h55/h6e/291292251652126.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "TCL 75吋 4K Mini LED Google TV 量子智能液晶顯示器 不含視訊盒 75C6K",
-      "price": "$27,799",
-      "original_price": "$34,799",
-      "discount_amount": "$7,000",
-      "promotion": "商品已折價$7,000 含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Televisions-TV-Accessories/p/153555",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h1f/ha9/438072215044126.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "經典卡通涼感被附收納袋 150公分 X 180公分 布丁狗 X 大耳狗 一起做烘焙",
-      "price": "$1,289",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Bedding/p/649366",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd5/h6e/466199236476958.jpg",
-      "category": "其他"
-    }
-  ],
-  "removed": [
-    {
-      "name": "明治 明倍適營養補充杯 草莓少甜 125毫升 X 36入",
-      "price": "$1,519",
-      "original_price": "$1,899",
-      "discount_amount": "$380",
-      "promotion": "商品已折價 $380 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Elderly-Care/Nutritional-Drinks/p/244328",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h29/h51/439613357260830.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "可樂果 MiNi濃蒜口味 + 卡迪那 小德薯濃厚茄汁口味 MiNi經典美味雙享組 共18包",
-      "price": "$299",
-      "original_price": "$359",
-      "discount_amount": "$60",
-      "promotion": "商品已折價$60 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/p/143951",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hc2/hb2/221944451825694.jpg",
-      "category": "食品飲料"
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Diapers-Wipes/MamyPoko-Baby-Extra-Dry-Diaper-Doraemon-Edition-Size-L-192-Piece/p/165003",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hab/h4f/507674922942494.jpg",
+      "category": "日用品／母嬰／玩具"
     },
     {
       "name": "Neoflam 雙耳四格多功能煎鍋含蓋 28公分",
@@ -116,6 +37,28 @@
       "category": "食品飲料"
     },
     {
+      "name": "滿意寶寶 瞬潔乾爽紙尿褲 XL號 168片",
+      "price": "$1,079",
+      "original_price": "$1,349",
+      "discount_amount": "$270",
+      "promotion": "商品已折價$270 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Diapers-Wipes/MamyPoko-Baby-Extra-Dry-Diaper-Size-XL-168-Piece/p/165004",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h76/h19/507674926940190.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "Benetton 純棉海灘巾 90公分 X 160公分",
+      "price": "$357",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Towels/Benetton-100-Cotton-Beach-Towel-90-cm-X-160-cm/p/2040372",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h52/h9e/455116932907038.jpg",
+      "category": "家具家居"
+    },
+    {
       "name": "TCL 75吋 4K Mini LED Google TV 量子智能液晶顯示器 不含視訊盒 75C6K",
       "price": "$27,799",
       "original_price": "$34,799",
@@ -127,15 +70,15 @@
       "category": "家電 3C"
     },
     {
-      "name": "滿意寶寶 瞬潔乾爽紙尿褲 XL號 168片",
-      "price": "$1,079",
-      "original_price": "$1,349",
-      "discount_amount": "$270",
-      "promotion": "商品已折價$270 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Household-Baby-Toys/Baby/Baby-Diapers-Wipes/MamyPoko-Baby-Extra-Dry-Diaper-Size-XL-168-Piece/p/165004",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h76/h19/507674926940190.jpg",
-      "category": "日用品／母嬰／玩具"
+      "name": "ThermoFlask 不鏽鋼保冷保溫瓶 1.2公升 X 2件組",
+      "price": "$759",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/ThermoFlask-Stainless-Steel-Water-Bottle-12-L-X-2-Piece-Set/p/158977",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf3/h66/451293301112862.jpg",
+      "category": "家具家居"
     },
     {
       "name": "經典卡通涼感被附收納袋 150公分 X 180公分 布丁狗 X 大耳狗 一起做烘焙",
@@ -149,19 +92,95 @@
       "category": "家具家居"
     }
   ],
-  "price_changes": [
+  "removed": [
     {
-      "name": "GAP 女九分褲",
-      "price": "$1,439",
+      "name": "滿意寶寶 哆啦A夢瞬潔乾爽紙尿褲 L號 192片",
+      "price": "$995",
+      "original_price": "$1,245",
+      "discount_amount": "$250",
+      "promotion": "商品已折價 $250 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/165003",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hab/h4f/507674922942494.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "Neoflam 雙耳四格多功能煎鍋含蓋 28公分",
+      "price": "$1,369",
+      "original_price": "$1,769",
+      "discount_amount": "$400",
+      "promotion": "商品已折價$400 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/124266",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h1c/h19/14169085018142.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "泰山 低糖八寶粥 360公克 X 24入",
+      "price": "$515",
+      "original_price": "$629",
+      "discount_amount": "$114",
+      "promotion": "商品已折價$114 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/p/149327",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h55/h6e/291292251652126.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "滿意寶寶 瞬潔乾爽紙尿褲 XL號 168片",
+      "price": "$1,079",
+      "original_price": "$1,349",
+      "discount_amount": "$270",
+      "promotion": "商品已折價$270 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/165004",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h76/h19/507674926940190.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "Benetton 純棉海灘巾 90公分 X 160公分",
+      "price": "$357",
       "original_price": "",
       "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$1,379",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/GAP-Ladies-Ankle-Trouser/p/1971848",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h8f/451293719953438.jpg",
-      "category": "服飾配件"
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Bedding/p/2040372",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h52/h9e/455116932907038.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "TCL 75吋 4K Mini LED Google TV 量子智能液晶顯示器 不含視訊盒 75C6K",
+      "price": "$27,799",
+      "original_price": "$34,799",
+      "discount_amount": "$7,000",
+      "promotion": "商品已折價$7,000 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Televisions-TV-Accessories/p/153555",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h1f/ha9/438072215044126.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "ThermoFlask 不鏽鋼保冷保溫瓶 1.2公升 X 2件組",
+      "price": "$759",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/p/158977",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf3/h66/451293301112862.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "經典卡通涼感被附收納袋 150公分 X 180公分 布丁狗 X 大耳狗 一起做烘焙",
+      "price": "$1,289",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Bedding/p/649366",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hd5/h6e/466199236476958.jpg",
+      "category": "其他"
     }
-  ]
+  ],
+  "price_changes": []
 }
