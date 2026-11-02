@@ -1,65 +1,30 @@
 {
   "date": "2026-11-03",
-  "generated_at": "2026-11-03 01:19",
+  "generated_at": "2026-11-03 07:59",
   "has_previous": true,
   "added": [
     {
-      "name": "大拙匠人 鵝油雙葱煎餅 100公克 X 4片X 5包",
+      "name": "Samsung 65吋 Mini LED 4K AI 量子智慧顯示器 UA65M1EHAXXZW",
+      "price": "$19,999",
+      "original_price": "$24,999",
+      "discount_amount": "$5,000",
+      "promotion": "商品已折價$5,000 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Televisions-TV-Accessories/p/161519",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h43/hb9/505969062051870.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "大成 冷凍椒鹽薄皮炸雞 1.55公斤",
       "price": "$379",
       "original_price": "$459",
       "discount_amount": "$80",
       "promotion": "商品已折價$80 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/p/156747",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h28/hbf/413801340469278.jpg",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/p/143877",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hce/h0e/203141682593822.jpg",
       "category": "食品飲料"
     },
-    {
-      "name": "飛利浦 智能系列三刀頭電鬍刀 S6830/95",
-      "price": "$3,559",
-      "original_price": "$4,459",
-      "discount_amount": "$900",
-      "promotion": "商品已折價$900 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Hair-Skin-Care-Tools/Philips-AI-Series-Electric-Shaver-S683095/p/157741",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h85/hf9/436453387698206.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "AS BREEZE-TEX 蓄熱內搭衣 粉",
-      "price": "$619",
-      "original_price": "$779",
-      "discount_amount": "$160",
-      "promotion": "商品已折價$160 含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/AS-BREEZE-TEX-Ladies-Inner-Top-Pink/p/160671",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h60/h3b/522405948129310.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Veggie Maria 冷凍綠蘆筍 1公斤",
-      "price": "$459",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "指定夏日涼感商品：買2件享8.5折，買3件享8折（結帳時依活動條件計算）",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Fruits-Vegetables/Veggie-Maria-Frozen-Peru-Green-Asparagus-1-kg/p/122481",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h95/hd7/13422242824222.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "OSRAM 9W LED 晶朗嵌燈 9.5公分 3入 自然光",
-      "price": "$699",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-9W-LED-Downlight-95-cm-3-Pack-Neutral-White/p/155553",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h93/h25/439234004615198.jpg",
-      "category": "家具家居"
-    }
-  ],
-  "removed": [
     {
       "name": "大拙匠人 鵝油雙葱煎餅 100公克 X 4片X 5包",
       "price": "$379",
@@ -72,130 +37,98 @@
       "category": "食品飲料"
     },
     {
-      "name": "GoPro MAX 360度多功能攝影機輕旅自拍組",
-      "price": "$8,997",
-      "original_price": "",
-      "discount_amount": "",
+      "name": "True Innovations 全網布辦公椅",
+      "price": "$3,399",
+      "original_price": "$3,499",
+      "discount_amount": "$100",
       "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/GoPro-MAX-360-Multi-Function-Camera-Light-Travel-Selfie-Kit/p/156612",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd6/h6c/384281315147806.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "MSI Cyborg 15 15.6吋電競筆記型電腦 A13VE-2465TWNN - 160440",
-      "price": "$36,099",
-      "original_price": "$37,699",
-      "discount_amount": "$1,600",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/c/MSI-Cyborg-15-156-inch-Gaming-Laptop-A13VE-2465TWNN-160440/p/160440",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h08/he0/483940556144670.jpg",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/1812395",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4f/hd0/399197023043614.jpg",
       "category": "其他"
     },
     {
-      "name": "Epoch LED感應輕巧燈 43公分 2入 白光",
-      "price": "$1,495",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "name": "美康雅 二合一手持式掛燙熨斗 GS308TW",
+      "price": "$1,379",
+      "original_price": "$1,999",
+      "discount_amount": "$620",
+      "promotion": "商品已折價$620 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/p/153085",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h29/hca/386020132945950.jpg",
+      "category": "其他"
+    }
+  ],
+  "removed": [
+    {
+      "name": "Samsung 65吋 Mini LED 4K AI 量子智慧顯示器 UA65M1EHAXXZW",
+      "price": "$19,999",
+      "original_price": "$24,999",
+      "discount_amount": "$5,000",
+      "promotion": "商品已折價$5,000 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/60-69-TVs/Samsung-65-inch-Mini-LED-4K-AI-Smart-Monitor-UA65M1EHAXXZW/p/161519",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h43/hb9/505969062051870.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "大成 冷凍椒鹽薄皮炸雞 1.55公斤",
+      "price": "$379",
+      "original_price": "$459",
+      "discount_amount": "$80",
+      "promotion": "商品已折價$80 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/Epoch-LED-Cabin-Light-43-cm-2-Piece-Daylight/p/124473",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/haa/h90/16600432312350.jpg",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Dachan-Frozen-Lightly-Breaded-Crispy-Fried-Chicken-155-kg/p/143877",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hce/h0e/203141682593822.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "大拙匠人 鵝油雙葱煎餅 100公克 X 4片X 5包",
+      "price": "$379",
+      "original_price": "$459",
+      "discount_amount": "$80",
+      "promotion": "商品已折價$80 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/p/156747",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h28/hbf/413801340469278.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "True Innovations 全網布辦公椅",
+      "price": "$3,399",
+      "original_price": "$3,499",
+      "discount_amount": "$100",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/True-Innovations-Task-Mesh-Chair/p/1812395",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4f/hd0/399197023043614.jpg",
       "category": "家具家居"
+    },
+    {
+      "name": "美康雅 二合一手持式掛燙熨斗 GS308TW",
+      "price": "$1,379",
+      "original_price": "$1,999",
+      "discount_amount": "$620",
+      "promotion": "商品已折價$620 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Sewing-Garment-Care/Conair-2in1-Handheld-Fabric-Steamer-GS308TW/p/153085",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h29/hca/386020132945950.jpg",
+      "category": "家電 3C"
     }
   ],
   "price_changes": [
     {
-      "name": "Adidas 男經典Logo短袖上衣",
-      "price": "$347",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "old_price": "$397",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Adidas-Mens-Classic-Short-Sleeve-Logo-Tee/p/154988",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/haa/hd3/484306798247966.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "AG Jeans 女中腰牛仔褲 藍",
-      "price": "$1,149",
+      "name": "Moccona 中烘焙即溶咖啡粉 400公克",
+      "price": "$1,439",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
       "stock_status": "狀態未知",
-      "old_price": "$839",
+      "old_price": "$599",
       "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/AG-Jeans-Ladies-Midrise-Jeans-Blue/p/1846418",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h74/h25/502597120098334.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "GAP 女圓領長袖開襟衫",
-      "price": "$1,149",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$519",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/GAP-Ladies-Crew-Neck-Long-Sleeve-Button-Down-Cardigan/p/1963036",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h98/h2d/487711213584414.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Hunter 女防水連帽外套",
-      "price": "$1,149",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$1,439",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Coats-Jackets/Hunter-Ladies-Waterproof-Hooded-Jacket/p/1846432",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h9b/hb5/504930936651806.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Lacoste 女休閒鞋",
-      "price": "$839",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "old_price": "$1,047",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Lacoste-Ladies-Shoe/p/154493",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h68/h77/451293254418462.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Smiley World 兒童上衣兩件組",
-      "price": "$197",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "old_price": "$247",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Clothing-Sets-Accessories/Smiley-World-Kids-Top-2-Pack-Set/p/1977016",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h4d/h18/450045519560734.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "超人力霸王 兒童短袖上衣",
-      "price": "$197",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "old_price": "$247",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Tops/Ultraman-Kids-Short-Sleeve-Tee/p/160703",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h34/h05/484306922569758.jpg",
-      "category": "服飾配件"
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Moccona-Medium-Roast-Instant-Coffee-400-g/p/128828",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he9/h50/52231579009054.jpg",
+      "category": "食品飲料"
     }
   ]
 }
