@@ -1,8 +1,19 @@
 {
-  "date": "2026-11-03",
-  "generated_at": "2026-11-03 23:23",
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04 05:12",
   "has_previous": true,
   "added": [
+    {
+      "name": "Moccona 中烘焙即溶咖啡粉 400公克",
+      "price": "$1,439",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Moccona-Medium-Roast-Instant-Coffee-400-g/p/128828",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he9/h50/52231579009054.jpg",
+      "category": "食品飲料"
+    },
     {
       "name": "卜蜂 台灣冷凍去骨雞腿肉 2.5公斤 X 6入",
       "price": "$3,019",
@@ -10,65 +21,12 @@
       "discount_amount": "$410",
       "promotion": "商品已折價$410 含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Frozen-Food/CP-Taiwan-Frozen-Boneless-Chicken-Thigh-25-kg-X-6-Count/p/146146",
+      "url": "https://www.costco.com.tw/Frozen-Food/p/146146",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h9c/122430601134110.jpg",
       "category": "其他"
-    },
-    {
-      "name": "郡是 女裏起毛發熱背心 黑",
-      "price": "$599",
-      "original_price": "$749",
-      "discount_amount": "$150",
-      "promotion": "商品已折價$150 含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Gunze-Ladies-Fleece-Vest-Black/p/160684",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hec/h9c/522083762077726.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "VOLLEY 爆暖刷毛褲 深藍",
-      "price": "$1,119",
-      "original_price": "$1,399",
-      "discount_amount": "$280",
-      "promotion": "商品已折價$280 含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/VOLLEY-Fleece-Leggings-Dark-Blue/p/160675",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h11/h78/522083752378398.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "VOLLEY 爆暖刷毛褲 深灰",
-      "price": "$1,119",
-      "original_price": "$1,399",
-      "discount_amount": "$280",
-      "promotion": "商品已折價$280 含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/VOLLEY-Fleece-Leggings-Dark-Gray/p/160674",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h18/h07/522083748020254.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "VOLLEY 爆暖刷毛褲 黑",
-      "price": "$1,119",
-      "original_price": "$1,399",
-      "discount_amount": "$280",
-      "promotion": "商品已折價$280 含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/VOLLEY-Fleece-Leggings-Black/p/160673",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd1/h9a/522083743662110.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "AS 女外絲裏棉翻領長袖上衣 綠",
-      "price": "$679",
-      "original_price": "$849",
-      "discount_amount": "$170",
-      "promotion": "商品已折價$170 含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/AS-Ladies-Silk-Cotton-High-Neck-Top-Green/p/160672",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h80/h25/522083740221470.jpg",
-      "category": "服飾配件"
-    },
+    }
+  ],
+  "removed": [
     {
       "name": "Moccona 中烘焙即溶咖啡粉 400公克",
       "price": "$1,439",
@@ -378,92 +336,29 @@
       "category": "服飾配件"
     }
   ],
-  "removed": [
-    {
-      "name": "卜蜂 台灣冷凍去骨雞腿肉 2.5公斤 X 6入",
-      "price": "$3,019",
-      "original_price": "$3,429",
-      "discount_amount": "$410",
-      "promotion": "商品已折價$410 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Frozen-Food/p/146146",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h9c/122430601134110.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "Moccona 中烘焙即溶咖啡粉 400公克",
-      "price": "$1,439",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Moccona-Medium-Roast-Instant-Coffee-400-g/p/128828",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/he9/h50/52231579009054.jpg",
-      "category": "食品飲料"
-    }
-  ],
   "price_changes": [
     {
-      "name": "Berkemann Adam 男穆勒涼鞋",
+      "name": "Camper 男皮革休閒鞋",
       "price": "$1,149",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
       "stock_status": "狀態未知",
-      "old_price": "$1,439",
+      "old_price": "$2,599",
       "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Berkemann-Adam-Mens-Mules-Sandals/p/1846424",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hfd/h22/487296843808798.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Berkemann Allegro 男休閒鞋",
-      "price": "$1,499",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$1,439",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Berkemann-Allegro-Mens-Casual-Shoe/p/1846423",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h09/h71/487296843939870.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Camper 男皮革休閒鞋",
-      "price": "$2,599",
-      "original_price": "$3,259",
-      "discount_amount": "$660",
-      "promotion": "商品已折價$660 含運",
-      "stock_status": "狀態未知",
-      "old_price": "$1,439",
-      "direction": "漲價",
       "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Mens-Shoes/Camper-Mens-Leather-Touring-Shoe/p/1846399",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h64/h40/485751259430942.jpg",
       "category": "服飾配件"
     },
     {
-      "name": "Carhartt 女側斜背包",
+      "name": "Merrell Moab 3 女登山運動鞋",
       "price": "$1,149",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
       "stock_status": "狀態未知",
-      "old_price": "$1,369",
+      "old_price": "$2,999",
       "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Luggage-Backpacks/Totes-Backpacks/Carhartt-Ladies-Crossbody-Zip-Bag/p/1846466",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/haa/h29/491698076712990.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Merrell Moab 3 女登山運動鞋",
-      "price": "$2,999",
-      "original_price": "$3,749",
-      "discount_amount": "$750",
-      "promotion": "商品已折價$750 含運",
-      "stock_status": "狀態未知",
-      "old_price": "$1,149",
-      "direction": "漲價",
       "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Merrell-Moab-3-Ladies-Hiking-Shoe/p/1763686",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hee/h40/502597111971870.jpg",
       "category": "服飾配件"
