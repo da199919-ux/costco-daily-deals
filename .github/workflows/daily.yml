@@ -104,22 +104,37 @@ jobs:
 
       - name: 發布 Gmail 摘要通知
         if: steps.frequency.outputs.should_run == 'true'
+        # 通知失敗時不要讓整次更新變成失敗，網站仍會照常發布。
+        continue-on-error: true
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           summary_date=$(TZ=Asia/Taipei date +%F)
           title="Costco 每日優惠摘要 ${summary_date}"
+
+          # GitHub issue 內文上限 65536 字元；過長時截斷並附上完整摘要連結。
+          python - <<'PY'
+          import os
+          text = open("output/summary.md", encoding="utf-8").read()
+          limit = 60000
+          if len(text) > limit:
+              url = f"{os.environ['GITHUB_SERVER_URL']}/{os.environ['GITHUB_REPOSITORY']}/blob/main/output/summary.md"
+              text = text[:limit].rsplit("\n", 1)[0] + f"\n\n---\n內容過長已截斷，完整摘要：{url}\n"
+          open("summary_body.md", "w", encoding="utf-8").write(text)
+          PY
+
+          # 只採用標題完全相同的 issue，避免模糊搜尋把摘要留言到別天的 issue。
           issue_number=$(gh issue list \
             --state all \
             --search "${title} in:title" \
-            --json number \
-            --jq '.[0].number // empty')
+            --json number,title \
+            --jq "map(select(.title == \"${title}\")) | .[0].number // empty")
 
           if [ -n "${issue_number}" ]; then
-            gh issue comment "${issue_number}" --body-file output/summary.md
+            gh issue comment "${issue_number}" --body-file summary_body.md
           else
             gh issue create \
               --title "${title}" \
-              --body-file output/summary.md \
+              --body-file summary_body.md \
               --assignee "${GITHUB_REPOSITORY_OWNER}"
           fi
