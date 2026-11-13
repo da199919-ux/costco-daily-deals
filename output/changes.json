@@ -1,20 +1,8 @@
 {
   "date": "2026-11-14",
-  "generated_at": "2026-11-14 01:55",
+  "generated_at": "2026-11-14 07:47",
   "has_previous": true,
-  "added": [],
-  "removed": [
-    {
-      "name": "ARTIKA Ridley LED 吸頂燈",
-      "price": "$797",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/ARTIKA-Ridley-LED-Flush-Mount-Light/p/1834442",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h4b/h1a/437687427170334.jpg",
-      "category": "家具家居"
-    },
+  "added": [
     {
       "name": "飛利浦 快速洩壓智慧萬用鍋 (黑小萬) HD2151",
       "price": "$3,899",
@@ -175,7 +163,7 @@
       "original_price": "$4,699",
       "discount_amount": "$1,000",
       "promotion": "商品已折價$1,000 含運",
-      "stock_status": "有貨",
+      "stock_status": "缺貨",
       "url": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Cookers-Oven-Microwaves-Food-Waste-Machine/Panasonic-IH-Rice-Cooker-SR-FE109/p/158438",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h62/h02/454001505861662.jpg",
       "category": "家電 3C"
@@ -335,17 +323,6 @@
       "category": "服飾配件"
     },
     {
-      "name": "Insta360 GO Ultra 運動攝影機套裝組",
-      "price": "$10,699",
-      "original_price": "$12,699",
-      "discount_amount": "$2,000",
-      "promotion": "商品已折價$2,000 含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Cameras/Security-Cameras-Drones/Insta360-GO-Ultra-Action-Camera-Set/p/155144",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hfe/hed/467458634678302.jpg",
-      "category": "家電 3C"
-    },
-    {
       "name": "科克蘭 西班牙冷壓初榨橄欖油 3公升",
       "price": "$679",
       "original_price": "$729",
@@ -384,7 +361,7 @@
       "original_price": "$43,999",
       "discount_amount": "$9,000",
       "promotion": "含運",
-      "stock_status": "有貨",
+      "stock_status": "缺貨",
       "url": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Fridges-Freezers/Overall-Capacity-500-L-Above/Samsung-655-L-French-Door-AI-Refrigerator-Starry-Gray-RS70F65Q4TTW/p/155431",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hb6/hac/396189713563678.jpg",
       "category": "家電 3C"
@@ -417,7 +394,7 @@
       "original_price": "$5,099",
       "discount_amount": "$100",
       "promotion": "含運",
-      "stock_status": "有貨",
+      "stock_status": "缺貨",
       "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Flexispot-Adjustable-Desk/p/158513",
       "image": "https://www.costco.com.tw/medias/sys_master/images/haa/h07/432345243385886.jpg",
       "category": "家具家居"
@@ -442,6 +419,17 @@
       "stock_status": "缺貨",
       "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Sofas-Sectionals/Gilman-Creek-Leather-Power-Recliner/p/1646063",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hab/he2/401756115107870.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "ARTIKA Ridley LED 吸頂燈",
+      "price": "$797",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/ARTIKA-Ridley-LED-Flush-Mount-Light/p/1834442",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4b/h1a/437687427170334.jpg",
       "category": "家具家居"
     },
     {
@@ -863,17 +851,6 @@
       "category": "家具家居"
     },
     {
-      "name": "艾美特 9吋DC直流馬達空氣循環扇 FB2393DR",
-      "price": "$3,799",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Airmate-9-inch-DC-Inverter-Air-Circulator-FB2393DR/p/149328",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h90/h0d/333377583120414.jpg",
-      "category": "家電 3C"
-    },
-    {
       "name": "聲寶 16吋 機械式立扇 SK-GF16X",
       "price": "$1,359",
       "original_price": "",
@@ -894,6 +871,17 @@
       "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/LocknLock-Tritan-Large-Capacity-Water-Bottle-22-L/p/159317",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hc0/h86/433249572290590.jpg",
       "category": "家具家居"
+    },
+    {
+      "name": "艾美特 9吋DC直流馬達空氣循環扇 FB2393DR",
+      "price": "$3,799",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Cooling-Heating-Air-Treatment/Heating-Cooling/Airmate-9-inch-DC-Inverter-Air-Circulator-FB2393DR/p/149328",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h90/h0d/333377583120414.jpg",
+      "category": "家電 3C"
     },
     {
       "name": "SodaStream Terra 自動扣瓶氣泡水機",
@@ -1424,5 +1412,6 @@
       "category": "家具家居"
     }
   ],
+  "removed": [],
   "price_changes": []
 }
