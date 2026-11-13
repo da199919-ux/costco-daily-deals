@@ -1,52 +1,17 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-13 10:02",
+  "generated_at": "2026-11-13 17:49",
   "has_previous": true,
   "added": [
     {
-      "name": "TCL 12公斤 變頻直立式洗衣機 P312TLG",
-      "price": "$7,999",
-      "original_price": "$9,999",
-      "discount_amount": "$2,000",
-      "promotion": "商品已折價$2,000 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Large-Appliances/p/149471",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h4e/h19/363590599442462.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "大成 冷凍炙烤雞肉串 480公克",
-      "price": "$429",
-      "original_price": "$529",
-      "discount_amount": "$100",
-      "promotion": "商品已折價$100 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Dachan-Frozen-Yakitori-480-g/p/8500806",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h5c/h2e/242858086989854.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Balance Grow 蒜香奶油風味蝦餅 510公克",
-      "price": "$199",
-      "original_price": "$239",
-      "discount_amount": "$40",
-      "promotion": "商品已折價$40 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Balance-Grow-Garlic-Butter-Flavor-Shrimp-Chips-510-g/p/1130974",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/hcd/488031918358558.jpg",
-      "category": "食品飲料"
-    }
-  ],
-  "removed": [
-    {
-      "name": "TCL 12公斤 變頻直立式洗衣機 P312TLG",
-      "price": "$7,999",
-      "original_price": "$9,999",
-      "discount_amount": "$2,000",
-      "promotion": "商品已折價$2,000 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Washers-Dryers/Washer-Size-10-15-kg/TCL-12-kg-Top-Load-Inverter-Washer-P312TLG/p/149471",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h4e/h19/363590599442462.jpg",
+      "name": "Samsung 65吋 Mini LED 4K AI 量子智慧顯示器 UA65M1EHAXXZW",
+      "price": "$19,999",
+      "original_price": "$24,999",
+      "discount_amount": "$5,000",
+      "promotion": "商品已折價$5,000 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/60-69-TVs/Samsung-65-inch-Mini-LED-4K-AI-Smart-Monitor-UA65M1EHAXXZW/p/161519",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h43/hb9/505969062051870.jpg",
       "category": "家電 3C"
     },
     {
@@ -61,37 +26,160 @@
       "category": "服飾配件"
     },
     {
-      "name": "西雅圖 即品約克夏奶茶 25公克 X 100包",
-      "price": "$629",
+      "name": "TCL 12公斤 變頻直立式洗衣機 P312TLG",
+      "price": "$7,999",
+      "original_price": "$9,999",
+      "discount_amount": "$2,000",
+      "promotion": "商品已折價$2,000 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Washers-Dryers/Washer-Size-10-15-kg/TCL-12-kg-Top-Load-Inverter-Washer-P312TLG/p/149471",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4e/h19/363590599442462.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "Stockmeyer 焦糖餅乾音樂盒 300公克",
+      "price": "$439",
       "original_price": "",
       "discount_amount": "",
       "promotion": "含運",
       "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Barista-Yorkshire-Milk-Tea-25-g-X-100-Pack/p/56877",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h00/hca/492247856218142.jpg",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Stockmeyer-Musical-Tin-with-Butter-Biscuit-300-g/p/1339241",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h00/hf1/492429840515102.jpg",
       "category": "食品飲料"
     },
     {
-      "name": "Samsung 65吋 Mini LED 4K AI 量子智慧顯示器 UA65M1EHAXXZW",
-      "price": "$19,999",
-      "original_price": "$24,999",
-      "discount_amount": "$5,000",
-      "promotion": "商品已折價$5,000 含運",
+      "name": "Flexispot 電動升降桌",
+      "price": "$4,999",
+      "original_price": "$5,099",
+      "discount_amount": "$100",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Computer-Desk-Chair-Sets/Flexispot-Adjustable-Desk/p/158513",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/haa/h07/432345243385886.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "TCL 98吋 A400 高階 QLED 藝術智能連網液晶顯示器 不含視訊盒 98A400",
+      "price": "$75,999",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/80-Above-TVs/TCL-98-inch-Premium-QLED-Art-Smart-Monitor-without-Tuner-Box-98A400/p/161728",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h14/hfa/501514823630878.jpg",
+      "category": "家電 3C"
+    }
+  ],
+  "removed": [
+    {
+      "name": "TCL 12公斤 變頻直立式洗衣機 P312TLG",
+      "price": "$7,999",
+      "original_price": "$9,999",
+      "discount_amount": "$2,000",
+      "promotion": "商品已折價$2,000 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Large-Appliances/p/149471",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h4e/h19/363590599442462.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "宴麥森林 綜合纖脆燕麥棒 32公克 X 24條",
+      "price": "$340",
+      "original_price": "$425",
+      "discount_amount": "$85",
+      "promotion": "商品已折價$85 含運",
       "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/60-69-TVs/Samsung-65-inch-Mini-LED-4K-AI-Smart-Monitor-UA65M1EHAXXZW/p/161519",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h43/hb9/505969062051870.jpg",
+      "url": "https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Granola-House-Crunchy-Oat-Bars-Variety-Pack-32-g-X-24-Pack/p/116453",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h0a/h3c/98214027264030.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Tefal 法國特福 智能溫控電水壺 1.7L",
+      "price": "$1,239",
+      "original_price": "$1,649",
+      "discount_amount": "$410",
+      "promotion": "商品已折價$410 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Water-Dispensers-Water-Purification/Tefal-Electric-Kettle-17L/p/125082",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h77/hf7/30254920531998.jpg",
       "category": "家電 3C"
     },
     {
-      "name": "雀巢 原味即溶咖啡粉 300公克 X 2罐",
-      "price": "$689",
+      "name": "Hotel Grand 雙人白鵝絨可水洗子母被 180公分 X 210公分",
+      "price": "$6,997",
       "original_price": "",
       "discount_amount": "",
       "promotion": "含運",
       "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Nescafe-Instant-Coffee-300-g-X-2-Pack/p/261182",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h94/hea/259146868817950.jpg",
-      "category": "食品飲料"
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Hotel-Grand-Goose-Down-Comforter-180-cm-X-210-cm/p/152368",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h99/hb8/379632076062750.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "LINKFAIR 不鏽鋼湯鍋含蓋及蒸籠 5件組",
+      "price": "$1,047",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Cookware-Cutlery-Cutting-Boards/LINKFAIR-Stainless-Steel-Pot-with-Lid-and-Steamer-5-Piece-Set/p/8520121",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h92/h15/257071382396958.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "米其林 HydroEdge 雨刷 20吋",
+      "price": "$297",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Automotive/Automotive/Michelin-HydroEdge-Hybrid-Wiper-Blade-20-inch/p/1426558",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h85/h01/97634291875870.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Disney 卡通裝飾燈",
+      "price": "$567",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Holiday-Decor/Disney-Spinning-Lantern/p/1785028",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he8/h39/492247757193246.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "米其林 HydroEdge 雨刷 18吋",
+      "price": "$297",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Sports-Lifestyle/Automotive/Automotive/Michelin-HydroEdge-Hybrid-Wiper-Blade-18-inch/p/1426551",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h82/h92/97634291744798.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "TCL 75吋 P6L 4K Google TV 智慧連網液晶顯示器 不含視訊盒 75P6L",
+      "price": "$26,999",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/70-79-TVs/TCL-75-inch-P6L-4K-Google-TV-Smart-Monitor-without-Tuner-Box-75P6L/p/161739",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hbf/h5b/492247714398238.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "Studio TU 玻璃飲料桶 8.3公升 含木製桶架 & 上蓋",
+      "price": "$715",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Coffee-Accessories-Drinkware/Studio-TU-Gallon-Glass-Drink-Dispenser-83-L-with-Acacia-Wood-Stand-Lid/p/1796162",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h1a/h6b/449275417952286.jpg",
+      "category": "家具家居"
     }
   ],
   "price_changes": []
