@@ -1,8 +1,76 @@
 {
-  "date": "2026-11-16",
-  "generated_at": "2026-11-16 19:49",
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17 06:24",
   "has_previous": true,
   "added": [
+    {
+      "name": "舒適牌 水次元 5 刮鬍刀組 1刀架 + 9刀片",
+      "price": "$399",
+      "original_price": "$519",
+      "discount_amount": "$120",
+      "promotion": "商品已折價 $120 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/208576",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h69/hc7/241739614191646.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "福壽 機能腸胃保健配方乾狗糧 13.5公斤",
+      "price": "$809",
+      "original_price": "$999",
+      "discount_amount": "$190",
+      "promotion": "商品已折價$190 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/p/150349",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfc/h53/308063171706910.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
+    {
+      "name": "Tailor Vintage 女工裝束口長褲",
+      "price": "$449",
+      "original_price": "$579",
+      "discount_amount": "$130",
+      "promotion": "商品已折價$130 含運",
+      "stock_status": "缺貨",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Tailor-Vintage-Ladies-Jogger/p/6618291",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hc7/h99/488919043244062.jpg",
+      "category": "服飾配件"
+    },
+    {
+      "name": "The North Face Antora 男防風外套",
+      "price": "$500",
+      "original_price": "$3,699",
+      "discount_amount": "$3,199",
+      "promotion": "Costco 公布的目前優惠售價",
+      "stock_status": "狀態未知",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/The-North-Face-Mens-Antora-Jacket/p/1846566",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hb2/h5d/506938135379998.jpg",
+      "category": "服飾配件"
+    }
+  ],
+  "removed": [
+    {
+      "name": "舒適牌 水次元 5 刮鬍刀組 1刀架 + 9刀片",
+      "price": "$399",
+      "original_price": "$519",
+      "discount_amount": "$120",
+      "promotion": "商品已折價 $120 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Health-Beauty/Personal-Care/Mens-Grooming/Schick-Hydro-5-Razor-Set-with-1-Razor-and-9-Cartridges/p/208576",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h69/hc7/241739614191646.jpg",
+      "category": "保健美容"
+    },
+    {
+      "name": "福壽 機能腸胃保健配方乾狗糧 13.5公斤",
+      "price": "$809",
+      "original_price": "$999",
+      "discount_amount": "$190",
+      "promotion": "商品已折價$190 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Household-Baby-Toys/Pet-Supplies/Pet-Dry-Wet-Food/FI-Dry-Dog-Food-Digest-135-kg/p/150349",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hfc/h53/308063171706910.jpg",
+      "category": "日用品／母嬰／玩具"
+    },
     {
       "name": "Tailor Vintage 女工裝束口長褲",
       "price": "$449",
@@ -24,301 +92,34 @@
       "url": "https://www.costco.com.tw/Clothing-Accessories/p/1846566",
       "image": "https://www.costco.com.tw/medias/sys_master/images/hb2/h5d/506938135379998.jpg",
       "category": "服飾配件"
-    },
-    {
-      "name": "Hotel Grand 雙人白鵝絨可水洗子母被 180公分 X 210公分",
-      "price": "$6,997",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Hotel-Grand-Goose-Down-Comforter-180-cm-X-210-cm/p/152368",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h99/hb8/379632076062750.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "TCL 75吋 P6L 4K Google TV 智慧連網液晶顯示器 不含視訊盒 75P6L",
-      "price": "$26,999",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/70-79-TVs/TCL-75-inch-P6L-4K-Google-TV-Smart-Monitor-without-Tuner-Box-75P6L/p/161739",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hbf/h5b/492247714398238.jpg",
-      "category": "家電 3C"
-    }
-  ],
-  "removed": [
-    {
-      "name": "Tailor Vintage 女工裝束口長褲",
-      "price": "$449",
-      "original_price": "$579",
-      "discount_amount": "$130",
-      "promotion": "商品已折價$130 含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Tailor-Vintage-Ladies-Jogger/p/6618291",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hc7/h99/488919043244062.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "The North Face Antora 男防風外套",
-      "price": "$3,699",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/The-North-Face-Mens-Antora-Jacket/p/1846566",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb2/h5d/506938135379998.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "白蘭氏 黑醋栗+金盞花葉黃素精華飲 60毫升 X 30入",
-      "price": "$1,139",
-      "original_price": "$1,429",
-      "discount_amount": "$290",
-      "promotion": "商品已折價$290 含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Brands-Lutein-Essence-with-Zeaxanthin-Blackcurrant-60-ml-X-30-Count/p/130584",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h4c/h54/333377464500254.jpg",
-      "category": "保健美容"
-    },
-    {
-      "name": "桂格 莓好果漾沖泡榖奶昔 30公克 X 36包",
-      "price": "$269",
-      "original_price": "$329",
-      "discount_amount": "$60",
-      "promotion": "商品已折價$60 含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Quaker-Fruity-Berry-Cereal-Shake-30-g-X-36-Pack/p/283269",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h58/h3f/325943550214174.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "Town & Country 長型抗汙地墊 50公分 X 99公分",
-      "price": "$357",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Rugs-Mats/Town-Country-Shaped-Kitchen-Mat-50-cm-X-99-cm/p/1909218",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h7d/ha9/468935679049758.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Benetton 純棉海灘巾 90公分 X 160公分",
-      "price": "$297",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Towels/Benetton-100-Cotton-Beach-Towel-90-cm-X-160-cm/p/2040372",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h1f/hff/455116936314910.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "Samsung 655公升 美式對開 AI 冰箱 星空灰 RS70F65Q4TTW",
-      "price": "$34,999",
-      "original_price": "$43,999",
-      "discount_amount": "$9,000",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Fridges-Freezers/Overall-Capacity-500-L-Above/Samsung-655-L-French-Door-AI-Refrigerator-Starry-Gray-RS70F65Q4TTW/p/155431",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb6/hac/396189713563678.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "Kate Spade 太陽眼鏡 BREA/F/S 35JHA 粉紅色",
-      "price": "$1,297",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/Kate-Spade-Sunglasses-BREAFS-35JHA-Pink/p/251672",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h32/hf5/433626121338910.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Kate Spade 太陽眼鏡 CONSTANCE/G/S 8079O 黑色",
-      "price": "$1,297",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/Kate-Spade-Sunglasses-CONSTANCEGS-8079O-Black/p/251673",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/he9/hc5/433626121273374.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Bentley Designs Kristen 電視櫃",
-      "price": "$8,997",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Bentley-Designs-Kristen-Media-Unit/p/159441",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h18/h9c/437687199924254.jpg",
-      "category": "家具家居"
-    },
-    {
-      "name": "LG 653公升 變頻對開冰箱 GL-BL62SV",
-      "price": "$39,399",
-      "original_price": "$48,799",
-      "discount_amount": "$9,400",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Fridges-Freezers/Overall-Capacity-500-L-Above/LG-653-L-Inverter-Side-by-Side-Refrigerator-GL-BL62SV/p/145617",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h1d/h21/260837935087646.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "Kate Spade 太陽眼鏡 KS NAVY/G/S KTV9O 黑色",
-      "price": "$1,297",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/Kate-Spade-Sunglasses-KS-NAVYGS-KTV9O-Black/p/251680",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/hd4/433626137657374.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Kate Spade 太陽眼鏡 VONNIE/F/S 807 黑色",
-      "price": "$1,297",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Sunglasses-Eyeglasses/Sunglasses/Kate-Spade-Sunglasses-VONNIEFS-807-Black/p/250014",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h29/hce/433626117046302.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "TCL 98吋 A400 高階 QLED 藝術智能連網液晶顯示器 不含視訊盒 98A400",
-      "price": "$75,999",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/80-Above-TVs/TCL-98-inch-Premium-QLED-Art-Smart-Monitor-without-Tuner-Box-98A400/p/161728",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h14/hfa/501514823630878.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "Downlite 涼感舒眠枕 2入 51公分 X 71公分",
-      "price": "$669",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "含運",
-      "stock_status": "缺貨",
-      "url": "https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Downlite-Ultimate-Freeze-Sleep-Pillow-2-Pack-51-cm-X-71-cm/p/688672",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h6b/he5/450418277122078.jpg",
-      "category": "家具家居"
     }
   ],
   "price_changes": [
     {
-      "name": "ASUS 華碩 T700TL 桌上型電競電腦 H-T700TL-9275HX057W6T",
-      "price": "$500",
-      "original_price": "$69,799",
-      "discount_amount": "$69,299",
-      "promotion": "Costco 公布的目前優惠售價",
-      "stock_status": "狀態未知",
-      "old_price": "$69,799",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Digital-Mobile/Laptops-Computers/Desktops-Computers/ASUS-T700TL-Gaming-Desktop-Computers-H-T700TL-9275HX057W6T/p/163000",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h5d/h9d/504930903752734.jpg",
-      "category": "家電 3C"
-    },
-    {
-      "name": "Banana Republic 女休閒長褲",
-      "price": "$599",
-      "original_price": "$749",
-      "discount_amount": "$150",
-      "promotion": "商品已折價$150 含運",
-      "stock_status": "狀態未知",
-      "old_price": "$579",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Banana-Republic-Ladies-Ponte-Pants/p/2010239",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h80/hd5/502597259919390.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Banana Republic 女長袖襯衫",
+      "name": "MAMMUT 男輕量防風防水連帽外套",
       "price": "$500",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
       "stock_status": "狀態未知",
-      "old_price": "$989",
+      "old_price": "$3,449",
       "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Banana-Republic-Ladies-Long-Sleeve-Shirt/p/1974301",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hd6/he7/453636849991710.jpg",
+      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/MAMMUT-Mens-Lightweight-Hooded-Jacket/p/1846574",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h00/h93/509161191145502.jpg",
       "category": "服飾配件"
     },
     {
-      "name": "Callaway 男長袖Polo衫",
+      "name": "米其林輪胎 / 限時優惠折扣中",
       "price": "$500",
       "original_price": "",
       "discount_amount": "",
       "promotion": "",
       "stock_status": "狀態未知",
-      "old_price": "$1,149",
+      "old_price": "$700",
       "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Callaway-Mens-Long-Sleeve-Polo-Shirt/p/1846572",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb4/hfd/520192213811230.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Calvin Klein 男彈性內褲 3入組",
-      "price": "$500",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$13,499",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Socks-Underwear/Calvin-Klein-Mens-Max-Mesh-Boxer-Brief-3-Pack/p/1259326",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h6a/h34/64684741656606.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "GAP 女圓領長袖開襟衫",
-      "price": "$500",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$1,085",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/GAP-Ladies-Crew-Neck-Long-Sleeve-Button-Down-Cardigan/p/1963036",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h98/h2d/487711213584414.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Polo Ralph Lauren 男短袖圓領T恤 3入組",
-      "price": "$500",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$1,829",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Polo-Ralph-Lauren-Mens-Short-Sleeve-Crew-Neck-Tee-3-Pack-Set/p/1436887",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h0e/h0a/175901083303966.jpg",
-      "category": "服飾配件"
-    },
-    {
-      "name": "Tory Burch 女涼鞋",
-      "price": "$4,399",
-      "original_price": "$5,499",
-      "discount_amount": "$1,100",
-      "promotion": "商品已折價$1,100 含運",
-      "stock_status": "狀態未知",
-      "old_price": "$359",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Shoes/Womens-Shoes/Tory-Burch-Ladies-Miller-Sandal/p/1344736",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h91/hc1/501514792894494.jpg",
-      "category": "服飾配件"
+      "url": "https://www.costco.com.tw/BazaarVoiceExclusion/freight/Michelin-Tire-Exclusive-Limited-Time-Offer/p/117622",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h1d/h2f/466199162257438.jpg",
+      "category": "其他"
     }
   ]
 }
