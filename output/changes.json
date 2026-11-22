@@ -1,43 +1,8 @@
 {
   "date": "2026-11-22",
-  "generated_at": "2026-11-22 08:32",
+  "generated_at": "2026-11-22 16:16",
   "has_previous": true,
   "added": [
-    {
-      "name": "桂格 北海道風味特濃燕麥 42公克 X 48包",
-      "price": "$449",
-      "original_price": "$549",
-      "discount_amount": "$100",
-      "promotion": "商品已折價$100 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Food-Dining/Drinks/p/78299",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h61/h6f/509161309372446.jpg",
-      "category": "食品飲料"
-    },
-    {
-      "name": "CASA 雙人記憶釋壓床墊 152公分 X 190公分 X 5公分",
-      "price": "$3,199",
-      "original_price": "$3,999",
-      "discount_amount": "$800",
-      "promotion": "商品已折價$800 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Bedding/p/111405",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h30/h98/15712095600670.jpg",
-      "category": "其他"
-    },
-    {
-      "name": "老協珍 冷凍熬雞精 68毫升 X 30入",
-      "price": "$3,199",
-      "original_price": "$3,999",
-      "discount_amount": "$800",
-      "promotion": "商品已折價$800 含運",
-      "stock_status": "有貨",
-      "url": "https://www.costco.com.tw/Elderly-Care/p/118552",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hf8/h1e/34495710363678.jpg",
-      "category": "其他"
-    }
-  ],
-  "removed": [
     {
       "name": "桂格 北海道風味特濃燕麥 42公克 X 48包",
       "price": "$449",
@@ -61,6 +26,50 @@
       "category": "家具家居"
     },
     {
+      "name": "福樂 草莓優格飲 200毫升 X 24入",
+      "price": "$299",
+      "original_price": "$359",
+      "discount_amount": "$60",
+      "promotion": "商品已折價$60 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/p/157402",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h6f/h9c/413801359671326.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "雀巢 可可早餐脆片 500公克 X 2入",
+      "price": "$269",
+      "original_price": "$329",
+      "discount_amount": "$60",
+      "promotion": "商品已折價$60 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/p/125049",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h9f/h3c/210493968154654.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "Tescom BLDC 自動變壓摺疊修護離子吹風機 TD866TW",
+      "price": "$2,749",
+      "original_price": "$3,449",
+      "discount_amount": "$700",
+      "promotion": "商品已折價$700 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Hair-Skin-Care-Tools/p/152519",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he7/h2c/398741208432670.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "DI BARI 義大利麵綜合組 350公克 X 6入",
+      "price": "$629",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/p/8557967",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h03/hc1/383052970491934.jpg",
+      "category": "食品飲料"
+    },
+    {
       "name": "Pekkle 兒童長袖上衣四件組",
       "price": "$639",
       "original_price": "",
@@ -70,47 +79,141 @@
       "url": "https://www.costco.com.tw/Clothing-Accessories/Kids-Clothing/Kids-Clothing-Sets-Accessories/Pekkle-Kids-Long-Sleeve-Tee-4-Pack-Set/p/136664",
       "image": "https://www.costco.com.tw/medias/sys_master/images/h11/hb5/502596704174110.jpg",
       "category": "服飾配件"
+    },
+    {
+      "name": "TCL 98吋 C7L 頂級 SQD-Mini LED 量子智能連網液晶顯示器 不含視訊盒 98C7L",
+      "price": "$125,999",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/80-Above-TVs/TCL-98-inch-C7L-Premium-SQD-Mini-LED-Smart-Monitor-without-Tuner-Box-98C7L/p/161709",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h48/hfd/490097890000926.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "TCL 75吋 C7L 頂級 SQD-Mini LED 量子智能連網液晶顯示器 不含視訊盒 75C7L",
+      "price": "$59,999",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/70-79-TVs/TCL-75-inch-C7L-Premium-SQD-Mini-LED-Smart-Monitor-without-Tuner-Box-75C7L/p/161711",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hba/h57/490097894260766.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "Maxchief 布面折疊椅 4入",
+      "price": "$1,599",
+      "original_price": "$1,999",
+      "discount_amount": "$400",
+      "promotion": "商品已折價$400 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/p/1987834",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h56/h78/506938157760542.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "鬼金棒 辣麻味噌拉麵 138公克 X 10入",
+      "price": "$505",
+      "original_price": "$625",
+      "discount_amount": "$120",
+      "promotion": "商品已折價$120 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/p/158083",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h22/hb5/415043989471262.jpg",
+      "category": "食品飲料"
     }
   ],
-  "price_changes": [
+  "removed": [
     {
-      "name": "Callaway 男長袖Polo衫",
-      "price": "$500",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$1,099",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Callaway-Mens-Long-Sleeve-Polo-Shirt/p/1846572",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/hb4/hfd/520192213811230.jpg",
-      "category": "服飾配件"
+      "name": "桂格 北海道風味特濃燕麥 42公克 X 48包",
+      "price": "$449",
+      "original_price": "$549",
+      "discount_amount": "$100",
+      "promotion": "商品已折價$100 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Drinks/p/78299",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h61/h6f/509161309372446.jpg",
+      "category": "食品飲料"
     },
     {
-      "name": "GAP 女圓領長袖開襟衫",
-      "price": "$500",
-      "original_price": "",
-      "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$479",
-      "direction": "漲價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/GAP-Ladies-Crew-Neck-Long-Sleeve-Button-Down-Cardigan/p/1963036",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h98/h2d/487711213584414.jpg",
-      "category": "服飾配件"
+      "name": "CASA 雙人記憶釋壓床墊 152公分 X 190公分 X 5公分",
+      "price": "$3,199",
+      "original_price": "$3,999",
+      "discount_amount": "$800",
+      "promotion": "商品已折價$800 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Bedding/p/111405",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h30/h98/15712095600670.jpg",
+      "category": "其他"
     },
     {
-      "name": "MAMMUT 男輕量防風防水連帽外套",
-      "price": "$500",
+      "name": "Kohler 電熱毛巾架 110V",
+      "price": "$6,699",
+      "original_price": "$8,399",
+      "discount_amount": "$1,700",
+      "promotion": "商品已折價$1,700 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/KitchenBathroom-Hardware/Kohler-Towel-Warmer-110V/p/143489",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hd5/hd0/202920804417566.jpg",
+      "category": "家具家居"
+    },
+    {
+      "name": "老協珍 冷凍熬雞精 68毫升 X 30入",
+      "price": "$3,199",
+      "original_price": "$3,999",
+      "discount_amount": "$800",
+      "promotion": "商品已折價$800 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Elderly-Care/p/118552",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/hf8/h1e/34495710363678.jpg",
+      "category": "其他"
+    },
+    {
+      "name": "Tescom BLDC 自動變壓摺疊修護離子吹風機 TD866TW",
+      "price": "$2,749",
+      "original_price": "$3,449",
+      "discount_amount": "$700",
+      "promotion": "商品已折價$700 含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/Small-Appliances/Hair-Skin-Care-Tools/Tescom-BLDC-Ion-Hair-Dryer-TD866TW/p/152519",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/he7/h2c/398741208432670.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "DI BARI 義大利麵綜合組 350公克 X 6入",
+      "price": "$629",
       "original_price": "",
       "discount_amount": "",
-      "promotion": "",
-      "stock_status": "狀態未知",
-      "old_price": "$4,799",
-      "direction": "降價",
-      "url": "https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/MAMMUT-Mens-Lightweight-Hooded-Jacket/p/1846574",
-      "image": "https://www.costco.com.tw/medias/sys_master/images/h00/h93/509161191145502.jpg",
-      "category": "服飾配件"
+      "promotion": "含運",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/DI-BARI-Pasta-Assorted-Set-350-g-X-6-Pack/p/8557967",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h03/hc1/383052970491934.jpg",
+      "category": "食品飲料"
+    },
+    {
+      "name": "TCL 65吋 4K Mini LED Google TV 量子智能液晶顯示器 不含視訊盒 65C6K",
+      "price": "$24,989",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/60-69-TVs/TCL-65-inch-4K-Mini-LED-Google-TV-Smart-Monitor-without-Tuner-Box-65C6K/p/153537",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h75/h77/438072177688606.jpg",
+      "category": "家電 3C"
+    },
+    {
+      "name": "TCL 65吋 P7L 高階 QLED Google TV 量子智能連網液晶顯示器 不含視訊盒 65P7L",
+      "price": "$19,999",
+      "original_price": "",
+      "discount_amount": "",
+      "promotion": "2026/07/20-08/02期間購買指定家具，買1件享85折，買2件享8折優惠。",
+      "stock_status": "有貨",
+      "url": "https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/60-69-TVs/TCL-65-inch-P7L-Premium-QLED-Google-TV-Smart-Monitor-without-Tuner-Box-65P7L/p/161735",
+      "image": "https://www.costco.com.tw/medias/sys_master/images/h2e/h96/501514869964830.jpg",
+      "category": "家電 3C"
     }
-  ]
+  ],
+  "price_changes": []
 }
